@@ -1,0 +1,533 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Standorte der deutschen Waffen- und Rüstungsindustrie</title>
+
+    <!-- Leaflet (mit SRI) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+
+    <!-- MarkerCluster (bewusst ohne SRI) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"/>
+
+    <style>
+        * { box-sizing: border-box; }
+        html, body {
+            margin: 0; padding: 0; height: 100%;
+            font-family: Arial, sans-serif;
+        }
+        #app { display: flex; flex-direction: column; height: 100%; }
+        #main { display: flex; flex: 1; min-height: 0; }
+        #map { flex: 1; min-width: 0; height: 100%; }
+
+        #sidebar {
+            width: 400px;
+            max-width: 45vw;
+            border-left: 1px solid #ccc;
+            background: #fafafa;
+            display: flex;
+            flex-direction: column;
+            min-height: 0;
+        }
+
+        .sidebar-controls {
+            padding: 10px 12px;
+            border-bottom: 1px solid #ddd;
+            background: #f3f3f3;
+            flex-shrink: 0;
+        }
+        #search {
+            width: 100%;
+            padding: 7px 10px;
+            font-size: 14px;
+            border: 1px solid #bbb;
+            border-radius: 4px;
+            margin-bottom: 8px;
+            font-family: inherit;
+        }
+        #search:focus {
+            outline: 2px solid #3c5a96;
+            outline-offset: -1px;
+            border-color: #3c5a96;
+        }
+        .controls-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 13px;
+        }
+        .controls-row label {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            cursor: pointer;
+        }
+        .count { color: #666; font-size: 12px; font-variant-numeric: tabular-nums; }
+
+        #list {
+            flex: 1;
+            overflow-y: auto;
+            padding: 6px 8px 14px;
+            min-height: 0;
+        }
+
+        .site {
+            border-radius: 4px;
+            padding: 8px 10px;
+            margin-bottom: 4px;
+            cursor: pointer;
+            background: #fff;
+            border: 1px solid #e2e2e2;
+            border-left: 4px solid transparent;
+            transition: background 0.12s, border-color 0.12s;
+        }
+        .site:hover { background: #f0f4fa; }
+        .site.selected {
+            border-left-color: #3c5a96;
+            background: #eaf0fa;
+        }
+        .site-company {
+            font-weight: bold;
+            font-size: 13.5px;
+            color: #222;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+        .site-hq {
+            font-size: 11px;
+            color: #8a6a00;
+            background: #fff3c4;
+            padding: 1px 6px;
+            border-radius: 8px;
+            font-weight: normal;
+            white-space: nowrap;
+        }
+        .site-sub {
+            font-size: 12.5px;
+            color: #555;
+            margin-top: 2px;
+        }
+        .site-city {
+            font-size: 12px;
+            color: #888;
+            margin-top: 1px;
+        }
+        .site-details {
+            display: none;
+            margin-top: 8px;
+            padding-top: 8px;
+            border-top: 1px dashed #ccc;
+            font-size: 13px;
+            line-height: 1.45;
+            color: #333;
+        }
+        .site.open .site-details { display: block; }
+        .site-details p { margin: 5px 0; }
+        .site-details strong { color: #444; }
+
+        .empty {
+            text-align: center;
+            color: #888;
+            font-style: italic;
+            font-size: 13px;
+            padding: 30px 10px;
+        }
+
+        #footer {
+            padding: 6px 10px;
+            border-top: 1px solid #ccc;
+            font-size: 12px;
+            background: #f0f0f0;
+        }
+
+        /* Reset-Button (Leaflet Control) */
+        .leaflet-control-reset a {
+            font-size: 16px;
+            line-height: 26px;
+            text-align: center;
+            width: 30px;
+            height: 30px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        .leaflet-control-reset a:hover {
+            background: #f4f4f4;
+            color: #3c5a96;
+        }
+
+        /* Cluster-Farben */
+        .marker-cluster-small,
+        .marker-cluster-medium,
+        .marker-cluster-large {
+            background-color: rgba(60, 90, 150, 0.35);
+        }
+        .marker-cluster-small div,
+        .marker-cluster-medium div,
+        .marker-cluster-large div {
+            background-color: rgba(60, 90, 150, 0.85);
+            color: #fff;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+<div id="app">
+    <div id="main">
+        <div id="map"></div>
+
+        <aside id="sidebar">
+            <div class="sidebar-controls">
+                <input type="search" id="search"
+                       placeholder="Firma, Standort, Produkt, Ort…"
+                       autocomplete="off" spellcheck="false">
+                <div class="controls-row">
+                    <label>
+                        <input type="checkbox" id="showAll" checked>
+                        Alle Standorte
+                    </label>
+                    <span class="count" id="count"></span>
+                </div>
+            </div>
+            <div id="list"></div>
+        </aside>
+    </div>
+
+    <div id="footer">
+        <span class="title">Standorte der deutschen Waffen- und Rüstungsindustrie - </span>
+        <span class="url"><a href="http://github.com/semareit/german-armament-industry-map">http://github.com/semareit/german-armament-industry-map</a></span>
+    </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+ crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+<script>
+    // ---- Config ----------------------------------------------------------
+    const CONFIG = {
+        center: [51.1657, 10.4515],
+        zoom: 6,
+        tileUrl: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+        tileAttribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        companiesUrl: 'companies.json',
+        sitesUrl: 'sites.json',
+        cluster: {
+            showCoverageOnHover: false,
+            spiderfyOnMaxZoom: true,
+            maxClusterRadius: 55,
+            disableClusteringAtZoom: 12
+        }
+    };
+
+    // ---- Map -------------------------------------------------------------
+    const map = L.map('map', { preferCanvas: true }).setView(CONFIG.center, CONFIG.zoom);
+    L.tileLayer(CONFIG.tileUrl, {
+        maxZoom: 19,
+        attribution: CONFIG.tileAttribution
+    }).addTo(map);
+
+    const allLayer = L.markerClusterGroup(CONFIG.cluster);
+    const hqLayer  = L.markerClusterGroup(CONFIG.cluster);
+    let currentLayer = allLayer;
+    allLayer.addTo(map);
+
+    // ---- State -----------------------------------------------------------
+    const sites = [];
+    let selectedId = null;
+
+    // ---- DOM refs --------------------------------------------------------
+    const listEl = document.getElementById('list');
+    const searchEl = document.getElementById('search');
+    const showAllEl = document.getElementById('showAll');
+    const countEl = document.getElementById('count');
+
+    // ---- Helpers ---------------------------------------------------------
+    const escapeHtml = s => String(s ?? '').replace(/[&<>"']/g, c => ({
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+    }[c]));
+
+    function buildSearchText(site) {
+        const c = site.company;
+        return [
+            c.name, c.description,
+            site.siteName, site.address, site.description,
+            site.city, site.state, site.country,
+            ...(c.category || []),
+            ...(c.products || []),
+            ...(site.category || []),
+            ...(site.products || [])
+        ].filter(Boolean).join(' ').toLowerCase();
+    }
+
+    // ---- List rendering --------------------------------------------------
+    function siteElement(site) {
+        const c = site.company;
+        const div = document.createElement('div');
+        div.className = 'site';
+        div.dataset.id = site.id;
+
+        const hqBadge = site.headquarter ? `<span class="site-hq">★ Hauptsitz</span>` : '';
+        const meta = [site.city, site.state, site.country].filter(Boolean).join(' · ');
+
+        const category = [...(c.category || []), ...(site.category || [])];
+        const products = [...(c.products || []), ...(site.products || [])];
+        const description = site.description || c.description;
+        const url = site.url || c.url;
+
+        div.innerHTML = `
+            <div class="site-company">${escapeHtml(c.name)} ${hqBadge}</div>
+            ${site.siteName ? `<div class="site-sub">${escapeHtml(site.siteName)}</div>` : ``}
+            ${meta ? `<div class="site-city">${escapeHtml(meta)}</div>` : ``}
+            <div class="site-details">
+                ${description ? `<p><strong>Beschreibung:</strong> ${escapeHtml(description)}</p>` : ``}
+                ${site.address ? `<p><strong>Adresse:</strong> ${escapeHtml(site.address)}</p>` : ``}
+                ${url ? `<p><strong>Internet:</strong> <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(url)}</a></p>` : ``}
+                ${category.length > 0 ? `<p><strong>Kategorien:</strong><br>${category.map(escapeHtml).join(', ')}</p>` : ``}
+                ${products.length > 0 ? `<p><strong>Produkte:</strong><br>${products.map(escapeHtml).join(', ')}</p>` : ``}
+            </div>
+        `;
+
+        div.addEventListener('click', (e) => {
+            if (e.target.tagName === 'A') return;
+            selectSite(site.id, { flyTo: true, toggle: true });
+        });
+
+        return div;
+    }
+
+    function renderList(matchingSites) {
+        listEl.innerHTML = '';
+        sites.forEach(s => { s.element = null; });
+
+        if (matchingSites.length === 0) {
+            listEl.innerHTML = `<div class="empty">Keine Standorte gefunden.</div>`;
+            return;
+        }
+
+        matchingSites.sort((a, b) => {
+            const byCompany = a.company.name.localeCompare(b.company.name, 'de');
+            if (byCompany !== 0) return byCompany;
+            const byHq = (b.headquarter ? 1 : 0) - (a.headquarter ? 1 : 0);
+            if (byHq !== 0) return byHq;
+            return (a.city || '').localeCompare(b.city || '', 'de');
+        });
+
+        matchingSites.forEach(site => {
+            site.element = siteElement(site);
+            if (site.id === selectedId) {
+                site.element.classList.add('selected', 'open');
+            }
+            listEl.appendChild(site.element);
+        });
+    }
+
+    // ---- Selection -------------------------------------------------------
+    function selectSite(id, { flyTo = false, toggle = false } = {}) {
+        if (selectedId && selectedId !== id) {
+            const prev = sites.find(s => s.id === selectedId);
+            if (prev && prev.element) prev.element.classList.remove('selected', 'open');
+        }
+
+        const site = sites.find(s => s.id === id);
+        if (!site || !site.element) return;
+
+        const wasSelected = selectedId === id;
+        const wasOpen = site.element.classList.contains('open');
+
+        selectedId = id;
+        site.element.classList.add('selected');
+
+        if (toggle && wasSelected && wasOpen) {
+            site.element.classList.remove('open');
+        } else {
+            site.element.classList.add('open');
+        }
+
+        site.element.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+
+        if (flyTo) {
+            map.flyTo([site.lat, site.lng], Math.max(map.getZoom(), 10), { duration: 0.6 });
+        }
+    }
+
+    function clearSelection() {
+        if (selectedId) {
+            const prev = sites.find(s => s.id === selectedId);
+            if (prev && prev.element) prev.element.classList.remove('selected', 'open');
+        }
+        selectedId = null;
+    }
+
+    // ---- Reset control ---------------------------------------------------
+    const ResetControl = L.Control.extend({
+        options: { position: 'topleft' },
+        onAdd: function () {
+            const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-reset');
+            const link = L.DomUtil.create('a', '', container);
+            link.href = '#';
+            link.title = 'Kartenansicht zurücksetzen';
+            link.setAttribute('aria-label', 'Kartenansicht zurücksetzen');
+            link.innerHTML = '⟲';
+
+            L.DomEvent.on(link, 'click', function (e) {
+                L.DomEvent.stop(e);
+                resetView();
+            });
+
+            return container;
+        }
+    });
+    map.addControl(new ResetControl());
+
+    function resetView() {
+        clearSelection();
+        map.flyTo(CONFIG.center, CONFIG.zoom, { duration: 0.6 });
+    }
+
+    // ---- Filtering -------------------------------------------------------
+    function rebuildMarkerLayers(matching) {
+        allLayer.clearLayers();
+        hqLayer.clearLayers();
+
+        const allBatch = [];
+        const hqBatch  = [];
+
+        matching.forEach(site => {
+            allBatch.push(site.layer);
+            if (site.headquarter) hqBatch.push(site.layer);
+        });
+
+        allLayer.addLayers(allBatch);
+        hqLayer.addLayers(hqBatch);
+    }
+
+    function applyFilter() {
+        const showAll = showAllEl.checked;
+        const query = searchEl.value.trim().toLowerCase();
+
+        const matching = sites.filter(site => {
+            if (!showAll && !site.headquarter) return false;
+            if (query && !site.searchText.includes(query)) return false;
+            return true;
+        });
+
+        rebuildMarkerLayers(matching);
+        renderList(matching.slice());
+
+        const wanted = showAll ? allLayer : hqLayer;
+        if (currentLayer !== wanted) {
+            map.removeLayer(currentLayer);
+            wanted.addTo(map);
+            currentLayer = wanted;
+        }
+
+        countEl.textContent = `${matching.length} / ${sites.length}`;
+
+        if (selectedId && !matching.some(s => s.id === selectedId)) {
+            clearSelection();
+        }
+    }
+
+    // ---- Data loading ----------------------------------------------------
+    async function loadData() {
+        try {
+            const [companiesRes, sitesRes] = await Promise.all([
+                fetch(CONFIG.companiesUrl, { cache: 'no-store' }),
+                fetch(CONFIG.sitesUrl, { cache: 'no-store' })
+            ]);
+
+            if (!companiesRes.ok) throw new Error(`companies.json: HTTP ${companiesRes.status}`);
+            if (!sitesRes.ok)     throw new Error(`sites.json: HTTP ${sitesRes.status}`);
+
+            const companies = await companiesRes.json();
+            const rawSites  = await sitesRes.json();
+
+            // --- Format-Checks ---
+            if (Array.isArray(companies) || typeof companies !== 'object' || companies === null) {
+                throw new Error('companies.json muss ein Objekt sein (Map von companyId → Firma).');
+            }
+            if (!Array.isArray(rawSites)) {
+                throw new Error('sites.json muss ein Array sein. Bekommen: ' + typeof rawSites);
+            }
+
+            console.info(`Geladen: ${Object.keys(companies).length} Firmen, ${rawSites.length} Standorte`);
+
+            let skipped = 0;
+            rawSites.forEach(raw => {
+                const company = companies[raw.companyId];
+                if (!company) {
+                    console.warn(`Unbekannte companyId "${raw.companyId}" bei Site "${raw.id}" – übersprungen.`);
+                    skipped++;
+                    return;
+                }
+
+                if (typeof raw.lat !== 'number' || typeof raw.lng !== 'number') {
+                    console.warn(`Site "${raw.id}" hat keine numerischen lat/lng – übersprungen.`);
+                    skipped++;
+                    return;
+                }
+
+                const site = {
+                    ...raw,
+                    siteName: raw.siteName ?? null,
+                    description: raw.description ?? null,
+                    url: raw.url ?? null,
+                    category: raw.category ?? [],
+                    products: raw.products ?? [],
+                    sources: raw.sources ?? [],
+                    city: raw.city ?? null,
+                    state: raw.state ?? null,
+                    country: raw.country ?? null,
+                    company,
+                    layer: null,
+                    element: null,
+                    searchText: ''
+                };
+
+                site.searchText = buildSearchText(site);
+
+                const marker = L.marker([site.lat, site.lng]);
+                    marker.on('click', () => {
+                        selectSite(site.id, { flyTo: false, toggle: false });
+                    });
+                    site.layer = marker;
+
+                    sites.push(site);
+                });
+
+                if (skipped > 0) {
+                    console.warn(`${skipped} Standort(e) wurden wegen Problemen übersprungen.`);
+                }
+
+                if (sites.length === 0) {
+                    listEl.innerHTML = `<div class="empty">Keine gültigen Standorte gefunden. Siehe Konsole.</div>`;
+                    return;
+                }
+
+                applyFilter();
+            } catch (err) {
+                console.error('Error loading data:', err);
+                listEl.innerHTML = `<div class="empty">Fehler beim Laden der Daten.<br>${escapeHtml(err.message)}</div>`;
+            }
+        }
+
+    // ---- Events ----------------------------------------------------------
+    let searchTimer;
+    searchEl.addEventListener('input', () => {
+        clearTimeout(searchTimer);
+        searchTimer = setTimeout(applyFilter, 150);
+    });
+    showAllEl.addEventListener('change', applyFilter);
+
+    loadData();
+</script>
+
+</body>
+</html>

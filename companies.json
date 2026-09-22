@@ -622,5 +622,25 @@
     "parents": [],
     "products": [],
     "updatedAt": "2026-09-20"
+  },
+  "thales": {
+    "name": "Thales",
+    "description": "Thales ist ein weltweit führender Technologiekonzern in den Märkten Verteidigung und Sicherheit, Luft- und Raumfahrt sowie Digitale Identität und Sicherheit. Der französische Konzern mit Hauptsitz in Paris beschäftigt rund 83.000 Mitarbeiter in 68 Ländern und erzielte 2024 einen Umsatz von rund 20,6 Milliarden Euro. Thales entwickelt Sensorsysteme, Kommunikations- und Informationssysteme, Radare, Satelliten und Cybersecurity-Lösungen für Streitkräfte, Regierungen und kritische Infrastrukturen. In Deutschland ist Thales seit 1880 vertreten und gehört mit rund 2.200 Beschäftigten an neun Standorten zu den größten Landesorganisationen des Konzerns. Thales Deutschland hat seinen Hauptsitz in Ditzingen bei Stuttgart. Das Unternehmen betreibt in Deutschland eigene Produktion und Entwicklung, unter anderem für militärische Kommunikationssysteme, Radare, Avionik und Satellitenkomponenten.",
+    "url": "https://www.thalesgroup.com/",
+    "category": ["Verteidigung", "Sicherheit", "Luft- und Raumfahrt", "Cybersicherheit", "Digitale Identität"],
+    "parents": [],
+    "products": [
+      "Avionik (Flugsteuerung, Cockpit-Displays)",
+      "Luftverteidigungssysteme",
+      "Radar- und Sensorsysteme (Ground Master, RBE2, Sea Fire)",
+      "Führungs- und Waffeneinsatzsysteme",
+      "Taktische Kommunikationssysteme",
+      "Truppenfunksysteme (SYNAPS)",
+      "Satellitenkomponenten",
+      "Simulationslösungen",
+      "Cybersecurity-Lösungen",
+      "Digitale Identität und Sicherheit",
+      "Bahntechnik und Signalsysteme"
+    ]
   }
 }

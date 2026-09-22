@@ -1,792 +1,125 @@
 [
   {
-    "id": "mtu-de-muenchen",
-    "companyId": "mtu",
-    "lat": 48.15,
-    "lng": 11.55,
+    "id": "aeromaritime-de-neufahrn",
+    "companyId": "aeromaritime",
+    "lat": 48.3167,
+    "lng": 11.6667,
     "headquarter": true,
-    "address": "Dachauer Straße 665, 80995 München",
-    "city": "München",
+    "siteName": "Hauptsitz Neufahrn bei Freising",
+    "address": "Ludwig-Erhard-Straße 16, 85375 Neufahrn bei Freising",
+    "city": "Neufahrn bei Freising",
     "state": "Bayern",
     "country": "DE",
-    "description": "Firmensitz der MTU Aero Engines AG im Münchner Norden. Zentrale Unternehmensfunktionen, Entwicklung und Verwaltung."
-  },
-  {
-    "id": "mowag-de-schrobenhausen",
-    "companyId": "mowag",
-    "lat": 48.7167,
-    "lng": 11.2667,
-    "headquarter": true,
-    "city": "Schrobenhausen",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Standort der MOWAG als Teil von KNDS in Deutschland."
-  },
-  {
-    "id": "diehl-de-ueberlingen-firmensitz",
-    "companyId": "diehl",
-    "lat": 47.758026,
-    "lng": 9.186407,
-    "headquarter": true,
-    "siteName": "Firmensitz Überlingen",
-    "address": "Alte Nußdorfer Straße 13, 88662 Überlingen",
-    "city": "Überlingen",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "Moderne Entwicklungs- und Fertigungseinrichtungen für Lenkflugkörper und bodengebundene Luftverteidigungssysteme. Gemeinsam mit den Werken in Nonnweiler und Röthenbach a. d. Pegnitz sowie mehreren Tochterunternehmen bündelt Diehl Defence hier die Geschäftsaktivitäten der Diehl-Gruppe in den Bereichen Verteidigung und Sicherheit.",
-    "products": ["Lenkflugkörper", "bodengebundene Luftverteidigungssysteme"]
-  },
-  {
-    "id": "diehl-de-nonnweiler-maasberg",
-    "companyId": "diehl",
-    "lat": 49.611329,
-    "lng": 6.938772,
-    "siteName": "Werk Maasberg",
-    "address": "Zum Maasberg, 66620 Nonnweiler-Bierfeld",
-    "city": "Nonnweiler",
-    "state": "Saarland",
-    "country": "DE",
-    "description": "Modernes Produktions- und Integrationszentrum für Hightech-Ausrüstung der Streitkräfte in den Bereichen Lenkflugkörper und Munition.",
-    "products": ["Lenkflugkörper", "Munition"]
-  },
-  {
-    "id": "diehl-de-nonnweiler-mariahuette",
-    "companyId": "diehl",
-    "lat": 49.589093,
-    "lng": 6.975838,
-    "siteName": "Werk Mariahütte",
-    "address": "Karl-Diehl-Straße 1, 66620 Nonnweiler",
-    "city": "Nonnweiler",
-    "state": "Saarland",
-    "country": "DE",
-    "description": "Moderne Einrichtungen und technische Verfahren zur hochpräzisen Metall- und Blechbearbeitung für die Klein- und Großserienfertigung.",
-    "products": ["Metall- und Blechbearbeitung für die Klein- und Großserienfertigung"]
-  },
-  {
-    "id": "diehl-de-roethenbach",
-    "companyId": "diehl",
-    "lat": 49.478158,
-    "lng": 11.235433,
-    "siteName": "Werk Röthenbach a. d. Pegnitz",
-    "address": "Fischbachstraße 16, 90552 Röthenbach a. d. Pegnitz",
-    "city": "Röthenbach a. d. Pegnitz",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Moderne Entwicklungs- und Fertigungseinrichtungen für Hightech-Ausrüstung der Streitkräfte in den Bereichen Munition und Schutzsysteme.",
-    "products": ["Munition", "Schutzsysteme"]
-  },
-  {
-    "id": "diehl-de-laupheim",
-    "companyId": "diehl",
-    "lat": 48.212545,
-    "lng": 9.903941,
-    "siteName": "Laupheim",
-    "address": "Ludwig-Bölkow-Straße 9, 88471 Laupheim",
-    "city": "Laupheim",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "Standort der Diehl Defence in Laupheim mit Fertigungskapazitäten für Lenkflugkörper, Munition sowie Trainings- und Schutzsysteme.",
+    "description": "Hauptsitz und größter Standort von AEROMARITIME Systembau im Industriepark München-Neufahrn am nördlichen Rand von München. Hier werden Lösungen für die maritime Kommunikation entwickelt und produziert, darunter Spezialprüfgeräte, integrierte Antennensysteme und komplexe Vermittlungsanlagen für Audio- und Datensignale. Das Unternehmen ist im Handelsregister des Amtsgerichts München unter HRB 43099 eingetragen. Rund 76 Mitarbeiter arbeiten am Standort Neufahrn. Die Betriebsimmobilie in Neufahrn diente 2023 als Sicherheit für eine Asset-Based-Credit-Finanzierung durch Maturus Finance.",
     "products": [
-      "bodengebundene Luftverteidigung",
-      "Lenkflugkörper",
-      "Munition",
-      "Trainings- und Schutzsysteme"
+      "APCOS 4000",
+      "SAMMS 7",
+      "U-Boot-Antennen",
+      "Freund-Feind-Erkennung-Systeme"
+    ],
+    "sources": [
+      "https://www.bdsv.eu/mitglieder/mitglied-details.html?show=133",
+      "https://www.northdata.de/Aeromaritime%20Systembau%20GmbH,%20Neufahrn/Amtsgericht%20M%C3%BCnchen%20HRB%2043099",
+      "https://www.maturus-finance.com/aktuelles/pressemitteilungen.html?file=files/aktuelles/aktuelles/2023/20230421_MF_Pressemeldung_Aeromaritime.pdf"
     ]
   },
   {
-    "id": "diehl-de-todendorf",
-    "companyId": "diehl",
-    "lat": 54.36906,
-    "lng": 10.56377,
-    "siteName": "Ausbildungszentrum Todendorf",
-    "address": "Kaserne Todendorf, 24231 Todendorf/Panker",
-    "city": "Todendorf",
-    "state": "Schleswig-Holstein",
-    "country": "DE",
-    "description": "Modernes Ausbildungszentrum für die Luftverteidigungssysteme IRIS-T SLM und IRIS-T SLS auf dem Truppenübungsplatz Todendorf. Ausgebildet werden neben dem deutschen Nutzer auch weitere NATO- und European Sky Shield Initiative-Kunden.",
-    "products": ["Ausbildungszentrum", "IRIS-T SLM", "IRIS-T SLS"]
-  },
-  {
-    "id": "diehl-de-berlin",
-    "companyId": "diehl",
-    "lat": 52.508774,
-    "lng": 13.377327,
-    "siteName": "Büro Berlin",
-    "address": "Potsdamer Platz 9, 10117 Berlin",
-    "city": "Berlin",
-    "state": "Berlin",
-    "country": "DE",
-    "description": "Das Außenbüro in Berlin unterstützt die Geschäftsaktivitäten der Diehl Defence GmbH & Co. KG als Schnittstelle zur Bundeswehr und deren im Großraum Berlin angesiedelten Dienststellen."
-  },
-  {
-    "id": "diehl-de-koblenz",
-    "companyId": "diehl",
-    "lat": 50.356669,
-    "lng": 7.570486,
-    "siteName": "Büro Koblenz",
-    "address": "Ferdinand-Sauerbruch-Str. 27, 56073 Koblenz",
-    "city": "Koblenz",
-    "state": "Rheinland-Pfalz",
-    "country": "DE",
-    "description": "Das Außenbüro in Koblenz unterstützt die Geschäftsaktivitäten der Diehl Defence GmbH & Co. KG als Schnittstelle zur Bundeswehr und deren im Großraum Köln-Bonn-Koblenz angesiedelten Dienststellen."
-  },
-  {
-    "id": "diehl-th-bangkok",
-    "companyId": "diehl",
-    "lat": 13.720367,
-    "lng": 100.530135,
-    "siteName": "Repräsentanz Bangkok",
-    "address": "1 Empire Tower, Unit 2509, 25th Floor, South Sathorn Road, Yannawa, Sathorn, 10120 Bangkok",
-    "city": "Bangkok",
-    "country": "TH",
-    "description": "Das Repräsentanzbüro in Bangkok unterstützt die Geschäftsaktivitäten der Diehl Defence GmbH & Co. KG seit 2010 als Schnittstelle zu Kunden und Kooperationspartnern in Südostasien."
-  },
-  {
-    "id": "diehl-ae-abu-dhabi",
-    "companyId": "diehl",
-    "lat": 24.487501,
-    "lng": 54.357384,
-    "siteName": "Repräsentanz Abu Dhabi",
-    "address": "The Towers at the Trade Center, East Tower, 10th Floor, Abu Dhabi Mall, Abu Dhabi",
-    "city": "Abu Dhabi",
-    "country": "AE",
-    "description": "Das Repräsentanzbüro in Abu Dhabi unterstützt die Geschäftsaktivitäten der Diehl Defence GmbH & Co. KG als Schnittstelle zu Kunden und Kooperationspartnern in den Golf-Staaten und in Afrika."
-  },
-  {
-    "id": "aim-de-heilbronn",
-    "companyId": "diehl",
-    "lat": 49.135087,
-    "lng": 9.206248,
-    "siteName": "AIM Infrarot-Module GmbH",
-    "address": "Theresienstraße 2, 74072 Heilbronn",
-    "city": "Heilbronn",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "Die AIM Infrarot-Module GmbH in Heilbronn ist ein führender Hersteller von Hochleistungsmodulen für Wärmebildgeräte und Lenkflugkörper. Die Produkte des Weltmarktführers in der Infrarot-Technologie werden bei den Streitkräften aller NATO-Länder, im Zivilschutz, in der Forschung, in der Überwachung von Industrieprozessen, bei Anwendungen im Umweltschutz und in der Medizin eingesetzt.",
-    "products": ["Infrarot-Technologie"]
-  },
-  {
-    "id": "dd-praezision-de-ueberlingen",
-    "companyId": "diehl",
-    "lat": 47.776488,
-    "lng": 9.192354,
-    "siteName": "DD Präzisionsteile GmbH & Co. KG",
-    "address": "Zum Degenhardt 3, 88662 Überlingen",
-    "city": "Überlingen",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "DD Präzisionsteile GmbH & Co. KG mit Sitz in Überlingen ist auf die CNC-Bearbeitung für den Automotive und Verteidigungssektor spezialisiert. Darüber hinaus verfügt das Unternehmen über eigene Patente für Planeten- und Radnabengetriebe, welche unter anderem in Kommunalfahrzeugen, Agrar- und Landmaschinen Anwendung finden.",
-    "products": ["CNC-Bearbeitung für den Automotive und Verteidigungssektor"]
-  },
-  {
-    "id": "diehl-de-verpackung-roethenbach",
-    "companyId": "diehl",
-    "lat": 49.478382,
-    "lng": 11.235451,
-    "siteName": "Diehl Defence Verpackungssysteme",
-    "address": "Fischbachstraße 20, 90552 Röthenbach a. d. Pegnitz",
-    "city": "Röthenbach a. d. Pegnitz",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Diehl Defence beschäftigt sich seit 1960 mit der Entwicklung und Herstellung von hochwertigen Verpackungssystemen für wehrtechnische und zivile Anwendungen.",
-    "products": ["Verpackungssysteme für wehrtechnische und zivile Anwendungen"]
-  },
-  {
-    "id": "diehl-de-energy-roethenbach",
-    "companyId": "diehl",
-    "lat": 49.478,
-    "lng": 11.235,
-    "siteName": "Diehl Energy Products GmbH",
-    "address": "Fischbachstraße 16, 90552 Röthenbach a. d. Pegnitz",
-    "city": "Röthenbach a. d. Pegnitz",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Diehl Energy Products mit Sitz in Röthenbach a. d. Pegnitz ist Hersteller von Batteriesystemen für militärische und zivile Anwendungen. Die Produkte des Unternehmens finden sich in so unterschiedlichen Bereichen wie Notstromversorgungen, Aufzugssteuerungen und Weltraumsatelliten.",
-    "products": ["Batteriesysteme"]
-  },
-  {
-    "id": "diehl-de-retrofit-ueberlingen",
-    "companyId": "diehl",
-    "lat": 47.757028,
-    "lng": 9.18829,
-    "siteName": "Diehl Retrofit Missile Systeme GmbH",
-    "address": "Alte Nußdorfer Straße 19, 88662 Überlingen",
-    "city": "Überlingen",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "Zu den Aufgaben des Unternehmens zählen die Modernisierung und Vermarktung, die weltweite Logistik und die Lebensdauerbetreuung von Sidewinder-Lenkflugkörpern der Baureihe AIM-9L.",
-    "products": ["Sidewinder-Lenkflugkörper AIM-9L"]
-  },
-  {
-    "id": "dynitec-de-troisdorf",
-    "companyId": "diehl",
-    "lat": 50.819739,
-    "lng": 7.149768,
-    "siteName": "DynITEC GmbH",
-    "address": "Kaiserstraße 3, 53840 Troisdorf",
-    "city": "Troisdorf",
-    "state": "Nordrhein-Westfalen",
-    "country": "DE",
-    "description": "Die DynITEC GmbH mit Sitz in Troisdorf bei Bonn ist ein gemeinsames Unternehmen der Firmen Diehl und Rheinmetall. Die Geschäftsaktivitäten umfassen die Entwicklung und Produktion militärischer Zünd- und Anzündmittel, energetischer Materialien und elektronischer Zündsysteme.",
-    "products": [
-      "militärische Zünd- und Anzündmittel",
-      "energetische Materialien",
-      "elektronische Zündsysteme"
-    ]
-  },
-  {
-    "id": "eurospike-de-roethenbach",
-    "companyId": "diehl",
-    "lat": 49.478141,
-    "lng": 11.235522,
-    "siteName": "EuroSpike GmbH",
-    "address": "Fischbachstraße 16, 90552 Röthenbach a. d. Pegnitz",
-    "city": "Röthenbach a. d. Pegnitz",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Die EuroSpike GmbH in Röthenbach a. d. Pegnitz ist ein Gemeinschaftsunternehmen von Diehl, Rheinmetall und Rafael und vermarktet die Lenkflugkörper der israelischen Spike-Familie in Europa.",
-    "products": ["Lenkflugkörper der israelischen Spike-Familie"]
-  },
-  {
-    "id": "giws-de-nuernberg",
-    "companyId": "diehl",
-    "lat": 49.446411,
-    "lng": 11.1021,
-    "siteName": "GIWS – Gesellschaft für Intelligente Wirksysteme",
-    "address": "Kupferstraße 4, 90478 Nürnberg",
-    "city": "Nürnberg",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Die Gesellschaft für Intelligente Wirksysteme (GIWS) ist ein Gemeinschaftsunternehmen von Diehl Defence und Rheinmetall Waffe Munition und entwickelt und vermarktet die Suchzündermunition SMArt155 und Derivate weltweit.",
-    "products": ["Suchzündermunition SMArt155 und Derivate"]
-  },
-  {
-    "id": "junghans-de-microtec-dunningen",
-    "companyId": "diehl",
-    "lat": 48.240535,
-    "lng": 8.492962,
-    "siteName": "JUNGHANS Microtec GmbH",
-    "address": "Unterbergenweg 10, 78655 Dunningen",
-    "city": "Dunningen",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "JUNGHANS Microtec in Dunningen ist gemeinsam mit der französischen Tochtergesellschaft JUNGHANS T2M SAS ein weltweit führender Anbieter von Zündern und Sicherungseinrichtungen für militärische Anwendungen.",
-    "products": ["Zünder und Sicherungseinrichtungen für militärische Anwendungen"]
-  },
-  {
-    "id": "junghans-fr-t2m-la-ferte",
-    "companyId": "diehl",
-    "lat": 47.747421,
-    "lng": 1.922366,
-    "siteName": "JUNGHANS T2M SAS",
-    "address": "Route d'Ardon, 45240 La Ferté Saint-Aubin, Frankreich",
-    "city": "La Ferté Saint-Aubin",
-    "country": "FR",
-    "description": "Das französische Tochterunternehmen der JUNGHANS Microtec GmbH mit Sitz in La Ferté St. Aubin, Frankreich, ist spezialisiert auf die Entwicklung und Fertigung elektronischer Zünder und Sicherungseinrichtungen für militärische Anwendungen.",
-    "products": ["Entwicklung und Fertigung elektronischer Zünder und Sicherungseinrichtungen"]
-  },
-  {
-    "id": "parsys-de-schrobenhausen",
-    "companyId": "diehl",
-    "lat": 48.570812,
-    "lng": 11.214439,
-    "siteName": "PARSYS GmbH",
-    "address": "Hagenauer Forst 27, 86529 Schrobenhausen",
-    "city": "Schrobenhausen",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Die PARSYS GmbH in Schrobenhausen ist ein Gemeinschaftsunternehmen der MBDA Deutschland und Diehl Defence. Als Generalunternehmer für die Hauptbewaffnung des deutschen Unterstützungshubschraubers Tiger ist die PARSYS mit der Lieferung und Betreuung der PARS3-LR-Munition beauftragt.",
-    "products": [
-      "Hauptbewaffnung des deutschen Unterstützungshubschraubers Tiger",
-      "PARS3-LR-Munition"
-    ]
-  },
-  {
-    "id": "ram-system-de-ottobrunn",
-    "companyId": "diehl",
-    "lat": 48.064756,
-    "lng": 11.650486,
-    "siteName": "RAM System GmbH",
-    "address": "Daimlerstraße 11, 85521 Ottobrunn",
-    "city": "Ottobrunn",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Die RAM System GmbH ist ein Gemeinschaftsunternehmen von Diehl Defence und der MBDA Deutschland. Zu den Aufgaben des Unternehmens gehört die Steuerung des transatlantischen RAM-Programms (Rolling Airframe Missile) in Europa und die Vermarktung des Selbstverteidigungssystems für Schiffe in ausgewählten Ländern.",
-    "products": [
-      "Steuerung des transatlantischen RAM-Programms (Rolling Airframe Missile) in Europa",
-      "Selbstverteidigungssysteme für Schiffe"
-    ]
-  },
-  {
-    "id": "knds-de-muenchen",
-    "companyId": "knds-de",
-    "lat": 48.1936196,
-    "lng": 11.4695279,
-    "headquarter": true,
-    "siteName": "Hauptsitz München",
-    "address": "Krauss-Maffei-Straße 11, 80997 München",
-    "city": "München",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Hauptsitz von KNDS Deutschland. Entwicklungs- und Fertigungskompetenz für gepanzerte Rad- und Kettenfahrzeuge.",
-    "sources": ["https://knds.com/en/subsidiaries/knds-deutschland"]
-  },
-  {
-    "id": "knds-de-kassel",
-    "companyId": "knds-de",
-    "lat": 51.323,
-    "lng": 9.482,
-    "siteName": "Werk Kassel",
-    "address": "Wolfhager Straße 40, 34117 Kassel",
-    "city": "Kassel",
-    "state": "Hessen",
-    "country": "DE",
-    "description": "Zweitgrößter KNDS-Deutschland-Standort mit drei Produktionsstandorten und einem Logistikstandort. Entwicklung und Produktion moderner Turmsysteme für den LEOPARD 2 A8 und die RCH 155.",
-    "products": ["Leopard 2 A8 Turmsysteme", "RCH 155 Artillerie-Geschützmodul"],
-    "sources": ["https://knds.com/en/press-releases/defense-minister-boris-pistorius-visits-knds-provides-information-on-production-ramp-up-at-key-kassel-site"]
-  },
-  {
-    "id": "knds-de-fuldatal",
-    "companyId": "knds-de",
-    "lat": 51.3615,
-    "lng": 9.4754,
-    "siteName": "Logistikstandort Fuldatal-Ihringshausen",
-    "address": "Gewerbegebiet Ihringshausen-West, 34233 Fuldatal",
-    "city": "Fuldatal",
-    "state": "Hessen",
-    "country": "DE",
-    "description": "Logistikstandort für das Kasseler Werk.",
-    "sources": ["https://www.hessenschau.de"]
-  },
-  {
-    "id": "knds-de-hamburg",
-    "companyId": "knds-de",
-    "lat": 53.53,
-    "lng": 9.98,
-    "siteName": "KNDS Deutschland Steel Constructions GmbH",
-    "address": "Hermann-Blohm-Straße 3, 20457 Hamburg",
-    "city": "Hamburg",
-    "state": "Hamburg",
-    "country": "DE",
-    "description": "Kompetenzzentrum für Panzerstahlbearbeitung und Schweißtechnik. Fertigung von Gehäusen aus dickem Blech für schwere Kampffahrzeuge.",
-    "products": ["Panzerstahlbearbeitung", "geschweißte Fahrzeuggehäuse"],
-    "sources": ["https://knds.com", "https://www.vocatium.de"]
-  },
-  {
-    "id": "knds-de-remscheid",
-    "companyId": "knds-de",
-    "lat": 51.185,
-    "lng": 7.185,
-    "siteName": "KNDS Deutschland Tracks GmbH",
-    "address": "Vieringhausen 118, 42857 Remscheid",
-    "city": "Remscheid",
-    "state": "Nordrhein-Westfalen",
-    "country": "DE",
-    "description": "Weltweit führender Entwickler und Hersteller von Ketten und Fahrwerkskomponenten für Panzer und gepanzerte Fahrzeuge. Liefert an über 60 Länder.",
-    "products": ["Panzerketten", "Laufwerkskomponenten"],
-    "sources": ["https://knds.com"]
-  },
-  {
-    "id": "knds-de-muelheim",
-    "companyId": "knds-de",
-    "lat": 51.427,
-    "lng": 6.88,
-    "siteName": "KNDS FWH Castings GmbH",
-    "address": "Friedrich-Ebert-Straße 125, 45473 Mülheim an der Ruhr",
-    "city": "Mülheim an der Ruhr",
-    "state": "Nordrhein-Westfalen",
-    "country": "DE",
-    "description": "Stahlgießerei mit über 200 Jahren Tradition. Fertigt Bauteile für Panzer und Kampffahrzeuge.",
-    "products": ["Stahlguss", "Panzerstahl"],
-    "sources": ["https://knds.com"]
-  },
-  {
-    "id": "knds-de-ebeleben",
-    "companyId": "knds-de",
-    "lat": 51.2863918,
-    "lng": 10.733333,
-    "siteName": "KNDS Deutschland Battle Tank Dismantling GmbH",
-    "address": "Am Schlotheimer Berg 3, 99713 Ebeleben OT Rockensußra",
-    "city": "Ebeleben",
-    "state": "Thüringen",
-    "country": "DE",
-    "description": "Spezialisiert auf die Demilitarisierung und Verschrottung von Militärtechnik, Recycling von Metallen sowie Handel mit Ersatzteilen.",
-    "products": ["Demilitarisierung", "Recycling"],
-    "sources": ["https://www.invest-in-thuringia.de"]
-  },
-  {
-    "id": "knds-de-goerlitz",
-    "companyId": "knds-de",
-    "lat": 51.15836,
-    "lng": 14.96673,
-    "siteName": "Werk Görlitz",
-    "address": "Christoph-Lüders-Straße 24, 02826 Görlitz",
-    "city": "Görlitz",
+    "id": "aeromaritime-de-limbach-oberfrohna",
+    "companyId": "aeromaritime",
+    "lat": 50.85,
+    "lng": 12.75,
+    "siteName": "Software-Entwicklungszentrum Limbach-Oberfrohna (Chemnitz)",
+    "address": "Jägerstraße 11, 09212 Limbach-Oberfrohna",
+    "city": "Limbach-Oberfrohna",
     "state": "Sachsen",
     "country": "DE",
-    "description": "Ehemaliges Alstom-Bahnwerk, 2025 von KNDS übernommen. Rohbauzentrum für geschweißte Wannen und Kabinen für Militärfahrzeuge.",
-    "products": ["Leopard 2 Baugruppen", "Puma Baugruppen", "Boxer Module", "GTF3 Kabinen"],
-    "sources": ["https://knds.com", "https://www.mdr.de"]
+    "description": "Software-Entwicklungszentrum von AEROMARITIME Systembau in Limbach-Oberfrohna bei Chemnitz. Hier entwickelt das Unternehmen die Basis für flexible Lösungen und modernste Software, insbesondere für die Pflege und Weiterentwicklung des proprietären Advanced Platform Communication System APCOS 4000. Der Standort wurde in der Unternehmenskommunikation zunächst als 'Chemnitz' bezeichnet und ist im Handelsregister und in Stellenausschreibungen als Limbach-Oberfrohna (Jägerstraße 11) geführt.",
+    "products": [
+      "APCOS 4000 Software",
+      "Eingebettete Software"
+    ],
+    "sources": [
+      "https://esut.de/2021/05/fachbeitraege/27288/unsere-kernkompetenz-liegt-in-der-gesamtintegration/",
+      "https://moovitapp.com/index/en/public_transit-Aeromaritime_Systembau-Dresden-site_268310446-5796",
+      "https://www.merkur.de"
+    ]
   },
   {
-    "id": "knds-de-freisen",
-    "companyId": "knds-de",
-    "lat": 49.53411,
-    "lng": 7.29388,
-    "siteName": "KNDS Deutschland Maintenance GmbH",
-    "address": "Industriegebiet Schwarzerden, 66629 Freisen",
-    "city": "Freisen",
-    "state": "Saarland",
+    "id": "aeromaritime-de-wilhelmshaven",
+    "companyId": "aeromaritime",
+    "lat": 53.5283,
+    "lng": 8.1122,
+    "siteName": "Trainings- und Dokumentationszentrum Wilhelmshaven",
+    "address": "Parkstraße, 26382 Wilhelmshaven",
+    "city": "Wilhelmshaven",
+    "state": "Niedersachsen",
     "country": "DE",
-    "description": "Zentrum für Panzerproduktion und Instandsetzung. Endmontage des Patria 6x6 Radpanzers für die Bundeswehr ab 2027.",
-    "products": ["Patria 6x6 Endmontage", "Instandsetzung"],
-    "sources": ["https://www.saarbruecker-zeitung.de", "https://esut.de"]
+    "description": "Trainings- und Dokumentationszentrum von AEROMARITIME Systembau am Marinestandort Wilhelmshaven, eröffnet im ersten Quartal 2022. Das Büro wurde neben der F125 eingerichtet, um Aufgaben der Technischen Logistikunterstützung durchzuführen. Der Standort ist für die Erstellung von Kundendokumentationen für Systeme, Anlagen und Geräte für die Deutsche und internationale Marinen zuständig sowie für die Durchführung von theoretischen und praktischen Schulungen bei Aeromaritime, beim Kunden und an Bord von Schiffen. Die Adresse Parkstraße in 26382 Wilhelmshaven ist im Stellenangebot des Unternehmens angegeben.",
+    "products": [
+      "Technische Dokumentation",
+      "Training und Schulung"
+    ],
+    "sources": [
+      "https://www.heyjobs.co/de-de/jobs/083204de-ca8e-4e0e-ae28-73108d9b6e32",
+      "https://www.aeromaritime.eu/wp-content/uploads/2021/12/Newsletter-Qtr-2-15.12.2021-E.pdf"
+    ]
   },
   {
-    "id": "knds-de-berlin",
-    "companyId": "knds-de",
-    "lat": 52.5172,
-    "lng": 13.3797,
-    "siteName": "Hauptstadtrepräsentanz Berlin",
-    "address": "Ebertstraße 24 / Pariser Platz 6a, 10117 Berlin",
-    "city": "Berlin",
-    "state": "Berlin",
-    "country": "DE",
-    "description": "Hauptstadtrepräsentanz als Schnittstelle zur Politik und Bundeswehr.",
-    "sources": ["https://www.knds.de/"]
-  },
-  {
-    "id": "knds-de-neue-standorte",
-    "companyId": "knds-de",
-    "lat": 51.0,
-    "lng": 10.0,
-    "siteName": "Geplante neue Produktionsstätten",
-    "country": "DE",
-    "description": "KNDS plant zwei zusätzliche Produktionsstätten in Deutschland: eine für die komplette Fertigungskette von Radfahrzeugen (Boxer) und eine als Schweißstandort. Die genauen Standorte und Koordinaten sind noch nicht bekannt gegeben.",
-    "sources": ["https://www.faz.net"]
-  },
-  {
-    "id": "knds-de-landau-isar",
-    "companyId": "knds-de",
-    "lat": 48.6745,
-    "lng": 12.693,
-    "siteName": "DRÄXLMAIER – Boxer Missionmodule",
-    "address": "Landau an der Isar, Bayern",
-    "city": "Landau an der Isar",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Produktionsstandort der DRÄXLMAIER Group für Boxer-Missionmodule. Im Rahmen der strategischen Partnerschaft mit KNDS fertigt DRÄXLMAIER hier Missionmodule für das geschützte 8x8-Radfahrzeug BOXER.",
-    "products": ["Boxer Missionmodule"],
-    "sources": ["https://knds.com", "https://boerse-express.com"]
-  },
-  {
-    "id": "knds-de-volos",
-    "companyId": "knds-de",
-    "lat": 39.3667,
-    "lng": 22.9333,
-    "siteName": "KNDS Hellas",
-    "address": "1. Industriegebiet Volos, 38500 Volos",
-    "city": "Volos",
-    "country": "GR",
-    "description": "100-prozentige griechische Tochtergesellschaft von KNDS Deutschland (gegr. 2001). Komplettdienstleister für Wartung und Ersatzteile. Beteiligt am VBCI Philoctetes-Programm.",
-    "products": ["Wartung", "Ersatzteile", "Metallkonstruktion"],
-    "sources": ["https://knds.com", "https://www.verif.com"]
-  },
-  {
-    "id": "knds-de-godollo",
-    "companyId": "knds-de",
-    "lat": 47.6,
-    "lng": 19.35,
-    "siteName": "LEOPARD Hungary MRO Kft.",
-    "address": "Gödöllő",
-    "city": "Gödöllő",
-    "country": "HU",
-    "description": "Gemeinschaftsunternehmen von KNDS Deutschland und HM Currus Zrt. (51:49). Langfristige logistische Unterstützung aller KNDS-Systeme der ungarischen Armee.",
-    "products": ["Instandhaltung, Reparatur und Überholung"],
-    "sources": ["https://knds.com", "https://defence.hu"]
-  },
-  {
-    "id": "knds-de-santa-maria",
-    "companyId": "knds-de",
-    "lat": -29.6833,
-    "lng": -53.8,
-    "siteName": "KNDS do Brasil Sistemas de Defesa Ltda",
-    "address": "Rodovia BR 287, km 256, Boca do Monte, 97170-970 Santa Maria (RS)",
-    "city": "Santa Maria",
-    "country": "BR",
-    "description": "Tochtergesellschaft von KNDS Deutschland. Modernisierung von Leopard 1A5BR, Produktion und Wartung gepanzerter Fahrzeuge.",
-    "products": ["Leopard 1A5BR Modernisierung", "Gepanzerte Fahrzeuge"],
-    "sources": ["https://knds.com", "https://www.defesaemfoco.com.br"]
-  },
-  {
-    "id": "knds-de-singapore",
-    "companyId": "knds-de",
-    "lat": 1.33,
-    "lng": 103.75,
-    "siteName": "KNDS Singapore Platforms Pte Ltd",
-    "address": "25 International Business Park, #04-102 German Centre, 609916 Singapore",
-    "city": "Singapore",
-    "country": "SG",
-    "description": "Vertriebs- und Marketingstandort für die Asien-Pazifik-Region (gegr. 2009).",
-    "sources": ["https://knds.com"]
-  },
-  {
-    "id": "knds-de-jakarta",
-    "companyId": "knds-de",
-    "lat": -6.2088,
-    "lng": 106.8456,
-    "siteName": "KNDS Indonesia – Regionalbüro Jakarta",
-    "address": "Jakarta",
-    "city": "Jakarta",
-    "country": "ID",
-    "description": "Regionales Büro (gegr. 2022). Strategische Industriepartnerschaft mit der indonesischen Verteidigungsindustrie, u.a. Transfer von Großkaliber-Munitionsfertigung.",
-    "sources": ["https://knds.com", "https://www.inews.id"]
-  },
-  {
-    "id": "knds-nv-amsterdam",
-    "companyId": "knds-nv",
-    "lat": 52.3385,
-    "lng": 4.8729,
-    "headquarter": true,
-    "siteName": "KNDS N.V. Hauptsitz",
-    "address": "Gustav Mahlerlaan 1017, 1082 MK Amsterdam",
-    "city": "Amsterdam",
-    "country": "NL",
-    "description": "Konzernhauptsitz der KNDS N.V., der deutsch-französischen Holding.",
-    "sources": ["https://knds.com"]
-  },
-  {
-    "id": "knds-fr-versailles",
-    "companyId": "knds-fr",
-    "lat": 48.8014,
-    "lng": 2.1301,
-    "headquarter": true,
-    "siteName": "KNDS France – Hauptsitz Versailles-Satory",
-    "address": "13 route de la Minière, 78034 Versailles",
-    "city": "Versailles",
-    "state": "Île-de-France",
+    "id": "aeromaritime-fr-brest",
+    "companyId": "aeromaritime",
+    "lat": 48.3904,
+    "lng": -4.4861,
+    "siteName": "AEROMARITIME ENGINEERING FRANCE – Brest",
+    "address": "255 Rue Joséphine Pencalet, 29200 Brest, Frankreich",
+    "city": "Brest",
+    "state": "Bretagne",
     "country": "FR",
-    "description": "Französischer Hauptsitz und Zentrum für die Leclerc-Panzerfertigung.",
-    "products": ["Leclerc Kampfpanzer", "CAESAR Artilleriesystem"],
-    "sources": ["https://knds.com/en/subsidiaries/knds-france"]
+    "description": "Französische Tochtergesellschaft AEROMARITIME ENGINEERING FRANCE (ehemals ACTRIS systems) mit Sitz in Brest. Das Unternehmen ist ein Ingenieurbüro für Elektronik, Mechanik und zugehörige Software-Anwendungen und wurde 1993 gegründet. Es realisiert Systeme nach Lastenheft von der Innovationsphase bis zur Serienproduktion und ist auf Kommunikation und eingebettete Systeme für nationale Integratoren und Auftraggeber in den Bereichen Marineelektronik und Verteidigung spezialisiert. Rund 20 Mitarbeiter, Jahresumsatz ca. 3,8 Mio. EUR.",
+    "products": [
+      "Elektronik-Entwicklung",
+      "Mechanik-Entwicklung",
+      "Eingebettete Software",
+      "Testbänke"
+    ],
+    "sources": [
+      "http://gican.asso.fr/en/annuaire-des-adherents-du-gican-lindustrie-navale-francaise-en/aeromaritime-engineering-france/",
+      "https://fr.linkedin.com/company/aeromaritimeengineering"
+    ]
   },
   {
-    "id": "knds-fr-roanne",
-    "companyId": "knds-fr",
-    "lat": 46.0367,
-    "lng": 4.0689,
-    "siteName": "KNDS France Roanne",
-    "address": "Roanne, 42300",
-    "city": "Roanne",
-    "state": "Auvergne-Rhône-Alpes",
+    "id": "aeromaritime-fr-paris",
+    "companyId": "aeromaritime",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "siteName": "AEROMARITIME France – Paris",
+    "address": "Paris, Frankreich",
+    "city": "Paris",
     "country": "FR",
-    "description": "Historische Waffenfabrik (seit 1917). Fertigung von gepanzerten Fahrzeugen und Artilleriesystemen.",
-    "products": ["Serval VBMR", "CAESAR"],
-    "sources": ["https://www.lyoncapitale.fr"]
+    "description": "Französische Niederlassung von AEROMARITIME Systembau in Paris. Die Niederlassung wurde eingerichtet, um noch besser auf individuelle Kundenwünsche eingehen zu können. Ehemaliger Geschäftsführer Haissam Dib ist in Paris ansässig. Die französische Tochtergesellschaft AEROMARITIME ENGINEERING FRANCE hat ihren Sitz ebenfalls in Paris und betreibt operative Büros in München, Dubai und Brest.",
+    "sources": [
+      "https://www.bdsv.eu/mitglieder/mitglied-details.html?show=133",
+      "https://www.northdata.de/Aeromaritime%20Systembau%20GmbH,%20Neufahrn/Amtsgericht%20M%C3%BCnchen%20HRB%2043099"
+    ]
   },
   {
-    "id": "knds-fr-bourges",
-    "companyId": "knds-fr",
-    "lat": 47.081,
-    "lng": 2.398,
-    "siteName": "KNDS France Bourges",
-    "address": "Bourges, 18000",
-    "city": "Bourges",
-    "state": "Centre-Val de Loire",
-    "country": "FR",
-    "description": "Standort für Artillerie- und Munitionsfertigung.",
-    "products": ["Artillerie", "Munition"],
-    "sources": ["https://www.defense.gouv.fr"]
-  },
-  {
-    "id": "knds-fr-limoges",
-    "companyId": "knds-fr",
-    "lat": 45.8336,
-    "lng": 1.2611,
-    "siteName": "KNDS Mobility Limoges",
-    "address": "Limoges, 87000",
-    "city": "Limoges",
-    "state": "Nouvelle-Aquitaine",
-    "country": "FR",
-    "description": "KNDS Mobility – Spezialisiert auf kinematische Ketten, Hybridisierung und Energiemanagement für gepanzerte Fahrzeuge.",
-    "products": ["Antriebssysteme", "Hybridisierung"],
-    "sources": ["https://www.lavoixdefrance.fr"]
-  },
-  {
-    "id": "knds-fr-la-chapelle",
-    "companyId": "knds-fr",
-    "lat": 47.05,
-    "lng": 2.35,
-    "siteName": "KNDS Ammo France La Chapelle-Saint-Ursin",
-    "address": "La Chapelle-Saint-Ursin, 18570",
-    "city": "La Chapelle-Saint-Ursin",
-    "state": "Centre-Val de Loire",
-    "country": "FR",
-    "description": "Munitionsfertigung.",
-    "products": ["Munition"],
-    "sources": ["https://www.defense.gouv.fr"]
-  },
-  {
-    "id": "knds-fr-satory",
-    "companyId": "knds-fr",
-    "lat": 48.78,
-    "lng": 2.1,
-    "siteName": "KNDS France Satory",
-    "address": "Satory, 78000 Versailles",
-    "city": "Versailles",
-    "state": "Île-de-France",
-    "country": "FR",
-    "description": "Produktionsstandort für gepanzerte Fahrzeuge (Serval, Griffon).",
-    "products": ["Serval", "Griffon"],
-    "sources": ["https://www.defense.gouv.fr"]
-  },
-  {
-    "id": "knds-fr-tulle",
-    "companyId": "knds-fr",
-    "lat": 45.2667,
-    "lng": 1.7667,
-    "siteName": "KNDS France Tulle",
-    "address": "Tulle, 19000",
-    "city": "Tulle",
-    "state": "Nouvelle-Aquitaine",
-    "country": "FR",
-    "description": "Standort für Waffensysteme und Optronik.",
-    "products": ["Waffensysteme", "Optronik"],
-    "sources": ["https://www.defense.gouv.fr"]
-  },
-  {
-    "id": "knds-fr-tarbes",
-    "companyId": "knds-fr",
-    "lat": 43.2333,
-    "lng": 0.0833,
-    "siteName": "KNDS France Tarbes",
-    "address": "Tarbes, 65000",
-    "city": "Tarbes",
-    "state": "Occitanie",
-    "country": "FR",
-    "description": "Standort für Mechanik und Präzisionsfertigung.",
-    "products": ["Präzisionsmechanik"],
-    "sources": ["https://www.defense.gouv.fr"]
-  },
-  {
-    "id": "knds-fr-plessis",
-    "companyId": "knds-fr",
-    "lat": 48.7833,
-    "lng": 2.2333,
-    "siteName": "KNDS France Plessis-Robinson",
-    "address": "Plessis-Robinson, 92350",
-    "city": "Plessis-Robinson",
-    "state": "Île-de-France",
-    "country": "FR",
-    "description": "Standort für Raketensysteme und Munition.",
-    "products": ["Raketensysteme", "Munition"],
-    "sources": ["https://www.defense.gouv.fr"]
-  },
-  {
-    "id": "knds-fr-saint-chamond",
-    "companyId": "knds-fr",
-    "lat": 45.4667,
-    "lng": 4.5167,
-    "siteName": "KNDS France Saint-Chamond",
-    "address": "Saint-Chamond, 42400",
-    "city": "Saint-Chamond",
-    "state": "Auvergne-Rhône-Alpes",
-    "country": "FR",
-    "description": "Standort für Panzerkomponenten und Mechanik.",
-    "products": ["Panzerkomponenten"],
-    "sources": ["https://www.defense.gouv.fr"]
-  },
-  {
-    "id": "knds-uk-stockport",
-    "companyId": "knds-uk",
-    "lat": 53.4167,
-    "lng": -2.1667,
-    "siteName": "KNDS UK Stockport",
-    "address": "Sir Richard Fairey Road, Heaton Chapel, Stockport SK4 5DY",
-    "city": "Stockport",
-    "country": "GB",
-    "description": "Fertigungsstandort für Boxer-Radpanzer (Antriebsmodule) für die britische Armee. Auch Kompetenzzentrum für militärische Brücken (DSB, MGB).",
-    "products": ["Boxer Antriebsmodule", "Militärbrücken"],
-    "sources": ["https://uk.linkedin.com/company/knds-uk", "https://knds.com"]
-  },
-  {
-    "id": "knds-int-belgium",
-    "companyId": "knds-int",
-    "lat": 50.5667,
-    "lng": 4.3667,
-    "siteName": "KNDS Belgium",
-    "address": "Petit-Roeulx-lez-Nivelles, 7181",
-    "city": "Petit-Roeulx-lez-Nivelles",
-    "country": "BE",
-    "description": "Industriestandort mit 80-jähriger Tradition. Neue Produktionslinie für 155-mm-Artilleriegeschosse (UCGC), eingeweiht im November 2025. 350 Mitarbeiter.",
-    "products": ["155 mm Artilleriemunition", "Großkaliber-Bearbeitung"],
-    "sources": ["https://www.edrmagazine.eu", "https://knds.com"]
-  },
-  {
-    "id": "knds-int-colleferro",
-    "companyId": "knds-int",
-    "lat": 41.7333,
-    "lng": 13.0167,
-    "siteName": "KNDS Ammo Italy Colleferro",
-    "address": "Colleferro, Lazio",
-    "city": "Colleferro",
-    "country": "IT",
-    "description": "Historisches Munitionswerk (1912 gegründet, 100 Hektar). Produktion von Mittel- und Großkalibermunition sowie Festbrennstoffen für Raumfahrt-Trägerraketen.",
-    "products": ["Mittel- und Großkalibermunition", "Festbrennstoffe"],
-    "sources": ["https://defensemirror.com", "https://it.euronews.com"]
-  },
-  {
-    "id": "knds-int-anagni",
-    "companyId": "knds-int",
-    "lat": 41.75,
-    "lng": 13.15,
-    "siteName": "KNDS Ammo Italy Anagni",
-    "address": "Anagni, Frosinone",
-    "city": "Anagni",
-    "country": "IT",
-    "description": "Spezialisiert auf Demilitarisierung. Neuer Standort für Nitrogelatin-Produktion im Aufbau.",
-    "products": ["Demilitarisierung", "Nitrogelatin"],
-    "sources": ["https://it.euronews.com", "https://www.tgcom24.mediaset.it"]
-  },
-  {
-    "id": "knds-int-riyadh",
-    "companyId": "knds-int",
-    "lat": 24.7136,
-    "lng": 46.6753,
-    "siteName": "KNDS Arabia / WAHAJ",
-    "address": "Riyadh",
-    "city": "Riyadh",
-    "country": "SA",
-    "description": "Gemeinschaftsunternehmen mit GAMI zur Produktion von Artillerierohren (105 mm und 155 mm). Partnerschaft mit WAHAJ für 155-mm-Munition im Rahmen der KSA Vision 2030.",
-    "products": ["Artillerierohre", "155-mm-Munition"],
-    "sources": ["https://maaal.com", "https://english.defensearabia.com"]
-  },
-  {
-    "id": "knds-int-lynchburg",
-    "companyId": "knds-int",
-    "lat": 37.4138,
-    "lng": -79.1422,
-    "siteName": "KNDS USA Inc.",
-    "address": "30 Mill Race Dr, Lynchburg, VA 24502",
-    "city": "Lynchburg",
-    "state": "Virginia",
-    "country": "US",
-    "description": "US-Hauptsitz und primäre Fertigungsstätte. Auftragsfertiger für US-Verteidigungsaufträge und Programme der Auslandsmilitärverkäufe. Fertigt hochfeste Komponenten und Trainingssimulatoren.",
-    "products": ["Auftragsfertigung", "Trainingssimulatoren"],
-    "sources": ["https://www.wegmannusa.com"]
-  },
-  {
-    "id": "knds-int-kyiv",
-    "companyId": "knds-int",
-    "lat": 50.45,
-    "lng": 30.5233,
-    "siteName": "KNDS Ukraine LLC",
-    "address": "Kyiv",
-    "city": "Kyiv",
-    "country": "UA",
-    "description": "Tochtergesellschaft in Kyiv (eröffnet 2024). Unterstützt die Zusammenarbeit mit ukrainischen Regierungsstellen und der Rüstungsindustrie. Aufbau eines Instandhaltungs-, Reparatur- und Überholungszentrums für CAESAR-Artillerie und Produktion von 155-mm-Munition.",
-    "products": ["Instandhaltung, Reparatur und Überholung", "155-mm-Munition"],
-    "sources": ["https://knds.com", "https://militarnyi.com"]
+    "id": "aeromaritime-ae-dubai",
+    "companyId": "aeromaritime",
+    "lat": 24.95,
+    "lng": 55.2,
+    "siteName": "AEROMARITIME Security Systems Middle East LLC – Dubai",
+    "address": "Dubai South, Business Park, Building D, Office 219, P.O. Box 644327, Dubai, VAE",
+    "city": "Dubai",
+    "country": "AE",
+    "description": "Niederlassung von AEROMARITIME Systembau in Dubai. Die AEROMARITIME Security Systems Middle East LLC wurde eingerichtet, um individuelle Kundenwünsche im Nahen Osten besser bedienen zu können. Der Standort ist ein Systemintegrator für Sicherheits- und Kommunikationssysteme und bietet ein breites Spektrum an Satellitenprodukten und -dienstleistungen. Die Niederlassung befindet sich im Dubai South Business Park (Building D, Office 219).",
+    "products": [
+      "Sicherheitssysteme",
+      "Kommunikationssysteme",
+      "Satellitenprodukte und -dienstleistungen"
+    ],
+    "sources": [
+      "https://www.aeromaritime-sec.com",
+      "https://www.bdsv.eu/mitglieder/mitglied-details.html?show=133"
+    ]
   },
   {
     "id": "airbus-ds-de-ottobrunn",
@@ -1191,6 +524,612 @@
     "sources": ["https://www.australiandefence.com.au", "https://lotfourteen.com.au"]
   },
   {
+    "id": "atlas-de-bremen",
+    "companyId": "atlas-elektronik",
+    "lat": 53.0644,
+    "lng": 8.8899,
+    "headquarter": true,
+    "siteName": "Hauptsitz Bremen-Sebaldsbrück",
+    "address": "Sebaldsbrücker Heerstraße 235, 28309 Bremen",
+    "city": "Bremen",
+    "state": "Bremen",
+    "country": "DE",
+    "description": "Hauptsitz von ATLAS ELEKTRONIK. Hier befinden sich die zentrale Entwicklung, Produktion und Verwaltung. Kompetenzzentrum für Sonarsysteme, Führungssysteme und Waffeneinsatzsysteme für U-Boote und Überwasserschiffe. ATLAS EMS (Engineering, Manufacturing & Service) ist der Kompetenzbereich für Entwicklung, Produktion und Service mit Sitz in Bremen.",
+    "products": [
+      "Sonarsysteme",
+      "Führungssysteme",
+      "Waffeneinsatzsysteme"
+    ],
+    "sources": [
+      "https://www.atlas-ems.de",
+      "https://edmo.seadatanet.org"
+    ]
+  },
+  {
+    "id": "atlas-de-wedel",
+    "companyId": "atlas-elektronik",
+    "lat": 53.583,
+    "lng": 9.699,
+    "siteName": "Standort Wedel",
+    "address": "Feldstraße 172, 22880 Wedel",
+    "city": "Wedel",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Zweigstelle von ATLAS ELEKTRONIK bei Hamburg. Entwicklung und Fertigung von Marineelektronik, insbesondere Sonar- und Sensorsystemen.",
+    "products": [
+      "Sonarsysteme",
+      "Sensorsysteme"
+    ],
+    "sources": [
+      "https://www.uae.atlas-elektronik.com"
+    ]
+  },
+  {
+    "id": "atlas-de-wilhelmshaven",
+    "companyId": "atlas-elektronik",
+    "lat": 53.5283,
+    "lng": 8.1122,
+    "siteName": "Standort Wilhelmshaven",
+    "address": "Bontekai 55, 26382 Wilhelmshaven",
+    "city": "Wilhelmshaven",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Zweigstelle von ATLAS ELEKTRONIK. Integration und Support von Marineelektroniksystemen.",
+    "products": [
+      "Integration",
+      "Support"
+    ],
+    "sources": [
+      "https://www.uae.atlas-elektronik.com"
+    ]
+  },
+  {
+    "id": "atlas-de-koblenz",
+    "companyId": "atlas-elektronik",
+    "lat": 50.3567,
+    "lng": 7.5942,
+    "siteName": "Standort Koblenz",
+    "address": "Kastorstraße 3, 56068 Koblenz",
+    "city": "Koblenz",
+    "state": "Rheinland-Pfalz",
+    "country": "DE",
+    "description": "Standort von ATLAS ELEKTRONIK in Koblenz als Schnittstelle zur Bundeswehr und deren im Großraum Köln-Bonn-Koblenz angesiedelten Dienststellen.",
+    "sources": [
+      "https://www.uae.atlas-elektronik.com"
+    ]
+  },
+  {
+    "id": "atlas-de-kiel",
+    "companyId": "atlas-elektronik",
+    "lat": 54.3233,
+    "lng": 10.1228,
+    "siteName": "Standort Kiel",
+    "address": "Werftstraße 112-114, 24143 Kiel",
+    "city": "Kiel",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Standort von ATLAS ELEKTRONIK im Kieler Werftgebiet. Marineelektronik und Integration.",
+    "sources": [
+      "https://www.uae.atlas-elektronik.com"
+    ]
+  },
+  {
+    "id": "atlas-de-flintbek",
+    "companyId": "atlas-elektronik",
+    "lat": 54.249,
+    "lng": 10.065,
+    "siteName": "Hagenuk Marinekommunikation GmbH – Flintbek",
+    "address": "Hamburger Chaussee 251, 24220 Flintbek",
+    "city": "Flintbek",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Tochterunternehmen der ATLAS ELEKTRONIK GmbH mit Sitz in Flintbek bei Kiel. Projektierung, Entwicklung und Montage von schlüsselfertigen Funksystemen zum Einsatz auf Marineeinheiten weltweit.",
+    "products": [
+      "Marinekommunikationssysteme",
+      "Funksysteme"
+    ],
+    "sources": [
+      "https://www.atlas-elektronik.com"
+    ]
+  },
+  {
+    "id": "atlas-uk-dorchester",
+    "companyId": "atlas-elektronik",
+    "lat": 50.71,
+    "lng": -2.24,
+    "siteName": "ATLAS ELEKTRONIK UK Ltd – Dorset",
+    "address": "Dorset Innovation Park, Winfrith Newburgh, Dorchester DT2 8ZB, United Kingdom",
+    "city": "Dorchester",
+    "country": "GB",
+    "description": "Britische Tochtergesellschaft ATLAS ELEKTRONIK UK Ltd (AEUK). Mit über 500 Mitarbeitern die größte Tochtergesellschaft der ATLAS-Gruppe. Entwicklung und Lieferung von Unterwassersystemen und maritimer Technologie für die Royal Navy und internationale Kunden.",
+    "products": [
+      "Unterwassersysteme",
+      "Maritime Technologie"
+    ],
+    "sources": [
+      "https://www.uk.atlas-elektronik.com",
+      "https://find-and-update.company-information.service.gov.uk"
+    ]
+  },
+  {
+    "id": "atlas-au-sydney",
+    "companyId": "atlas-elektronik",
+    "lat": -33.8235,
+    "lng": 151.194,
+    "siteName": "SONARTECH ATLAS Pty Ltd – Sydney",
+    "address": "Unit 6, Herbert Street, St Leonards NSW 2065, Australien",
+    "city": "Sydney",
+    "state": "New South Wales",
+    "country": "AU",
+    "description": "Australische Tochtergesellschaft SONARTECH ATLAS Pty Ltd (60% ATLAS ELEKTRONIK). Spezialisiert auf Design, Entwicklung und Support von Sonarprozessoren und Analysesystemen für marine Anwendungen.",
+    "products": [
+      "Sonarprozessoren",
+      "Analysesysteme"
+    ],
+    "sources": [
+      "https://www.sonartech.atlas-elektronik.com"
+    ]
+  },
+  {
+    "id": "atlas-au-macquarie",
+    "companyId": "atlas-elektronik",
+    "lat": -33.7858,
+    "lng": 151.1214,
+    "siteName": "SONARTECH ATLAS – Macquarie Park",
+    "address": "16 Giffnock Avenue, Unit G01, Macquarie Park NSW 2113, Australien",
+    "city": "Sydney",
+    "state": "New South Wales",
+    "country": "AU",
+    "description": "Zweiter Standort von SONARTECH ATLAS in Australien.",
+    "sources": [
+      "https://au.linkedin.com/company/tkms-sonartech-atlas"
+    ]
+  },
+  {
+    "id": "atlas-us-virginia-beach",
+    "companyId": "atlas-elektronik",
+    "lat": 36.8529,
+    "lng": -75.978,
+    "siteName": "ATLAS North America LLC – Virginia Beach",
+    "address": "208 Golden Oak Ct, Suite 415, Virginia Beach, VA 23452, USA",
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "country": "US",
+    "description": "US-Tochtergesellschaft ATLAS North America LLC mit Sitz in Virginia Beach in der Nähe des Hauptquartiers der US-Atlantikflotte in Norfolk.",
+    "sources": [
+      "https://www.selling.com",
+      "https://www.marinelink.com"
+    ]
+  },
+  {
+    "id": "atlas-us-yorktown",
+    "companyId": "atlas-elektronik",
+    "lat": 37.238,
+    "lng": -76.51,
+    "siteName": "ATLAS North America LLC – Yorktown",
+    "address": "120 Newsome Dr, Yorktown, VA 23692, USA",
+    "city": "Yorktown",
+    "state": "Virginia",
+    "country": "US",
+    "description": "Zweiter US-Standort von ATLAS North America LLC.",
+    "sources": [
+      "https://www.signalhire.com"
+    ]
+  },
+  {
+    "id": "atlas-ca-victoria",
+    "companyId": "atlas-elektronik",
+    "lat": 48.4284,
+    "lng": -123.3656,
+    "siteName": "ATLAS ELEKTRONIK Canada Ltd. – Victoria",
+    "address": "Victoria, BC, Kanada",
+    "city": "Victoria",
+    "state": "British Columbia",
+    "country": "CA",
+    "description": "Kanadische Tochtergesellschaft ATLAS ELEKTRONIK Canada Ltd. mit Sitz in Victoria, British Columbia.",
+    "sources": [
+      "https://www.thyssenkrupp.com"
+    ]
+  },
+  {
+    "id": "atlas-fi-espoo",
+    "companyId": "atlas-elektronik",
+    "lat": 60.2055,
+    "lng": 24.6559,
+    "siteName": "ATLAS ELEKTRONIK Finland Oy – Espoo",
+    "address": "Lars Sonckin kaari 16, 02600 Espoo, Finnland",
+    "city": "Espoo",
+    "country": "FI",
+    "description": "Finnische Tochtergesellschaft ATLAS ELEKTRONIK Finland Oy mit Sitz in Espoo. Entwicklung und Vertrieb von Marineelektronik und Sonarsystemen.",
+    "products": [
+      "Sonarsysteme",
+      "Marineelektronik"
+    ],
+    "sources": [
+      "https://www.thyssenkrupp.com"
+    ]
+  },
+  {
+    "id": "atlas-in-new-delhi",
+    "companyId": "atlas-elektronik",
+    "lat": 28.63,
+    "lng": 77.22,
+    "siteName": "ATLAS ELEKTRONIK India Private Limited – New Delhi",
+    "address": "New Delhi, Indien",
+    "city": "New Delhi",
+    "country": "IN",
+    "description": "Indische Tochtergesellschaft ATLAS ELEKTRONIK India Private Limited mit Sitz in New Delhi.",
+    "sources": [
+      "https://www.thyssenkrupp.com"
+    ]
+  },
+  {
+    "id": "atlas-ae-abu-dhabi",
+    "companyId": "atlas-elektronik",
+    "lat": 24.492,
+    "lng": 54.356,
+    "siteName": "ATLAS ELEKTRONIK L.L.C. – Abu Dhabi",
+    "address": "O.P.C. Al Wahda City Commercial Tower, 27th Floor, Unit 2702, Hazza Bin Zayed Street, PO Box 28008, Abu Dhabi, VAE",
+    "city": "Abu Dhabi",
+    "country": "AE",
+    "description": "Standort von ATLAS ELEKTRONIK in Abu Dhabi für Marineelektronik und Support in der Golfregion.",
+    "products": [
+      "Marineelektronik"
+    ],
+    "sources": [
+      "https://www.thyssenkrupp.com"
+    ]
+  },
+  {
+    "id": "atlas-kr-busan",
+    "companyId": "atlas-elektronik",
+    "lat": 35.104,
+    "lng": 128.976,
+    "siteName": "ATLAS Naval Engineering Company Ltd. – Busan",
+    "address": "8, Mieumsandan 3-ro, Gangseo-gu, Busan, Südkorea",
+    "city": "Busan",
+    "country": "KR",
+    "description": "Südkoreanischer Standort für Marineelektronik und Engineering-Support.",
+    "products": [
+      "Marineelektronik",
+      "Engineering"
+    ],
+    "sources": [
+      "https://www.deutsche-exportdatenbank.de"
+    ]
+  },
+  {
+    "id": "atlas-th-bangkok",
+    "companyId": "atlas-elektronik",
+    "lat": 13.757,
+    "lng": 100.566,
+    "siteName": "Atlas Naval Support Centre (Thailand) Ltd. – Bangkok",
+    "address": "The Ninth Tower, Tower A, 35th Floor, 33/4, Rama 9 Road, Huaykwang, 10310 Bangkok, Thailand",
+    "city": "Bangkok",
+    "country": "TH",
+    "description": "Support-Center für Marineelektronik und Marinekommunikation in Südostasien.",
+    "products": [
+      "Marineelektronik",
+      "Support"
+    ],
+    "sources": [
+      "https://www.thyssenkrupp.com"
+    ]
+  },
+  {
+    "id": "atlas-dk-copenhagen",
+    "companyId": "atlas-elektronik",
+    "lat": 55.708,
+    "lng": 12.562,
+    "siteName": "ATLAS MARIDAN ApS – Kopenhagen",
+    "address": "Rungsted Havn 1D, 2960 Kyst, Dänemark",
+    "city": "Kopenhagen",
+    "country": "DK",
+    "description": "Dänischer Standort der Tochtergesellschaft ATLAS MARIDAN ApS für maritime Drohnensysteme und unbemannte Unterwasserfahrzeuge.",
+    "products": [
+      "Unbemannte Unterwasserfahrzeuge",
+      "Maritime Drohnen"
+    ],
+    "sources": [
+      "https://www.deutsche-exportdatenbank.de"
+    ]
+  },
+  {
+    "id": "diehl-de-ueberlingen-firmensitz",
+    "companyId": "diehl",
+    "lat": 47.758026,
+    "lng": 9.186407,
+    "headquarter": true,
+    "siteName": "Firmensitz Überlingen",
+    "address": "Alte Nußdorfer Straße 13, 88662 Überlingen",
+    "city": "Überlingen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Moderne Entwicklungs- und Fertigungseinrichtungen für Lenkflugkörper und bodengebundene Luftverteidigungssysteme. Gemeinsam mit den Werken in Nonnweiler und Röthenbach a. d. Pegnitz sowie mehreren Tochterunternehmen bündelt Diehl Defence hier die Geschäftsaktivitäten der Diehl-Gruppe in den Bereichen Verteidigung und Sicherheit.",
+    "products": ["Lenkflugkörper", "bodengebundene Luftverteidigungssysteme"]
+  },
+  {
+    "id": "diehl-de-nonnweiler-maasberg",
+    "companyId": "diehl",
+    "lat": 49.611329,
+    "lng": 6.938772,
+    "siteName": "Werk Maasberg",
+    "address": "Zum Maasberg, 66620 Nonnweiler-Bierfeld",
+    "city": "Nonnweiler",
+    "state": "Saarland",
+    "country": "DE",
+    "description": "Modernes Produktions- und Integrationszentrum für Hightech-Ausrüstung der Streitkräfte in den Bereichen Lenkflugkörper und Munition.",
+    "products": ["Lenkflugkörper", "Munition"]
+  },
+  {
+    "id": "diehl-de-nonnweiler-mariahuette",
+    "companyId": "diehl",
+    "lat": 49.589093,
+    "lng": 6.975838,
+    "siteName": "Werk Mariahütte",
+    "address": "Karl-Diehl-Straße 1, 66620 Nonnweiler",
+    "city": "Nonnweiler",
+    "state": "Saarland",
+    "country": "DE",
+    "description": "Moderne Einrichtungen und technische Verfahren zur hochpräzisen Metall- und Blechbearbeitung für die Klein- und Großserienfertigung.",
+    "products": ["Metall- und Blechbearbeitung für die Klein- und Großserienfertigung"]
+  },
+  {
+    "id": "diehl-de-roethenbach",
+    "companyId": "diehl",
+    "lat": 49.478158,
+    "lng": 11.235433,
+    "siteName": "Werk Röthenbach a. d. Pegnitz",
+    "address": "Fischbachstraße 16, 90552 Röthenbach a. d. Pegnitz",
+    "city": "Röthenbach a. d. Pegnitz",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Moderne Entwicklungs- und Fertigungseinrichtungen für Hightech-Ausrüstung der Streitkräfte in den Bereichen Munition und Schutzsysteme.",
+    "products": ["Munition", "Schutzsysteme"]
+  },
+  {
+    "id": "diehl-de-laupheim",
+    "companyId": "diehl",
+    "lat": 48.212545,
+    "lng": 9.903941,
+    "siteName": "Laupheim",
+    "address": "Ludwig-Bölkow-Straße 9, 88471 Laupheim",
+    "city": "Laupheim",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Standort der Diehl Defence in Laupheim mit Fertigungskapazitäten für Lenkflugkörper, Munition sowie Trainings- und Schutzsysteme.",
+    "products": [
+      "bodengebundene Luftverteidigung",
+      "Lenkflugkörper",
+      "Munition",
+      "Trainings- und Schutzsysteme"
+    ]
+  },
+  {
+    "id": "diehl-de-todendorf",
+    "companyId": "diehl",
+    "lat": 54.36906,
+    "lng": 10.56377,
+    "siteName": "Ausbildungszentrum Todendorf",
+    "address": "Kaserne Todendorf, 24231 Todendorf/Panker",
+    "city": "Todendorf",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Modernes Ausbildungszentrum für die Luftverteidigungssysteme IRIS-T SLM und IRIS-T SLS auf dem Truppenübungsplatz Todendorf. Ausgebildet werden neben dem deutschen Nutzer auch weitere NATO- und European Sky Shield Initiative-Kunden.",
+    "products": ["Ausbildungszentrum", "IRIS-T SLM", "IRIS-T SLS"]
+  },
+  {
+    "id": "diehl-de-berlin",
+    "companyId": "diehl",
+    "lat": 52.508774,
+    "lng": 13.377327,
+    "siteName": "Büro Berlin",
+    "address": "Potsdamer Platz 9, 10117 Berlin",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "DE",
+    "description": "Das Außenbüro in Berlin unterstützt die Geschäftsaktivitäten der Diehl Defence GmbH & Co. KG als Schnittstelle zur Bundeswehr und deren im Großraum Berlin angesiedelten Dienststellen."
+  },
+  {
+    "id": "diehl-de-koblenz",
+    "companyId": "diehl",
+    "lat": 50.356669,
+    "lng": 7.570486,
+    "siteName": "Büro Koblenz",
+    "address": "Ferdinand-Sauerbruch-Str. 27, 56073 Koblenz",
+    "city": "Koblenz",
+    "state": "Rheinland-Pfalz",
+    "country": "DE",
+    "description": "Das Außenbüro in Koblenz unterstützt die Geschäftsaktivitäten der Diehl Defence GmbH & Co. KG als Schnittstelle zur Bundeswehr und deren im Großraum Köln-Bonn-Koblenz angesiedelten Dienststellen."
+  },
+  {
+    "id": "diehl-th-bangkok",
+    "companyId": "diehl",
+    "lat": 13.720367,
+    "lng": 100.530135,
+    "siteName": "Repräsentanz Bangkok",
+    "address": "1 Empire Tower, Unit 2509, 25th Floor, South Sathorn Road, Yannawa, Sathorn, 10120 Bangkok",
+    "city": "Bangkok",
+    "country": "TH",
+    "description": "Das Repräsentanzbüro in Bangkok unterstützt die Geschäftsaktivitäten der Diehl Defence GmbH & Co. KG seit 2010 als Schnittstelle zu Kunden und Kooperationspartnern in Südostasien."
+  },
+  {
+    "id": "diehl-ae-abu-dhabi",
+    "companyId": "diehl",
+    "lat": 24.487501,
+    "lng": 54.357384,
+    "siteName": "Repräsentanz Abu Dhabi",
+    "address": "The Towers at the Trade Center, East Tower, 10th Floor, Abu Dhabi Mall, Abu Dhabi",
+    "city": "Abu Dhabi",
+    "country": "AE",
+    "description": "Das Repräsentanzbüro in Abu Dhabi unterstützt die Geschäftsaktivitäten der Diehl Defence GmbH & Co. KG als Schnittstelle zu Kunden und Kooperationspartnern in den Golf-Staaten und in Afrika."
+  },
+  {
+    "id": "aim-de-heilbronn",
+    "companyId": "diehl",
+    "lat": 49.135087,
+    "lng": 9.206248,
+    "siteName": "AIM Infrarot-Module GmbH",
+    "address": "Theresienstraße 2, 74072 Heilbronn",
+    "city": "Heilbronn",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Die AIM Infrarot-Module GmbH in Heilbronn ist ein führender Hersteller von Hochleistungsmodulen für Wärmebildgeräte und Lenkflugkörper. Die Produkte des Weltmarktführers in der Infrarot-Technologie werden bei den Streitkräften aller NATO-Länder, im Zivilschutz, in der Forschung, in der Überwachung von Industrieprozessen, bei Anwendungen im Umweltschutz und in der Medizin eingesetzt.",
+    "products": ["Infrarot-Technologie"]
+  },
+  {
+    "id": "dd-praezision-de-ueberlingen",
+    "companyId": "diehl",
+    "lat": 47.776488,
+    "lng": 9.192354,
+    "siteName": "DD Präzisionsteile GmbH & Co. KG",
+    "address": "Zum Degenhardt 3, 88662 Überlingen",
+    "city": "Überlingen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "DD Präzisionsteile GmbH & Co. KG mit Sitz in Überlingen ist auf die CNC-Bearbeitung für den Automotive und Verteidigungssektor spezialisiert. Darüber hinaus verfügt das Unternehmen über eigene Patente für Planeten- und Radnabengetriebe, welche unter anderem in Kommunalfahrzeugen, Agrar- und Landmaschinen Anwendung finden.",
+    "products": ["CNC-Bearbeitung für den Automotive und Verteidigungssektor"]
+  },
+  {
+    "id": "diehl-de-verpackung-roethenbach",
+    "companyId": "diehl",
+    "lat": 49.478382,
+    "lng": 11.235451,
+    "siteName": "Diehl Defence Verpackungssysteme",
+    "address": "Fischbachstraße 20, 90552 Röthenbach a. d. Pegnitz",
+    "city": "Röthenbach a. d. Pegnitz",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Diehl Defence beschäftigt sich seit 1960 mit der Entwicklung und Herstellung von hochwertigen Verpackungssystemen für wehrtechnische und zivile Anwendungen.",
+    "products": ["Verpackungssysteme für wehrtechnische und zivile Anwendungen"]
+  },
+  {
+    "id": "diehl-de-energy-roethenbach",
+    "companyId": "diehl",
+    "lat": 49.478,
+    "lng": 11.235,
+    "siteName": "Diehl Energy Products GmbH",
+    "address": "Fischbachstraße 16, 90552 Röthenbach a. d. Pegnitz",
+    "city": "Röthenbach a. d. Pegnitz",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Diehl Energy Products mit Sitz in Röthenbach a. d. Pegnitz ist Hersteller von Batteriesystemen für militärische und zivile Anwendungen. Die Produkte des Unternehmens finden sich in so unterschiedlichen Bereichen wie Notstromversorgungen, Aufzugssteuerungen und Weltraumsatelliten.",
+    "products": ["Batteriesysteme"]
+  },
+  {
+    "id": "diehl-de-retrofit-ueberlingen",
+    "companyId": "diehl",
+    "lat": 47.757028,
+    "lng": 9.18829,
+    "siteName": "Diehl Retrofit Missile Systeme GmbH",
+    "address": "Alte Nußdorfer Straße 19, 88662 Überlingen",
+    "city": "Überlingen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Zu den Aufgaben des Unternehmens zählen die Modernisierung und Vermarktung, die weltweite Logistik und die Lebensdauerbetreuung von Sidewinder-Lenkflugkörpern der Baureihe AIM-9L.",
+    "products": ["Sidewinder-Lenkflugkörper AIM-9L"]
+  },
+  {
+    "id": "dynitec-de-troisdorf",
+    "companyId": "diehl",
+    "lat": 50.819739,
+    "lng": 7.149768,
+    "siteName": "DynITEC GmbH",
+    "address": "Kaiserstraße 3, 53840 Troisdorf",
+    "city": "Troisdorf",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Die DynITEC GmbH mit Sitz in Troisdorf bei Bonn ist ein gemeinsames Unternehmen der Firmen Diehl und Rheinmetall. Die Geschäftsaktivitäten umfassen die Entwicklung und Produktion militärischer Zünd- und Anzündmittel, energetischer Materialien und elektronischer Zündsysteme.",
+    "products": [
+      "militärische Zünd- und Anzündmittel",
+      "energetische Materialien",
+      "elektronische Zündsysteme"
+    ]
+  },
+  {
+    "id": "eurospike-de-roethenbach",
+    "companyId": "diehl",
+    "lat": 49.478141,
+    "lng": 11.235522,
+    "siteName": "EuroSpike GmbH",
+    "address": "Fischbachstraße 16, 90552 Röthenbach a. d. Pegnitz",
+    "city": "Röthenbach a. d. Pegnitz",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Die EuroSpike GmbH in Röthenbach a. d. Pegnitz ist ein Gemeinschaftsunternehmen von Diehl, Rheinmetall und Rafael und vermarktet die Lenkflugkörper der israelischen Spike-Familie in Europa.",
+    "products": ["Lenkflugkörper der israelischen Spike-Familie"]
+  },
+  {
+    "id": "giws-de-nuernberg",
+    "companyId": "diehl",
+    "lat": 49.446411,
+    "lng": 11.1021,
+    "siteName": "GIWS – Gesellschaft für Intelligente Wirksysteme",
+    "address": "Kupferstraße 4, 90478 Nürnberg",
+    "city": "Nürnberg",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Die Gesellschaft für Intelligente Wirksysteme (GIWS) ist ein Gemeinschaftsunternehmen von Diehl Defence und Rheinmetall Waffe Munition und entwickelt und vermarktet die Suchzündermunition SMArt155 und Derivate weltweit.",
+    "products": ["Suchzündermunition SMArt155 und Derivate"]
+  },
+  {
+    "id": "junghans-de-microtec-dunningen",
+    "companyId": "diehl",
+    "lat": 48.240535,
+    "lng": 8.492962,
+    "siteName": "JUNGHANS Microtec GmbH",
+    "address": "Unterbergenweg 10, 78655 Dunningen",
+    "city": "Dunningen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "JUNGHANS Microtec in Dunningen ist gemeinsam mit der französischen Tochtergesellschaft JUNGHANS T2M SAS ein weltweit führender Anbieter von Zündern und Sicherungseinrichtungen für militärische Anwendungen.",
+    "products": ["Zünder und Sicherungseinrichtungen für militärische Anwendungen"]
+  },
+  {
+    "id": "junghans-fr-t2m-la-ferte",
+    "companyId": "diehl",
+    "lat": 47.747421,
+    "lng": 1.922366,
+    "siteName": "JUNGHANS T2M SAS",
+    "address": "Route d'Ardon, 45240 La Ferté Saint-Aubin, Frankreich",
+    "city": "La Ferté Saint-Aubin",
+    "country": "FR",
+    "description": "Das französische Tochterunternehmen der JUNGHANS Microtec GmbH mit Sitz in La Ferté St. Aubin, Frankreich, ist spezialisiert auf die Entwicklung und Fertigung elektronischer Zünder und Sicherungseinrichtungen für militärische Anwendungen.",
+    "products": ["Entwicklung und Fertigung elektronischer Zünder und Sicherungseinrichtungen"]
+  },
+  {
+    "id": "parsys-de-schrobenhausen",
+    "companyId": "diehl",
+    "lat": 48.570812,
+    "lng": 11.214439,
+    "siteName": "PARSYS GmbH",
+    "address": "Hagenauer Forst 27, 86529 Schrobenhausen",
+    "city": "Schrobenhausen",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Die PARSYS GmbH in Schrobenhausen ist ein Gemeinschaftsunternehmen der MBDA Deutschland und Diehl Defence. Als Generalunternehmer für die Hauptbewaffnung des deutschen Unterstützungshubschraubers Tiger ist die PARSYS mit der Lieferung und Betreuung der PARS3-LR-Munition beauftragt.",
+    "products": [
+      "Hauptbewaffnung des deutschen Unterstützungshubschraubers Tiger",
+      "PARS3-LR-Munition"
+    ]
+  },
+  {
+    "id": "ram-system-de-ottobrunn",
+    "companyId": "diehl",
+    "lat": 48.064756,
+    "lng": 11.650486,
+    "siteName": "RAM System GmbH",
+    "address": "Daimlerstraße 11, 85521 Ottobrunn",
+    "city": "Ottobrunn",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Die RAM System GmbH ist ein Gemeinschaftsunternehmen von Diehl Defence und der MBDA Deutschland. Zu den Aufgaben des Unternehmens gehört die Steuerung des transatlantischen RAM-Programms (Rolling Airframe Missile) in Europa und die Vermarktung des Selbstverteidigungssystems für Schiffe in ausgewählten Ländern.",
+    "products": [
+      "Steuerung des transatlantischen RAM-Programms (Rolling Airframe Missile) in Europa",
+      "Selbstverteidigungssysteme für Schiffe"
+    ]
+  },
+    {
     "id": "heckler-koch-de-oberndorf",
     "companyId": "heckler-koch",
     "lat": 48.29057,
@@ -1308,6 +1247,915 @@
       "https://www.pappers.fr/entreprise/heckler-koch-france-401481395",
       "https://www.snafam.org"
     ]
+  },
+  {
+    "id": "hensoldt-de-taufkirchen",
+    "companyId": "hensoldt",
+    "lat": 48.0167,
+    "lng": 11.8167,
+    "headquarter": true,
+    "siteName": "Hauptsitz Taufkirchen",
+    "address": "Willy-Messerschmitt-Straße 3, 82024 Taufkirchen",
+    "city": "Taufkirchen",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Konzernhauptsitz von HENSOLDT. Zentrum für Unternehmensführung, Entwicklung und Vertrieb. Eines der wichtigsten Innovationszentren der Verteidigungsindustrie in Deutschland.",
+    "sources": ["https://investors.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-de-ulm",
+    "companyId": "hensoldt",
+    "lat": 48.3984,
+    "lng": 9.9916,
+    "siteName": "Ulm",
+    "address": "Wörthstraße 85, 89077 Ulm",
+    "city": "Ulm",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Größter HENSOLDT-Standort mit rund 3.000 Mitarbeitern. Entwicklung und Produktion von Radaren, Systemen der elektronischen Kampfführung und Elektronikkomponenten. Neuer Produktionsstandort 'Ulm II' für Serienproduktion von Radaren für Luftverteidigung und Drohnenabwehr (ab 2027 ca. 1.000 Radare/Jahr).",
+    "products": ["Radare", "Elektronische Kampfführung", "Elektronikkomponenten"],
+    "sources": ["https://www.hensoldt.net/de/news/hensoldt-expands-production-capacity"]
+  },
+  {
+    "id": "hensoldt-de-oberkochen",
+    "companyId": "hensoldt",
+    "lat": 48.7833,
+    "lng": 10.1,
+    "siteName": "Oberkochen",
+    "address": "Oberkochen, Baden-Württemberg",
+    "city": "Oberkochen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Standort von HENSOLDT Optronics GmbH. Kompetenzzentrum für Optronik, Wärmebildtechnik und Zieloptiken.",
+    "sources": ["https://investors.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-de-pforzheim",
+    "companyId": "hensoldt",
+    "lat": 48.8833,
+    "lng": 8.7,
+    "siteName": "Pforzheim",
+    "address": "Pforzheim, Baden-Württemberg",
+    "city": "Pforzheim",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "HENSOLDT-Standort in Pforzheim. Teil des deutschen Standortnetzwerks.",
+    "sources": ["https://investors.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-de-fuerstenfeldbruck",
+    "companyId": "hensoldt",
+    "lat": 48.1833,
+    "lng": 11.25,
+    "siteName": "Fürstenfeldbruck",
+    "address": "Fürstenfeldbruck, Bayern",
+    "city": "Fürstenfeldbruck",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Standort seit dem Erwerb der ESG-Gruppe. Kompetenzzentrum für Elektroniksysteme und Logistik.",
+    "sources": ["https://investors.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-de-wetzlar",
+    "companyId": "hensoldt",
+    "lat": 50.55,
+    "lng": 8.5,
+    "siteName": "Wetzlar",
+    "address": "Wetzlar, Hessen",
+    "city": "Wetzlar",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "HENSOLDT-Standort in Wetzlar. Teil des deutschen Standortnetzwerks.",
+    "sources": ["https://investors.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-de-immenstaad",
+    "companyId": "hensoldt",
+    "lat": 47.6667,
+    "lng": 9.3667,
+    "siteName": "Immenstaad am Bodensee",
+    "address": "Immenstaad, Baden-Württemberg",
+    "city": "Immenstaad",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "HENSOLDT-Standort am Bodensee. Entwicklung und Produktion von Sensorlösungen.",
+    "sources": ["https://investors.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-de-kiel",
+    "companyId": "hensoldt",
+    "lat": 54.3233,
+    "lng": 10.1228,
+    "siteName": "Kiel",
+    "address": "Kiel, Schleswig-Holstein",
+    "city": "Kiel",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "HENSOLDT-Standort in Kiel. Kompetenzzentrum für Marineelektronik und Radarsysteme.",
+    "sources": ["https://investors.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-de-bremen",
+    "companyId": "hensoldt",
+    "lat": 53.08,
+    "lng": 8.8,
+    "siteName": "Bremen",
+    "address": "Bremen",
+    "city": "Bremen",
+    "state": "Bremen",
+    "country": "DE",
+    "description": "Standort seit dem Erwerb der ESG-Gruppe. Elektroniksysteme und Logistik.",
+    "sources": ["https://investors.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-de-donauwoerth",
+    "companyId": "hensoldt",
+    "lat": 48.7167,
+    "lng": 10.7833,
+    "siteName": "Donauwörth",
+    "address": "Donauwörth, Bayern",
+    "city": "Donauwörth",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Standort seit dem Erwerb der ESG-Gruppe. Kompetenzzentrum für Luftfahrtelektronik und Simulation.",
+    "sources": ["https://investors.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-de-laichingen",
+    "companyId": "hensoldt",
+    "lat": 48.4833,
+    "lng": 9.6833,
+    "siteName": "Laichingen",
+    "address": "Laichingen, Baden-Württemberg",
+    "city": "Laichingen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Neuer Logistikstandort (eröffnet 2024).",
+    "sources": ["https://annualreport.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-de-leinfelden-echterdingen",
+    "companyId": "hensoldt",
+    "lat": 48.6833,
+    "lng": 9.1333,
+    "siteName": "Leinfelden-Echterdingen (geplant)",
+    "address": "Leinfelden-Echterdingen, Baden-Württemberg",
+    "city": "Leinfelden-Echterdingen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Geplantes neues Entwicklungszentrum in Kooperation mit Bosch. Bis Ende 2027 sollen rund 300 Stellen besetzt werden. Fokus auf Software-Architekturen für vernetzte Verteidigungssysteme.",
+    "sources": ["https://www.finanzen.net/nachricht/aktien/kooperation-hensoldt-kooperiert-mit-bosch-bei-neuem-entwicklungsstandort-aktie-reagiert-15846000"]
+  },
+  {
+    "id": "hensoldt-de-aalen",
+    "companyId": "hensoldt",
+    "lat": 48.8333,
+    "lng": 10.1,
+    "siteName": "Aalen",
+    "address": "Aalen, Baden-Württemberg",
+    "city": "Aalen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "HENSOLDT-Standort in Aalen. Teil des baden-württembergischen Standortnetzwerks.",
+    "sources": ["https://www.finanzen.net"]
+  },
+  {
+    "id": "hensoldt-fr-plaisir",
+    "companyId": "hensoldt",
+    "lat": 48.8167,
+    "lng": 1.95,
+    "siteName": "HENSOLDT France SAS – Plaisir",
+    "address": "ZAC Saint Apolline, 115 Avenue de Dreux, 78370 Plaisir, Frankreich",
+    "city": "Plaisir",
+    "state": "Île-de-France",
+    "country": "FR",
+    "description": "Französischer Hauptsitz von HENSOLDT France SAS. Spezialist für Freund-Feind-Erkennung-Technologie. Rund 60 Mitarbeiter, Jahresumsatz ca. 20 Mio. Euro.",
+    "products": ["Freund-Feind-Erkennung-Systeme"],
+    "sources": ["https://www.hensoldt.net", "https://www.pappers.fr"]
+  },
+  {
+    "id": "hensoldt-gb-enfield",
+    "companyId": "hensoldt",
+    "lat": 51.65,
+    "lng": -0.05,
+    "siteName": "HENSOLDT UK – Enfield",
+    "address": "Unit 4 Voltage, 6 Mollison Avenue, Enfield EN3 7XQ, UK",
+    "city": "Enfield",
+    "country": "GB",
+    "description": "UK-Hauptsitz von HENSOLDT UK (ehemals Kelvin Hughes). Weltmarktführer für maritime Navigations- und Überwachungsradare (SharpEye). 2024 wurde das 50-jährige Jubiläum gefeiert.",
+    "products": ["Maritime Radare", "SharpEye", "Küstenüberwachungsradare"],
+    "sources": ["https://www.hensoldt.net", "https://company-information.service.gov.uk"]
+  },
+  {
+    "id": "hensoldt-za-pretoria",
+    "companyId": "hensoldt",
+    "lat": -25.75,
+    "lng": 28.1833,
+    "siteName": "HENSOLDT South Africa – Pretoria (GEW)",
+    "address": "13 De Havilland Crescent, Persequor Technopark, Pretoria 0020, Südafrika",
+    "city": "Pretoria",
+    "country": "ZA",
+    "description": "Standort der GEW Business Unit. Fokus auf Spectrum Dominance Solutions (elektronische Kampfführung, Funküberwachung).",
+    "products": ["Spectrum Dominance", "Elektronische Kampfführung"],
+    "sources": ["https://www.hensoldt.net", "https://defenceweb.co.za"]
+  },
+  {
+    "id": "hensoldt-za-irene",
+    "companyId": "hensoldt",
+    "lat": -25.8833,
+    "lng": 28.2167,
+    "siteName": "HENSOLDT South Africa – Irene",
+    "address": "Nellmapius Drive, Irene, Centurion 0157, Südafrika",
+    "city": "Irene",
+    "country": "ZA",
+    "description": "Unternehmenssitz und Optronics Business Unit von HENSOLDT South Africa. Teil der Radar Business Unit.",
+    "products": ["Optronik", "Radare"],
+    "sources": ["https://www.hensoldt.net", "https://defenceweb.co.za"]
+  },
+  {
+    "id": "hensoldt-au-canberra",
+    "companyId": "hensoldt",
+    "lat": -35.2809,
+    "lng": 149.13,
+    "siteName": "HENSOLDT Australia – Canberra (Hauptsitz)",
+    "address": "Fyshwick, Canberra, ACT 2609, Australien",
+    "city": "Canberra",
+    "state": "Australian Capital Territory",
+    "country": "AU",
+    "description": "Hauptsitz von HENSOLDT Australia. Über 30 Mitarbeiter. Radarinstallation, Wartung und Test für RAAF-Stützpunkte und Marineplattformen.",
+    "sources": ["https://www.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-au-hobart",
+    "companyId": "hensoldt",
+    "lat": -42.8821,
+    "lng": 147.3272,
+    "siteName": "HENSOLDT Australia – Hobart",
+    "address": "Hobart, Tasmanien, Australien",
+    "city": "Hobart",
+    "state": "Tasmanien",
+    "country": "AU",
+    "description": "Büro von HENSOLDT Australia.",
+    "sources": ["https://www.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-au-newcastle",
+    "companyId": "hensoldt",
+    "lat": -32.9283,
+    "lng": 151.7817,
+    "siteName": "HENSOLDT Australia – Newcastle",
+    "address": "Newcastle, New South Wales, Australien",
+    "city": "Newcastle",
+    "state": "New South Wales",
+    "country": "AU",
+    "description": "Büro von HENSOLDT Australia.",
+    "sources": ["https://www.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-au-adelaide",
+    "companyId": "hensoldt",
+    "lat": -34.9285,
+    "lng": 138.6007,
+    "siteName": "HENSOLDT Australia – Adelaide",
+    "address": "Adelaide, South Australia, Australien",
+    "city": "Adelaide",
+    "state": "South Australia",
+    "country": "AU",
+    "description": "Büro von HENSOLDT Australia.",
+    "sources": ["https://www.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-sg-singapore",
+    "companyId": "hensoldt",
+    "lat": 1.33,
+    "lng": 103.75,
+    "siteName": "HENSOLDT Singapore Pte. Ltd.",
+    "address": "10 Kallang Avenue, #09-14 Aperia Tower 2, Singapore 339510",
+    "city": "Singapore",
+    "country": "SG",
+    "description": "Asien-Pazifik-Hub von HENSOLDT. Strategische Partnerschaften mit HTX (Home Team Science and Technology Agency) für Drohnenabwehr-Systeme und mit ST Engineering für Softwaredefinierte Verteidigung.",
+    "products": ["Drohnenabwehr", "Softwaredefinierte Verteidigung"],
+    "sources": ["https://www.hensoldt.net", "https://www.htx.com"]
+  },
+  {
+    "id": "hensoldt-sa-riyadh",
+    "companyId": "hensoldt",
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "siteName": "HENSOLDT Middle East Limited Company",
+    "address": "Riyadh, Saudi-Arabien",
+    "city": "Riyadh",
+    "country": "SA",
+    "description": "Standort von HENSOLDT Middle East. 100%ige Tochtergesellschaft von HENSOLDT South Africa. Unterstützung von Projekten in Saudi-Arabien und der Golfregion.",
+    "sources": ["https://www.hensoldt.net", "https://www.marketscreener.com"]
+  },
+  {
+    "id": "hensoldt-ch-bern",
+    "companyId": "hensoldt",
+    "lat": 46.948,
+    "lng": 7.4474,
+    "siteName": "HENSOLDT Switzerland GmbH",
+    "address": "Bern, Schweiz",
+    "city": "Bern",
+    "country": "CH",
+    "description": "Schweizer Tochtergesellschaft von HENSOLDT.",
+    "sources": ["https://www.marketscreener.com"]
+  },
+  {
+    "id": "hensoldt-us-sarasota",
+    "companyId": "hensoldt",
+    "lat": 27.3364,
+    "lng": -82.5307,
+    "siteName": "HENSOLDT Avionics USA LLC – Sarasota",
+    "address": "Sarasota, Florida, USA",
+    "city": "Sarasota",
+    "state": "Florida",
+    "country": "US",
+    "description": "US-Standort für Avionik-Systeme.",
+    "sources": ["https://annualreport2022.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-us-dover",
+    "companyId": "hensoldt",
+    "lat": 39.1582,
+    "lng": -75.5244,
+    "siteName": "HENSOLDT Avionics US HoldCo. Inc. – Dover",
+    "address": "Dover, Delaware, USA",
+    "city": "Dover",
+    "state": "Delaware",
+    "country": "US",
+    "description": "US-Holdinggesellschaft für Avionik-Aktivitäten.",
+    "sources": ["https://www.eqs-news.com"]
+  },
+  {
+    "id": "hensoldt-us-beaufort",
+    "companyId": "hensoldt",
+    "lat": 32.4316,
+    "lng": -80.6698,
+    "siteName": "Nexeya USA Inc. – Beaufort",
+    "address": "Beaufort, South Carolina, USA",
+    "city": "Beaufort",
+    "state": "South Carolina",
+    "country": "US",
+    "description": "US-Standort der Nexeya-Gruppe (Teil von HENSOLDT).",
+    "sources": ["https://www.marketscreener.com"]
+  },
+  {
+    "id": "hensoldt-us-bethesda",
+    "companyId": "hensoldt",
+    "lat": 38.9847,
+    "lng": -77.0947,
+    "siteName": "Kelvin Hughes LLC – Bethesda",
+    "address": "Bethesda, Maryland, USA",
+    "city": "Bethesda",
+    "state": "Maryland",
+    "country": "US",
+    "description": "US-Standort von Kelvin Hughes (Teil von HENSOLDT UK).",
+    "sources": ["https://www.marketscreener.com"]
+  },
+  {
+    "id": "hensoldt-in-bangalore",
+    "companyId": "hensoldt",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "siteName": "HENSOLDT Private Ltd. – Bangalore",
+    "address": "Bangalore, Indien",
+    "city": "Bangalore",
+    "country": "IN",
+    "description": "Indische Tochtergesellschaft von HENSOLDT.",
+    "sources": ["https://www.marketscreener.com"]
+  },
+  {
+    "id": "hensoldt-kr-seoul",
+    "companyId": "hensoldt",
+    "lat": 37.5665,
+    "lng": 126.978,
+    "siteName": "LnZ Optronics Co. Ltd. – Seoul",
+    "address": "Seoul, Südkorea",
+    "city": "Seoul",
+    "country": "KR",
+    "description": "Südkoreanischer Standort von LnZ Optronics (Gemeinschaftsunternehmen mit HENSOLDT).",
+    "sources": ["https://www.marketscreener.com"]
+  },
+  {
+    "id": "hensoldt-nl-venlo",
+    "companyId": "hensoldt",
+    "lat": 51.37,
+    "lng": 6.172,
+    "siteName": "Nedinsco – Venlo",
+    "address": "Venlo, Niederlande",
+    "city": "Venlo",
+    "country": "NL",
+    "description": "Standort von Nedinsco (Teil von HENSOLDT). Optronik und Präzisionsmechanik.",
+    "products": ["Optronik", "Präzisionsmechanik"],
+    "sources": ["https://www.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-nl-eindhoven",
+    "companyId": "hensoldt",
+    "lat": 51.4416,
+    "lng": 5.4697,
+    "siteName": "Nedinsco – Eindhoven",
+    "address": "Eindhoven, Niederlande",
+    "city": "Eindhoven",
+    "country": "NL",
+    "description": "Zweiter Standort von Nedinsco in den Niederlanden.",
+    "sources": ["https://www.hensoldt.net"]
+  },
+  {
+    "id": "hensoldt-br-sao-paulo",
+    "companyId": "hensoldt",
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "siteName": "HENSOLDT do Brasil – São Paulo",
+    "address": "São Paulo, Brasilien",
+    "city": "São Paulo",
+    "country": "BR",
+    "description": "Brasilianische Tochtergesellschaft von HENSOLDT.",
+    "sources": ["https://www.marketscreener.com"]
+  },
+  {
+    "id": "hensoldt-be-mouscron",
+    "companyId": "hensoldt",
+    "lat": 50.7447,
+    "lng": 3.2144,
+    "siteName": "HENSOLDT Nexeya Belgium SRL – Mouscron",
+    "address": "Mouscron, Belgien",
+    "city": "Mouscron",
+    "country": "BE",
+    "description": "Belgischer Standort der Nexeya-Gruppe (Teil von HENSOLDT).",
+    "sources": ["https://www.marketscreener.com"]
+  },
+  {
+    "id": "knds-de-muenchen",
+    "companyId": "knds-de",
+    "lat": 48.1936196,
+    "lng": 11.4695279,
+    "headquarter": true,
+    "siteName": "Hauptsitz München",
+    "address": "Krauss-Maffei-Straße 11, 80997 München",
+    "city": "München",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz von KNDS Deutschland. Entwicklungs- und Fertigungskompetenz für gepanzerte Rad- und Kettenfahrzeuge.",
+    "sources": ["https://knds.com/en/subsidiaries/knds-deutschland"]
+  },
+  {
+    "id": "knds-de-kassel",
+    "companyId": "knds-de",
+    "lat": 51.323,
+    "lng": 9.482,
+    "siteName": "Werk Kassel",
+    "address": "Wolfhager Straße 40, 34117 Kassel",
+    "city": "Kassel",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "Zweitgrößter KNDS-Deutschland-Standort mit drei Produktionsstandorten und einem Logistikstandort. Entwicklung und Produktion moderner Turmsysteme für den LEOPARD 2 A8 und die RCH 155.",
+    "products": ["Leopard 2 A8 Turmsysteme", "RCH 155 Artillerie-Geschützmodul"],
+    "sources": ["https://knds.com/en/press-releases/defense-minister-boris-pistorius-visits-knds-provides-information-on-production-ramp-up-at-key-kassel-site"]
+  },
+  {
+    "id": "knds-de-fuldatal",
+    "companyId": "knds-de",
+    "lat": 51.3615,
+    "lng": 9.4754,
+    "siteName": "Logistikstandort Fuldatal-Ihringshausen",
+    "address": "Gewerbegebiet Ihringshausen-West, 34233 Fuldatal",
+    "city": "Fuldatal",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "Logistikstandort für das Kasseler Werk.",
+    "sources": ["https://www.hessenschau.de"]
+  },
+  {
+    "id": "knds-de-hamburg",
+    "companyId": "knds-de",
+    "lat": 53.53,
+    "lng": 9.98,
+    "siteName": "KNDS Deutschland Steel Constructions GmbH",
+    "address": "Hermann-Blohm-Straße 3, 20457 Hamburg",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "country": "DE",
+    "description": "Kompetenzzentrum für Panzerstahlbearbeitung und Schweißtechnik. Fertigung von Gehäusen aus dickem Blech für schwere Kampffahrzeuge.",
+    "products": ["Panzerstahlbearbeitung", "geschweißte Fahrzeuggehäuse"],
+    "sources": ["https://knds.com", "https://www.vocatium.de"]
+  },
+  {
+    "id": "knds-de-remscheid",
+    "companyId": "knds-de",
+    "lat": 51.185,
+    "lng": 7.185,
+    "siteName": "KNDS Deutschland Tracks GmbH",
+    "address": "Vieringhausen 118, 42857 Remscheid",
+    "city": "Remscheid",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Weltweit führender Entwickler und Hersteller von Ketten und Fahrwerkskomponenten für Panzer und gepanzerte Fahrzeuge. Liefert an über 60 Länder.",
+    "products": ["Panzerketten", "Laufwerkskomponenten"],
+    "sources": ["https://knds.com"]
+  },
+  {
+    "id": "knds-de-muelheim",
+    "companyId": "knds-de",
+    "lat": 51.427,
+    "lng": 6.88,
+    "siteName": "KNDS FWH Castings GmbH",
+    "address": "Friedrich-Ebert-Straße 125, 45473 Mülheim an der Ruhr",
+    "city": "Mülheim an der Ruhr",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Stahlgießerei mit über 200 Jahren Tradition. Fertigt Bauteile für Panzer und Kampffahrzeuge.",
+    "products": ["Stahlguss", "Panzerstahl"],
+    "sources": ["https://knds.com"]
+  },
+  {
+    "id": "knds-de-ebeleben",
+    "companyId": "knds-de",
+    "lat": 51.2863918,
+    "lng": 10.733333,
+    "siteName": "KNDS Deutschland Battle Tank Dismantling GmbH",
+    "address": "Am Schlotheimer Berg 3, 99713 Ebeleben OT Rockensußra",
+    "city": "Ebeleben",
+    "state": "Thüringen",
+    "country": "DE",
+    "description": "Spezialisiert auf die Demilitarisierung und Verschrottung von Militärtechnik, Recycling von Metallen sowie Handel mit Ersatzteilen.",
+    "products": ["Demilitarisierung", "Recycling"],
+    "sources": ["https://www.invest-in-thuringia.de"]
+  },
+  {
+    "id": "knds-de-goerlitz",
+    "companyId": "knds-de",
+    "lat": 51.15836,
+    "lng": 14.96673,
+    "siteName": "Werk Görlitz",
+    "address": "Christoph-Lüders-Straße 24, 02826 Görlitz",
+    "city": "Görlitz",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Ehemaliges Alstom-Bahnwerk, 2025 von KNDS übernommen. Rohbauzentrum für geschweißte Wannen und Kabinen für Militärfahrzeuge.",
+    "products": ["Leopard 2 Baugruppen", "Puma Baugruppen", "Boxer Module", "GTF3 Kabinen"],
+    "sources": ["https://knds.com", "https://www.mdr.de"]
+  },
+  {
+    "id": "knds-de-freisen",
+    "companyId": "knds-de",
+    "lat": 49.53411,
+    "lng": 7.29388,
+    "siteName": "KNDS Deutschland Maintenance GmbH",
+    "address": "Industriegebiet Schwarzerden, 66629 Freisen",
+    "city": "Freisen",
+    "state": "Saarland",
+    "country": "DE",
+    "description": "Zentrum für Panzerproduktion und Instandsetzung. Endmontage des Patria 6x6 Radpanzers für die Bundeswehr ab 2027.",
+    "products": ["Patria 6x6 Endmontage", "Instandsetzung"],
+    "sources": ["https://www.saarbruecker-zeitung.de", "https://esut.de"]
+  },
+  {
+    "id": "knds-de-berlin",
+    "companyId": "knds-de",
+    "lat": 52.5172,
+    "lng": 13.3797,
+    "siteName": "Hauptstadtrepräsentanz Berlin",
+    "address": "Ebertstraße 24 / Pariser Platz 6a, 10117 Berlin",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "DE",
+    "description": "Hauptstadtrepräsentanz als Schnittstelle zur Politik und Bundeswehr.",
+    "sources": ["https://www.knds.de/"]
+  },
+  {
+    "id": "knds-de-neue-standorte",
+    "companyId": "knds-de",
+    "lat": 51.0,
+    "lng": 10.0,
+    "siteName": "Geplante neue Produktionsstätten",
+    "country": "DE",
+    "description": "KNDS plant zwei zusätzliche Produktionsstätten in Deutschland: eine für die komplette Fertigungskette von Radfahrzeugen (Boxer) und eine als Schweißstandort. Die genauen Standorte und Koordinaten sind noch nicht bekannt gegeben.",
+    "sources": ["https://www.faz.net"]
+  },
+  {
+    "id": "knds-de-landau-isar",
+    "companyId": "knds-de",
+    "lat": 48.6745,
+    "lng": 12.693,
+    "siteName": "DRÄXLMAIER – Boxer Missionmodule",
+    "address": "Landau an der Isar, Bayern",
+    "city": "Landau an der Isar",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Produktionsstandort der DRÄXLMAIER Group für Boxer-Missionmodule. Im Rahmen der strategischen Partnerschaft mit KNDS fertigt DRÄXLMAIER hier Missionmodule für das geschützte 8x8-Radfahrzeug BOXER.",
+    "products": ["Boxer Missionmodule"],
+    "sources": ["https://knds.com", "https://boerse-express.com"]
+  },
+  {
+    "id": "knds-de-volos",
+    "companyId": "knds-de",
+    "lat": 39.3667,
+    "lng": 22.9333,
+    "siteName": "KNDS Hellas",
+    "address": "1. Industriegebiet Volos, 38500 Volos",
+    "city": "Volos",
+    "country": "GR",
+    "description": "100-prozentige griechische Tochtergesellschaft von KNDS Deutschland (gegr. 2001). Komplettdienstleister für Wartung und Ersatzteile. Beteiligt am VBCI Philoctetes-Programm.",
+    "products": ["Wartung", "Ersatzteile", "Metallkonstruktion"],
+    "sources": ["https://knds.com", "https://www.verif.com"]
+  },
+  {
+    "id": "knds-de-godollo",
+    "companyId": "knds-de",
+    "lat": 47.6,
+    "lng": 19.35,
+    "siteName": "LEOPARD Hungary MRO Kft.",
+    "address": "Gödöllő",
+    "city": "Gödöllő",
+    "country": "HU",
+    "description": "Gemeinschaftsunternehmen von KNDS Deutschland und HM Currus Zrt. (51:49). Langfristige logistische Unterstützung aller KNDS-Systeme der ungarischen Armee.",
+    "products": ["Instandhaltung, Reparatur und Überholung"],
+    "sources": ["https://knds.com", "https://defence.hu"]
+  },
+  {
+    "id": "knds-de-santa-maria",
+    "companyId": "knds-de",
+    "lat": -29.6833,
+    "lng": -53.8,
+    "siteName": "KNDS do Brasil Sistemas de Defesa Ltda",
+    "address": "Rodovia BR 287, km 256, Boca do Monte, 97170-970 Santa Maria (RS)",
+    "city": "Santa Maria",
+    "country": "BR",
+    "description": "Tochtergesellschaft von KNDS Deutschland. Modernisierung von Leopard 1A5BR, Produktion und Wartung gepanzerter Fahrzeuge.",
+    "products": ["Leopard 1A5BR Modernisierung", "Gepanzerte Fahrzeuge"],
+    "sources": ["https://knds.com", "https://www.defesaemfoco.com.br"]
+  },
+  {
+    "id": "knds-de-singapore",
+    "companyId": "knds-de",
+    "lat": 1.33,
+    "lng": 103.75,
+    "siteName": "KNDS Singapore Platforms Pte Ltd",
+    "address": "25 International Business Park, #04-102 German Centre, 609916 Singapore",
+    "city": "Singapore",
+    "country": "SG",
+    "description": "Vertriebs- und Marketingstandort für die Asien-Pazifik-Region (gegr. 2009).",
+    "sources": ["https://knds.com"]
+  },
+  {
+    "id": "knds-de-jakarta",
+    "companyId": "knds-de",
+    "lat": -6.2088,
+    "lng": 106.8456,
+    "siteName": "KNDS Indonesia – Regionalbüro Jakarta",
+    "address": "Jakarta",
+    "city": "Jakarta",
+    "country": "ID",
+    "description": "Regionales Büro (gegr. 2022). Strategische Industriepartnerschaft mit der indonesischen Verteidigungsindustrie, u.a. Transfer von Großkaliber-Munitionsfertigung.",
+    "sources": ["https://knds.com", "https://www.inews.id"]
+  },
+  {
+    "id": "knds-nv-amsterdam",
+    "companyId": "knds-nv",
+    "lat": 52.3385,
+    "lng": 4.8729,
+    "headquarter": true,
+    "siteName": "KNDS N.V. Hauptsitz",
+    "address": "Gustav Mahlerlaan 1017, 1082 MK Amsterdam",
+    "city": "Amsterdam",
+    "country": "NL",
+    "description": "Konzernhauptsitz der KNDS N.V., der deutsch-französischen Holding.",
+    "sources": ["https://knds.com"]
+  },
+  {
+    "id": "knds-fr-versailles",
+    "companyId": "knds-fr",
+    "lat": 48.8014,
+    "lng": 2.1301,
+    "headquarter": true,
+    "siteName": "KNDS France – Hauptsitz Versailles-Satory",
+    "address": "13 route de la Minière, 78034 Versailles",
+    "city": "Versailles",
+    "state": "Île-de-France",
+    "country": "FR",
+    "description": "Französischer Hauptsitz und Zentrum für die Leclerc-Panzerfertigung.",
+    "products": ["Leclerc Kampfpanzer", "CAESAR Artilleriesystem"],
+    "sources": ["https://knds.com/en/subsidiaries/knds-france"]
+  },
+  {
+    "id": "knds-fr-roanne",
+    "companyId": "knds-fr",
+    "lat": 46.0367,
+    "lng": 4.0689,
+    "siteName": "KNDS France Roanne",
+    "address": "Roanne, 42300",
+    "city": "Roanne",
+    "state": "Auvergne-Rhône-Alpes",
+    "country": "FR",
+    "description": "Historische Waffenfabrik (seit 1917). Fertigung von gepanzerten Fahrzeugen und Artilleriesystemen.",
+    "products": ["Serval VBMR", "CAESAR"],
+    "sources": ["https://www.lyoncapitale.fr"]
+  },
+  {
+    "id": "knds-fr-bourges",
+    "companyId": "knds-fr",
+    "lat": 47.081,
+    "lng": 2.398,
+    "siteName": "KNDS France Bourges",
+    "address": "Bourges, 18000",
+    "city": "Bourges",
+    "state": "Centre-Val de Loire",
+    "country": "FR",
+    "description": "Standort für Artillerie- und Munitionsfertigung.",
+    "products": ["Artillerie", "Munition"],
+    "sources": ["https://www.defense.gouv.fr"]
+  },
+  {
+    "id": "knds-fr-limoges",
+    "companyId": "knds-fr",
+    "lat": 45.8336,
+    "lng": 1.2611,
+    "siteName": "KNDS Mobility Limoges",
+    "address": "Limoges, 87000",
+    "city": "Limoges",
+    "state": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "description": "KNDS Mobility – Spezialisiert auf kinematische Ketten, Hybridisierung und Energiemanagement für gepanzerte Fahrzeuge.",
+    "products": ["Antriebssysteme", "Hybridisierung"],
+    "sources": ["https://www.lavoixdefrance.fr"]
+  },
+  {
+    "id": "knds-fr-la-chapelle",
+    "companyId": "knds-fr",
+    "lat": 47.05,
+    "lng": 2.35,
+    "siteName": "KNDS Ammo France La Chapelle-Saint-Ursin",
+    "address": "La Chapelle-Saint-Ursin, 18570",
+    "city": "La Chapelle-Saint-Ursin",
+    "state": "Centre-Val de Loire",
+    "country": "FR",
+    "description": "Munitionsfertigung.",
+    "products": ["Munition"],
+    "sources": ["https://www.defense.gouv.fr"]
+  },
+  {
+    "id": "knds-fr-satory",
+    "companyId": "knds-fr",
+    "lat": 48.78,
+    "lng": 2.1,
+    "siteName": "KNDS France Satory",
+    "address": "Satory, 78000 Versailles",
+    "city": "Versailles",
+    "state": "Île-de-France",
+    "country": "FR",
+    "description": "Produktionsstandort für gepanzerte Fahrzeuge (Serval, Griffon).",
+    "products": ["Serval", "Griffon"],
+    "sources": ["https://www.defense.gouv.fr"]
+  },
+  {
+    "id": "knds-fr-tulle",
+    "companyId": "knds-fr",
+    "lat": 45.2667,
+    "lng": 1.7667,
+    "siteName": "KNDS France Tulle",
+    "address": "Tulle, 19000",
+    "city": "Tulle",
+    "state": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "description": "Standort für Waffensysteme und Optronik.",
+    "products": ["Waffensysteme", "Optronik"],
+    "sources": ["https://www.defense.gouv.fr"]
+  },
+  {
+    "id": "knds-fr-tarbes",
+    "companyId": "knds-fr",
+    "lat": 43.2333,
+    "lng": 0.0833,
+    "siteName": "KNDS France Tarbes",
+    "address": "Tarbes, 65000",
+    "city": "Tarbes",
+    "state": "Occitanie",
+    "country": "FR",
+    "description": "Standort für Mechanik und Präzisionsfertigung.",
+    "products": ["Präzisionsmechanik"],
+    "sources": ["https://www.defense.gouv.fr"]
+  },
+  {
+    "id": "knds-fr-plessis",
+    "companyId": "knds-fr",
+    "lat": 48.7833,
+    "lng": 2.2333,
+    "siteName": "KNDS France Plessis-Robinson",
+    "address": "Plessis-Robinson, 92350",
+    "city": "Plessis-Robinson",
+    "state": "Île-de-France",
+    "country": "FR",
+    "description": "Standort für Raketensysteme und Munition.",
+    "products": ["Raketensysteme", "Munition"],
+    "sources": ["https://www.defense.gouv.fr"]
+  },
+  {
+    "id": "knds-fr-saint-chamond",
+    "companyId": "knds-fr",
+    "lat": 45.4667,
+    "lng": 4.5167,
+    "siteName": "KNDS France Saint-Chamond",
+    "address": "Saint-Chamond, 42400",
+    "city": "Saint-Chamond",
+    "state": "Auvergne-Rhône-Alpes",
+    "country": "FR",
+    "description": "Standort für Panzerkomponenten und Mechanik.",
+    "products": ["Panzerkomponenten"],
+    "sources": ["https://www.defense.gouv.fr"]
+  },
+  {
+    "id": "knds-uk-stockport",
+    "companyId": "knds-uk",
+    "lat": 53.4167,
+    "lng": -2.1667,
+    "siteName": "KNDS UK Stockport",
+    "address": "Sir Richard Fairey Road, Heaton Chapel, Stockport SK4 5DY",
+    "city": "Stockport",
+    "country": "GB",
+    "description": "Fertigungsstandort für Boxer-Radpanzer (Antriebsmodule) für die britische Armee. Auch Kompetenzzentrum für militärische Brücken (DSB, MGB).",
+    "products": ["Boxer Antriebsmodule", "Militärbrücken"],
+    "sources": ["https://uk.linkedin.com/company/knds-uk", "https://knds.com"]
+  },
+  {
+    "id": "knds-be-belgium",
+    "companyId": "knds-int",
+    "lat": 50.5667,
+    "lng": 4.3667,
+    "siteName": "KNDS Belgium",
+    "address": "Petit-Roeulx-lez-Nivelles, 7181",
+    "city": "Petit-Roeulx-lez-Nivelles",
+    "country": "BE",
+    "description": "Industriestandort mit 80-jähriger Tradition. Neue Produktionslinie für 155-mm-Artilleriegeschosse (UCGC), eingeweiht im November 2025. 350 Mitarbeiter.",
+    "products": ["155 mm Artilleriemunition", "Großkaliber-Bearbeitung"],
+    "sources": ["https://www.edrmagazine.eu", "https://knds.com"]
+  },
+  {
+    "id": "knds-it-colleferro",
+    "companyId": "knds-int",
+    "lat": 41.7333,
+    "lng": 13.0167,
+    "siteName": "KNDS Ammo Italy Colleferro",
+    "address": "Colleferro, Lazio",
+    "city": "Colleferro",
+    "country": "IT",
+    "description": "Historisches Munitionswerk (1912 gegründet, 100 Hektar). Produktion von Mittel- und Großkalibermunition sowie Festbrennstoffen für Raumfahrt-Trägerraketen.",
+    "products": ["Mittel- und Großkalibermunition", "Festbrennstoffe"],
+    "sources": ["https://defensemirror.com", "https://it.euronews.com"]
+  },
+  {
+    "id": "knds-it-anagni",
+    "companyId": "knds-int",
+    "lat": 41.75,
+    "lng": 13.15,
+    "siteName": "KNDS Ammo Italy Anagni",
+    "address": "Anagni, Frosinone",
+    "city": "Anagni",
+    "country": "IT",
+    "description": "Spezialisiert auf Demilitarisierung. Neuer Standort für Nitrogelatin-Produktion im Aufbau.",
+    "products": ["Demilitarisierung", "Nitrogelatin"],
+    "sources": ["https://it.euronews.com", "https://www.tgcom24.mediaset.it"]
+  },
+  {
+    "id": "knds-sa-riyadh",
+    "companyId": "knds-int",
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "siteName": "KNDS Arabia / WAHAJ",
+    "address": "Riyadh",
+    "city": "Riyadh",
+    "country": "SA",
+    "description": "Gemeinschaftsunternehmen mit GAMI zur Produktion von Artillerierohren (105 mm und 155 mm). Partnerschaft mit WAHAJ für 155-mm-Munition im Rahmen der KSA Vision 2030.",
+    "products": ["Artillerierohre", "155-mm-Munition"],
+    "sources": ["https://maaal.com", "https://english.defensearabia.com"]
+  },
+  {
+    "id": "knds-us-lynchburg",
+    "companyId": "knds-int",
+    "lat": 37.4138,
+    "lng": -79.1422,
+    "siteName": "KNDS USA Inc.",
+    "address": "30 Mill Race Dr, Lynchburg, VA 24502",
+    "city": "Lynchburg",
+    "state": "Virginia",
+    "country": "US",
+    "description": "US-Hauptsitz und primäre Fertigungsstätte. Auftragsfertiger für US-Verteidigungsaufträge und Programme der Auslandsmilitärverkäufe. Fertigt hochfeste Komponenten und Trainingssimulatoren.",
+    "products": ["Auftragsfertigung", "Trainingssimulatoren"],
+    "sources": ["https://www.wegmannusa.com"]
+  },
+  {
+    "id": "knds-ua-kyiv",
+    "companyId": "knds-int",
+    "lat": 50.45,
+    "lng": 30.5233,
+    "siteName": "KNDS Ukraine LLC",
+    "address": "Kyiv",
+    "city": "Kyiv",
+    "country": "UA",
+    "description": "Tochtergesellschaft in Kyiv (eröffnet 2024). Unterstützt die Zusammenarbeit mit ukrainischen Regierungsstellen und der Rüstungsindustrie. Aufbau eines Instandhaltungs-, Reparatur- und Überholungszentrums für CAESAR-Artillerie und Produktion von 155-mm-Munition.",
+    "products": ["Instandhaltung, Reparatur und Überholung", "155-mm-Munition"],
+    "sources": ["https://knds.com", "https://militarnyi.com"]
   },
   {
     "id": "mbda-de-schrobenhausen",
@@ -1875,410 +2723,6 @@
     "sources": ["https://www.edrmagazine.eu", "https://aviationweek.com"]
   },
   {
-    "id": "tkms-de-kiel",
-    "companyId": "tkms",
-    "lat": 54.3233,
-    "lng": 10.1228,
-    "headquarter": true,
-    "siteName": "thyssenkrupp Marine Systems – Kiel",
-    "address": "Werftstraße 112-114, 24143 Kiel",
-    "city": "Kiel",
-    "state": "Schleswig-Holstein",
-    "country": "DE",
-    "description": "Hauptstandort von TKMS und Zentrum des U-Boot-Baus. Seit 2019 über 250 Mio. Euro investiert, u.a. in eine neue Schiffbauhalle. Hier werden die U-Boote der 212CD- und 214-Klasse gefertigt. Größter deutscher Marinewerft-Standort.",
-    "products": ["U-Boote (212CD, 214)", "Fregatten", "Korvetten"],
-    "sources": ["https://www.thyssenkrupp.com"]
-  },
-  {
-    "id": "tkms-de-wismar",
-    "companyId": "tkms",
-    "lat": 53.89,
-    "lng": 11.46,
-    "siteName": "thyssenkrupp Marine Systems – Wismar",
-    "address": "Wismar, Mecklenburg-Vorpommern",
-    "city": "Wismar",
-    "state": "Mecklenburg-Vorpommern",
-    "country": "DE",
-    "description": "2022 übernommener ehemaliger MV-Werften-Standort. Investitionen von über 100 Mio. Euro geplant. Ergänzt die U-Boot-Fertigung in Kiel.",
-    "sources": ["https://www.tageblatt.de"]
-  },
-  {
-    "id": "tkms-de-hamburg",
-    "companyId": "tkms",
-    "lat": 53.53,
-    "lng": 9.98,
-    "siteName": "thyssenkrupp Marine Systems – Hamburg",
-    "address": "Hamburg",
-    "city": "Hamburg",
-    "state": "Hamburg",
-    "country": "DE",
-    "description": "Standort für Marine Systeme in Hamburg.",
-    "sources": ["https://www.thyssenkrupp.com"]
-  },
-  {
-    "id": "tkms-de-bremen",
-    "companyId": "tkms",
-    "lat": 53.08,
-    "lng": 8.8,
-    "siteName": "thyssenkrupp Marine Systems – Bremen",
-    "address": "Bremen",
-    "city": "Bremen",
-    "state": "Bremen",
-    "country": "DE",
-    "description": "Inländischer TKMS-Standort in Bremen.",
-    "sources": ["https://www.thyssenkrupp.com"]
-  },
-  {
-    "id": "tkms-de-wedel",
-    "companyId": "tkms",
-    "lat": 53.5833,
-    "lng": 9.7,
-    "siteName": "thyssenkrupp Marine Systems – Wedel",
-    "address": "Wedel, Schleswig-Holstein",
-    "city": "Wedel",
-    "state": "Schleswig-Holstein",
-    "country": "DE",
-    "description": "Standort für Marine Systeme in Wedel bei Hamburg.",
-    "sources": ["https://www.thyssenkrupp.com"]
-  },
-  {
-    "id": "tkms-de-flintbek",
-    "companyId": "tkms",
-    "lat": 54.25,
-    "lng": 10.0667,
-    "siteName": "thyssenkrupp Marine Systems – Flintbek",
-    "address": "Flintbek, Schleswig-Holstein",
-    "city": "Flintbek",
-    "state": "Schleswig-Holstein",
-    "country": "DE",
-    "description": "Standort für Marine Systeme in Flintbek bei Kiel.",
-    "sources": ["https://www.thyssenkrupp.com"]
-  },
-  {
-    "id": "tkms-de-emden",
-    "companyId": "tkms",
-    "lat": 53.3667,
-    "lng": 7.2,
-    "siteName": "thyssenkrupp Marine Systems – Emden",
-    "address": "Emden, Niedersachsen",
-    "city": "Emden",
-    "state": "Niedersachsen",
-    "country": "DE",
-    "description": "Werftstandort von TKMS in Emden.",
-    "sources": ["https://www.thyssenkrupp.com"]
-  },
-  {
-    "id": "atlas-bremen",
-    "companyId": "atlas-elektronik",
-    "lat": 53.0644,
-    "lng": 8.8899,
-    "headquarter": true,
-    "siteName": "Hauptsitz Bremen-Sebaldsbrück",
-    "address": "Sebaldsbrücker Heerstraße 235, 28309 Bremen",
-    "city": "Bremen",
-    "state": "Bremen",
-    "country": "DE",
-    "description": "Hauptsitz von ATLAS ELEKTRONIK. Hier befinden sich die zentrale Entwicklung, Produktion und Verwaltung. Kompetenzzentrum für Sonarsysteme, Führungssysteme und Waffeneinsatzsysteme für U-Boote und Überwasserschiffe. ATLAS EMS (Engineering, Manufacturing & Service) ist der Kompetenzbereich für Entwicklung, Produktion und Service mit Sitz in Bremen.",
-    "products": [
-      "Sonarsysteme",
-      "Führungssysteme",
-      "Waffeneinsatzsysteme"
-    ],
-    "sources": [
-      "https://www.atlas-ems.de",
-      "https://edmo.seadatanet.org"
-    ]
-  },
-  {
-    "id": "atlas-wedel",
-    "companyId": "atlas-elektronik",
-    "lat": 53.583,
-    "lng": 9.699,
-    "siteName": "Standort Wedel",
-    "address": "Feldstraße 172, 22880 Wedel",
-    "city": "Wedel",
-    "state": "Schleswig-Holstein",
-    "country": "DE",
-    "description": "Zweigstelle von ATLAS ELEKTRONIK bei Hamburg. Entwicklung und Fertigung von Marineelektronik, insbesondere Sonar- und Sensorsystemen.",
-    "products": [
-      "Sonarsysteme",
-      "Sensorsysteme"
-    ],
-    "sources": [
-      "https://www.uae.atlas-elektronik.com"
-    ]
-  },
-  {
-    "id": "atlas-wilhelmshaven",
-    "companyId": "atlas-elektronik",
-    "lat": 53.5283,
-    "lng": 8.1122,
-    "siteName": "Standort Wilhelmshaven",
-    "address": "Bontekai 55, 26382 Wilhelmshaven",
-    "city": "Wilhelmshaven",
-    "state": "Niedersachsen",
-    "country": "DE",
-    "description": "Zweigstelle von ATLAS ELEKTRONIK. Integration und Support von Marineelektroniksystemen.",
-    "products": [
-      "Integration",
-      "Support"
-    ],
-    "sources": [
-      "https://www.uae.atlas-elektronik.com"
-    ]
-  },
-  {
-    "id": "atlas-koblenz",
-    "companyId": "atlas-elektronik",
-    "lat": 50.3567,
-    "lng": 7.5942,
-    "siteName": "Standort Koblenz",
-    "address": "Kastorstraße 3, 56068 Koblenz",
-    "city": "Koblenz",
-    "state": "Rheinland-Pfalz",
-    "country": "DE",
-    "description": "Standort von ATLAS ELEKTRONIK in Koblenz als Schnittstelle zur Bundeswehr und deren im Großraum Köln-Bonn-Koblenz angesiedelten Dienststellen.",
-    "sources": [
-      "https://www.uae.atlas-elektronik.com"
-    ]
-  },
-  {
-    "id": "atlas-kiel",
-    "companyId": "atlas-elektronik",
-    "lat": 54.3233,
-    "lng": 10.1228,
-    "siteName": "Standort Kiel",
-    "address": "Werftstraße 112-114, 24143 Kiel",
-    "city": "Kiel",
-    "state": "Schleswig-Holstein",
-    "country": "DE",
-    "description": "Standort von ATLAS ELEKTRONIK im Kieler Werftgebiet. Marineelektronik und Integration.",
-    "sources": [
-      "https://www.uae.atlas-elektronik.com"
-    ]
-  },
-  {
-    "id": "atlas-flintbek",
-    "companyId": "atlas-elektronik",
-    "lat": 54.249,
-    "lng": 10.065,
-    "siteName": "Hagenuk Marinekommunikation GmbH – Flintbek",
-    "address": "Hamburger Chaussee 251, 24220 Flintbek",
-    "city": "Flintbek",
-    "state": "Schleswig-Holstein",
-    "country": "DE",
-    "description": "Tochterunternehmen der ATLAS ELEKTRONIK GmbH mit Sitz in Flintbek bei Kiel. Projektierung, Entwicklung und Montage von schlüsselfertigen Funksystemen zum Einsatz auf Marineeinheiten weltweit.",
-    "products": [
-      "Marinekommunikationssysteme",
-      "Funksysteme"
-    ],
-    "sources": [
-      "https://www.atlas-elektronik.com"
-    ]
-  },
-  {
-    "id": "atlas-uk-dorchester",
-    "companyId": "atlas-elektronik",
-    "lat": 50.71,
-    "lng": -2.24,
-    "siteName": "ATLAS ELEKTRONIK UK Ltd – Dorset",
-    "address": "Dorset Innovation Park, Winfrith Newburgh, Dorchester DT2 8ZB, United Kingdom",
-    "city": "Dorchester",
-    "country": "GB",
-    "description": "Britische Tochtergesellschaft ATLAS ELEKTRONIK UK Ltd (AEUK). Mit über 500 Mitarbeitern die größte Tochtergesellschaft der ATLAS-Gruppe. Entwicklung und Lieferung von Unterwassersystemen und maritimer Technologie für die Royal Navy und internationale Kunden.",
-    "products": [
-      "Unterwassersysteme",
-      "Maritime Technologie"
-    ],
-    "sources": [
-      "https://www.uk.atlas-elektronik.com",
-      "https://find-and-update.company-information.service.gov.uk"
-    ]
-  },
-  {
-    "id": "atlas-australia-sydney",
-    "companyId": "atlas-elektronik",
-    "lat": -33.8235,
-    "lng": 151.194,
-    "siteName": "SONARTECH ATLAS Pty Ltd – Sydney",
-    "address": "Unit 6, Herbert Street, St Leonards NSW 2065, Australien",
-    "city": "Sydney",
-    "state": "New South Wales",
-    "country": "AU",
-    "description": "Australische Tochtergesellschaft SONARTECH ATLAS Pty Ltd (60% ATLAS ELEKTRONIK). Spezialisiert auf Design, Entwicklung und Support von Sonarprozessoren und Analysesystemen für marine Anwendungen.",
-    "products": [
-      "Sonarprozessoren",
-      "Analysesysteme"
-    ],
-    "sources": [
-      "https://www.sonartech.atlas-elektronik.com"
-    ]
-  },
-  {
-    "id": "atlas-australia-macquarie",
-    "companyId": "atlas-elektronik",
-    "lat": -33.7858,
-    "lng": 151.1214,
-    "siteName": "SONARTECH ATLAS – Macquarie Park",
-    "address": "16 Giffnock Avenue, Unit G01, Macquarie Park NSW 2113, Australien",
-    "city": "Sydney",
-    "state": "New South Wales",
-    "country": "AU",
-    "description": "Zweiter Standort von SONARTECH ATLAS in Australien.",
-    "sources": [
-      "https://au.linkedin.com/company/tkms-sonartech-atlas"
-    ]
-  },
-  {
-    "id": "atlas-usa-virginia-beach",
-    "companyId": "atlas-elektronik",
-    "lat": 36.8529,
-    "lng": -75.978,
-    "siteName": "ATLAS North America LLC – Virginia Beach",
-    "address": "208 Golden Oak Ct, Suite 415, Virginia Beach, VA 23452, USA",
-    "city": "Virginia Beach",
-    "state": "Virginia",
-    "country": "US",
-    "description": "US-Tochtergesellschaft ATLAS North America LLC mit Sitz in Virginia Beach in der Nähe des Hauptquartiers der US-Atlantikflotte in Norfolk.",
-    "sources": [
-      "https://www.selling.com",
-      "https://www.marinelink.com"
-    ]
-  },
-  {
-    "id": "atlas-usa-yorktown",
-    "companyId": "atlas-elektronik",
-    "lat": 37.238,
-    "lng": -76.51,
-    "siteName": "ATLAS North America LLC – Yorktown",
-    "address": "120 Newsome Dr, Yorktown, VA 23692, USA",
-    "city": "Yorktown",
-    "state": "Virginia",
-    "country": "US",
-    "description": "Zweiter US-Standort von ATLAS North America LLC.",
-    "sources": [
-      "https://www.signalhire.com"
-    ]
-  },
-  {
-    "id": "atlas-canada-victoria",
-    "companyId": "atlas-elektronik",
-    "lat": 48.4284,
-    "lng": -123.3656,
-    "siteName": "ATLAS ELEKTRONIK Canada Ltd. – Victoria",
-    "address": "Victoria, BC, Kanada",
-    "city": "Victoria",
-    "state": "British Columbia",
-    "country": "CA",
-    "description": "Kanadische Tochtergesellschaft ATLAS ELEKTRONIK Canada Ltd. mit Sitz in Victoria, British Columbia.",
-    "sources": [
-      "https://www.thyssenkrupp.com"
-    ]
-  },
-  {
-    "id": "atlas-finland-espoo",
-    "companyId": "atlas-elektronik",
-    "lat": 60.2055,
-    "lng": 24.6559,
-    "siteName": "ATLAS ELEKTRONIK Finland Oy – Espoo",
-    "address": "Lars Sonckin kaari 16, 02600 Espoo, Finnland",
-    "city": "Espoo",
-    "country": "FI",
-    "description": "Finnische Tochtergesellschaft ATLAS ELEKTRONIK Finland Oy mit Sitz in Espoo. Entwicklung und Vertrieb von Marineelektronik und Sonarsystemen.",
-    "products": [
-      "Sonarsysteme",
-      "Marineelektronik"
-    ],
-    "sources": [
-      "https://www.thyssenkrupp.com"
-    ]
-  },
-  {
-    "id": "atlas-india-new-delhi",
-    "companyId": "atlas-elektronik",
-    "lat": 28.63,
-    "lng": 77.22,
-    "siteName": "ATLAS ELEKTRONIK India Private Limited – New Delhi",
-    "address": "New Delhi, Indien",
-    "city": "New Delhi",
-    "country": "IN",
-    "description": "Indische Tochtergesellschaft ATLAS ELEKTRONIK India Private Limited mit Sitz in New Delhi.",
-    "sources": [
-      "https://www.thyssenkrupp.com"
-    ]
-  },
-  {
-    "id": "atlas-uae-abu-dhabi",
-    "companyId": "atlas-elektronik",
-    "lat": 24.492,
-    "lng": 54.356,
-    "siteName": "ATLAS ELEKTRONIK L.L.C. – Abu Dhabi",
-    "address": "O.P.C. Al Wahda City Commercial Tower, 27th Floor, Unit 2702, Hazza Bin Zayed Street, PO Box 28008, Abu Dhabi, VAE",
-    "city": "Abu Dhabi",
-    "country": "AE",
-    "description": "Standort von ATLAS ELEKTRONIK in Abu Dhabi für Marineelektronik und Support in der Golfregion.",
-    "products": [
-      "Marineelektronik"
-    ],
-    "sources": [
-      "https://www.thyssenkrupp.com"
-    ]
-  },
-  {
-    "id": "atlas-korea-busan",
-    "companyId": "atlas-elektronik",
-    "lat": 35.104,
-    "lng": 128.976,
-    "siteName": "ATLAS Naval Engineering Company Ltd. – Busan",
-    "address": "8, Mieumsandan 3-ro, Gangseo-gu, Busan, Südkorea",
-    "city": "Busan",
-    "country": "KR",
-    "description": "Südkoreanischer Standort für Marineelektronik und Engineering-Support.",
-    "products": [
-      "Marineelektronik",
-      "Engineering"
-    ],
-    "sources": [
-      "https://www.deutsche-exportdatenbank.de"
-    ]
-  },
-  {
-    "id": "atlas-thailand-bangkok",
-    "companyId": "atlas-elektronik",
-    "lat": 13.757,
-    "lng": 100.566,
-    "siteName": "Atlas Naval Support Centre (Thailand) Ltd. – Bangkok",
-    "address": "The Ninth Tower, Tower A, 35th Floor, 33/4, Rama 9 Road, Huaykwang, 10310 Bangkok, Thailand",
-    "city": "Bangkok",
-    "country": "TH",
-    "description": "Support-Center für Marineelektronik und Marinekommunikation in Südostasien.",
-    "products": [
-      "Marineelektronik",
-      "Support"
-    ],
-    "sources": [
-      "https://www.thyssenkrupp.com"
-    ]
-  },
-  {
-    "id": "atlas-denmark-copenhagen",
-    "companyId": "atlas-elektronik",
-    "lat": 55.708,
-    "lng": 12.562,
-    "siteName": "ATLAS MARIDAN ApS – Kopenhagen",
-    "address": "Rungsted Havn 1D, 2960 Kyst, Dänemark",
-    "city": "Kopenhagen",
-    "country": "DK",
-    "description": "Dänischer Standort der Tochtergesellschaft ATLAS MARIDAN ApS für maritime Drohnensysteme und unbemannte Unterwasserfahrzeuge.",
-    "products": [
-      "Unbemannte Unterwasserfahrzeuge",
-      "Maritime Drohnen"
-    ],
-    "sources": [
-      "https://www.deutsche-exportdatenbank.de"
-    ]
-  },
-  {
     "id": "mars-de-wilhelmshaven",
     "companyId": "marinearsenal",
     "lat": 53.5283,
@@ -2391,445 +2835,30 @@
     ]
   },
   {
-    "id": "hensoldt-taufkirchen",
-    "companyId": "hensoldt",
-    "lat": 48.0167,
-    "lng": 11.8167,
-    "headquarter": true,
-    "siteName": "Hauptsitz Taufkirchen",
-    "address": "Willy-Messerschmitt-Straße 3, 82024 Taufkirchen",
-    "city": "Taufkirchen",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Konzernhauptsitz von HENSOLDT. Zentrum für Unternehmensführung, Entwicklung und Vertrieb. Eines der wichtigsten Innovationszentren der Verteidigungsindustrie in Deutschland.",
-    "sources": ["https://investors.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-ulm",
-    "companyId": "hensoldt",
-    "lat": 48.3984,
-    "lng": 9.9916,
-    "siteName": "Ulm",
-    "address": "Wörthstraße 85, 89077 Ulm",
-    "city": "Ulm",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "Größter HENSOLDT-Standort mit rund 3.000 Mitarbeitern. Entwicklung und Produktion von Radaren, Systemen der elektronischen Kampfführung und Elektronikkomponenten. Neuer Produktionsstandort 'Ulm II' für Serienproduktion von Radaren für Luftverteidigung und Drohnenabwehr (ab 2027 ca. 1.000 Radare/Jahr).",
-    "products": ["Radare", "Elektronische Kampfführung", "Elektronikkomponenten"],
-    "sources": ["https://www.hensoldt.net/de/news/hensoldt-expands-production-capacity"]
-  },
-  {
-    "id": "hensoldt-oberkochen",
-    "companyId": "hensoldt",
-    "lat": 48.7833,
-    "lng": 10.1,
-    "siteName": "Oberkochen",
-    "address": "Oberkochen, Baden-Württemberg",
-    "city": "Oberkochen",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "Standort von HENSOLDT Optronics GmbH. Kompetenzzentrum für Optronik, Wärmebildtechnik und Zieloptiken.",
-    "sources": ["https://investors.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-pforzheim",
-    "companyId": "hensoldt",
-    "lat": 48.8833,
-    "lng": 8.7,
-    "siteName": "Pforzheim",
-    "address": "Pforzheim, Baden-Württemberg",
-    "city": "Pforzheim",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "HENSOLDT-Standort in Pforzheim. Teil des deutschen Standortnetzwerks.",
-    "sources": ["https://investors.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-fuerstenfeldbruck",
-    "companyId": "hensoldt",
-    "lat": 48.1833,
-    "lng": 11.25,
-    "siteName": "Fürstenfeldbruck",
-    "address": "Fürstenfeldbruck, Bayern",
-    "city": "Fürstenfeldbruck",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Standort seit dem Erwerb der ESG-Gruppe. Kompetenzzentrum für Elektroniksysteme und Logistik.",
-    "sources": ["https://investors.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-wetzlar",
-    "companyId": "hensoldt",
-    "lat": 50.55,
-    "lng": 8.5,
-    "siteName": "Wetzlar",
-    "address": "Wetzlar, Hessen",
-    "city": "Wetzlar",
-    "state": "Hessen",
-    "country": "DE",
-    "description": "HENSOLDT-Standort in Wetzlar. Teil des deutschen Standortnetzwerks.",
-    "sources": ["https://investors.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-immenstaad",
-    "companyId": "hensoldt",
-    "lat": 47.6667,
-    "lng": 9.3667,
-    "siteName": "Immenstaad am Bodensee",
-    "address": "Immenstaad, Baden-Württemberg",
-    "city": "Immenstaad",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "HENSOLDT-Standort am Bodensee. Entwicklung und Produktion von Sensorlösungen.",
-    "sources": ["https://investors.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-kiel",
-    "companyId": "hensoldt",
-    "lat": 54.3233,
-    "lng": 10.1228,
-    "siteName": "Kiel",
-    "address": "Kiel, Schleswig-Holstein",
-    "city": "Kiel",
-    "state": "Schleswig-Holstein",
-    "country": "DE",
-    "description": "HENSOLDT-Standort in Kiel. Kompetenzzentrum für Marineelektronik und Radarsysteme.",
-    "sources": ["https://investors.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-bremen",
-    "companyId": "hensoldt",
-    "lat": 53.08,
-    "lng": 8.8,
-    "siteName": "Bremen",
-    "address": "Bremen",
-    "city": "Bremen",
-    "state": "Bremen",
-    "country": "DE",
-    "description": "Standort seit dem Erwerb der ESG-Gruppe. Elektroniksysteme und Logistik.",
-    "sources": ["https://investors.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-donauwoerth",
-    "companyId": "hensoldt",
+    "id": "mowag-de-schrobenhausen",
+    "companyId": "mowag",
     "lat": 48.7167,
-    "lng": 10.7833,
-    "siteName": "Donauwörth",
-    "address": "Donauwörth, Bayern",
-    "city": "Donauwörth",
+    "lng": 11.2667,
+    "headquarter": true,
+    "city": "Schrobenhausen",
     "state": "Bayern",
     "country": "DE",
-    "description": "Standort seit dem Erwerb der ESG-Gruppe. Kompetenzzentrum für Luftfahrtelektronik und Simulation.",
-    "sources": ["https://investors.hensoldt.net"]
+    "description": "Standort der MOWAG als Teil von KNDS in Deutschland."
   },
   {
-    "id": "hensoldt-laichingen",
-    "companyId": "hensoldt",
-    "lat": 48.4833,
-    "lng": 9.6833,
-    "siteName": "Laichingen",
-    "address": "Laichingen, Baden-Württemberg",
-    "city": "Laichingen",
-    "state": "Baden-Württemberg",
+    "id": "mtu-de-muenchen",
+    "companyId": "mtu",
+    "lat": 48.15,
+    "lng": 11.55,
+    "headquarter": true,
+    "address": "Dachauer Straße 665, 80995 München",
+    "city": "München",
+    "state": "Bayern",
     "country": "DE",
-    "description": "Neuer Logistikstandort (eröffnet 2024).",
-    "sources": ["https://annualreport.hensoldt.net"]
+    "description": "Firmensitz der MTU Aero Engines AG im Münchner Norden. Zentrale Unternehmensfunktionen, Entwicklung und Verwaltung."
   },
   {
-    "id": "hensoldt-leinfelden-echterdingen",
-    "companyId": "hensoldt",
-    "lat": 48.6833,
-    "lng": 9.1333,
-    "siteName": "Leinfelden-Echterdingen (geplant)",
-    "address": "Leinfelden-Echterdingen, Baden-Württemberg",
-    "city": "Leinfelden-Echterdingen",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "Geplantes neues Entwicklungszentrum in Kooperation mit Bosch. Bis Ende 2027 sollen rund 300 Stellen besetzt werden. Fokus auf Software-Architekturen für vernetzte Verteidigungssysteme.",
-    "sources": ["https://www.finanzen.net/nachricht/aktien/kooperation-hensoldt-kooperiert-mit-bosch-bei-neuem-entwicklungsstandort-aktie-reagiert-15846000"]
-  },
-  {
-    "id": "hensoldt-aalen",
-    "companyId": "hensoldt",
-    "lat": 48.8333,
-    "lng": 10.1,
-    "siteName": "Aalen",
-    "address": "Aalen, Baden-Württemberg",
-    "city": "Aalen",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "HENSOLDT-Standort in Aalen. Teil des baden-württembergischen Standortnetzwerks.",
-    "sources": ["https://www.finanzen.net"]
-  },
-  {
-    "id": "hensoldt-plaisir",
-    "companyId": "hensoldt",
-    "lat": 48.8167,
-    "lng": 1.95,
-    "siteName": "HENSOLDT France SAS – Plaisir",
-    "address": "ZAC Saint Apolline, 115 Avenue de Dreux, 78370 Plaisir, Frankreich",
-    "city": "Plaisir",
-    "state": "Île-de-France",
-    "country": "FR",
-    "description": "Französischer Hauptsitz von HENSOLDT France SAS. Spezialist für Freund-Feind-Erkennung-Technologie. Rund 60 Mitarbeiter, Jahresumsatz ca. 20 Mio. Euro.",
-    "products": ["Freund-Feind-Erkennung-Systeme"],
-    "sources": ["https://www.hensoldt.net", "https://www.pappers.fr"]
-  },
-  {
-    "id": "hensoldt-enfield",
-    "companyId": "hensoldt",
-    "lat": 51.65,
-    "lng": -0.05,
-    "siteName": "HENSOLDT UK – Enfield",
-    "address": "Unit 4 Voltage, 6 Mollison Avenue, Enfield EN3 7XQ, UK",
-    "city": "Enfield",
-    "country": "GB",
-    "description": "UK-Hauptsitz von HENSOLDT UK (ehemals Kelvin Hughes). Weltmarktführer für maritime Navigations- und Überwachungsradare (SharpEye). 2024 wurde das 50-jährige Jubiläum gefeiert.",
-    "products": ["Maritime Radare", "SharpEye", "Küstenüberwachungsradare"],
-    "sources": ["https://www.hensoldt.net", "https://company-information.service.gov.uk"]
-  },
-  {
-    "id": "hensoldt-pretoria",
-    "companyId": "hensoldt",
-    "lat": -25.75,
-    "lng": 28.1833,
-    "siteName": "HENSOLDT South Africa – Pretoria (GEW)",
-    "address": "13 De Havilland Crescent, Persequor Technopark, Pretoria 0020, Südafrika",
-    "city": "Pretoria",
-    "country": "ZA",
-    "description": "Standort der GEW Business Unit. Fokus auf Spectrum Dominance Solutions (elektronische Kampfführung, Funküberwachung).",
-    "products": ["Spectrum Dominance", "Elektronische Kampfführung"],
-    "sources": ["https://www.hensoldt.net", "https://defenceweb.co.za"]
-  },
-  {
-    "id": "hensoldt-irene",
-    "companyId": "hensoldt",
-    "lat": -25.8833,
-    "lng": 28.2167,
-    "siteName": "HENSOLDT South Africa – Irene",
-    "address": "Nellmapius Drive, Irene, Centurion 0157, Südafrika",
-    "city": "Irene",
-    "country": "ZA",
-    "description": "Unternehmenssitz und Optronics Business Unit von HENSOLDT South Africa. Teil der Radar Business Unit.",
-    "products": ["Optronik", "Radare"],
-    "sources": ["https://www.hensoldt.net", "https://defenceweb.co.za"]
-  },
-  {
-    "id": "hensoldt-canberra",
-    "companyId": "hensoldt",
-    "lat": -35.2809,
-    "lng": 149.13,
-    "siteName": "HENSOLDT Australia – Canberra (Hauptsitz)",
-    "address": "Fyshwick, Canberra, ACT 2609, Australien",
-    "city": "Canberra",
-    "state": "Australian Capital Territory",
-    "country": "AU",
-    "description": "Hauptsitz von HENSOLDT Australia. Über 30 Mitarbeiter. Radarinstallation, Wartung und Test für RAAF-Stützpunkte und Marineplattformen.",
-    "sources": ["https://www.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-hobart",
-    "companyId": "hensoldt",
-    "lat": -42.8821,
-    "lng": 147.3272,
-    "siteName": "HENSOLDT Australia – Hobart",
-    "address": "Hobart, Tasmanien, Australien",
-    "city": "Hobart",
-    "state": "Tasmanien",
-    "country": "AU",
-    "description": "Büro von HENSOLDT Australia.",
-    "sources": ["https://www.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-newcastle",
-    "companyId": "hensoldt",
-    "lat": -32.9283,
-    "lng": 151.7817,
-    "siteName": "HENSOLDT Australia – Newcastle",
-    "address": "Newcastle, New South Wales, Australien",
-    "city": "Newcastle",
-    "state": "New South Wales",
-    "country": "AU",
-    "description": "Büro von HENSOLDT Australia.",
-    "sources": ["https://www.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-adelaide",
-    "companyId": "hensoldt",
-    "lat": -34.9285,
-    "lng": 138.6007,
-    "siteName": "HENSOLDT Australia – Adelaide",
-    "address": "Adelaide, South Australia, Australien",
-    "city": "Adelaide",
-    "state": "South Australia",
-    "country": "AU",
-    "description": "Büro von HENSOLDT Australia.",
-    "sources": ["https://www.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-singapore",
-    "companyId": "hensoldt",
-    "lat": 1.33,
-    "lng": 103.75,
-    "siteName": "HENSOLDT Singapore Pte. Ltd.",
-    "address": "10 Kallang Avenue, #09-14 Aperia Tower 2, Singapore 339510",
-    "city": "Singapore",
-    "country": "SG",
-    "description": "Asien-Pazifik-Hub von HENSOLDT. Strategische Partnerschaften mit HTX (Home Team Science and Technology Agency) für Drohnenabwehr-Systeme und mit ST Engineering für Softwaredefinierte Verteidigung.",
-    "products": ["Drohnenabwehr", "Softwaredefinierte Verteidigung"],
-    "sources": ["https://www.hensoldt.net", "https://www.htx.com"]
-  },
-  {
-    "id": "hensoldt-riyadh",
-    "companyId": "hensoldt",
-    "lat": 24.7136,
-    "lng": 46.6753,
-    "siteName": "HENSOLDT Middle East Limited Company",
-    "address": "Riyadh, Saudi-Arabien",
-    "city": "Riyadh",
-    "country": "SA",
-    "description": "Standort von HENSOLDT Middle East. 100%ige Tochtergesellschaft von HENSOLDT South Africa. Unterstützung von Projekten in Saudi-Arabien und der Golfregion.",
-    "sources": ["https://www.hensoldt.net", "https://www.marketscreener.com"]
-  },
-  {
-    "id": "hensoldt-bern",
-    "companyId": "hensoldt",
-    "lat": 46.948,
-    "lng": 7.4474,
-    "siteName": "HENSOLDT Switzerland GmbH",
-    "address": "Bern, Schweiz",
-    "city": "Bern",
-    "country": "CH",
-    "description": "Schweizer Tochtergesellschaft von HENSOLDT.",
-    "sources": ["https://www.marketscreener.com"]
-  },
-  {
-    "id": "hensoldt-sarasota",
-    "companyId": "hensoldt",
-    "lat": 27.3364,
-    "lng": -82.5307,
-    "siteName": "HENSOLDT Avionics USA LLC – Sarasota",
-    "address": "Sarasota, Florida, USA",
-    "city": "Sarasota",
-    "state": "Florida",
-    "country": "US",
-    "description": "US-Standort für Avionik-Systeme.",
-    "sources": ["https://annualreport2022.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-dover",
-    "companyId": "hensoldt",
-    "lat": 39.1582,
-    "lng": -75.5244,
-    "siteName": "HENSOLDT Avionics US HoldCo. Inc. – Dover",
-    "address": "Dover, Delaware, USA",
-    "city": "Dover",
-    "state": "Delaware",
-    "country": "US",
-    "description": "US-Holdinggesellschaft für Avionik-Aktivitäten.",
-    "sources": ["https://www.eqs-news.com"]
-  },
-  {
-    "id": "hensoldt-beaufort",
-    "companyId": "hensoldt",
-    "lat": 32.4316,
-    "lng": -80.6698,
-    "siteName": "Nexeya USA Inc. – Beaufort",
-    "address": "Beaufort, South Carolina, USA",
-    "city": "Beaufort",
-    "state": "South Carolina",
-    "country": "US",
-    "description": "US-Standort der Nexeya-Gruppe (Teil von HENSOLDT).",
-    "sources": ["https://www.marketscreener.com"]
-  },
-  {
-    "id": "hensoldt-bethesda",
-    "companyId": "hensoldt",
-    "lat": 38.9847,
-    "lng": -77.0947,
-    "siteName": "Kelvin Hughes LLC – Bethesda",
-    "address": "Bethesda, Maryland, USA",
-    "city": "Bethesda",
-    "state": "Maryland",
-    "country": "US",
-    "description": "US-Standort von Kelvin Hughes (Teil von HENSOLDT UK).",
-    "sources": ["https://www.marketscreener.com"]
-  },
-  {
-    "id": "hensoldt-bangalore",
-    "companyId": "hensoldt",
-    "lat": 12.9716,
-    "lng": 77.5946,
-    "siteName": "HENSOLDT Private Ltd. – Bangalore",
-    "address": "Bangalore, Indien",
-    "city": "Bangalore",
-    "country": "IN",
-    "description": "Indische Tochtergesellschaft von HENSOLDT.",
-    "sources": ["https://www.marketscreener.com"]
-  },
-  {
-    "id": "hensoldt-seoul",
-    "companyId": "hensoldt",
-    "lat": 37.5665,
-    "lng": 126.978,
-    "siteName": "LnZ Optronics Co. Ltd. – Seoul",
-    "address": "Seoul, Südkorea",
-    "city": "Seoul",
-    "country": "KR",
-    "description": "Südkoreanischer Standort von LnZ Optronics (Gemeinschaftsunternehmen mit HENSOLDT).",
-    "sources": ["https://www.marketscreener.com"]
-  },
-  {
-    "id": "hensoldt-venlo",
-    "companyId": "hensoldt",
-    "lat": 51.37,
-    "lng": 6.172,
-    "siteName": "Nedinsco – Venlo",
-    "address": "Venlo, Niederlande",
-    "city": "Venlo",
-    "country": "NL",
-    "description": "Standort von Nedinsco (Teil von HENSOLDT). Optronik und Präzisionsmechanik.",
-    "products": ["Optronik", "Präzisionsmechanik"],
-    "sources": ["https://www.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-eindhoven",
-    "companyId": "hensoldt",
-    "lat": 51.4416,
-    "lng": 5.4697,
-    "siteName": "Nedinsco – Eindhoven",
-    "address": "Eindhoven, Niederlande",
-    "city": "Eindhoven",
-    "country": "NL",
-    "description": "Zweiter Standort von Nedinsco in den Niederlanden.",
-    "sources": ["https://www.hensoldt.net"]
-  },
-  {
-    "id": "hensoldt-sao-paulo",
-    "companyId": "hensoldt",
-    "lat": -23.5505,
-    "lng": -46.6333,
-    "siteName": "HENSOLDT do Brasil – São Paulo",
-    "address": "São Paulo, Brasilien",
-    "city": "São Paulo",
-    "country": "BR",
-    "description": "Brasilianische Tochtergesellschaft von HENSOLDT.",
-    "sources": ["https://www.marketscreener.com"]
-  },
-  {
-    "id": "hensoldt-mouscron",
-    "companyId": "hensoldt",
-    "lat": 50.7447,
-    "lng": 3.2144,
-    "siteName": "HENSOLDT Nexeya Belgium SRL – Mouscron",
-    "address": "Mouscron, Belgien",
-    "city": "Mouscron",
-    "country": "BE",
-    "description": "Belgischer Standort der Nexeya-Gruppe (Teil von HENSOLDT).",
-    "sources": ["https://www.marketscreener.com"]
-  },
-  {
-    "id": "renk-augsburg",
+    "id": "renk-de-augsburg",
     "companyId": "renk",
     "lat": 48.3544,
     "lng": 10.8889,
@@ -6741,125 +6770,750 @@
     ]
   },
   {
-    "id": "aeromaritime-de-neufahrn",
-    "companyId": "aeromaritime",
-    "lat": 48.3167,
-    "lng": 11.6667,
+    "id": "thales-de-ditzingen",
+    "companyId": "thales",
+    "lat": 48.8267,
+    "lng": 9.0667,
     "headquarter": true,
-    "siteName": "Hauptsitz Neufahrn bei Freising",
-    "address": "Ludwig-Erhard-Straße 16, 85375 Neufahrn bei Freising",
-    "city": "Neufahrn bei Freising",
-    "state": "Bayern",
+    "siteName": "Hauptsitz Ditzingen",
+    "address": "Thalesplatz 1, 71254 Ditzingen",
+    "city": "Ditzingen",
+    "state": "Baden-Württemberg",
     "country": "DE",
-    "description": "Hauptsitz und größter Standort von AEROMARITIME Systembau im Industriepark München-Neufahrn am nördlichen Rand von München. Hier werden Lösungen für die maritime Kommunikation entwickelt und produziert, darunter Spezialprüfgeräte, integrierte Antennensysteme und komplexe Vermittlungsanlagen für Audio- und Datensignale. Das Unternehmen ist im Handelsregister des Amtsgerichts München unter HRB 43099 eingetragen. Rund 76 Mitarbeiter arbeiten am Standort Neufahrn. Die Betriebsimmobilie in Neufahrn diente 2023 als Sicherheit für eine Asset-Based-Credit-Finanzierung durch Maturus Finance.",
-    "products": [
-      "APCOS 4000",
-      "SAMMS 7",
-      "U-Boot-Antennen",
-      "Freund-Feind-Erkennung-Systeme"
-    ],
+    "description": "Hauptsitz von Thales Deutschland und Zentrum für die Geschäftsbereiche Bahntechnik, Cybersecurity und Shared Services. Im Juni 2014 begann Thales Deutschland, die Standorte Stuttgart, Korntal und Pforzheim unter dem Dach eines modernen Neubaus in Ditzingen zusammenzuziehen. Das Unternehmen ist im Lobbyregister des Bundestages unter der Registernummer R000754 eingetragen.",
     "sources": [
-      "https://www.bdsv.eu/mitglieder/mitglied-details.html?show=133",
-      "https://www.northdata.de/Aeromaritime%20Systembau%20GmbH,%20Neufahrn/Amtsgericht%20M%C3%BCnchen%20HRB%2043099",
-      "https://www.maturus-finance.com/aktuelles/pressemitteilungen.html?file=files/aktuelles/aktuelles/2023/20230421_MF_Pressemeldung_Aeromaritime.pdf"
+      "https://www.lobbyregister.bundestag.de",
+      "https://www.thalesgroup.com/de/worldwide/deutschland"
     ]
   },
   {
-    "id": "aeromaritime-de-limbach-oberfrohna",
-    "companyId": "aeromaritime",
-    "lat": 50.85,
-    "lng": 12.75,
-    "siteName": "Software-Entwicklungszentrum Limbach-Oberfrohna (Chemnitz)",
-    "address": "Jägerstraße 11, 09212 Limbach-Oberfrohna",
-    "city": "Limbach-Oberfrohna",
-    "state": "Sachsen",
+    "id": "thales-de-kiel",
+    "companyId": "thales",
+    "lat": 54.3233,
+    "lng": 10.1228,
+    "headquarter": false,
+    "siteName": "Marinekompetenzzentrum Kiel",
+    "address": "Kiel, Schleswig-Holstein",
+    "city": "Kiel",
+    "state": "Schleswig-Holstein",
     "country": "DE",
-    "description": "Software-Entwicklungszentrum von AEROMARITIME Systembau in Limbach-Oberfrohna bei Chemnitz. Hier entwickelt das Unternehmen die Basis für flexible Lösungen und modernste Software, insbesondere für die Pflege und Weiterentwicklung des proprietären Advanced Platform Communication System APCOS 4000. Der Standort wurde in der Unternehmenskommunikation zunächst als 'Chemnitz' bezeichnet und ist im Handelsregister und in Stellenausschreibungen als Limbach-Oberfrohna (Jägerstraße 11) geführt.",
-    "products": [
-      "APCOS 4000 Software",
-      "Eingebettete Software"
-    ],
+    "description": "Zusammen mit Wilhelmshaven bildet Kiel das Marinekompetenzzentrum von Thales Deutschland. Hier werden Kommunikations- sowie Führungs- und Waffeneinsatzsysteme für die Deutsche Marine entwickelt. Die Geschäftseinheit 'Secure Communications & Information Systems' ist an den Standorten Ditzingen und Kiel vertreten.",
     "sources": [
-      "https://esut.de/2021/05/fachbeitraege/27288/unsere-kernkompetenz-liegt-in-der-gesamtintegration/",
-      "https://moovitapp.com/index/en/public_transit-Aeromaritime_Systembau-Dresden-site_268310446-5796",
-      "https://www.merkur.de"
+      "https://thalescareers.com/germany/",
+      "https://www.expaend.com"
     ]
   },
   {
-    "id": "aeromaritime-de-wilhelmshaven",
-    "companyId": "aeromaritime",
+    "id": "thales-de-wilhelmshaven",
+    "companyId": "thales",
     "lat": 53.5283,
     "lng": 8.1122,
-    "siteName": "Trainings- und Dokumentationszentrum Wilhelmshaven",
-    "address": "Parkstraße, 26382 Wilhelmshaven",
+    "headquarter": false,
+    "siteName": "Marinekompetenzzentrum Wilhelmshaven",
+    "address": "Wilhelmshaven, Niedersachsen",
     "city": "Wilhelmshaven",
     "state": "Niedersachsen",
     "country": "DE",
-    "description": "Trainings- und Dokumentationszentrum von AEROMARITIME Systembau am Marinestandort Wilhelmshaven, eröffnet im ersten Quartal 2022. Das Büro wurde neben der F125 eingerichtet, um Aufgaben der Technischen Logistikunterstützung durchzuführen. Der Standort ist für die Erstellung von Kundendokumentationen für Systeme, Anlagen und Geräte für die Deutsche und internationale Marinen zuständig sowie für die Durchführung von theoretischen und praktischen Schulungen bei Aeromaritime, beim Kunden und an Bord von Schiffen. Die Adresse Parkstraße in 26382 Wilhelmshaven ist im Stellenangebot des Unternehmens angegeben.",
-    "products": [
-      "Technische Dokumentation",
-      "Training und Schulung"
-    ],
+    "description": "Gemeinsam mit Kiel bildet Wilhelmshaven das Marinekompetenzzentrum von Thales Deutschland. Hier werden Kommunikations- sowie Führungs- und Waffeneinsatzsysteme für die Deutsche Marine und die Werftindustrie entwickelt. Der Standort bietet optimale Nähe zu Kunden und Partnern, insbesondere der Deutschen Marine.",
     "sources": [
-      "https://www.heyjobs.co/de-de/jobs/083204de-ca8e-4e0e-ae28-73108d9b6e32",
-      "https://www.aeromaritime.eu/wp-content/uploads/2021/12/Newsletter-Qtr-2-15.12.2021-E.pdf"
+      "https://thalescareers.com/germany/",
+      "https://www.expaend.com"
     ]
   },
   {
-    "id": "aeromaritime-fr-brest",
-    "companyId": "aeromaritime",
+    "id": "thales-de-ulm",
+    "companyId": "thales",
+    "lat": 48.3984,
+    "lng": 9.9916,
+    "headquarter": false,
+    "siteName": "Standort Ulm",
+    "address": "Ulm, Baden-Württemberg",
+    "city": "Ulm",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Ulm ist ein wichtiger Hightech-Standort von Thales Deutschland. Hier fertigt und entwickelt das Unternehmen Satellitenkomponenten, insbesondere Wanderfeldröhren für Satelliten. Der Standort gehört zu den internationalen Kompetenzzentren innerhalb des Thales-Konzerns.",
+    "products": [
+      "Satellitenkomponenten",
+      "Wanderfeldröhren"
+    ],
+    "sources": [
+      "https://www.expaend.com",
+      "https://www.thalesgroup.com/de/worldwide/deutschland"
+    ]
+  },
+  {
+    "id": "thales-de-koblenz",
+    "companyId": "thales",
+    "lat": 50.3567,
+    "lng": 7.5942,
+    "headquarter": false,
+    "siteName": "Standort Koblenz",
+    "address": "Koblenz, Rheinland-Pfalz",
+    "city": "Koblenz",
+    "state": "Rheinland-Pfalz",
+    "country": "DE",
+    "description": "In Koblenz entstehen bei Thales Deutschland Simulationslösungen für die Schießausbildung. Der Standort bietet Nähe zum Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw).",
+    "products": [
+      "Simulationslösungen"
+    ],
+    "sources": [
+      "https://www.expaend.com"
+    ]
+  },
+  {
+    "id": "thales-de-wedel",
+    "companyId": "thales",
+    "lat": 53.5833,
+    "lng": 9.7000,
+    "headquarter": false,
+    "siteName": "Standort Wedel",
+    "address": "Wedel, Schleswig-Holstein",
+    "city": "Wedel",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "In Wedel bei Hamburg entwickelt Thales Deutschland Simulationslösungen für die zivile und militärische Pilotenausbildung.",
+    "products": [
+      "Simulationslösungen"
+    ],
+    "sources": [
+      "https://www.expaend.com"
+    ]
+  },
+  {
+    "id": "thales-de-berlin",
+    "companyId": "thales",
+    "lat": 52.5170,
+    "lng": 13.3940,
+    "headquarter": false,
+    "siteName": "Hauptstadtrepräsentanz Berlin",
+    "address": "Charlottenstraße 35-36, 10117 Berlin",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "DE",
+    "description": "Hauptstadtrepräsentanz von Thales Deutschland in Berlin. Das Büro dient als Schnittstelle zur Politik, zum Bundestag und zu den Bundesministerien. Kontakt: Elke Vollrath.",
+    "sources": [
+      "https://www.lobbyregister.bundestag.de"
+    ]
+  },
+  {
+    "id": "thales-de-muenchen",
+    "companyId": "thales",
+    "lat": 48.1351,
+    "lng": 11.5820,
+    "headquarter": false,
+    "siteName": "Standort München",
+    "address": "München, Bayern",
+    "city": "München",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "München ist ein Standort von Thales Deutschland. Die genaue Adresse ist nicht öffentlich bekannt; der Standort wird in Stellenausschreibungen und Karriereseiten als einer der neun deutschen Standorte geführt.",
+    "sources": [
+      "https://careers.thalesgroup.com",
+      "https://thalescareers.com/germany/"
+    ]
+  },
+  {
+    "id": "thales-de-hamburg",
+    "companyId": "thales",
+    "lat": 53.5500,
+    "lng": 9.9900,
+    "headquarter": false,
+    "siteName": "Standort Hamburg",
+    "address": "Hamburg",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "country": "DE",
+    "description": "Hamburg wird in einigen Stellenausschreibungen als Standort von Thales Deutschland genannt. Die genaue Adresse ist nicht öffentlich bekannt.",
+    "sources": [
+      "https://careers.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "thales-fr-paris",
+    "companyId": "thales",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "headquarter": false,
+    "siteName": "Thales Group – Hauptsitz Paris",
+    "address": "Tour Carpe Diem, 31 Place des Corolles, 92400 Courbevoie, Paris",
+    "city": "Paris",
+    "country": "FR",
+    "description": "Konzernhauptsitz der Thales Group in Paris. Von hier wird das weltweite Geschäft gesteuert.",
+    "sources": [
+      "https://www.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "thales-fr-toulouse",
+    "companyId": "thales",
+    "lat": 43.6045,
+    "lng": 1.4442,
+    "headquarter": false,
+    "siteName": "Thales Alenia Space – Toulouse",
+    "address": "26 Avenue Jean-François Champollion, 31000 Toulouse",
+    "city": "Toulouse",
+    "state": "Occitanie",
+    "country": "FR",
+    "description": "Hauptsitz von Thales Alenia Space, einem Joint Venture zwischen Thales (67%) und Leonardo (33%). Toulouse ist einer der beiden großen Standorte von Thales Alenia Space in Frankreich.",
+    "products": [
+      "Satellitensysteme",
+      "Raumfahrttechnik"
+    ],
+    "sources": [
+      "https://www.thalesgroup.com/fr/worldwide/france"
+    ]
+  },
+  {
+    "id": "thales-fr-cannes",
+    "companyId": "thales",
+    "lat": 43.5500,
+    "lng": 7.0167,
+    "headquarter": false,
+    "siteName": "Thales Alenia Space – Cannes",
+    "address": "Cannes, Provence-Alpes-Côte d'Azur",
+    "city": "Cannes",
+    "state": "Provence-Alpes-Côte d'Azur",
+    "country": "FR",
+    "description": "Zweiter großer Standort von Thales Alenia Space in Frankreich. Kompetenzzentrum für Satelliten und Raumfahrtsysteme.",
+    "products": [
+      "Satelliten",
+      "Raumfahrtsysteme"
+    ],
+    "sources": [
+      "https://www.thalesgroup.com/fr/worldwide/france"
+    ]
+  },
+  {
+    "id": "thales-fr-brest",
+    "companyId": "thales",
     "lat": 48.3904,
     "lng": -4.4861,
-    "siteName": "AEROMARITIME ENGINEERING FRANCE – Brest",
-    "address": "255 Rue Joséphine Pencalet, 29200 Brest, Frankreich",
+    "headquarter": false,
+    "siteName": "Thales – Brest",
+    "address": "Brest, Bretagne",
     "city": "Brest",
     "state": "Bretagne",
     "country": "FR",
-    "description": "Französische Tochtergesellschaft AEROMARITIME ENGINEERING FRANCE (ehemals ACTRIS systems) mit Sitz in Brest. Das Unternehmen ist ein Ingenieurbüro für Elektronik, Mechanik und zugehörige Software-Anwendungen und wurde 1993 gegründet. Es realisiert Systeme nach Lastenheft von der Innovationsphase bis zur Serienproduktion und ist auf Kommunikation und eingebettete Systeme für nationale Integratoren und Auftraggeber in den Bereichen Marineelektronik und Verteidigung spezialisiert. Rund 20 Mitarbeiter, Jahresumsatz ca. 3,8 Mio. EUR.",
+    "description": "Standort von Thales in Brest mit über 5.500 Mitarbeitern in der Region Westfrankreich. Kompetenzzentrum für Unterwasserakustik (Acoustique sous-marine).",
     "products": [
-      "Elektronik-Entwicklung",
-      "Mechanik-Entwicklung",
-      "Eingebettete Software",
-      "Testbänke"
+      "Unterwasserakustik",
+      "Sonarsysteme"
     ],
     "sources": [
-      "http://gican.asso.fr/en/annuaire-des-adherents-du-gican-lindustrie-navale-francaise-en/aeromaritime-engineering-france/",
-      "https://fr.linkedin.com/company/aeromaritimeengineering"
+      "https://www.thalesgroup.com/fr/worldwide/france"
     ]
   },
   {
-    "id": "aeromaritime-fr-paris",
-    "companyId": "aeromaritime",
-    "lat": 48.8566,
-    "lng": 2.3522,
-    "siteName": "AEROMARITIME France – Paris",
-    "address": "Paris, Frankreich",
-    "city": "Paris",
+    "id": "thales-fr-rennes",
+    "companyId": "thales",
+    "lat": 48.1173,
+    "lng": -1.6778,
+    "headquarter": false,
+    "siteName": "Thales – Rennes",
+    "address": "Rennes, Bretagne",
+    "city": "Rennes",
+    "state": "Bretagne",
     "country": "FR",
-    "description": "Französische Niederlassung von AEROMARITIME Systembau in Paris. Die Niederlassung wurde eingerichtet, um noch besser auf individuelle Kundenwünsche eingehen zu können. Ehemaliger Geschäftsführer Haissam Dib ist in Paris ansässig. Die französische Tochtergesellschaft AEROMARITIME ENGINEERING FRANCE hat ihren Sitz ebenfalls in Paris und betreibt operative Büros in München, Dubai und Brest.",
+    "description": "Standort von Thales in Rennes mit Fokus auf souveräne Cybersicherheit.",
+    "products": [
+      "Cybersicherheit"
+    ],
     "sources": [
-      "https://www.bdsv.eu/mitglieder/mitglied-details.html?show=133",
-      "https://www.northdata.de/Aeromaritime%20Systembau%20GmbH,%20Neufahrn/Amtsgericht%20M%C3%BCnchen%20HRB%2043099"
+      "https://www.thalesgroup.com/fr/worldwide/france"
     ]
   },
   {
-    "id": "aeromaritime-ae-dubai",
-    "companyId": "aeromaritime",
-    "lat": 24.95,
-    "lng": 55.2,
-    "siteName": "AEROMARITIME Security Systems Middle East LLC – Dubai",
-    "address": "Dubai South, Business Park, Building D, Office 219, P.O. Box 644327, Dubai, VAE",
-    "city": "Dubai",
-    "country": "AE",
-    "description": "Niederlassung von AEROMARITIME Systembau in Dubai. Die AEROMARITIME Security Systems Middle East LLC wurde eingerichtet, um individuelle Kundenwünsche im Nahen Osten besser bedienen zu können. Der Standort ist ein Systemintegrator für Sicherheits- und Kommunikationssysteme und bietet ein breites Spektrum an Satellitenprodukten und -dienstleistungen. Die Niederlassung befindet sich im Dubai South Business Park (Building D, Office 219).",
+    "id": "thales-fr-cholet",
+    "companyId": "thales",
+    "lat": 47.0600,
+    "lng": -0.8783,
+    "headquarter": false,
+    "siteName": "Thales – Cholet",
+    "address": "Cholet, Maine-et-Loire",
+    "city": "Cholet",
+    "state": "Pays de la Loire",
+    "country": "FR",
+    "description": "Neues weltweites Kompetenzzentrum für Funkkommunikation und moderner Logistik-Hub, eingeweiht 2026.",
     "products": [
-      "Sicherheitssysteme",
-      "Kommunikationssysteme",
-      "Satellitenprodukte und -dienstleistungen"
+      "Funkkommunikation",
+      "Logistik"
     ],
     "sources": [
-      "https://www.aeromaritime-sec.com",
-      "https://www.bdsv.eu/mitglieder/mitglied-details.html?show=133"
+      "https://www.thalesgroup.com"
     ]
+  },
+  {
+    "id": "thales-fr-la-ferte-saint-aubin",
+    "companyId": "thales",
+    "lat": 47.7474,
+    "lng": 1.9224,
+    "headquarter": false,
+    "siteName": "Thales – La Ferté-Saint-Aubin",
+    "address": "La Ferté-Saint-Aubin, Loiret",
+    "city": "La Ferté-Saint-Aubin",
+    "state": "Centre-Val de Loire",
+    "country": "FR",
+    "description": "Standort für Munitionsproduktion. Die Produktion wird vervierfacht.",
+    "products": [
+      "Munition"
+    ],
+    "sources": [
+      "https://www.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "thales-uk-reading",
+    "companyId": "thales",
+    "lat": 51.4366,
+    "lng": -0.9690,
+    "headquarter": false,
+    "siteName": "Thales UK – Reading (Hauptsitz)",
+    "address": "350 Longwater Avenue, Green Park, Reading, Berkshire RG2 6GF",
+    "city": "Reading",
+    "country": "GB",
+    "description": "Hauptsitz von Thales UK. Von hier werden die Aktivitäten in Großbritannien gesteuert. Thales beschäftigt über 7.000 Mitarbeiter an 16 Standorten im Vereinigten Königreich.",
+    "sources": [
+      "https://www.thalesgroup.com/en/countries/europe/united-kingdom"
+    ]
+  },
+  {
+    "id": "thales-uk-crawley",
+    "companyId": "thales",
+    "lat": 51.1091,
+    "lng": -0.1870,
+    "headquarter": false,
+    "siteName": "Thales UK – Crawley",
+    "address": "Manor Royal, Crawley, West Sussex RH10 9HA",
+    "city": "Crawley",
+    "country": "GB",
+    "description": "Größter UK-Standort von Thales. Seit 1964 liefert das Unternehmen von hier Ausrüstung und Dienstleistungen an das britische Verteidigungsministerium (MOD).",
+    "sources": [
+      "https://www.thalesgroup.com/en/countries/europe/united-kingdom"
+    ]
+  },
+  {
+    "id": "thales-uk-belfast",
+    "companyId": "thales",
+    "lat": 54.5828,
+    "lng": -5.9083,
+    "headquarter": false,
+    "siteName": "Thales UK – Belfast",
+    "address": "Alanbrooke Road, Castlereagh, Belfast BT6 9HB, Nordirland",
+    "city": "Belfast",
+    "country": "GB",
+    "description": "Standort von Thales UK in Nordirland mit Fokus auf Verteidigungssysteme. Im Rahmen einer Expansionsankündigung 2026 sollen 200 neue Arbeitsplätze in Belfast entstehen.",
+    "sources": [
+      "https://www.thalesgroup.com/en/countries/europe/united-kingdom"
+    ]
+  },
+  {
+    "id": "thales-uk-glasgow",
+    "companyId": "thales",
+    "lat": 55.8642,
+    "lng": -4.2518,
+    "headquarter": false,
+    "siteName": "Thales UK – Glasgow",
+    "address": "Glasgow, Schottland",
+    "city": "Glasgow",
+    "country": "GB",
+    "description": "Standort von Thales UK in Schottland.",
+    "sources": [
+      "https://craft.co/thales-uk"
+    ]
+  },
+  {
+    "id": "thales-uk-templecombe",
+    "companyId": "thales",
+    "lat": 51.0000,
+    "lng": -2.4167,
+    "headquarter": false,
+    "siteName": "Thales UK – Templecombe",
+    "address": "Templecombe, Somerset",
+    "city": "Templecombe",
+    "country": "GB",
+    "description": "Standort für maritime und luftgestützte Operationen von Thales UK.",
+    "sources": [
+      "https://www.thalesgroup.com/en/countries/europe/united-kingdom"
+    ]
+  },
+  {
+    "id": "thales-uk-plymouth",
+    "companyId": "thales",
+    "lat": 50.3755,
+    "lng": -4.1427,
+    "headquarter": false,
+    "siteName": "Thales UK – Plymouth",
+    "address": "Plymouth, Devon",
+    "city": "Plymouth",
+    "country": "GB",
+    "description": "Neues maritimes Autonomiezentrum von Thales UK, eröffnet in Plymouth.",
+    "sources": [
+      "https://www.thalesgroup.com/en/countries/europe/united-kingdom"
+    ]
+  },
+  {
+    "id": "thales-uk-ebbw-vale",
+    "companyId": "thales",
+    "lat": 51.7800,
+    "lng": -3.2100,
+    "headquarter": false,
+    "siteName": "Thales UK – Ebbw Vale",
+    "address": "Lime Avenue, Ebbw Vale, Wales",
+    "city": "Ebbw Vale",
+    "country": "GB",
+    "description": "Standort von Thales UK in Wales.",
+    "sources": [
+      "https://craft.co/thales-uk"
+    ]
+  },
+  {
+    "id": "thales-uk-doncaster",
+    "companyId": "thales",
+    "lat": 53.5228,
+    "lng": -1.1285,
+    "headquarter": false,
+    "siteName": "Thales UK – Doncaster",
+    "address": "Doncaster, South Yorkshire",
+    "city": "Doncaster",
+    "country": "GB",
+    "description": "Standort von Thales UK in England.",
+    "sources": [
+      "https://craft.co/thales-uk"
+    ]
+  },
+  {
+    "id": "thales-us-clarksburg",
+    "companyId": "thales",
+    "lat": 39.2387,
+    "lng": -77.2794,
+    "headquarter": false,
+    "siteName": "Thales Defense & Security, Inc. – Clarksburg (Hauptsitz USA)",
+    "address": "22605 Gateway Center Drive, Clarksburg, MD 20871",
+    "city": "Clarksburg",
+    "state": "Maryland",
+    "country": "US",
+    "description": "Hauptsitz von Thales Defense & Security, Inc. (TDSI). Seit 1964 werden hier hochkomplexe elektromechanische Geräte gefertigt. Die Fertigungsanlage umfasst über 180.000 Quadratfuß.",
+    "sources": [
+      "https://cs.thalesdsi.com"
+    ]
+  },
+  {
+    "id": "thales-us-arlington",
+    "companyId": "thales",
+    "lat": 38.8607,
+    "lng": -77.0587,
+    "headquarter": false,
+    "siteName": "Thales USA, Inc. – Arlington",
+    "address": "2733 S. Crystal Dr. Suite 1200, Arlington, VA 22202",
+    "city": "Arlington",
+    "state": "Virginia",
+    "country": "US",
+    "description": "Hauptsitz von Thales USA, Inc. in Arlington, Virginia.",
+    "sources": [
+      "https://search.sunbiz.org"
+    ]
+  },
+  {
+    "id": "thales-us-north-kingstown",
+    "companyId": "thales",
+    "lat": 41.5501,
+    "lng": -71.4662,
+    "headquarter": false,
+    "siteName": "Thales – North Kingstown",
+    "address": "North Kingstown, RI 02852",
+    "city": "North Kingstown",
+    "state": "Rhode Island",
+    "country": "US",
+    "description": "Produktionsstandort von Thales in Rhode Island.",
+    "sources": [
+      "https://www.nexxt.com"
+    ]
+  },
+  {
+    "id": "thales-us-bellevue",
+    "companyId": "thales",
+    "lat": 47.6101,
+    "lng": -122.2015,
+    "headquarter": false,
+    "siteName": "Thales Digital Identity and Security – Bellevue",
+    "address": "310 120th Ave NE, Bellevue, WA 98005",
+    "city": "Bellevue",
+    "state": "Washington",
+    "country": "US",
+    "description": "Standort von Thales Digital Identity and Security in Bellevue, Washington.",
+    "sources": [
+      "https://www.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "thales-pl-warschau",
+    "companyId": "thales",
+    "lat": 52.2297,
+    "lng": 21.0122,
+    "headquarter": false,
+    "siteName": "Thales Polska – Warschau",
+    "address": "Warschau, Polen",
+    "city": "Warschau",
+    "country": "PL",
+    "description": "Thales ist seit 1992 in Polen aktiv und beschäftigt über 1.200 Mitarbeiter an mehreren Standorten. In Warschau sind Verteidigungs-, Cybersicherheits- und Digital-Identity-Aktivitäten angesiedelt.",
+    "sources": [
+      "https://www.thalesgroup.com/sites/default/files/2025-08/Poland%20Factsheet%20EN_VF_0.pdf"
+    ]
+  },
+  {
+    "id": "thales-pl-tczew",
+    "companyId": "thales",
+    "lat": 54.0900,
+    "lng": 18.7800,
+    "headquarter": false,
+    "siteName": "Thales – Tczew",
+    "address": "Tczew bei Danzig, Polen",
+    "city": "Tczew",
+    "country": "PL",
+    "description": "Kompetenzzentrum für die Produktion sicherer Dokumente. 2024 eröffnete Thales hier eine hochmoderne Produktionsstätte für Identitätsdokumente – die größte ihrer Art im Thales-Konzern weltweit.",
+    "products": [
+      "Identitätsdokumente",
+      "Sichere Dokumente"
+    ],
+    "sources": [
+      "https://www.thalesgroup.com/sites/default/files/2025-08/Poland%20Factsheet%20EN_VF_0.pdf"
+    ]
+  },
+  {
+    "id": "thales-pl-gdynia",
+    "companyId": "thales",
+    "lat": 54.5189,
+    "lng": 18.5305,
+    "headquarter": false,
+    "siteName": "Thales – Gdynia",
+    "address": "Gdynia, Polen",
+    "city": "Gdynia",
+    "country": "PL",
+    "description": "Marineaktivitäten von Thales in Polen. Thales liefert Sonar- und Führungssysteme für die polnische Marine.",
+    "sources": [
+      "https://www.thalesgroup.com/sites/default/files/2025-08/Poland%20Factsheet%20EN_VF_0.pdf"
+    ]
+  },
+  {
+    "id": "thales-be-herstal",
+    "companyId": "thales",
+    "lat": 50.6667,
+    "lng": 5.6333,
+    "headquarter": false,
+    "siteName": "Thales – Herstal",
+    "address": "Herstal, Belgien",
+    "city": "Herstal",
+    "country": "BE",
+    "description": "Standort für die Produktion von ungelenkten Raketen und gelenkter 70-mm-Munition. Die Produktionskapazität wird erhöht.",
+    "products": [
+      "Raketen",
+      "70-mm-Munition"
+    ],
+    "sources": [
+      "https://www.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "thales-be-tubize",
+    "companyId": "thales",
+    "lat": 50.6833,
+    "lng": 4.2000,
+    "headquarter": false,
+    "siteName": "Thales – Tubize",
+    "address": "Tubize, Belgien",
+    "city": "Tubize",
+    "country": "BE",
+    "description": "Standort von Thales in Belgien, der derzeit erweitert wird.",
+    "sources": [
+      "https://www.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "thales-nl-hengelo",
+    "companyId": "thales",
+    "lat": 52.2667,
+    "lng": 6.7833,
+    "headquarter": false,
+    "siteName": "Thales Nederland B.V. – Hengelo",
+    "address": "Hengelo, Niederlande",
+    "city": "Hengelo",
+    "country": "NL",
+    "description": "Thales Nederland B.V. mit Sitz in Hengelo. 99%ige Tochtergesellschaft der Thales Group. Kompetenzzentrum für Marine- und Radarsysteme.",
+    "products": [
+      "Marinesysteme",
+      "Radarsysteme"
+    ],
+    "sources": [
+      "https://www.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "thales-sg-singapur",
+    "companyId": "thales",
+    "lat": 1.3521,
+    "lng": 103.8198,
+    "headquarter": false,
+    "siteName": "Thales Solutions Asia Pte Ltd – Singapur",
+    "address": "Singapur",
+    "city": "Singapur",
+    "country": "SG",
+    "description": "Thales ist in Singapur mit mehreren Standorten vertreten und betreibt hier ein Kompetenzzentrum für Verteidigungs- und Sicherheitslösungen.",
+    "sources": [
+      "https://www.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "thales-au-sydney",
+    "companyId": "thales",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "headquarter": false,
+    "siteName": "Thales Australia – Sydney",
+    "address": "Sydney, Australien",
+    "city": "Sydney",
+    "country": "AU",
+    "description": "Thales Australia mit Hauptsitz in Sydney. Einer der größten Rüstungs- und Technologieanbieter in Australien.",
+    "sources": [
+      "https://www.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "thales-ca-toronto",
+    "companyId": "thales",
+    "lat": 43.6532,
+    "lng": -79.3832,
+    "headquarter": false,
+    "siteName": "Thales Canada Inc. – Toronto",
+    "address": "Toronto, Ontario, Kanada",
+    "city": "Toronto",
+    "state": "Ontario",
+    "country": "CA",
+    "description": "Kanadische Tochtergesellschaft von Thales mit Sitz in Toronto. Auch als Thales Rail Signalling Solutions Inc. bekannt.",
+    "sources": [
+      "https://www.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "thales-sa-riyadh",
+    "companyId": "thales",
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "headquarter": false,
+    "siteName": "Thales International Saudi Arabia – Riyadh",
+    "address": "Riyadh, Saudi-Arabien",
+    "city": "Riyadh",
+    "country": "SA",
+    "description": "Thales International Saudi Arabia mit Sitz in Riyadh.",
+    "sources": [
+      "https://www.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "thales-ch-zuerich",
+    "companyId": "thales",
+    "lat": 47.3769,
+    "lng": 8.5417,
+    "headquarter": false,
+    "siteName": "Thales Suisse SA – Zürich",
+    "address": "Zürich, Schweiz",
+    "city": "Zürich",
+    "country": "CH",
+    "description": "Schweizer Tochtergesellschaft von Thales mit Sitz in Zürich.",
+    "sources": [
+      "https://www.thalesgroup.com"
+    ]
+  },
+  {
+    "id": "tkms-de-kiel",
+    "companyId": "tkms",
+    "lat": 54.3233,
+    "lng": 10.1228,
+    "headquarter": true,
+    "siteName": "thyssenkrupp Marine Systems – Kiel",
+    "address": "Werftstraße 112-114, 24143 Kiel",
+    "city": "Kiel",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Hauptstandort von TKMS und Zentrum des U-Boot-Baus. Seit 2019 über 250 Mio. Euro investiert, u.a. in eine neue Schiffbauhalle. Hier werden die U-Boote der 212CD- und 214-Klasse gefertigt. Größter deutscher Marinewerft-Standort.",
+    "products": ["U-Boote (212CD, 214)", "Fregatten", "Korvetten"],
+    "sources": ["https://www.thyssenkrupp.com"]
+  },
+  {
+    "id": "tkms-de-wismar",
+    "companyId": "tkms",
+    "lat": 53.89,
+    "lng": 11.46,
+    "siteName": "thyssenkrupp Marine Systems – Wismar",
+    "address": "Wismar, Mecklenburg-Vorpommern",
+    "city": "Wismar",
+    "state": "Mecklenburg-Vorpommern",
+    "country": "DE",
+    "description": "2022 übernommener ehemaliger MV-Werften-Standort. Investitionen von über 100 Mio. Euro geplant. Ergänzt die U-Boot-Fertigung in Kiel.",
+    "sources": ["https://www.tageblatt.de"]
+  },
+  {
+    "id": "tkms-de-hamburg",
+    "companyId": "tkms",
+    "lat": 53.53,
+    "lng": 9.98,
+    "siteName": "thyssenkrupp Marine Systems – Hamburg",
+    "address": "Hamburg",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "country": "DE",
+    "description": "Standort für Marine Systeme in Hamburg.",
+    "sources": ["https://www.thyssenkrupp.com"]
+  },
+  {
+    "id": "tkms-de-bremen",
+    "companyId": "tkms",
+    "lat": 53.08,
+    "lng": 8.8,
+    "siteName": "thyssenkrupp Marine Systems – Bremen",
+    "address": "Bremen",
+    "city": "Bremen",
+    "state": "Bremen",
+    "country": "DE",
+    "description": "Inländischer TKMS-Standort in Bremen.",
+    "sources": ["https://www.thyssenkrupp.com"]
+  },
+  {
+    "id": "tkms-de-wedel",
+    "companyId": "tkms",
+    "lat": 53.5833,
+    "lng": 9.7,
+    "siteName": "thyssenkrupp Marine Systems – Wedel",
+    "address": "Wedel, Schleswig-Holstein",
+    "city": "Wedel",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Standort für Marine Systeme in Wedel bei Hamburg.",
+    "sources": ["https://www.thyssenkrupp.com"]
+  },
+  {
+    "id": "tkms-de-flintbek",
+    "companyId": "tkms",
+    "lat": 54.25,
+    "lng": 10.0667,
+    "siteName": "thyssenkrupp Marine Systems – Flintbek",
+    "address": "Flintbek, Schleswig-Holstein",
+    "city": "Flintbek",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Standort für Marine Systeme in Flintbek bei Kiel.",
+    "sources": ["https://www.thyssenkrupp.com"]
+  },
+  {
+    "id": "tkms-de-emden",
+    "companyId": "tkms",
+    "lat": 53.3667,
+    "lng": 7.2,
+    "siteName": "thyssenkrupp Marine Systems – Emden",
+    "address": "Emden, Niedersachsen",
+    "city": "Emden",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Werftstandort von TKMS in Emden.",
+    "sources": ["https://www.thyssenkrupp.com"]
   }
 ]

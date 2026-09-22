@@ -4,7 +4,7 @@ Standorte der deutschen Waffen- und Rüstungsindustrie
 
 ## Description
 
-This project creates an interactive web map of german armament industry, displaying locations of defense contractors from the country. 
+This project creates an interactive web map of german armament industry, displaying locations of defense contractors from the country.
 It uses Leaflet.js, a lightweight and open-source JavaScript library for mobile-friendly interactive maps.
 It uses OpenStreetMap as map layer.
 The language of contents in this mockup is mostly german.
@@ -38,15 +38,15 @@ The language of contents in this mockup is mostly german.
 **index.html**: The main HTML file that:
 
 - The HTML file uses the Leaflet library (loaded via CDN) to render the map. 
-- It fetches the JSON data using the fetch API, iterates through the companies, and places a marker on the map for each set of coordinates. 
+- It fetches the JSON data using the fetch API, iterates through the companies, and places a marker on the map for each set of coordinates.
 - Clicking a marker displays a popup with the company’s details.
 
 ## Prerequisites
 
 - A modern web browser.
-- A local web server (e.g., VS Code Live Server, Python http.server, or Node http-server) is recommended to avoid CORS issues when loading the JSON file.
+- A local web server (e.g., VS Code Live Server, Python http.server, or Node http-server or live-server) is recommended to avoid CORS issues when loading the JSON file.
 
-  > Note: For Security reasons, browser do not allow open local JSON-Files directly via fetch. Therefore a light local webserver is required.
+  > Note: For Security reasons, browser do not allow open local JSON-Files directly via fetch. Therefore a light local web server is required.
 
 ## How to Run
 
@@ -56,24 +56,38 @@ The language of contents in this mockup is mostly german.
    > directly via fetch. Therefore a light local webserver is required.
 
 2. Open a terminal in the same directory.
-3. Start local server (requires Python) by apply follwing command:
+3. Start local web server via terminal.
+4. Open web browser and goto url.
+
+## Local Webserver with Python http.server
+
+**1. Prerequisites:**
+
+- Python 3 is installed on your system.
+- You can check this by running:
+
+  ```bash
+  python3 -V
+  ```
+
+**2. Start the Server:**
 
    ```plaintext
    python3 -m http.server 8000 --bind 0.0.0.0
    ```
-
+  
    > Remark:
    > `127.0.0.1` binds only to localhost interface (only accessible from same device).
    > `0.0.0.0` binds all network interfaces (accessible from remote devices – attention with firewalls!, open related port).
 
-4. Open a browser and goto:
+**3. Access page in browser:**
 
-   ```plaintext
-   http://localhost:8000/
-   ```
----
+- Then visit `http://<your-ip-address>:8000`.
 
-## Alternative Webserver with Node.js live-server
+**4. Stopping the Server:**
+Press `Ctrl` + `C` in the terminal to stop the server.
+
+## Local Webserver with Node.js live-server
 
 **1. Prerequisites:**
 
@@ -102,7 +116,7 @@ The language of contents in this mockup is mostly german.
   {
     "scripts": {
       "start": "live-server",
-      "dev": "live-server --port=8080 --open=."
+      "dev": "live-server --port=8000 --open=."
     }
   }
   ```
@@ -127,8 +141,7 @@ live-server --open=docs/index.html`
 
 **4. Access page in browser:**
 
-- Then visit `http://<your-ip-address>:8080`.
+- Then visit `http://<your-ip-address>:8000`.
 
 **5. Stopping the Server:**
 Press `Ctrl` + `C` in the terminal to stop the server.
-

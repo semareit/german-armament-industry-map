@@ -1,4 +1,129 @@
 {
+  "aaronia": {
+    "name": "AARONIA AG",
+    "description": "Die AARONIA AG ist ein 2003 von Thorsten Chmielus gegründeter deutscher Hersteller von Hochfrequenz-Messgeräten, Spektrumanalysatoren, EMC-Antennen und Drohnendetektionssystemen mit Sitz in Strickscheid in der Eifel. Das Unternehmen ist auf Mess-, Ortungs- und Überwachungstechnik spezialisiert und entwickelt, fertigt, testet und kalibriert seine Produkte ausnahmslos in Deutschland. AARONIA ist weltweit führend im Bereich der Drohnendetektion – das AARTOS-Drohnendetektionssystem (DDS) ist bei Streitkräften und Sicherheitsbehörden in über 20 Ländern im Einsatz, darunter Deutschland, Österreich, Portugal, Finnland, Estland, Australien, die Ukraine, Großbritannien, die Niederlande, Kanada, Indonesien, Kenia, Uganda, Ruanda und Schweden. AARONIA beschäftigt rund 27 Mitarbeiter und ist im Handelsregister des Amtsgerichts Wittlich unter HRB 32462 eingetragen. Neben dem Stammwerk in Strickscheid betreibt das Unternehmen eine Tochtergesellschaft in Österreich am Flughafen Wien-Vöslau, eine US-Niederlassung in Seneca (Georgia) und baut eine neue Produktionsstätte in Bitburg (Rheinland-Pfalz) auf, die 2027 in Betrieb gehen soll.",
+    "url": "https://www.aaronia.com/",
+    "category": ["Messtechnik", "Sensorik", "Drohnenabwehr", "Elektronische-Kampfführung", "Überwachung"],
+    "parents": [],
+    "products": [
+      "SPECTRAN V6 (Echtzeit-Spektrumanalysator)",
+      "SPECTRUM COMMAND (mobile Signalanalyse)",
+      "AARTOS DDS (Drohnendetektionssystem)",
+      "AARTOS Hawk TDOA",
+      "AARTOS X9",
+      "EMC-Antennen (BicoLog, PowerLog)",
+      "Near Field Probes",
+      "Preamplifier",
+      "RF Jammer",
+      "EMV-/HF-Abschirmmaterial",
+      "Signalgeneratoren",
+      "DF-Antennen"
+    ],
+    "updatedAt": "2026-09-22"
+  },
+  "abeking-rasmussen": {
+    "name": "Abeking & Rasmussen Schiffs- und Yachtwerft SE",
+    "description": "Die Abeking & Rasmussen Schiffs- und Yachtwerft SE (A&R) ist eine 1907 von Georg Abeking und Henry Rasmussen gegründete deutsche Werft mit Sitz in Lemwerder bei Bremen. Das Unternehmen ist auf den Neubau von Megayachten, Spezial- und Marineschiffen sowie komplexe Umbauten in allen drei Segmenten spezialisiert. In ihrer über 115-jährigen Geschichte als traditionsreiches Familienunternehmen hat die Werft mehr als 6.500 Schiffe abgeliefert. Die moderne und kompakte Werft verfügt über Schiffbauhallen für Schiffe bis zu 125 Metern Länge und genießt weltweite Anerkennung für maßgeschneiderte Megayachten, Spezial- und Marineschiffe. A&R besitzt eine hohe technische Expertise und jahrzehntelange Erfahrung insbesondere im Bereich der Minenjagdboote. Zu den bekannten Projekten zählen die Megayacht 'Liva°' (118 Meter), die Minenjagdboote 'Pulau Fani' und 'Pulau Fanildo' für die indonesische Marine sowie das Mehrzweckschiff 'Mellum' für die Wasserstraßen- und Schifffahrtsverwaltung des Bundes. Die Werft beschäftigt rund 520 Mitarbeiter und ist im Handelsregister des Amtsgerichts Oldenburg unter HRB 210774 eingetragen. Vorstandsvorsitzender (CEO) ist Matthias Hellmann, COO ist Björn Schlüter.",
+    "url": "https://www.abeking.com/",
+    "category": ["Marine", "Schiffbau", "Spezialschiffe", "Yachten", "Verteidigung"],
+    "parents": [],
+    "products": [
+      "Megayachten",
+      "Marineschiffe (Minenjagdboote)",
+      "Spezialschiffe (Mehrzweckschiffe, Vermessungsschiffe)",
+      "Behördenboote",
+      "Forschungsschiffe",
+      "Schiffsreparatur und Umbauten"
+    ],
+    "updatedAt": "2026-09-23"
+  },
+  "abraservice": {
+    "name": "Abraservice Deutschland GmbH",
+    "description": "Die Abraservice Deutschland GmbH ist ein 2010 gegründeter, international tätiger Anbieter von verschleißfesten und hochfesten Stählen mit Sitz in Düsseldorf. Das Unternehmen ist Teil der schwedischen SSAB-Gruppe, einem weltweit führenden Hersteller von hochfesten Stählen. Abraservice liefert verschleißfeste Stähle wie Hardox®, Duroxite® und ROC™ sowie hochfeste und witterungsbeständige Stähle. Das Unternehmen verfügt über ein Netzwerk an Standorten in ganz Europa und bietet neben Zuschnitt und Anarbeitung auch komplett im Werk gefertigte Bauteile als OEM-Lieferant sowie maßgefertigte Verschleißteile für Maschinen und Anlagen. Abraservice Deutschland ist nach DIN EN ISO 9001 und DIN 2303 (Herstellerqualifikation für wehrtechnische Produkte) zertifiziert und damit ein qualifizierter Lieferant für die Bundeswehr. Das Unternehmen beschäftigt rund 42 Mitarbeiter und erzielte 2024 einen geschätzten Umsatz von 12 Millionen Euro. Geschäftsführer ist Rinaldo Baldi.",
+    "url": "https://www.abraservice.com/de-de/",
+    "category": ["Stahl", "Verschleißschutz", "Dienstleistungen", "Verteidigung"],
+    "parents": [],
+    "products": [
+      "Hardox® Verschleißstahl",
+      "Duroxite® Auftragsschweißungen",
+      "ROC™ Verschleißstahl",
+      "COR-TEN® witterungsbeständiger Stahl",
+      "Zuschnitt und Anarbeitung",
+      "Schweißbaugruppen und OEM-Teile",
+      "Maßgefertigte Verschleißteile"
+    ],
+    "updatedAt": "2026-09-23"
+  },
+  "acs-armoured-cars": {
+    "name": "ACS Armoured Car Systems GmbH",
+    "description": "Die ACS Armoured Car Systems GmbH ist ein 2003 gegründetes mittelständisches Unternehmen mit Sitz in Friedberg-Derching bei Augsburg und eine Tochtergesellschaft der GRUMA Nutzfahrzeuge GmbH. Das Unternehmen ist auf die Entwicklung und Fertigung geschützter und taktischer Fahrzeuge sowie auf ballistischen Schutz und Integrationslösungen spezialisiert. ACS deckt unterschiedliche Fertigungstiefen ab, von der Entwicklung und dem Prototypenbau bis hin zur Serienfertigung von Fahrzeugen und Komponenten. Unter der Marke „ENOK“ vermarktet ACS taktische Mobilitätsplattformen in verschiedenen Gewichtsklassen für geschützte und ungeschützte Einsätze, darunter das Luftlandefahrzeug ENOK AB (Airborne). Zu den Kernkompetenzen zählen ballistischer Schutz nach STANAG 4569, Systemintegration sowie die Entwicklung und Fertigung von Einsatz- und Mobilitätslösungen. ACS beschäftigt am Standort Friedberg-Derching mehr als 150 Mitarbeiter und verfügt über rund 9.000 m² Produktions- und Bürofläche. Das Unternehmen ist nach IATF 16949:2016, ISO 9001 und DIN 2303 Q3 (Herstellerqualifikation für wehrtechnische Produkte) zertifiziert. Geschäftsführer sind Sebastian Schaubeck und Rolf Liebfried. Die ACS ist im Handelsregister des Amtsgerichts Augsburg unter HRB 20153 eingetragen.",
+    "url": "https://www.acs-armoured-cars.com/",
+    "category": ["Panzerung", "Fahrzeugsysteme", "Sicherheit", "Verteidigung", "Systemintegration"],
+    "parents": [],
+    "products": [
+      "ENOK (Fahrzeugfamilie)",
+      "ENOK AB (Airborne)",
+      "ENOK Light",
+      "CARACAL (Luftlandefahrzeug)",
+      "Ballistischer Schutz nach STANAG 4569",
+      "Modular Box Body",
+      "Systemintegration",
+      "Panzerstahl-Schweißen"
+    ],
+    "updatedAt": "2026-09-23"
+  },
+  "adapteo": {
+    "name": "Adapteo GmbH",
+    "description": "Die Adapteo GmbH ist ein führender Anbieter flexibler, modularer Gebäude- und Raumlösungen mit deutscher Zentrale in Neu-Isenburg. Das Unternehmen entwickelt, baut, vermietet und verkauft modulare Gebäude für Schulen, Kitas, Büros, Unterkünfte, Messen und Events. Die Adapteo GmbH ist Teil der skandinavischen Adapteo Group, die Marktführer in Nordeuropa ist und über ein Netzwerk an Vertriebsbüros und Depots in neun Ländern verfügt. Die Gruppe beschäftigt rund 650 Mitarbeiter und verfügt über ein modulares Gebäudeportfolio von 1,6 Millionen Quadratmetern. Die deutsche Tochtergesellschaft beschäftigt 150 Mitarbeiter an fünf Standorten (Neu-Isenburg, Frankfurt am Main, Aichach, Hörstel und Leipzig). Die Adapteo GmbH ist im Handelsregister des Amtsgerichts Offenbach unter HRB 55306 eingetragen. Amtierender Geschäftsführer ist Benjamin Schretter von Wohlgemuthheim.",
+    "url": "https://adapteo.de/",
+    "category": ["Modulbau", "Raumlösungen", "Mietgebäude", "Container", "Dienstleistungen"],
+    "parents": ["adapteo-group"],
+    "products": [
+      "Modulgebäude für Schulen und Kitas",
+      "Modulgebäude für Büros und Verwaltung",
+      "Modulgebäude für Unterkünfte",
+      "Messe- und Eventcontainer",
+      "Interimsgebäude (Miete)",
+      "Dauerhafte Modulbauten (Kauf)",
+      "Montage, Wartung und Rückbau",
+      "Sonderausstattungen nach Kundenwunsch"
+    ],
+    "updatedAt": "2026-09-23"
+  },
+  "aerodata": {
+    "name": "Aerodata AG",
+    "description": "Die Aerodata AG ist ein 1985 gegründetes mittelständisches Unternehmen aus Braunschweig, das weltweit in der Spezialluftfahrt tätig ist. Das Unternehmen ist der größte Industriepartner des Forschungsflughafens Braunschweig-Wolfsburg und beschäftigt 51-100 Mitarbeiter. Aerodata liefert Komplettlösungen für luftgestützte Überwachung, Aufklärung und Flugvermessung. Mit dem AeroFIS ist Aerodata weltweit führend bei Flugvermessungssystemen zur Kalibrierung von Navigations- und Landehilfen für die zivile und militärische Luftfahrt. Mit AeroMission bietet das Unternehmen ein eigenes Missionssystem für die Luftüberwachung (Meeresüberwachung, Landüberwachung, Detektion von Meeresverschmutzungen, Such- und Rettungsaufgaben). Weitere Produkte sind der multifunktionale Sensorbehälter OctoPod, das Kommunikationssystem AeroPhone und das unbemannte Aufklärungssystem AeroForce X. Aerodata ist als Entwicklungsbetrieb (EASA.211.040), Produktionsbetrieb (DE.21 G.0098) und Instandhaltungsbetrieb (DE.145.0140) zertifiziert. Die Aerodata-Gruppe erstreckt sich über den gesamten Globus mit Tochtergesellschaften in Deutschland, Norwegen, Australien, Thailand und den USA. Die Aktiengesellschaft ist im Lobbyregister des Bundestages unter der Registernummer R006974 eingetragen.",
+    "url": "https://www.aerodata.de/",
+    "category": ["Luftfahrt", "Spezialmission", "Flugvermessung", "Überwachung", "Drohnen"],
+    "parents": [],
+    "products": [
+      "AeroFIS (Flugvermessungssystem)",
+      "AeroMission (Missionssystem)",
+      "OctoPod (Sensorbehälter)",
+      "AeroPhone (Satellitenkommunikation)",
+      "AeroForce X (MALE Unbemanntes Luftfahrtsystem)",
+      "Flugvermessungsdienstleistungen",
+      "Luftfahrzeug-Umrüstung und -Wartung"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "aeromaritime": {
+    "name": "AEROMARITIME Systembau GmbH",
+    "description": "Die AEROMARITIME Systembau GmbH ist ein 1971 in München gegründetes, familiengeführtes Unternehmen im Bereich hochverfügbarer Kommunikationstechnologien für das Militär und Behörden mit Sicherheitsaufgaben. Als globaler Anbieter von individuellen Kommunikationssystemen für Überwasserschiffe, U-Boote und Landstationen ist Aeromaritime auf das Design, die Entwicklung, die Herstellung und die Integration von militärischen Kommunikationssystemen, Freund-Feind-Erkennung-Systemen und U-Boot-Antennen spezialisiert. Das Unternehmen hat über 650 Systeme in über 45 Marinen weltweit im Einsatz, einschließlich der NATO und ihrer Tochtergesellschaften. Der Hauptsitz befindet sich im Industriepark München-Neufahrn. Aeromaritime betreibt ein Software-Entwicklungszentrum in Chemnitz/Limbach-Oberfrohna, eine Trainings- und Dokumentationsabteilung in Wilhelmshaven sowie internationale Niederlassungen in Paris, Dubai und Brest. Das Unternehmen beschäftigt über 100 Mitarbeiter, davon rund 76 am Hauptsitz in Neufahrn.",
+    "url": "https://aeromaritime.eu/",
+    "category": ["Marine", "Kommunikation", "Elektronik", "Systemintegration"],
+    "parents": [],
+    "products": [
+      "APCOS 4000 (Integriertes Kommunikationssystem)",
+      "SAMMS 7 (Nachrichtenverarbeitungssystem)",
+      "U-Boot-Antennen",
+      "Freund-Feind-Erkennung-Systeme",
+      "Integrierte Antennensysteme",
+      "Spezialprüfgeräte",
+      "Vermittlungsanlagen für Audio- und Datensignale"
+    ],
+    "updatedAt": "2026-09-20"
+  },
   "rheinmetall": {
     "name": "Rheinmetall AG",
     "description": "Die Rheinmetall AG ist ein börsennotierter integrierter Technologiekonzern mit Sitz in Düsseldorf und einer der größten Rüstungskonzerne Europas. Das Unternehmen gliedert sich in die Segmente Weapon and Ammunition, Electronic Solutions, Vehicle Systems und Power Systems. Rheinmetall beschäftigt rund 34.000 Mitarbeiter an über 160 Standorten und Produktionsstätten in mehr als 30 Ländern. 2024 erzielte der Konzern einen Umsatz von rund 9,8 Mrd. EUR im Verteidigungsgeschäft.",
@@ -483,23 +608,6 @@
     ],
     "updatedAt": "2026-09-20"
   },
-  "aerodata": {
-    "name": "Aerodata AG",
-    "description": "Die Aerodata AG ist ein 1985 gegründetes mittelständisches Unternehmen aus Braunschweig, das weltweit in der Spezialluftfahrt tätig ist. Das Unternehmen ist der größte Industriepartner des Forschungsflughafens Braunschweig-Wolfsburg und beschäftigt 51-100 Mitarbeiter. Aerodata liefert Komplettlösungen für luftgestützte Überwachung, Aufklärung und Flugvermessung. Mit dem AeroFIS ist Aerodata weltweit führend bei Flugvermessungssystemen zur Kalibrierung von Navigations- und Landehilfen für die zivile und militärische Luftfahrt. Mit AeroMission bietet das Unternehmen ein eigenes Missionssystem für die Luftüberwachung (Meeresüberwachung, Landüberwachung, Detektion von Meeresverschmutzungen, Such- und Rettungsaufgaben). Weitere Produkte sind der multifunktionale Sensorbehälter OctoPod, das Kommunikationssystem AeroPhone und das unbemannte Aufklärungssystem AeroForce X. Aerodata ist als Entwicklungsbetrieb (EASA.211.040), Produktionsbetrieb (DE.21 G.0098) und Instandhaltungsbetrieb (DE.145.0140) zertifiziert. Die Aerodata-Gruppe erstreckt sich über den gesamten Globus mit Tochtergesellschaften in Deutschland, Norwegen, Australien, Thailand und den USA. Die Aktiengesellschaft ist im Lobbyregister des Bundestages unter der Registernummer R006974 eingetragen.",
-    "url": "https://www.aerodata.de/",
-    "category": ["Luftfahrt", "Spezialmission", "Flugvermessung", "Überwachung", "Drohnen"],
-    "parents": [],
-    "products": [
-      "AeroFIS (Flugvermessungssystem)",
-      "AeroMission (Missionssystem)",
-      "OctoPod (Sensorbehälter)",
-      "AeroPhone (Satellitenkommunikation)",
-      "AeroForce X (MALE Unbemanntes Luftfahrtsystem)",
-      "Flugvermessungsdienstleistungen",
-      "Luftfahrzeug-Umrüstung und -Wartung"
-    ],
-    "updatedAt": "2026-09-20"
-  },
   "tytan-technologies": {
     "name": "TYTAN Technologies GmbH",
     "description": "TYTAN Technologies ist ein 2023 gegründetes Münchner Deep-Tech-Start-up, das KI-gesteuerte Abfangdrohnen (Interceptor) und modulare Systeme für die Drohnenabwehr entwickelt. Das Unternehmen wurde von den damaligen TU-München-Studenten Balázs Nagy und Batuhan Yumurtacı gegründet und hat sich auf kosteneffiziente, autonome kinetische Abwehrlösungen zum Schutz von Menschen und kritischer Infrastruktur spezialisiert. Die Systeme werden unter realen Gefechtsbedingungen in der Ukraine getestet und sind bei der Bundeswehr sowie weiteren Streitkräften im Einsatz. TYTAN beschäftigt rund 80 Mitarbeiter und plant den Ausbau auf etwa 150. Das Unternehmen hat in einer Serie-A-Finanzierungsrunde 30 Millionen Euro eingesammelt, angeführt vom NATO Innovation Fund und Armira. Zu den strategischen Partnern zählen HENSOLDT, DEUTZ und Mercedes. TYTAN ist im Lobbyregister des Bundestages unter der Registernummer R007894 eingetragen.",
@@ -549,23 +657,6 @@
       "Cybersicherheitslösungen",
       "Mikrochips für Messtechnik",
       "Radar- und Funküberwachungssysteme"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "aeromaritime": {
-    "name": "AEROMARITIME Systembau GmbH",
-    "description": "Die AEROMARITIME Systembau GmbH ist ein 1971 in München gegründetes, familiengeführtes Unternehmen im Bereich hochverfügbarer Kommunikationstechnologien für das Militär und Behörden mit Sicherheitsaufgaben. Als globaler Anbieter von individuellen Kommunikationssystemen für Überwasserschiffe, U-Boote und Landstationen ist Aeromaritime auf das Design, die Entwicklung, die Herstellung und die Integration von militärischen Kommunikationssystemen, Freund-Feind-Erkennung-Systemen und U-Boot-Antennen spezialisiert. Das Unternehmen hat über 650 Systeme in über 45 Marinen weltweit im Einsatz, einschließlich der NATO und ihrer Tochtergesellschaften. Der Hauptsitz befindet sich im Industriepark München-Neufahrn. Aeromaritime betreibt ein Software-Entwicklungszentrum in Chemnitz/Limbach-Oberfrohna, eine Trainings- und Dokumentationsabteilung in Wilhelmshaven sowie internationale Niederlassungen in Paris, Dubai und Brest. Das Unternehmen beschäftigt über 100 Mitarbeiter, davon rund 76 am Hauptsitz in Neufahrn.",
-    "url": "https://aeromaritime.eu/",
-    "category": ["Marine", "Kommunikation", "Elektronik", "Systemintegration"],
-    "parents": [],
-    "products": [
-      "APCOS 4000 (Integriertes Kommunikationssystem)",
-      "SAMMS 7 (Nachrichtenverarbeitungssystem)",
-      "U-Boot-Antennen",
-      "Freund-Feind-Erkennung-Systeme",
-      "Integrierte Antennensysteme",
-      "Spezialprüfgeräte",
-      "Vermittlungsanlagen für Audio- und Datensignale"
     ],
     "updatedAt": "2026-09-20"
   },

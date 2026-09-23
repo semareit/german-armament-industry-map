@@ -1,5 +1,541 @@
 [
   {
+    "id": "aaronia-de-strickscheid",
+    "companyId": "aaronia",
+    "lat": 50.1167,
+    "lng": 6.3167,
+    "headquarter": true,
+    "siteName": "Stammsitz Strickscheid",
+    "address": "Kauthenbergstraße 14, 54597 Strickscheid",
+    "city": "Strickscheid",
+    "state": "Rheinland-Pfalz",
+    "country": "DE",
+    "description": "Hauptsitz und Stammwerk der AARONIA AG im Gewerbegebiet Aaronia AG II in Strickscheid in der Eifel, nahe der Grenze zu Belgien und Luxemburg. Hier werden alle Produkte entwickelt, gefertigt, getestet und kalibriert – 'Made in Germany' ausnahmslos. Das Unternehmen ist im Handelsregister des Amtsgerichts Wittlich unter HRB 32462 eingetragen. Die Hauptadresse ist Kauthenbergstraße 14; weitere Gebäude im Gewerbegebiet Aaronia AG II (Aaroniaweg 1) werden für Personal, Produktion und Verwaltung genutzt. 2026 begann die Erweiterung der Produktionskapazitäten am Gründungsstandort.",
+    "products": [
+      "SPECTRAN V6",
+      "AARTOS DDS",
+      "EMC-Antennen",
+      "RF Jammer"
+    ],
+    "sources": [
+      "https://www.aaronia.com",
+      "https://www.northdata.com/AARONIA%20AG,%20Strickscheid/Amtsgericht%20Wittlich%20HRB%2032462",
+      "https://www.linkedin.com/company/aaronia-ag",
+      "https://www.elektroniknet.de"
+    ]
+  },
+  {
+    "id": "aaronia-de-bitburg",
+    "companyId": "aaronia",
+    "lat": 49.9700,
+    "lng": 6.5300,
+    "headquarter": false,
+    "siteName": "Neue Produktionsstätte Bitburg (im Bau)",
+    "address": "Bitburg, Rheinland-Pfalz (genauer Standort nicht veröffentlicht)",
+    "city": "Bitburg",
+    "state": "Rheinland-Pfalz",
+    "country": "DE",
+    "description": "Neue Produktionsstätte der AARONIA AG in Bitburg (Rheinland-Pfalz). Das Gebäude umfasst ca. 10.500 Quadratmeter bestehende Nutzfläche mit umfangreichem Erweiterungspotenzial. Das Unternehmen plant, einen zweistelligen Millionenbetrag in Erwerb, Ausbau und Ausstattung der Anlage zu investieren. Die Produktion in Bitburg soll 2027 beginnen. Grund für die Expansion ist die anhaltend hohe Nachfrage nach den Systemen des Unternehmens, zuletzt ein 72-Millionen-Euro-Auftrag für die AARTOS-Hawk-TDOA- und X9-Plattformen. Der genaue Standort innerhalb Bitburgs ist nicht öffentlich bekannt.",
+    "products": [
+      "AARTOS Hawk TDOA",
+      "AARTOS X9",
+      "Drohnendetektionssysteme"
+    ],
+    "sources": [
+      "https://militaeraktuell.at/en/aaronia-is-ramping-up-its-production-capacity/"
+    ]
+  },
+  {
+    "id": "aaronia-at-bad-voeslau",
+    "companyId": "aaronia",
+    "lat": 47.9667,
+    "lng": 16.2333,
+    "headquarter": false,
+    "siteName": "AARONIA Austria – Flughafen Wien-Vöslau",
+    "address": "Flughafen Wien-Vöslau, 2540 Bad Vöslau, Österreich",
+    "city": "Bad Vöslau",
+    "country": "AT",
+    "description": "Österreichische Tochtergesellschaft der AARONIA AG, eröffnet im Mai 2023 am Flughafen Wien-Vöslau. Geschäftsführer ist Stephan Kraschansky, ehemaliger Offizier des österreichischen Bundesheeres. Die Niederlassung bietet Kunden einen Standort mit sehr guter Verkehrsanbindung und diente als Plattform für die erste Live-Demo des AARTOS-Drohnendetektionssystems am Flughafen Wien-Vöslau. AARONIA Austria ist für die Betreuung von Kunden in Österreich und der Region zuständig.",
+    "products": [
+      "AARTOS DDS",
+      "AARTOS Handheld Jammer"
+    ],
+    "sources": [
+      "https://militaeraktuell.at/en/defence-company-portal/ceotronics-3/",
+      "https://www.microwavejournal.com/articles/40225-aaronia-ag-opens-new-location-in-austria",
+      "https://www.drones-magazin.de"
+    ]
+  },
+  {
+    "id": "aaronia-us-seneca",
+    "companyId": "aaronia",
+    "lat": 34.6833,
+    "lng": -82.9500,
+    "headquarter": false,
+    "siteName": "AARONIA USA – Seneca, South Carolina",
+    "address": "2921 Deadwood Loop, Seneca, GA 29678, USA",
+    "city": "Seneca",
+    "state": "Georgia",
+    "country": "US",
+    "description": "US-Niederlassung der AARONIA AG in Seneca, Georgia. AARONIA USA dient als Vertriebs- und Supportstandort für den nordamerikanischen Markt. Das Unternehmen präsentiert seine Produkte auf US-Fachmessen wie der Satellite 2025 und bietet USB-Echtzeit-Spektrumanalysatoren, professionelle Antennentechnologie und das AARTOS-Drohnendetektionssystem für Kunden in den USA an.",
+    "products": [
+      "SPECTRAN V6",
+      "AARTOS DDS",
+      "EMC-Antennen"
+    ],
+    "sources": [
+      "https://www.microwavejournal.com/directories/3337-buyer-s-guide/listing/1730-aaronia-usa"
+    ]
+  },
+  {
+    "id": "abeking-rasmussen-de-lemwerder",
+    "companyId": "abeking-rasmussen",
+    "lat": 53.1667,
+    "lng": 8.6167,
+    "headquarter": true,
+    "siteName": "Werft Lemwerder",
+    "address": "An der Fähre 2, 27809 Lemwerder",
+    "city": "Lemwerder",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Hauptsitz und einziger Standort der Abeking & Rasmussen Schiffs- und Yachtwerft SE. Die Werft liegt in Lemwerder an der Weser, direkt gegenüber von Bremen. Hier werden Spezialschiffe, Marineschiffe sowie Yachten konstruiert, gefertigt und abgeliefert. Das Werftgelände umfasst moderne Schiffbauhallen für Schiffe bis zu 125 Metern Länge. Das Unternehmen ist im Handelsregister des Amtsgerichts Oldenburg unter HRB 210774 eingetragen und im Lobbyregister des Bundestages unter der Registernummer R002102 registriert. CEO ist Matthias Hellmann, COO ist Björn Schlüter.",
+    "products": [
+      "Megayachten",
+      "Minenjagdboote",
+      "Mehrzweckschiffe",
+      "Spezialschiffe"
+    ],
+    "sources": [
+      "https://www.abeking.com/impressum/",
+      "https://www.lobbyregister.bundestag.de/suche/R002102",
+      "https://www.companyhouse.de"
+    ]
+  },
+  {
+    "id": "abraservice-de-duesseldorf",
+    "companyId": "abraservice",
+    "lat": 51.2200,
+    "lng": 6.8300,
+    "headquarter": true,
+    "siteName": "Firmensitz und Produktion Düsseldorf",
+    "address": "Ronsdorfer Straße 24, 40233 Düsseldorf",
+    "city": "Düsseldorf",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Firmensitz und einziger Standort der Abraservice Deutschland GmbH im Düsseldorfer Stadtteil Lierenfeld. Hier befinden sich Verwaltung, Lager, Zuschnitt, Anarbeitung und Schweißtechnik. Das Unternehmen ist im Handelsregister des Amtsgerichts Düsseldorf unter HRB 64058 eingetragen. Der Standort ist nach DIN EN ISO 9001 und DIN 2303 (Herstellerqualifikation für wehrtechnische Produkte) zertifiziert. Von Düsseldorf aus werden Kunden in ganz Deutschland und Europa beliefert.",
+    "products": [
+      "Hardox® Verschleißstahl",
+      "Zuschnitt und Anarbeitung",
+      "Schweißbaugruppen"
+    ],
+    "sources": [
+      "https://www.abraservice.com/de-de/finde-uns/impressum",
+      "https://www.dasoertliche.de",
+      "https://www.companyhouse.de"
+    ]
+  },
+  {
+    "id": "acs-de-friedberg-derching",
+    "companyId": "acs-armoured-cars",
+    "lat": 48.3500,
+    "lng": 11.0000,
+    "headquarter": true,
+    "siteName": "Firmensitz und Werk Friedberg-Derching",
+    "address": "Winterbruckenweg 60, 86316 Friedberg-Derching",
+    "city": "Friedberg",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz und einziger Produktionsstandort der ACS Armoured Car Systems GmbH im Friedberger Stadtteil Derching bei Augsburg. Hier befinden sich Entwicklung, Konstruktion, Prototypenbau, Montage und Serienfertigung. Das Unternehmen verfügt über rund 9.000 m² moderne Hallenflächen, die 2024 um 3.000 m² erweitert wurden. Im September 2024 wurde eine neue Fertigungshalle eingeweiht, in die rund 10 Millionen Euro investiert wurden. ACS beschäftigt am Standort mehr als 150 Mitarbeiter. Das Unternehmen ist im Handelsregister des Amtsgerichts Augsburg unter HRB 20153 eingetragen. Geschäftsführer sind Sebastian Schaubeck und Rolf Liebfried.",
+    "products": [
+      "ENOK",
+      "ENOK AB",
+      "CARACAL",
+      "Ballistischer Schutz",
+      "Systemintegration"
+    ],
+    "sources": [
+      "https://www.acs-armoured-cars.com/impressum/",
+      "https://de.wikipedia.org/wiki/ACS_Armoured_Car_Systems",
+      "https://www.bayern.de"
+    ]
+  },
+    {
+    "id": "adapteo-de-neu-isenburg",
+    "companyId": "adapteo",
+    "lat": 50.0483,
+    "lng": 8.6961,
+    "headquarter": true,
+    "siteName": "Hauptsitz Neu-Isenburg",
+    "address": "Hugenottenallee 167, 63263 Neu-Isenburg",
+    "city": "Neu-Isenburg",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "Deutscher Hauptsitz der Adapteo GmbH. Das Büro in der Hugenottenallee 167 umfasst zwei Etagen mit rund 1.992 Quadratmetern Fläche. Von hier werden Unternehmensführung, Vertrieb und die operative Steuerung der deutschen Aktivitäten koordiniert. Das Unternehmen ist im Handelsregister des Amtsgerichts Offenbach unter HRB 55306 eingetragen. Die Geschäftsführung liegt bei Benjamin Schretter von Wohlgemuthheim. Adapteo nutzt die Adresse als offiziellen Firmensitz und Rechnungsadresse.",
+    "products": [
+      "Unternehmensführung",
+      "Vertrieb",
+      "Projektmanagement"
+    ],
+    "sources": [
+      "https://adapteo.de/impressum",
+      "https://adapteo.de/kontakt",
+      "https://www.rohmert-medien.de"
+    ]
+  },
+    {
+    "id": "adapteo-de-frankfurt",
+    "companyId": "adapteo",
+    "lat": 50.1109,
+    "lng": 8.6821,
+    "headquarter": false,
+    "siteName": "Standort Frankfurt am Main",
+    "address": "Wächtersbacher Straße 63, 60386 Frankfurt am Main",
+    "city": "Frankfurt am Main",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "Produktions- und Vertriebsstandort der Adapteo GmbH im Frankfurter Stadtteil Fechenheim. Der Standort an der Wächtersbacher Straße 63 ist einer der fünf deutschen Standorte und beherbergt einen Teil der Produktion sowie das Vertriebsteam für die Region SüdWest-Mitte. Von hier aus werden Kunden in Hessen, Rheinland-Pfalz und dem Saarland betreut.",
+    "products": [
+      "Produktion",
+      "Vertrieb",
+      "Montage"
+    ],
+    "sources": [
+      "https://adapteo.de/kontakt",
+      "https://www.wlw.de"
+    ]
+  },
+  {
+    "id": "adapteo-de-aichach",
+    "companyId": "adapteo",
+    "lat": 48.4667,
+    "lng": 11.1333,
+    "headquarter": false,
+    "siteName": "Standort Aichach-Dasing",
+    "address": "Carl-von-Linde-Straße 9, 86551 Aichach an der Paar",
+    "city": "Aichach",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Produktions- und Vertriebsstandort der Adapteo GmbH im schwäbischen Aichach-Dasing. Der Standort an der Carl-von-Linde-Straße 9 dient als Werkstatt und Depot für den Umbau und die Instandhaltung modularer Container. Hier werden Module für Kunden in Bayern und angrenzenden Regionen gefertigt und bereitgestellt.",
+    "products": [
+      "Produktion",
+      "Umbau von Modulen",
+      "Montage"
+    ],
+    "sources": [
+      "https://www.jobvector.de",
+      "https://adapteo.de/kontakt"
+    ]
+  },
+  {
+    "id": "adapteo-de-hoerstel",
+    "companyId": "adapteo",
+    "lat": 52.2833,
+    "lng": 7.5833,
+    "headquarter": false,
+    "siteName": "Standort Hörstel",
+    "address": "Talstraße 50, 48477 Hörstel",
+    "city": "Hörstel",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Produktions- und Vertriebsstandort der Adapteo GmbH in Hörstel im Tecklenburger Land. Der Standort an der Talstraße 50 entstand durch die Übernahme und Integration der E. Rent Raumsysteme im Jahr 2023. Hier befinden sich Werkstatt, Lager und Vertrieb für die Region Nord-Ost (Nordrhein-Westfalen, Niedersachsen, Bremen, Hamburg, Schleswig-Holstein und Mecklenburg-Vorpommern).",
+    "products": [
+      "Produktion",
+      "Umbau von Modulen",
+      "Vertrieb Nord-Ost"
+    ],
+    "sources": [
+      "https://www.kommunaldirekt.de",
+      "https://prospeo.io"
+    ]
+  },
+  {
+    "id": "adapteo-de-leipzig",
+    "companyId": "adapteo",
+    "lat": 51.3397,
+    "lng": 12.3731,
+    "headquarter": false,
+    "siteName": "Standort Leipzig",
+    "address": "Leipzig, Sachsen",
+    "city": "Leipzig",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Standort der Adapteo GmbH in Leipzig, eröffnet im Oktober 2023. Mit der Präsenz in Leipzig will das Unternehmen Bauprojekte in Sachsen und den umliegenden Bundesländern noch schneller umsetzen. Der Standort dient als Vertriebs- und Projektbüro für den Osten Deutschlands.",
+    "sources": [
+      "https://www.baumagazin-online.de"
+    ]
+  },
+  {
+    "id": "adapteo-de-brandis",
+    "companyId": "adapteo",
+    "lat": 51.3333,
+    "lng": 12.6167,
+    "headquarter": false,
+    "siteName": "Standort Brandis",
+    "address": "Brandis, Sachsen",
+    "city": "Brandis",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Standort der Adapteo GmbH in Brandis bei Leipzig. Der Standort wird in Stellenausschreibungen und Unternehmensverzeichnissen als einer der deutschen Adapteo-Standorte geführt. Brandis dient als Depot und Vertriebsstandort für die Region Sachsen.",
+    "sources": [
+      "https://www.jobvector.de"
+    ]
+  },
+  {
+    "id": "aerodata-de-braunschweig",
+    "companyId": "aerodata",
+    "lat": 52.3192,
+    "lng": 10.5561,
+    "headquarter": true,
+    "siteName": "Hauptsitz Braunschweig",
+    "address": "Hermann-Blenk-Straße 34-36, 38108 Braunschweig",
+    "city": "Braunschweig",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Hauptsitz der Aerodata AG am Flughafen Braunschweig-Wolfsburg. Hier befinden sich Entwicklung, Produktion, Wartungszentrum, Flugzeughangars, Labore und Büros. Der Standort ist der größte Industriepartner des Forschungsflughafens Braunschweig-Wolfsburg. Aerodata ist hier als Entwicklungsbetrieb (EASA.211.040), Produktionsbetrieb (DE.21 G.0098) und Instandhaltungsbetrieb (DE.145.0140) zertifiziert. Das Unternehmen wurde am 5. Juni 1985 als Aero-Data Flugmeßtechnik GmbH gegründet und zog 1997 in das neue Domizil am Flughafen Braunschweig.",
+    "products": [
+      "AeroFIS",
+      "AeroMission",
+      "OctoPod",
+      "AeroPhone",
+      "Flugzeugumrüstung",
+      "Wartung"
+    ],
+    "sources": [
+      "https://www.lobbyregister.bundestag.de",
+      "https://www.aerodata.de/de/unternehmen/firmengruppe",
+      "https://luftfahrt-der-zukunft.de"
+    ]
+  },
+  {
+    "id": "aerodata-de-strausberg",
+    "companyId": "aerodata",
+    "lat": 52.5792,
+    "lng": 13.8883,
+    "siteName": "Fertigungsstandort Strausberg",
+    "address": "Strausberg, Brandenburg",
+    "city": "Strausberg",
+    "state": "Brandenburg",
+    "country": "DE",
+    "description": "Fertigungsstandort von Aerodata in Strausberg bei Berlin. Hier wurde am 19. August 2026 der erste Prototyp des unbemannten Aufklärungssystems AeroForce X der Öffentlichkeit vorgestellt. Der Erstflug fand in Strausberg statt. Die Verbindung der Standorte Braunschweig (Entwicklung) und Strausberg (Fertigung) bildet die industrielle Basis für das AeroForce X-Programm. Der Standort ist auf die Fertigung von Komponenten für Drohnen und Spezialflugzeuge spezialisiert.",
+    "products": [
+      "AeroForce X",
+      "Unbemannte Luftfahrzeug-Komponenten"
+    ],
+    "sources": [
+      "https://www.tagesschau.de",
+      "https://www.aerodata.de"
+    ]
+  },
+  {
+    "id": "aerodata-de-berlin",
+    "companyId": "aerodata",
+    "lat": 52.517,
+    "lng": 13.394,
+    "siteName": "Hauptstadtbüro Berlin",
+    "address": "Unter den Linden 40, 10117 Berlin",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "DE",
+    "description": "Hauptstadtbüro von Aerodata in Berlin Unter den Linden. Das Büro wurde 2026 eröffnet, um den direkten Austausch mit Politik, Verbänden, Unternehmen und weiteren Stakeholdern zu stärken. Ziel ist die gemeinsame Entwicklung von Lösungen für technologische Souveränität, den Schutz kritischer Infrastruktur und die Stärkung der Verteidigungsfähigkeit. Büroleiter ist Dr. Patrick Weber.",
+    "sources": [
+      "https://www.aerodata.de/de/unternehmen/news-presse/details/raum-fuer-dialog-aerodata-eroeffnet-buero-in-berlin-226/",
+      "https://www.lobbyregister.bundestag.de"
+    ]
+  },
+  {
+    "id": "aerodata-de-optimare-bremerhaven",
+    "companyId": "aerodata",
+    "lat": 53.5395,
+    "lng": 8.5809,
+    "siteName": "OPTIMARE Systems GmbH – Bremerhaven",
+    "address": "Fischkai 1, 27572 Bremerhaven",
+    "city": "Bremerhaven",
+    "state": "Bremen",
+    "country": "DE",
+    "description": "Tochtergesellschaft OPTIMARE Systems GmbH mit Sitz in Bremerhaven. Anbieter von Systemen und Sensoren für die luftfahrzeuggestützte Meeresüberwachung und Fernerkundung. Gemeinsam mit Aerodata entwickelt OPTIMARE den multifunktionalen Sensorbehälter OctoPod für die Luftüberwachung. OPTIMARE war maßgeblich an der Umrüstung der Do 228 LM für die Bundeswehr beteiligt.",
+    "products": [
+      "Meeresüberwachungssysteme",
+      "Fernerkundungssensoren",
+      "OctoPod"
+    ],
+    "sources": [
+      "https://www.aerodata.de/de/unternehmen/firmengruppe",
+      "https://www.optimare.de"
+    ]
+  },
+  {
+    "id": "aerodata-de-systems-services-braunschweig",
+    "companyId": "aerodata",
+    "lat": 52.3192,
+    "lng": 10.5561,
+    "siteName": "AERODATA Systems & Services GmbH – Braunschweig",
+    "address": "Hermann-Blenk-Straße 36, 38108 Braunschweig",
+    "city": "Braunschweig",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Tochtergesellschaft AERODATA Systems & Services GmbH mit Sitz in Braunschweig. Tätig in den Bereichen Telekommunikation, Softwareentwicklung, IT-Beratung und Erbringung sonstiger IT-Dienstleistungen. Herstellung von Produkten und Dienstleistungen auf den Gebieten der Telematik und des allgemeinen Verkehrswesens sowie Erarbeiten, Sammeln und Vermarkten von Informationen und Daten, insbesondere der Luftfahrt.",
+    "products": [
+      "Telematik",
+      "Softwareentwicklung",
+      "IT-Dienstleistungen"
+    ],
+    "sources": [
+      "https://www.companyhouse.de",
+      "https://www.northdata.de"
+    ]
+  },
+  {
+    "id": "aerodata-de-aeromotor-braunschweig",
+    "companyId": "aerodata",
+    "lat": 52.3192,
+    "lng": 10.5561,
+    "siteName": "AeroMotor GmbH – Braunschweig",
+    "address": "Braunschweig",
+    "city": "Braunschweig",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Tochtergesellschaft AeroMotor GmbH mit Sitz in Braunschweig. Entwicklung, Zulassung, Herstellung, Wartung und Vermarktung von Flugzeugen bzw. Hubschraubern oder Teilen davon sowie logistische Unterstützung für Betreiber von Flugzeugen bzw. Hubschraubern.",
+    "products": [
+      "Flugzeugentwicklung",
+      "Hubschrauber",
+      "Logistik-Support"
+    ],
+    "sources": [
+      "https://www.northdata.de"
+    ]
+  },
+  {
+    "id": "aerodata-de-aerowatch-braunschweig",
+    "companyId": "aerodata",
+    "lat": 52.3192,
+    "lng": 10.5561,
+    "siteName": "AeroWatch GmbH – Braunschweig",
+    "address": "Hermann-Blenk-Straße 36, 38108 Braunschweig",
+    "city": "Braunschweig",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Tochtergesellschaft AeroWatch GmbH mit Sitz in Braunschweig. Handel mit Navigations-, Avionik-, Flugvermessungs- und Überwachungs-/Search & Rescue-Systemen, Flugzeugen bzw. Hubschraubern und Teilen davon.",
+    "products": [
+      "Navigationssysteme",
+      "Avionik",
+      "Search & Rescue-Systeme"
+    ],
+    "sources": [
+      "https://www.northdata.de",
+      "https://www.companyhouse.de"
+    ]
+  },
+  {
+    "id": "aerodata-no-oslo",
+    "companyId": "aerodata",
+    "lat": 59.9139,
+    "lng": 10.7522,
+    "siteName": "Norwegische Tochtergesellschaft",
+    "address": "Oslo, Norwegen",
+    "city": "Oslo",
+    "country": "NO",
+    "description": "Norwegische Tochtergesellschaft der Aerodata-Gruppe. Die norwegische Tochter liefert Flugvermessungssysteme, die von Aerodata für Kunden in Norwegen und Pakistan in King Air B200-Flugzeuge eingebaut werden. Die genaue Firmierung und der genaue Standort sind nicht öffentlich bekannt.",
+    "products": [
+      "Flugvermessungssysteme"
+    ],
+    "sources": [
+      "https://www.aerodata.de/de/unternehmen/firmengruppe"
+    ]
+  },
+  {
+    "id": "aerodata-au-brisbane",
+    "companyId": "aerodata",
+    "lat": -27.4698,
+    "lng": 153.0251,
+    "siteName": "AeroPearl Pty. Ltd. – Brisbane",
+    "address": "Hamilton Central, Brisbane, QLD 4007, Australien",
+    "city": "Brisbane",
+    "state": "Queensland",
+    "country": "AU",
+    "description": "Gemeinschaftsunternehmen AeroPearl Pty. Ltd., ein Joint Venture der australischen Paspaley Pearls Group und der Aerodata AG. AeroPearl wurde 1997 gegründet und erbringt Flugvermessungsdienstleistungen für Airservices Australia und Kunden in Australien, Asien, dem Nahen Osten und dem Südpazifik. Seit 1997 führt das in Brisbane ansässige Unternehmen Flugvermessungen für Airservices Australia durch.",
+    "products": [
+      "Flugvermessungsdienstleistungen"
+    ],
+    "sources": [
+      "https://www.aeropearl.com.au",
+      "https://www.aerodata.de/de/unternehmen/firmengruppe"
+    ]
+  },
+  {
+    "id": "aerodata-au-darwin",
+    "companyId": "aerodata",
+    "lat": -12.4634,
+    "lng": 130.8456,
+    "siteName": "AeroRescue Pty. Ltd. – Darwin",
+    "address": "Darwin, Northern Territory, Australien",
+    "city": "Darwin",
+    "state": "Northern Territory",
+    "country": "AU",
+    "description": "Tochtergesellschaft AeroRescue Pty. Ltd. mit Sitz in Darwin. Aerodata lieferte Search & Rescue-Flugzeuge vom Typ Dornier 328 an AeroRescue, die im Auftrag der Australian Maritime Safety Authority (AMSA) betrieben werden. Die Flugzeuge wurden von Aerodata modifiziert, mit dem hochintegrierten AeroMission-System ausgestattet und zertifiziert.",
+    "products": [
+      "Search & Rescue-Flugzeuge",
+      "AeroMission"
+    ],
+    "sources": [
+      "https://www.aerodata.de/de/unternehmen/firmengruppe"
+    ]
+  },
+  {
+    "id": "aerodata-th-bangkok",
+    "companyId": "aerodata",
+    "lat": 13.72,
+    "lng": 100.53,
+    "siteName": "Aerodata (Thailand) Co. Ltd. – Bangkok",
+    "address": "83/58-59 Soi Suksa Witthaya, Silom, Bang Rak, Bangkok, Thailand",
+    "city": "Bangkok",
+    "country": "TH",
+    "description": "Tochtergesellschaft Aerodata (Thailand) Co. Ltd. mit Sitz in Bangkok, gegründet 2003. Das Unternehmen wurde für die Durchführung eines Leasingvertrags mit der Aeronautical Radio of Thailand Ltd. (Aerothai) gegründet. Es vertreibt Flugzeugersatzteile und vermietet Kommunikationsausrüstung für Luftfahrzeuge.",
+    "products": [
+      "Flugzeugersatzteile",
+      "Kommunikationsausrüstung"
+    ],
+    "sources": [
+      "https://data.creden.co",
+      "https://www.aerodata.de/de/unternehmen/firmengruppe"
+    ]
+  },
+  {
+    "id": "aerodata-us-buffalo",
+    "companyId": "aerodata",
+    "lat": 42.8864,
+    "lng": -78.8784,
+    "siteName": "Aerodata Systems LLC – Buffalo",
+    "address": "Buffalo, New York, USA",
+    "city": "Buffalo",
+    "state": "New York",
+    "country": "US",
+    "description": "US-Tochtergesellschaft Aerodata Systems LLC mit Sitz in Buffalo, New York. Teil der Aerodata Firmengruppe. Die Gesellschaft ist im Bereich der Spezialluftfahrt tätig.",
+    "sources": [
+      "https://de.wikipedia.org/wiki/Aerodata",
+      "https://www.aerodata.de/de/unternehmen/firmengruppe"
+    ]
+  },
+  {
+    "id": "aerodata-us-scottsdale",
+    "companyId": "aerodata",
+    "lat": 33.4942,
+    "lng": -111.9261,
+    "siteName": "Aerodata, Inc. – Scottsdale",
+    "address": "14988 N. 78th Way, Suite 214, Scottsdale, AZ 85260, USA",
+    "city": "Scottsdale",
+    "state": "Arizona",
+    "country": "US",
+    "description": "US-Standort Aerodata, Inc. mit Sitz in Scottsdale, Arizona. Das Unternehmen erbringt Dienstleistungen im Bereich Luftfahrzeug-Gewichts- und Balance-/Leistungsdienste und -Support. Es ist als Empfänger von US-Bundesaufträgen (UEI KXC6MXFJS465, CAGE 78DG6) registriert.",
+    "products": [
+      "Gewichts- und Balance-Dienste",
+      "Leistungs-Support"
+    ],
+    "sources": [
+      "https://sam.gov",
+      "https://bgpview.io"
+    ]
+  },
+  {
     "id": "aeromaritime-de-neufahrn",
     "companyId": "aeromaritime",
     "lat": 48.3167,
@@ -5353,261 +5889,6 @@
       "https://www.donaustahl.com",
       "https://www.welt.de",
       "https://www.businessinsider.de"
-    ]
-  },
-  {
-    "id": "aerodata-braunschweig",
-    "companyId": "aerodata",
-    "lat": 52.3192,
-    "lng": 10.5561,
-    "headquarter": true,
-    "siteName": "Hauptsitz Braunschweig",
-    "address": "Hermann-Blenk-Straße 34-36, 38108 Braunschweig",
-    "city": "Braunschweig",
-    "state": "Niedersachsen",
-    "country": "DE",
-    "description": "Hauptsitz der Aerodata AG am Flughafen Braunschweig-Wolfsburg. Hier befinden sich Entwicklung, Produktion, Wartungszentrum, Flugzeughangars, Labore und Büros. Der Standort ist der größte Industriepartner des Forschungsflughafens Braunschweig-Wolfsburg. Aerodata ist hier als Entwicklungsbetrieb (EASA.211.040), Produktionsbetrieb (DE.21 G.0098) und Instandhaltungsbetrieb (DE.145.0140) zertifiziert. Das Unternehmen wurde am 5. Juni 1985 als Aero-Data Flugmeßtechnik GmbH gegründet und zog 1997 in das neue Domizil am Flughafen Braunschweig.",
-    "products": [
-      "AeroFIS",
-      "AeroMission",
-      "OctoPod",
-      "AeroPhone",
-      "Flugzeugumrüstung",
-      "Wartung"
-    ],
-    "sources": [
-      "https://www.lobbyregister.bundestag.de",
-      "https://www.aerodata.de/de/unternehmen/firmengruppe",
-      "https://luftfahrt-der-zukunft.de"
-    ]
-  },
-  {
-    "id": "aerodata-strausberg",
-    "companyId": "aerodata",
-    "lat": 52.5792,
-    "lng": 13.8883,
-    "siteName": "Fertigungsstandort Strausberg",
-    "address": "Strausberg, Brandenburg",
-    "city": "Strausberg",
-    "state": "Brandenburg",
-    "country": "DE",
-    "description": "Fertigungsstandort von Aerodata in Strausberg bei Berlin. Hier wurde am 19. August 2026 der erste Prototyp des unbemannten Aufklärungssystems AeroForce X der Öffentlichkeit vorgestellt. Der Erstflug fand in Strausberg statt. Die Verbindung der Standorte Braunschweig (Entwicklung) und Strausberg (Fertigung) bildet die industrielle Basis für das AeroForce X-Programm. Der Standort ist auf die Fertigung von Komponenten für Drohnen und Spezialflugzeuge spezialisiert.",
-    "products": [
-      "AeroForce X",
-      "Unbemannte Luftfahrzeug-Komponenten"
-    ],
-    "sources": [
-      "https://www.tagesschau.de",
-      "https://www.aerodata.de"
-    ]
-  },
-  {
-    "id": "aerodata-berlin",
-    "companyId": "aerodata",
-    "lat": 52.517,
-    "lng": 13.394,
-    "siteName": "Hauptstadtbüro Berlin",
-    "address": "Unter den Linden 40, 10117 Berlin",
-    "city": "Berlin",
-    "state": "Berlin",
-    "country": "DE",
-    "description": "Hauptstadtbüro von Aerodata in Berlin Unter den Linden. Das Büro wurde 2026 eröffnet, um den direkten Austausch mit Politik, Verbänden, Unternehmen und weiteren Stakeholdern zu stärken. Ziel ist die gemeinsame Entwicklung von Lösungen für technologische Souveränität, den Schutz kritischer Infrastruktur und die Stärkung der Verteidigungsfähigkeit. Büroleiter ist Dr. Patrick Weber.",
-    "sources": [
-      "https://www.aerodata.de/de/unternehmen/news-presse/details/raum-fuer-dialog-aerodata-eroeffnet-buero-in-berlin-226/",
-      "https://www.lobbyregister.bundestag.de"
-    ]
-  },
-  {
-    "id": "aerodata-optimare-bremerhaven",
-    "companyId": "aerodata",
-    "lat": 53.5395,
-    "lng": 8.5809,
-    "siteName": "OPTIMARE Systems GmbH – Bremerhaven",
-    "address": "Fischkai 1, 27572 Bremerhaven",
-    "city": "Bremerhaven",
-    "state": "Bremen",
-    "country": "DE",
-    "description": "Tochtergesellschaft OPTIMARE Systems GmbH mit Sitz in Bremerhaven. Anbieter von Systemen und Sensoren für die luftfahrzeuggestützte Meeresüberwachung und Fernerkundung. Gemeinsam mit Aerodata entwickelt OPTIMARE den multifunktionalen Sensorbehälter OctoPod für die Luftüberwachung. OPTIMARE war maßgeblich an der Umrüstung der Do 228 LM für die Bundeswehr beteiligt.",
-    "products": [
-      "Meeresüberwachungssysteme",
-      "Fernerkundungssensoren",
-      "OctoPod"
-    ],
-    "sources": [
-      "https://www.aerodata.de/de/unternehmen/firmengruppe",
-      "https://www.optimare.de"
-    ]
-  },
-  {
-    "id": "aerodata-systems-services-braunschweig",
-    "companyId": "aerodata",
-    "lat": 52.3192,
-    "lng": 10.5561,
-    "siteName": "AERODATA Systems & Services GmbH – Braunschweig",
-    "address": "Hermann-Blenk-Straße 36, 38108 Braunschweig",
-    "city": "Braunschweig",
-    "state": "Niedersachsen",
-    "country": "DE",
-    "description": "Tochtergesellschaft AERODATA Systems & Services GmbH mit Sitz in Braunschweig. Tätig in den Bereichen Telekommunikation, Softwareentwicklung, IT-Beratung und Erbringung sonstiger IT-Dienstleistungen. Herstellung von Produkten und Dienstleistungen auf den Gebieten der Telematik und des allgemeinen Verkehrswesens sowie Erarbeiten, Sammeln und Vermarkten von Informationen und Daten, insbesondere der Luftfahrt.",
-    "products": [
-      "Telematik",
-      "Softwareentwicklung",
-      "IT-Dienstleistungen"
-    ],
-    "sources": [
-      "https://www.companyhouse.de",
-      "https://www.northdata.de"
-    ]
-  },
-  {
-    "id": "aerodata-aeromotor-braunschweig",
-    "companyId": "aerodata",
-    "lat": 52.3192,
-    "lng": 10.5561,
-    "siteName": "AeroMotor GmbH – Braunschweig",
-    "address": "Braunschweig",
-    "city": "Braunschweig",
-    "state": "Niedersachsen",
-    "country": "DE",
-    "description": "Tochtergesellschaft AeroMotor GmbH mit Sitz in Braunschweig. Entwicklung, Zulassung, Herstellung, Wartung und Vermarktung von Flugzeugen bzw. Hubschraubern oder Teilen davon sowie logistische Unterstützung für Betreiber von Flugzeugen bzw. Hubschraubern.",
-    "products": [
-      "Flugzeugentwicklung",
-      "Hubschrauber",
-      "Logistik-Support"
-    ],
-    "sources": [
-      "https://www.northdata.de"
-    ]
-  },
-  {
-    "id": "aerodata-aerowatch-braunschweig",
-    "companyId": "aerodata",
-    "lat": 52.3192,
-    "lng": 10.5561,
-    "siteName": "AeroWatch GmbH – Braunschweig",
-    "address": "Hermann-Blenk-Straße 36, 38108 Braunschweig",
-    "city": "Braunschweig",
-    "state": "Niedersachsen",
-    "country": "DE",
-    "description": "Tochtergesellschaft AeroWatch GmbH mit Sitz in Braunschweig. Handel mit Navigations-, Avionik-, Flugvermessungs- und Überwachungs-/Search & Rescue-Systemen, Flugzeugen bzw. Hubschraubern und Teilen davon.",
-    "products": [
-      "Navigationssysteme",
-      "Avionik",
-      "Search & Rescue-Systeme"
-    ],
-    "sources": [
-      "https://www.northdata.de",
-      "https://www.companyhouse.de"
-    ]
-  },
-  {
-    "id": "aerodata-norwegen",
-    "companyId": "aerodata",
-    "lat": 59.9139,
-    "lng": 10.7522,
-    "siteName": "Norwegische Tochtergesellschaft",
-    "address": "Oslo, Norwegen",
-    "city": "Oslo",
-    "country": "NO",
-    "description": "Norwegische Tochtergesellschaft der Aerodata-Gruppe. Die norwegische Tochter liefert Flugvermessungssysteme, die von Aerodata für Kunden in Norwegen und Pakistan in King Air B200-Flugzeuge eingebaut werden. Die genaue Firmierung und der genaue Standort sind nicht öffentlich bekannt.",
-    "products": [
-      "Flugvermessungssysteme"
-    ],
-    "sources": [
-      "https://www.aerodata.de/de/unternehmen/firmengruppe"
-    ]
-  },
-  {
-    "id": "aerodata-australien-brisbane",
-    "companyId": "aerodata",
-    "lat": -27.4698,
-    "lng": 153.0251,
-    "siteName": "AeroPearl Pty. Ltd. – Brisbane",
-    "address": "Hamilton Central, Brisbane, QLD 4007, Australien",
-    "city": "Brisbane",
-    "state": "Queensland",
-    "country": "AU",
-    "description": "Gemeinschaftsunternehmen AeroPearl Pty. Ltd., ein Joint Venture der australischen Paspaley Pearls Group und der Aerodata AG. AeroPearl wurde 1997 gegründet und erbringt Flugvermessungsdienstleistungen für Airservices Australia und Kunden in Australien, Asien, dem Nahen Osten und dem Südpazifik. Seit 1997 führt das in Brisbane ansässige Unternehmen Flugvermessungen für Airservices Australia durch.",
-    "products": [
-      "Flugvermessungsdienstleistungen"
-    ],
-    "sources": [
-      "https://www.aeropearl.com.au",
-      "https://www.aerodata.de/de/unternehmen/firmengruppe"
-    ]
-  },
-  {
-    "id": "aerodata-australien-darwin",
-    "companyId": "aerodata",
-    "lat": -12.4634,
-    "lng": 130.8456,
-    "siteName": "AeroRescue Pty. Ltd. – Darwin",
-    "address": "Darwin, Northern Territory, Australien",
-    "city": "Darwin",
-    "state": "Northern Territory",
-    "country": "AU",
-    "description": "Tochtergesellschaft AeroRescue Pty. Ltd. mit Sitz in Darwin. Aerodata lieferte Search & Rescue-Flugzeuge vom Typ Dornier 328 an AeroRescue, die im Auftrag der Australian Maritime Safety Authority (AMSA) betrieben werden. Die Flugzeuge wurden von Aerodata modifiziert, mit dem hochintegrierten AeroMission-System ausgestattet und zertifiziert.",
-    "products": [
-      "Search & Rescue-Flugzeuge",
-      "AeroMission"
-    ],
-    "sources": [
-      "https://www.aerodata.de/de/unternehmen/firmengruppe"
-    ]
-  },
-  {
-    "id": "aerodata-thailand-bangkok",
-    "companyId": "aerodata",
-    "lat": 13.72,
-    "lng": 100.53,
-    "siteName": "Aerodata (Thailand) Co. Ltd. – Bangkok",
-    "address": "83/58-59 Soi Suksa Witthaya, Silom, Bang Rak, Bangkok, Thailand",
-    "city": "Bangkok",
-    "country": "TH",
-    "description": "Tochtergesellschaft Aerodata (Thailand) Co. Ltd. mit Sitz in Bangkok, gegründet 2003. Das Unternehmen wurde für die Durchführung eines Leasingvertrags mit der Aeronautical Radio of Thailand Ltd. (Aerothai) gegründet. Es vertreibt Flugzeugersatzteile und vermietet Kommunikationsausrüstung für Luftfahrzeuge.",
-    "products": [
-      "Flugzeugersatzteile",
-      "Kommunikationsausrüstung"
-    ],
-    "sources": [
-      "https://data.creden.co",
-      "https://www.aerodata.de/de/unternehmen/firmengruppe"
-    ]
-  },
-  {
-    "id": "aerodata-usa-buffalo",
-    "companyId": "aerodata",
-    "lat": 42.8864,
-    "lng": -78.8784,
-    "siteName": "Aerodata Systems LLC – Buffalo",
-    "address": "Buffalo, New York, USA",
-    "city": "Buffalo",
-    "state": "New York",
-    "country": "US",
-    "description": "US-Tochtergesellschaft Aerodata Systems LLC mit Sitz in Buffalo, New York. Teil der Aerodata Firmengruppe. Die Gesellschaft ist im Bereich der Spezialluftfahrt tätig.",
-    "sources": [
-      "https://de.wikipedia.org/wiki/Aerodata",
-      "https://www.aerodata.de/de/unternehmen/firmengruppe"
-    ]
-  },
-  {
-    "id": "aerodata-usa-scottsdale",
-    "companyId": "aerodata",
-    "lat": 33.4942,
-    "lng": -111.9261,
-    "siteName": "Aerodata, Inc. – Scottsdale",
-    "address": "14988 N. 78th Way, Suite 214, Scottsdale, AZ 85260, USA",
-    "city": "Scottsdale",
-    "state": "Arizona",
-    "country": "US",
-    "description": "US-Standort Aerodata, Inc. mit Sitz in Scottsdale, Arizona. Das Unternehmen erbringt Dienstleistungen im Bereich Luftfahrzeug-Gewichts- und Balance-/Leistungsdienste und -Support. Es ist als Empfänger von US-Bundesaufträgen (UEI KXC6MXFJS465, CAGE 78DG6) registriert.",
-    "products": [
-      "Gewichts- und Balance-Dienste",
-      "Leistungs-Support"
-    ],
-    "sources": [
-      "https://sam.gov",
-      "https://bgpview.io"
     ]
   },
   {

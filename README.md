@@ -145,3 +145,11 @@ live-server --open=docs/index.html`
 
 **5. Stopping the Server:**
 Press `Ctrl` + `C` in the terminal to stop the server.
+
+## Resources
+
+- Mitglieder | Bundesverband der Deutschen Sicherheits- und Verteidigungsindustrie e.V.  
+https://www.bdsv.eu/bdsv-exhibitions/mitglieder.html
+
+- Handbuch Rüstung | Informationsstelle Militarisierung e.V.  
+https://www.imi-online.de/download/IMI_Handbuch_Ruestung_web.pdf

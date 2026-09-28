@@ -124,65 +124,277 @@
     ],
     "updatedAt": "2026-09-20"
   },
-  "rheinmetall": {
-    "name": "Rheinmetall AG",
-    "description": "Die Rheinmetall AG ist ein börsennotierter integrierter Technologiekonzern mit Sitz in Düsseldorf und einer der größten Rüstungskonzerne Europas. Das Unternehmen gliedert sich in die Segmente Weapon and Ammunition, Electronic Solutions, Vehicle Systems und Power Systems. Rheinmetall beschäftigt rund 34.000 Mitarbeiter an über 160 Standorten und Produktionsstätten in mehr als 30 Ländern. 2024 erzielte der Konzern einen Umsatz von rund 9,8 Mrd. EUR im Verteidigungsgeschäft.",
-    "url": "https://www.rheinmetall.com/",
-    "category": ["Panzer", "Munition", "Luftverteidigung", "Elektronik", "Fahrzeuge", "Marine"],
+  "agp-sglass": {
+    "name": "AGP sGlass Europe GmbH",
+    "description": "Die AGP sGlass Europe GmbH ist ein 2025 gegründeter Anbieter von Sicherheitsglas und transparenten Panzerungssystemen für zivile und militärische Fahrzeuge, Schiffe und Gebäude. Das Unternehmen mit Sitz in Düsseldorf ist Teil der belgischen AGP Group, einem weltweit führenden Hersteller von Spezialverglasungen für die Automobil-, Verteidigungs-, Marine-, Bahn- und Sicherheitsbranche. AGP sGlass deckt den Vertrieb, den Export sowie die Installation und Wartung von Sicherheitsglas ab und berät Kunden in diesen Bereichen. Die AGP Group ist in 45 Ländern aktiv und betreibt Produktionsstätten in Kolumbien, Brasilien, Peru und Belgien. Die deutsche Tochtergesellschaft ist im Handelsregister des Amtsgerichts Düsseldorf unter HRB 107753 eingetragen. Geschäftsführer ist Christoph Schulz aus Jüchen.",
+    "url": "https://agpglass.com/",
+    "category": ["Sicherheitsglas", "Panzerung", "Fahrzeugsysteme", "Marine", "Dienstleistungen"],
+    "parents": ["agp-group"],
+    "products": [
+      "Ballistisches Sicherheitsglas (BRG)",
+      "Transparente Panzerungssysteme für Landfahrzeuge",
+      "Transparente Panzerungssysteme für Marineplattformen",
+      "Blast-Resistance-Verglasung",
+      "EMV-/EMI-abschirmendes Glas",
+      "Feuerwiderstandsfähiges Glas",
+      "Leichtbau-Sicherheitsglas",
+      "Multi-Hit-fähige Panzergläser",
+      "Installation und Wartung"
+    ]
+  },
+  "agp-group": {
+    "name": "AGP Group",
+    "description": "Die AGP Group (American Glass Products) ist ein 1965 gegründeter, weltweit führender Hersteller von Spezialverglasungen und transparenten Panzerungssystemen für die Automobil-, Verteidigungs-, Marine-, Bahn-, Polizei- und Sicherheitsbranche. Das Unternehmen mit operativem Hauptsitz in Ghent (Belgien) und Unternehmenszentrale in Málaga (Spanien) betreibt sieben Produktionsstätten, drei AVOs (Assembly & Value-Added Operations) und vier Technologie-Innovationszentren in Europa, Nord- und Südamerika sowie Vertriebsbüros in 20 Ländern. AGP beschäftigt rund 4.000 Mitarbeiter, bedient über 1.000 Kunden in 45 Ländern und fertigt jährlich mehr als 100.000 Quadratmeter ballistisches Sicherheitsglas. Das Unternehmen ist in zwei Divisionen gegliedert: AGP sGlass (Sicherheits- und Panzerglas für zivile, militärische und marine Anwendungen) und AGP eGlass (moderne Verglasungslösungen für Elektromobilität, autonomes Fahren und Konnektivität). Zu den Kunden zählen führende Automobilhersteller wie Tesla, BMW, Mercedes-Benz, Audi, Porsche, Volvo und Scania sowie Streitkräfte und Regierungsbehörden weltweit.",
+    "url": "https://agpglass.com/",
+    "category": ["Sicherheitsglas", "Panzerung", "Fahrzeugsysteme", "Marine", "Luftfahrt", "Dienstleistungen"],
     "parents": [],
     "products": [
-      "Leopard 2 Kampfpanzer (Komponenten, Zulieferer)",
-      "Puma Schützenpanzer (Zulieferer)",
-      "Boxer Radpanzer (Zulieferer)",
-      "Lynx Schützenpanzer (Erstausrüster)",
-      "Panzerhaubitze 2000 (Zulieferer)",
-      "RCH 155 (Zulieferer)",
-      "Artilleriemunition (155 mm)",
-      "Panzermunition (120 mm)",
-      "Luftverteidigungssysteme (Skyranger, Skynex)",
-      "Elektronische Kampfführung",
-      "Soldatensysteme (IdZ-ES)",
-      "Militärlastwagen (HX, SX)",
-      "Marinewaffensysteme"
+      "Ballistisches Sicherheitsglas (BRG)",
+      "Transparente Panzerungssysteme für Landfahrzeuge",
+      "Transparente Panzerungssysteme für Marineplattformen",
+      "Blast-Resistance-Verglasung",
+      "EMV-/EMI-abschirmendes Glas",
+      "Feuerwiderstandsfähiges Glas",
+      "Leichtbau-Sicherheitsglas",
+      "Multi-Hit-fähige Panzergläser",
+      "Automotive-Verglasung (eGlass)",
+      "AR-HUD-fähige Windschutzscheiben",
+      "Switchable Glazing"
+    ]
+  },
+  "aim-infrarot": {
+    "name": "AIM Infrarot-Module GmbH",
+    "description": "Die AIM Infrarot-Module GmbH in Heilbronn ist ein führender Hersteller von Hochleistungsmodulen für Wärmebildgeräte und Lenkflugkörper. Die Produkte des Weltmarktführers in der Infrarot-Technologie werden bei den Streitkräften aller NATO-Länder, im Zivilschutz, in der Forschung, in der Überwachung von Industrieprozessen, bei Anwendungen im Umweltschutz und in der Medizin eingesetzt. Die AIM Infrarot-Module GmbH ist ein 1976 aus der Infrarot-Sparte von AEG-Telefunken hervorgegangenes Hightech-Unternehmen mit Hauptsitz in Heilbronn. Das Unternehmen entwickelt, fertigt und vertreibt hochwertige Infrarotdetektoren und Wärmebildgeräte sowie Stirling-Kühlmaschinen für den Betrieb der Detektoren bei kryogenen Temperaturen. Die Produkte sind bei der Deutschen Bundeswehr und Streitkräften vieler NATO-Länder im Einsatz und werden zunehmend auch in weltraumgestützten Anwendungen eingesetzt. AIM beschäftigte 2024 rund 398 Mitarbeiter und erzielte einen Jahresumsatz von 90,7 Mio. €. Das Unternehmen war bis 2025 ein 50/50-Joint-Venture von Diehl Defence und Rheinmetall Electronics. Im November 2025 übernahm Diehl Defence die Anteile von Rheinmetall und ist seit Dezember 2025 alleiniger Gesellschafter. Das Unternehmen ist im Handelsregister eingetragen und nach DIN 2303 (Herstellerqualifikation für wehrtechnische Produkte) zertifiziert.",
+    "url": "https://www.aim-ir.com/",
+    "category": ["Infrarottechnologie", "Sensorik", "Wärmebildtechnik", "Raumfahrt", "Verteidigung"],
+    "parents": ["diehl","rheinmetall"],
+    "products": [
+      "Infrarotdetektoren (MCT MWIR/LWIR)",
+      "Wärmebildgeräte",
+      "Stirling-Kühlmaschinen",
+      "HIPIR-1280M (MCT MWIR 1280×1024)",
+      "HIPIR-640M (MCT MWIR 640×512)",
+      "Lineare IR-Detektionsmodule",
+      "ROIC-Design (Read-Out Integrated Circuits)",
+      "Weltraumgestützte IR-Detektoren"
+    ]
+  },
+  "airbus": {
+    "name": "Airbus Group SE",
+    "description": "Airbus ist ein führendes globales Unternehmen der Luft- und Raumfahrt mit Sitz in Leiden, Niederlande. Die Gruppe gliedert sich in die Divisionen Airbus Commercial Aircraft, Airbus Defence and Space und Airbus Helicopters. Airbus Defence and Space ist Europas größtes Verteidigungs- und Raumfahrtunternehmen.",
+    "url": "https://www.airbus.com/",
+    "category": ["Luftfahrt", "Raumfahrt", "Verteidigung"],
+    "parents": [],
+    "products": [],
+    "updatedAt": "2026-09-20"
+  },
+  "airbus-ds": {
+    "name": "Airbus Defence and Space",
+    "description": "Airbus Defence and Space ist die Rüstungs- und Raumfahrtsparte der Airbus Group und Europas größtes Verteidigungs- und Raumfahrtunternehmen. Das Portfolio umfasst Militärflugzeuge (Eurofighter, A400M, A330 MRTT), Satelliten, unbemannte Systeme, Cybersicherheit und sichere Kommunikation. Hauptsitz ist Taufkirchen/Ottobrunn bei München, die Division beschäftigt weltweit rund 33.000 Mitarbeiter.",
+    "url": "https://www.airbus.com/en/products-services/defence",
+    "category": ["Luftfahrt", "Raumfahrt", "Elektronik", "Dienstleistungen"],
+    "parents": ["airbus"],
+    "products": [
+      "Eurofighter Typhoon",
+      "A400M Atlas",
+      "A330 MRTT",
+      "C295",
+      "CN235",
+      "Eurodrone (FCAS)",
+      "Galileo-Satelliten",
+      "MetOp-Wettersatelliten",
+      "TerraSAR-X / TanDEM-X",
+      "Cybersicherheitslösungen"
     ],
     "updatedAt": "2026-09-20"
   },
-  "tkms": {
-    "name": "TKMS AG & Co. KGaA",
-    "description": "TKMS (ehemals Thyssenkrupp Marine Systems) ist der weltweit führende Anbieter von konventionellen, nicht-nuklear betriebenen U-Booten sowie ein bedeutender Hersteller von Überwasserschiffen, Marineführungssystemen und Marineelektronik. Das Unternehmen wurde 2025 aus dem Thyssenkrupp-Konzern ausgegliedert und ist seit Oktober 2025 als TKMS AG & Co. KGaA an der Börse notiert (Thyssenkrupp behält 51 %). TKMS beschäftigt über 8.300 Mitarbeiter und betreibt drei Werften in Kiel, Wismar und Itajaí (Brasilien).",
-    "url": "https://www.tkmsgroup.com/",
-    "category": ["Marine", "U-Boote", "Überwasserschiffe", "Elektronik"],
+  "airlogix": {
+    "name": "Airlogix",
+    "description": "Airlogix ist ein 2020 gegründetes ukrainisches Verteidigungstechnologie-Unternehmen mit Sitz in Kyiv, das unbemannte Luftfahrtsysteme für Aufklärung und Frachtlogistik entwickelt und produziert. Die Drohnen von Airlogix nutzen Maschinelles Sehen und Künstliche Intelligenz für halbautonome Operationen und werden primär im Verteidigungssektor eingesetzt. Das Unternehmen beschäftigt rund 25 Mitarbeiter und hat sich auf kampferprobte, modular aufgebaute unbemannte Luftfahrzeuge mit anpassungsfähigen Flugsystemen und robusten Nutzlastkapazitäten spezialisiert. Airlogix ist eine Tochtergesellschaft der ukrainischen Verteidigungsindustrie und hat 2026 ein Gemeinschaftsunternehmen mit dem deutschen Unternehmen Auterion gegründet, um weitreichende Kampfdrohnen in Deutschland zu produzieren.",
+    "url": "https://airlogix.ua/",
+    "category": ["Drohnen", "Unbemannte Luftfahrtsysteme", "Loitering-Munition", "Verteidigungstechnologie"],
     "parents": [],
     "products": [
-      "U-Boote der Klasse 212CD",
-      "U-Boote der Klasse 214",
-      "U-Boote der Klasse 218SG",
-      "MEKO-Fregatten",
-      "MEKO-Korvetten",
-      "Sonarsysteme",
-      "Führungssysteme",
-      "Waffeneinsatzsysteme",
-      "Marinekommunikation",
-      "Forschungsschiff Polarstern 2"
+      "Aufklärungsdrohnen",
+      "Kamikaze-Drohnen (Loitering-Munition)",
+      "Frachtlogistik-Unbemannte Luftfahrzeuge",
+      "KI-gestützte Zielerfassung"
     ],
     "updatedAt": "2026-09-20"
   },
-  "hensoldt": {
-    "name": "HENSOLDT AG",
-    "description": "HENSOLDT ist ein führendes Unternehmen der europäischen Verteidigungsindustrie mit globaler Reichweite. Das Unternehmen mit Sitz in Taufkirchen bei München entwickelt Sensorlösungen für Verteidigungs- und Sicherheitsanwendungen. Als Systemintegrator bietet HENSOLDT plattformunabhängige, vernetzte Sensoren an und treibt als Technologieführer die Entwicklung der Verteidigungselektronik und Optronik voran. Das Portfolio umfasst Radare, Systeme der elektronischen Kampfführung, Avionik und Optronik. 2024 erzielte HENSOLDT einen Umsatz von 2,24 Milliarden Euro. Nach der Übernahme der ESG-Gruppe beschäftigt das Unternehmen rund 9.000 Mitarbeiter. HENSOLDT ist an der Frankfurter Wertpapierbörse im MDAX notiert.",
-    "url": "https://www.hensoldt.net/",
-    "category": ["Elektronik", "Radar", "Elektronische Kampfführung", "Optronik", "Avionik"],
+  "albrecht-bender": {
+    "name": "Albrecht Bender GmbH u. Co.",
+    "description": "Die Albrecht Bender GmbH u. Co. ist ein 1864 in Ansbach gegründetes und seit 1892 in Weißenburg in Bayern ansässiges Familienunternehmen der Textilindustrie. Das Unternehmen wird heute in vierter Generation geführt und ist auf die Entwicklung, Herstellung und den Vertrieb von Uniform-Accessoires spezialisiert. Zum Produktspektrum zählen maschinen- und handgestickte Abzeichen, gewebte Bänder, Etiketten, Dienstabzeichen, Medaillen, Kordeln, Borten, Litzen, Namensbänder, Schuhbänder und Hoheitsabzeichen. Zu den Hauptkunden zählen die Bundeswehr, Polizeibehörden der Bundesländer, Feuerwehren, das THW, Bahn- und Postdienste, Fluggesellschaften sowie NATO, UN und europäische Königshäuser. Das Unternehmen hat einen Exportanteil von rund 60 % und beschäftigt rund 350 Mitarbeiter international. Neben dem Hauptsitz in Weißenburg unterhält Albrecht Bender Niederlassungen in der Tschechischen Republik und in Tunesien, wo maschinelle Stickerei im Vordergrund steht. Das Unternehmen ist im Handelsregister des Amtsgerichts Ansbach unter HRA 1205 eingetragen. Geschäftsführer sind Gerhard Fürst und Roland Fürst.",
+    "url": "https://www.a-bender.de/",
+    "category": ["Textilindustrie", "Uniformausstattung", "Abzeichen", "Stickerei", "Verteidigung"],
     "parents": [],
     "products": [
-      "Radarsysteme (TRS-4D, TRS-3D, ASR-NG)",
-      "Elektronische Kampfführung (Kalaetron)",
-      "Optronik-Systeme",
-      "Avionik-Systeme",
-      "Freund-Feind-Erkennung-Systeme",
-      "Führungssysteme",
-      "Cybersicherheit",
-      "Softwaredefinierte Verteidigung"
+      "Maschinen- und handgestickte Abzeichen",
+      "Gewebte Bänder und Etiketten",
+      "Dienstabzeichen und Medaillen",
+      "Kordeln, Borten und Litzen",
+      "Namensbänder und Schuhbänder",
+      "Hoheitsabzeichen",
+      "Fahnen und Wimpel"
+    ]
+  },
+  "alixpartners": {
+    "name": "AlixPartners GmbH",
+    "description": "AlixPartners ist eine 1981 gegründete, global tätige Unternehmensberatung mit Hauptsitz in New York. Das Unternehmen ist auf Performance-Verbesserung, Restrukturierung, Risikomanagement und beschleunigte Transformation spezialisiert und bedient Kunden aus den Bereichen Luft- und Raumfahrt, Verteidigung, Automobil, Industrie, Energie, Finanzdienstleistungen, Gesundheitswesen und Technologie. AlixPartners beschäftigt rund 3.500 Mitarbeiter an 26 Standorten in Nord- und Südamerika, Europa, dem Nahen Osten und Asien. Die deutsche Tochtergesellschaft AlixPartners GmbH ist im Handelsregister des Amtsgerichts München unter HRB 146584 eingetragen. In der DACH-Region ist AlixPartners mit rund 450 Mitarbeitern an vier Standorten vertreten: Zürich (seit 2014), Düsseldorf, München und Frankfurt (seit Oktober 2024). Der Deutschland-Hauptsitz befindet sich in München (Sendlinger Str. 12). Zu den bekannten Beratern zählen Dr. Veit Buetterlin-Goldberg (Deutschland-Chef) und Beatrix Morath (Schweiz-Chefin und Co-Leader DACH).",
+    "url": "https://www.alixpartners.com/",
+    "category": ["Unternehmensberatung", "Restrukturierung", "Leistungsverbesserung", "Risikomanagement", "Transformation"],
+    "parents": [],
+    "products": [
+      "Performance-Verbesserung",
+      "Restrukturierung und Turnaround",
+      "Risikomanagement und Compliance",
+      "M&A-Beratung",
+      "Digitale Transformation",
+      "Lieferkettenmanagement",
+      "Forensische Untersuchungen",
+      "Wettbewerbsökonomie"
+    ]
+  },
+  "allegro-capital": {
+    "name": "Allegro Capital, Logistics, Services & More GmbH",
+    "description": "Die Allegro Capital, Logistics, Services & More GmbH ist ein in Mönchengladbach ansässiges Unternehmen, das sich auf die Entwicklung, Produktion und den Vertrieb von biologischen Bindemitteln und Reinigungslösungen für die Bekämpfung von Leckagen und Umweltverschmutzungen spezialisiert hat. Unter der Marke SORB®XT vertreibt das Unternehmen einen 100 % organischen Multi-Absorber auf Naturfaserbasis, der innerhalb von Sekunden Öle, Schmierstoffe, Emulsionen, Kraftstoffe und Chemikalien bindet. Das Produktspektrum umfasst Bindemittel in verschiedenen Gebindegrößen, Auffangplanen, Barrieren, Kissen, Schläuche, Container, Matten, Drain-Cover-Ringe sowie Reinigungssets (Stain Solution). Die Produkte werden ausschließlich in Deutschland hergestellt und über ein Netz von mehr als 250 Vertriebsstandorten weltweit vertrieben. SORB®XT ist nach den Verwendungsklassen Typ I, II und III-R SF des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit geprüft und NSF-registriert. Das Unternehmen ist im Handelsregister des Amtsgerichts Mönchengladbach unter HRB 19194 eingetragen. Geschäftsführer ist Wolf-Peter Korth. Die SORB®XT-Produkte sind auch im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet.",
+    "url": "https://www.sorb-xt.de/",
+    "category": ["Umwelttechnik", "Sicherheit", "Logistik", "Dienstleistungen", "Verteidigung"],
+    "parents": [],
+    "products": [
+      "SORB®XT (100 % organischer Multi-Absorber)",
+      "SORB®XT Stain Solution Pro / Pro ECO",
+      "SORB®XT Auffangplanen und Barrieren",
+      "SORB®XT Kissen, Schläuche und Container",
+      "SORB®XT Matten und Drain-Cover-Ringe",
+      "SORB®XT Flood Cubes (Hochwasserschutz)",
+      "SORB®XT Maritime Sonderlösungen",
+      "SORB®XT Zubehör und Merchandise"
+    ]
+  },
+  "anschuetz": {
+    "name": "Anschütz GmbH",
+    "description": "Die Anschütz GmbH ist ein 1905 von Dr. Hermann Anschütz-Kaempfe gegründetes, weltweit führendes Unternehmen für maritime Navigation, Brückensysteme und Missionssysteme mit Hauptsitz in Kiel. Das Unternehmen entwickelte den ersten Kreiselkompass für Schiffe und blickt auf über 120 Jahre Innovationsgeschichte zurück. Anschütz ist ein führender Hersteller und Integrator von Navigations-, Brücken- und Missionssystemen für Handels- und Marineschiffe sowie industrieller Partner in nationalen und internationalen maritimen Forschungsprojekten. Die Produktpalette umfasst integrierte Navigations- und Brückensysteme (INS/IBS/INBS), Kreiselkompasse, Autopiloten, ECDIS, Radare, Kommando- und Kontrollsysteme, U-Boot-Systeme sowie marine Inertialnavigationssysteme. Rund 30.000 Schiffe weltweit sind mit Anschütz-Produkten ausgerüstet. Seit 2023 gehört die Anschütz Group zur Dr. Dieter Murmann Beteiligungsgesellschaft mbH (DMB) mit Sitz in Kiel und firmiert seitdem wieder unter dem traditionsreichen Namen Anschütz GmbH. Die Anschütz Group besteht aus sechs Standorten weltweit: Kiel (Hauptsitz mit Zweigstellen in Bremerhaven und Hamburg), Shanghai, Singapur, Panama, Rio de Janeiro und Portsmouth. Hinzu kommen neue Standorte in Australien, den USA, Spanien und Arabien. Am Hauptsitz in Kiel arbeiten über 500 Mitarbeiter in den Bereichen Verwaltung, Entwicklung, Einkauf, Produktion, Qualitätsmanagement, Vertrieb und Kundendienst. Die Anschütz GmbH ist im Handelsregister des Amtsgerichts Kiel unter HRB 4086 eingetragen.",
+    "url": "https://www.anschuetz.com/",
+    "category": ["Marine", "Navigation", "Sensorik", "Brückensysteme", "Verteidigung"],
+    "parents": ["dmb"],
+    "products": [
+      "Integrierte Navigations- und Brückensysteme (INS/IBS/INBS)",
+      "Kreiselkompasse und Wiederholer",
+      "Autopiloten und Track-Control-Systeme",
+      "ECDIS (Electronic Chart Display and Information Systems)",
+      "Navigations- und Überwachungsradare",
+      "Marine Inertialnavigationssysteme",
+      "Kommando- und Kontrollsysteme",
+      "U-Boot-Systeme (3D-Steuerung, Batterieüberwachung)",
+      "Taktische Datenlinks",
+      "Marine Inertial Navigation Systems (MINS)"
+    ]
+  },
+  "argus-interception": {
+    "name": "ARGUS INTERCEPTION GmbH",
+    "description": "Die ARGUS INTERCEPTION GmbH ist ein 2023 von ehemaligen Bundeswehroffizieren (Helmut-Schmidt-Universität Hamburg) gegründetes deutsches Technologieunternehmen mit Sitz in Rotenburg (Wümme) und einem weiteren Standort in Faßberg. Das Unternehmen ist ein führender Entwickler und Hersteller netzbasierter, minimalinvasiver C-UAS-Abfangsysteme zur kontrollierten Abwehr und Sicherung unkooperativer Drohnen. Die A1-Falke®-Netzabfangdrohne ermöglicht durch im Einsatz bewährte Netzabfang-Technologie, proprietäre Software und modernste Sensorik eine verantwortungsvolle Drohnenabwehr ohne Sekundärschäden durch herunterfallende Trümmer. Das zerstörungsfreie Abfangen erlaubt eine forensische Auswertung zur Analyse technischer Herkunft und Einsatzkontext. Die Systeme werden vollständig in Deutschland entwickelt und produziert ('Made in Germany') und kommen bei Streitkräften, Behörden, Flughäfen und Betreibern kritischer Infrastrukturen zum Einsatz. Die Bundeswehr hat bereits 24 Abfangdrohnen erhalten, bis 2027 sollen weitere 136 folgen. Das Unternehmen beschäftigt rund 60 Mitarbeiter und ist im Handelsregister des Amtsgerichts Walsrode unter HRB 213046 eingetragen. Geschäftsführer sind Dennis Rauscher (CEO), Sven Steingräber (CSO) und Christoph Rau (CFO). Die USt-IdNr. lautet DE363162635.",
+    "url": "https://argus-interception.com/",
+    "category": ["Drohnen", "Drohnenabwehr", "KI-Software", "Unbemannte-Systeme", "Verteidigungstechnologie"],
+    "parents": [],
+    "products": [
+      "A1-FALKE® Netzabfangdrohne",
+      "ARGUS Interceptor",
+      "Netzabfang-Technologie",
+      "KI-gestützte Zielerkennung",
+      "Bodenkontrollstation",
+      "Forensische Auswertungssysteme",
+      "C-UAS-Gesamtlösungen"
+    ]
+  },
+  "arx-robotics": {
+    "name": "ARX Robotics GmbH",
+    "description": "ARX Robotics (ehemals ARX Landsysteme GmbH) ist ein 2021/2022 gegründetes deutsches Defence-Tech-Unternehmen mit Sitz in Oberding bei München. Das Unternehmen entwickelt, produziert und vertreibt modulare, autonome Roboterplattformen, IoT-Geräte und Softwareprodukte für militärische und zivile Anwendungen in den Bereichen Überwachung, Verteidigung, öffentliche Sicherheit, Katastrophenschutz, Landwirtschaft und Bauwesen. Kernprodukt ist die GEREON-RCS-Serie, eine Familie modularer, unbemannter Bodensysteme (UGVs), die bis zu 500 kg Nutzlast über bis zu 40 km transportieren können und in über 30 Anwendungsfällen eingesetzt werden – von Aufklärung und Nachschub über medizinische Evakuierung bis hin zu mobilen Kommunikationsrelais. Die Systeme sind bei NATO-Streitkräften im Einsatz, werden in der Ukraine im Gefecht erprobt und von sechs europäischen Nationen qualifiziert. ARX betreibt die größte Produktionsstätte für militärische Roboter in Europa und hat 2025 die Serienfertigung des GEREON im DEUTZ-Werk Ulm gestartet. Das Unternehmen beschäftigt rund 140 Mitarbeiter, hat insgesamt 42 Mio. € Wagniskapital eingeworben und ist im Handelsregister des Amtsgerichts München unter HRB 282951 eingetragen. Geschäftsführer sind Marc Wietfeld (CEO), Maximilian Wied (CFO) und Stefan Röbel (COO). ARX ist im Lobbyregister des Bundestages unter R007278 registriert.",
+    "url": "https://www.arx-robotics.com/",
+    "category": ["Unbemannte-Systeme", "KI-Software", "Roboter", "Verteidigungstechnologie", "Sensorik"],
+    "parents": [],
+    "products": [
+      "GEREON RCS (Unbemanntes Bodensystem)",
+      "GEREON Combat UGV",
+      "ARX Core (Softwareplattform)",
+      "Mithra OS (KI-Betriebssystem)",
+      "Modulare Roboterplattformen",
+      "IoT-Geräte",
+      "Autonome Sensoriklösungen"
+    ]
+  },
+  "astute": {
+    "name": "Astute GmbH",
+    "description": "Die Astute GmbH ist die deutsche Tochtergesellschaft der 1989 gegründeten britischen Astute Group und ein führender Distributor sowie Supply-Chain-Partner für hochzuverlässige elektronische und mechanische Komponenten in den Bereichen Verteidigung, Luft- und Raumfahrt, Industrietechnik, Automotive, Space und Medizintechnik. Das Unternehmen mit Hauptsitz in Feldkirchen-Westerham (Bayern) und einer Niederlassung in Köln wurde 2018 gegründet und bedient den europäischen Markt. Astute verbindet Franchise-Vertrieb (Design-In) mit unabhängigem globalem Sourcing und bietet Obsoleszenzmanagement, 3PL-Dienstleistungen und ein eigenes Prüflabor. Das Unternehmen ist nach AS9120B, ISO 9001 und AS6081 zertifiziert und betreibt das Astute Counterfeit Avoidance Program (ACAP) für Fälschungsschutz und Rückverfolgbarkeit. Zu den Kunden zählen führende Verteidigungsunternehmen wie BAE Systems, Leonardo, Raytheon, Rheinmetall, Airbus, Hensoldt, Northrop Grumman, Thales, General Dynamics und KNDS. Die Astute GmbH ist im Handelsregister des Amtsgerichts München unter HRB 240694 eingetragen.",
+    "url": "https://www.astutegroup.com/",
+    "category": ["Elektronik", "Verteidigung", "Luft- und Raumfahrt", "Logistik", "Dienstleistungen"],
+    "parents": ["astute-group"],
+    "products": [
+      "Franchise-Distribution elektronischer Komponenten",
+      "Unabhängiges globales Sourcing",
+      "Obsoleszenzmanagement",
+      "Third-Party-Logistics (3PL)",
+      "Testlabor (AS6171, ISO/IEC 17025)",
+      "ACAP Counterfeit Avoidance Program",
+      "Langzeitlagerung (Stickstofflagerung)",
+      "Design-In-Support"
+    ]
+  },
+  "atlas-elektronik": {
+    "name": "ATLAS ELEKTRONIK GmbH",
+    "description": "ATLAS ELEKTRONIK ist ein führendes Marinesystemhaus und eine 100%ige Tochtergesellschaft der Thyssenkrupp AG. Das Unternehmen entstand 1902 aus den Atlas-Werken und hat sich auf Ausrüstung und Systeme für Über- und Unterwasser-Seestreitkräfte spezialisiert. ATLAS entwickelt und fertigt integrierte Sonarsysteme für U-Boote, Minenjagdboote und Kampfschiffe sowie Torpedos und marineelektronische Systeme. Mit rund 2.800 Mitarbeitern ist ATLAS an mehreren Standorten in Deutschland sowie über internationale Tochtergesellschaften in Europa, Nordamerika, Asien und Australien vertreten. Hauptstandort mit Entwicklung, Produktion und Verwaltung ist Bremen-Sebaldsbrück.",
+    "url": "https://www.atlas-elektronik.com/",
+    "category": ["Marine", "Elektronik", "Sensoren", "Verteidigung"],
+    "parents": ["thyssenkrupp"],
+    "products": [
+      "Sonarsysteme für U-Boote",
+      "Minenjagdsysteme",
+      "Torpedos",
+      "Führungs- und Waffeneinsatzsysteme",
+      "Marinekommunikationssysteme",
+      "Simulationssysteme",
+      "Autonome Unterwasserfahrzeuge"
     ],
+    "updatedAt": "2026-09-20"
+  },
+  "auterion": {
+    "name": "Auterion",
+    "description": "Auterion ist der weltweit führende Anbieter von Betriebssystemen und Apps für unbemannte Systeme in der Luft, zu Land und zu Wasser. Das 2017 als ETH-Spin-off gegründete Unternehmen verlegte seinen Hauptsitz im Frühjahr 2024 von Zürich in die USA nach Arlington, Virginia. Auterion entwickelt eine offene, softwaredefinierte Plattform auf Basis des PX4-Autopiloten, die herstellerunabhängige, autonome Drohnen für kommerzielle und militärische Anwendungen ermöglicht. Zu den Kunden zählen GE Aviation, Quantum Systems, Freefly Systems, Avy und Watts Innovations. Auterion beschäftigt rund 300 Mitarbeiter und betreibt Forschungs- und Entwicklungsstandorte in München und Zürich sowie einen Standort in London. Zu den Investoren zählen Lakestar, Mosaic Ventures, Costanoa Ventures, Tectonic Ventures und der ehemalige Google-CEO Eric Schmidt. Seit 2025 ist Rheinmetall strategischer Partner von Auterion.",
+    "url": "https://auterion.com/",
+    "category": ["KI-Software", "Drohnen-Betriebssystem", "Autonome Systeme", "Verteidigungstechnologie"],
+    "parents": [],
+    "products": [
+      "Auterion OS (Betriebssystem für Drohnen)",
+      "Auterion Mission Control",
+      "Auterion Enterprise PX4",
+      "Auterion Suite (Cloud-Plattform)",
+      "Auterion RTK",
+      "KI-gestützte Autonomie-Software",
+      "Drohnenabwehr-Lösungen"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "auterion-airlogix": {
+    "name": "Auterion Airlogix Joint Venture",
+    "description": "Das Auterion Airlogix Joint Venture wurde im Februar 2026 gegründet und ist ein deutsch-amerikanisch-ukrainisches Gemeinschaftsunternehmen zur Serienproduktion weitreichender Kampfdrohnen für die Ukraine. Auterion liefert die Software samt Betriebssystem, Airlogix die Hardware. Die Produktion findet in Deutschland statt – an einem Standort im Großraum München und einem weiteren in Ostdeutschland. Der Auftrag der Bundesregierung umfasst mehr als 5.000 Drohnen mit einem Volumen von rund 300 Millionen Euro. Es werden zwei Modelle gefertigt: eine mittlere Reichweite und eine größere Reichweite von bis zu 1.500 Kilometern. Die Auslieferung soll Mitte 2027 abgeschlossen sein. Die Drohnen sind mit KI ausgestattet, um auch bei elektronischer Abwehr das Ziel zu erreichen.",
+    "url": "https://auterion.com/",
+    "category": ["Drohnen", "Loitering-Munition", "Verteidigungstechnologie"],
+    "parents": ["auterion", "airlogix"],
+    "products": [
+      "Kamikaze-Drohnen (mittlere Reichweite)",
+      "Kamikaze-Drohnen (bis 1.500 km Reichweite)",
+      "KI-gestützte Zielerfassung",
+      "Autonome Flugsteuerung"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "bae-systems": {
+    "name": "BAE Systems plc",
+    "description": "BAE Systems ist ein britischer Rüstungskonzern mit Sitz in Farnborough und einer der größten Verteidigungs- und Sicherheitskonzerne der Welt. Das Unternehmen ist Gesellschafter von MBDA (37,5 %) und europäischer Partner mehrerer Rüstungsprogramme.",
+    "url": "https://www.baesystems.com/",
+    "category": ["Verteidigung", "Luftfahrt", "Marine", "Panzer"],
+    "parents": [],
+    "products": [],
     "updatedAt": "2026-09-20"
   },
   "diehl": {
@@ -204,6 +416,160 @@
       "Reaktivschutz- und Brandschutzsysteme",
       "Trainingssysteme und Ausbildungslösungen",
       "AeroForce X unbemanntes Aufklärungssystem"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "dnd": {
+    "name": "Dynamit Nobel Defence GmbH",
+    "description": "Die Dynamit Nobel Defence GmbH (DND) ist ein mittelständisches Systemhaus der wehrtechnischen Industrie mit Hauptsitz in Burbach (Nordrhein-Westfalen). DND ist als eigenständige GmbH aus der Defence-Sparte der ehemaligen Dynamit Nobel AG hervorgegangen und blickt auf über 60 Jahre Erfahrung in der Entwicklung und Produktion von schultergestützten Mehrzweckwaffen zurück. Das Unternehmen ist seit 2004 eine Tochtergesellschaft des israelischen Rüstungskonzerns Rafael Advanced Defense Systems. DND beschäftigt rund 600 Mitarbeiter und betreibt auf einem über einen Quadratkilometer großen Werksgelände in Burbach mit 260 Gebäuden Entwicklung, Fertigung und Erprobung sicherheitsrelevanter Hochtechnologie. Das Portfolio umfasst schultergestützte Panzerabwehrwaffen (Panzerfaust 3, RGW-Serie, MATADOR), Reaktivschutzsysteme, Counter-Mobility-Systeme, digitale Gefechtsführungssysteme, Softwaredefinierte Funkgeräte und Brandschutzsysteme. DND ist Lizenznehmer für die Panzerfaust 3 und Hauptlieferant der deutschen Streitkräfte für Panzerabwehrhandwaffen.",
+    "url": "https://dn-defence.com/",
+    "category": ["Panzer", "Munition", "Elektronik", "Digitale Systeme"],
+    "parents": ["rafael"],
+    "products": [
+      "Panzerfaust 3",
+      "RGW 60",
+      "RGW 90",
+      "RGW 110",
+      "MATADOR",
+      "Reaktivschutzsysteme",
+      "Counter-Mobility-Systeme",
+      "Skorpion 2 Minenwurfsystem",
+      "AT2+ Panzerabwehrminen",
+      "Softwaredefinierte Funkgeräte",
+      "C4ISTAR-Lösungen",
+      "Brandschutzsysteme"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "donaustahl": {
+    "name": "Donaustahl GmbH",
+    "description": "Die Donaustahl GmbH ist ein 2020 gegründetes bayerisches Defence-Start-up mit rechtlichem Sitz in Hutthurm (Landkreis Passau) und einem Fokus auf die Entwicklung und Produktion hochmoderner Lösungen für militärische Anwendungen. Das Unternehmen hat sich auf unbemannte Waffensysteme und Loitering-Munition spezialisiert und gilt als Deutschlands führendes Unternehmen in diesem Bereich. Die Donaustahl GmbH ist als 'Offense-Start-up' positioniert und verfolgt das Ziel einer 100% deutschen Wertschöpfungskette. CEO und Gründer ist Stefan Thumann, der das Unternehmen zunächst als Hersteller von Kurzwaffen-Anschlagschäften gründete und nach dem Beginn des Ukraine-Krieges auf Verteidigungstechnologie umstellte. Das Unternehmen hält mehr als zehn Patente und plant, bis 2026 über 30.000 unbemannte Luftfahrzeug-Gefechtskörper jährlich zu produzieren. Zu den Produkten zählen die ALMP MAUS (Adaptive Loitering-Munition-Plattform), Gefechtsköpfe der Sonyashnyk-Serie, Drohnenmotoren und Lichtwellenleiter. Donaustahl ist im Handelsregister des Amtsgerichts Passau unter HRB 10808 eingetragen und im Bayerischen Lobbyregister unter der Registernummer DEBYLT0003 registriert. Der frühere KNDS-Finanzvorstand Horst Rieder ist seit November 2025 CFO des Unternehmens.",
+    "url": "https://www.donaustahl.com/",
+    "category": ["Loitering-Munition", "Drohnen", "Unbemannte Luftfahrtsysteme", "Verteidigungstechnologie", "Munition"],
+    "parents": [],
+    "products": [
+      "ALMP MAUS (Adaptive Loitering-Munition-Plattform)",
+      "ALMP Ratte (Loitering-Munition)",
+      "ALMP Stryga (Loitering-Munition)",
+      "Sonyashnyk-Gefechtsköpfe",
+      "Drohnenmotoren",
+      "Lichtwellenleiter",
+      "Aufklärungs- und Bekämpfungssysteme",
+      "Unbemannte Luftfahrzeug-Bordwaffen (mBK185, GAG40)"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "elbit": {
+    "name": "Elbit Systems Ltd.",
+    "description": "Elbit Systems ist ein israelischer Rüstungskonzern mit Sitz in Haifa. Das Unternehmen entwickelt und produziert Systeme in den Bereichen Luftfahrt, Land-, See- und Cybersicherheit und ist über die Tochter Elbit Systems Deutschland auch auf dem deutschen Markt aktiv.",
+    "url": "https://elbitsystems.com/",
+    "category": ["Verteidigung", "Elektronik", "Luftfahrt", "Cyber"],
+    "parents": [],
+    "products": [],
+    "updatedAt": "2026-09-20"
+  },
+  "elbit-de": {
+    "name": "Elbit Systems Deutschland GmbH & Co. KG",
+    "description": "Elbit Systems Deutschland ist die deutsche Tochtergesellschaft des israelischen Rüstungskonzerns Elbit Systems Ltd. und ein führender Systementwickler, Produzent und Anbieter von militärischen Systemlösungen in den Bereichen Funkkommunikation, Führungssysteme, Elektronische Kampfführung, Aufklärung, Optronik, unbemannte Systeme und Cybersicherheit. Das Unternehmen mit Hauptsitz in Ulm beschäftigt mehrere hundert Mitarbeiter an mehreren deutschen Standorten. Ulm ist der Hauptstandort mit Produktion und Entwicklung und zugleich das Kompetenzzentrum für Hochfrequenz-Funk des gesamten Elbit-Konzerns. Weitere Standorte bestehen in Berlin (Hauptstadtrepräsentanz), Koblenz (Büro für Verteidigungs- und Regierungsbeziehungen) und seit August 2025 in Norddeutschland (Marine-Kompetenzzentrum). Elbit Systems Deutschland plant eine massive Expansion: Bis 2028 sollen über 1.000 Mitarbeiter eingestellt und bis zu acht Standorte in Deutschland eröffnet werden. Das Unternehmen ist im Lobbyregister des Bundestages unter der Registernummer R004255 eingetragen und nach ISO 9001:2015 zertifiziert.",
+    "url": "https://elbitsystems-de.com/",
+    "category": ["Kommunikation", "Elektronik", "Optronik", "Cybersicherheit", "Unbemannte Systeme", "Marine"],
+    "parents": ["elbit"],
+    "products": [
+      "Funkkommunikation (Softwaredefiniertes Funkgerät)",
+      "Elektronische Kampfführung",
+      "Optronik und Nachtsichtgeräte",
+      "Unbemannte Systeme",
+      "Cybersicherheit",
+      "Führungssysteme",
+      "SkyStriker Loitering-Munition",
+      "Marinekommunikations- und Selbstschutzsysteme"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "ffg": {
+    "name": "Flensburger Fahrzeugbau-Gesellschaft mbH (FFG)",
+    "description": "Die Flensburger Fahrzeugbau-Gesellschaft mbH (FFG) ist ein international tätiges Hightech-Unternehmen der Wehrtechnik mit über 150-jähriger Tradition. Der Ursprung geht auf das Jahr 1872 und den Bau von Segel- und Dampfschiffen in Flensburg zurück. Heute ist FFG ein führendes Systemhaus für die Entwicklung, Herstellung, Umrüstung und Optimierung von gepanzerten Ketten- und Radfahrzeugen. Das Unternehmen beschäftigt rund 900 Mitarbeiter am Kernstandort Flensburg (inkl. Tochtergesellschaften etwa 1.500). Zu den Kernkompetenzen zählen die Grund-, Haupt- und Bedarfsinstandsetzung, Nutzungsdauerverlängerung und Modernisierung militärischer Fahrzeuge. FFG ist Lizenznehmer von Raytheon für die Fertigung von Komponenten für die Paveway-Laserlenkbombe und betreibt das CBRN-Materialzentrum der Bundeswehr. Auftraggeber aus über 40 Ländern vertrauen auf Fahrzeugtechnologie 'Made in Flensburg'. FFG investiert derzeit über 75 Mio. EUR in ein neues Werk in Handewitt (Werk 3), das 2027 die Produktion aufnehmen soll. Das Unternehmen ist ein wichtiger Industriepartner im CAVS-Programm (Gemeinsames Gepanzertes Fahrzeugsystem) und fertigt den Patria 6x6 für die Bundeswehr.",
+    "url": "https://www.ffg-flensburg.de/",
+    "category": ["Panzer", "Fahrzeugsysteme", "Instandhaltung", "Munition"],
+    "parents": [],
+    "products": [
+      "Instandsetzung gepanzerter Rad- und Kettenfahrzeuge",
+      "Nutzungsdauerverlängerung",
+      "Umbau und Modernisierung",
+      "Paveway-Leitwerksbaugruppen",
+      "WiSENT 2 Berge- und Pionierfahrzeuge",
+      "Patria 6x6 (Gemeinsames Gepanzertes Fahrzeugsystem)",
+      "Gepanzertes Gefechtsunterstützungsfahrzeug",
+      "CBRN-Schutzausstattung"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "gsmk": {
+    "name": "GSMK Gesellschaft für Sichere Mobile Kommunikation mbH",
+    "description": "GSMK ist ein unabhängiges, privat geführtes Cybersicherheitsunternehmen mit Sitz in Berlin und ein Pionier auf dem Gebiet der mobilen Geräte- und Netzwerksicherheit. Das 2003 gegründete Unternehmen entwickelt, produziert und vermarktet die GSMK CryptoPhone-Produktlinie sicherer mobiler, Desktop- und Satellitenterminals mit starker Ende-zu-Ende-Verschlüsselung und Metadaten-Schutz. Ergänzend bietet GSMK mit Overwatch und Oversight Netzwerksicherheitssysteme für Mobilfunknetzbetreiber, Regulierungsbehörden sowie Sicherheitsbehörden an. GSMK hält mehrere Patente im Bereich der sicheren Kommunikation und arbeitet mit Kunden in über 50 Ländern zusammen. Der Firmensitz befindet sich in der Marienstraße 11 in Berlin-Mitte.",
+    "url": "https://www.gsmk.de/",
+    "category": ["Cybersicherheit", "Verschlüsselung", "Sichere Kommunikation", "Mobilfunk-Sicherheit"],
+    "parents": [],
+    "products": [
+      "GSMK CryptoPhone (sichere Mobiltelefone)",
+      "GSMK CryptoPhone Desktop",
+      "GSMK CryptoPhone Satellite",
+      "GSMK Overwatch (Netzwerksicherheit)",
+      "GSMK Oversight (Netzwerküberwachungsschutz)",
+      "Ende-zu-Ende-Verschlüsselungssysteme"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "heckler-koch": {
+    "name": "Heckler & Koch",
+    "description": "Heckler & Koch (H&K) ist ein deutscher Hersteller von Handfeuerwaffen mit Sitz in Oberndorf am Neckar. Das Unternehmen wurde 1949 von ehemaligen Mauser-Ingenieuren gegründet und ist heute der weltweit führende Hersteller von Handfeuerwaffen für NATO- und EU-Streitkräfte. Die Produktpalette umfasst Pistolen, Maschinenpistolen, Sturmgewehre, Präzisionsgewehre, Maschinengewehre und Granatwerfer. H&K beschäftigt rund 1.340 Mitarbeiter (2025), davon etwa 85 % am Stammsitz in Deutschland. Die H&K AG ist seit 2015 an der Börse notiert.",
+    "url": "https://www.heckler-koch.com/",
+    "category": ["Handfeuerwaffen", "Infanterie"],
+    "parents": [],
+    "products": [
+      "G36 Sturmgewehr",
+      "HK416 Sturmgewehr",
+      "MP5 Maschinenpistole",
+      "USP Pistole",
+      "P8 Pistole",
+      "MG4 Maschinengewehr",
+      "MG5 Maschinengewehr",
+      "G28 Präzisionsgewehr",
+      "AG36 Granatwerfer",
+      "Granatmaschinenwerfer 40 mm"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "helsing": {
+    "name": "Helsing",
+    "description": "Helsing ist ein 2021 gegründetes europäisches Verteidigungstechnologie-Unternehmen mit Sitz in München, das sich auf die Anwendung von Künstlicher Intelligenz (KI) im Rüstungssektor spezialisiert hat. Das Unternehmen entwickelt KI-gestützte Softwarelösungen für Verteidigungsplattformen, elektronische Kampfführung und autonome Systeme. Helsing verfolgt die Mission, demokratische Werte und offene Gesellschaften durch technologische Überlegenheit zu schützen. Bekannt wurde Helsing durch die KI-Plattform 'Centaur' für Luftkampf- und Gefechtsfeldentscheidungen sowie die HX-2-Strike-Drohne. Zu den Investoren zählen Spotify-Gründer Daniel Ek, General Catalyst und Prima Materia. Helsing ist in Deutschland (München, Berlin), in Europa (London, Paris, Stockholm, Warschau, Tallinn), in der Ukraine und den USA (West Virginia) vertreten.",
+    "url": "https://helsing.ai/",
+    "category": ["KI-Software", "Verteidigung", "Autonome Systeme", "Elektronische Kampfführung"],
+    "parents": [],
+    "products": [
+      "Centaur (KI-Agent für Luftkampf)",
+      "HX-2 (KI-gestützte Strike-Drohne)",
+      "KI-Software für elektronische Kampfführung",
+      "Autonome Systeme",
+      "Software-Architekturen für Verteidigungsplattformen"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "hensoldt": {
+    "name": "HENSOLDT AG",
+    "description": "HENSOLDT ist ein führendes Unternehmen der europäischen Verteidigungsindustrie mit globaler Reichweite. Das Unternehmen mit Sitz in Taufkirchen bei München entwickelt Sensorlösungen für Verteidigungs- und Sicherheitsanwendungen. Als Systemintegrator bietet HENSOLDT plattformunabhängige, vernetzte Sensoren an und treibt als Technologieführer die Entwicklung der Verteidigungselektronik und Optronik voran. Das Portfolio umfasst Radare, Systeme der elektronischen Kampfführung, Avionik und Optronik. 2024 erzielte HENSOLDT einen Umsatz von 2,24 Milliarden Euro. Nach der Übernahme der ESG-Gruppe beschäftigt das Unternehmen rund 9.000 Mitarbeiter. HENSOLDT ist an der Frankfurter Wertpapierbörse im MDAX notiert.",
+    "url": "https://www.hensoldt.net/",
+    "category": ["Elektronik", "Radar", "Elektronische Kampfführung", "Optronik", "Avionik"],
+    "parents": [],
+    "products": [
+      "Radarsysteme (TRS-4D, TRS-3D, ASR-NG)",
+      "Elektronische Kampfführung (Kalaetron)",
+      "Optronik-Systeme",
+      "Avionik-Systeme",
+      "Freund-Feind-Erkennung-Systeme",
+      "Führungssysteme",
+      "Cybersicherheit",
+      "Softwaredefinierte Verteidigung"
     ],
     "updatedAt": "2026-09-20"
   },
@@ -250,6 +616,29 @@
     ],
     "updatedAt": "2026-09-20"
   },
+  "leonardo": {
+    "name": "Leonardo S.p.A.",
+    "description": "Leonardo ist ein italienischer Rüstungs- und Raumfahrtkonzern mit Sitz in Rom. Das Unternehmen ist Gesellschafter von MBDA (25 %) und in den Bereichen Hubschrauber, Elektronik, Cyber und Raumfahrt aktiv.",
+    "url": "https://www.leonardo.com/",
+    "category": ["Verteidigung", "Luftfahrt", "Elektronik", "Cyber"],
+    "parents": [],
+    "products": [],
+    "updatedAt": "2026-09-20"
+  },
+  "marinearsenal": {
+    "name": "Marinearsenal (MArs)",
+    "description": "Das Marinearsenal (MArs) ist eine Dienststelle des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw) und der zentrale Instandhaltungsbetrieb der Deutschen Marine. Hauptaufgabe ist die materielle Einsatzbereitschaft der seegehenden Einheiten der Deutschen Marine weltweit sicherzustellen. Der Zuständigkeitsbereich umfasst Schiffe, Boote, Landanlagen, Marineschulen, Funksendestationen und Munitionsdepots. Das MArs fungiert als Generalunternehmer für Instandsetzung und vergibt Aufträge an die Privatwirtschaft. Es betreibt drei Hauptstandorte (Wilhelmshaven, Kiel, Rostock) mit Ausbildungswerkstätten in sechs Ausbildungsberufen. 2024 wurden Instandsetzungsaufträge im Wert von rund 540 Mio. Euro an die gewerbliche Wirtschaft vergeben.",
+    "url": "https://www.bundeswehr.de/de/organisation/ausruestung-baainbw/struktur",
+    "category": ["Marine", "Dienstleistungen", "Instandhaltung"],
+    "parents": [],
+    "products": [
+      "Instandsetzung von Marineschiffen",
+      "Instandsetzung von Führungs- und Waffeneinsatzsystemen",
+      "Materialerhaltung",
+      "Ausbildung in sechs Ausbildungsberufen"
+    ],
+    "updatedAt": "2026-09-20"
+  },
   "mbda": {
     "name": "MBDA",
     "description": "MBDA ist der europäische Marktführer für komplexe Waffensysteme und ein Joint Venture von Airbus (37,5 %), BAE Systems (37,5 %) und Leonardo (25 %). Das Unternehmen entwickelt und produziert Lenkflugkörper und Verteidigungssysteme für Land-, See- und Luftstreitkräfte. MBDA beschäftigt über 20.000 Mitarbeiter und betreibt Standorte in Deutschland, Frankreich, Italien, Großbritannien, Spanien und den USA, ergänzt durch internationale Büros in Europa, dem Nahen Osten, Asien und Südamerika.",
@@ -274,6 +663,18 @@
     ],
     "updatedAt": "2026-09-20"
   },
+  "mowag": {
+    "name": "MOWAG",
+    "description": "Ein schweizerisch-deutsches Verteidigungsunternehmen, heute Teil von KNDS, bekannt für gepanzerte Fahrzeuge.",
+    "url": "https://www.mowag.ch/",
+    "category": ["Panzer"],
+    "parents": ["knds-de"],
+    "products": [
+      "Eagle gepanzerte Fahrzeuge",
+      "Pandur II"
+    ],
+    "updatedAt": "2026-09-20"
+  },
   "mtu": {
     "name": "MTU Aero Engines",
     "description": "Ein weltweit führender Entwickler und Hersteller von Hochleistungs-Strahltriebwerken für militärische und zivile Luftfahrzeuge.",
@@ -287,88 +688,29 @@
     ],
     "updatedAt": "2026-09-20"
   },
-  "mowag": {
-    "name": "MOWAG",
-    "description": "Ein schweizerisch-deutsches Verteidigungsunternehmen, heute Teil von KNDS, bekannt für gepanzerte Fahrzeuge.",
-    "url": "https://www.mowag.ch/",
-    "category": ["Panzer"],
-    "parents": ["knds-de"],
-    "products": [
-      "Eagle gepanzerte Fahrzeuge",
-      "Pandur II"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "elbit-de": {
-    "name": "Elbit Systems Deutschland GmbH & Co. KG",
-    "description": "Elbit Systems Deutschland ist die deutsche Tochtergesellschaft des israelischen Rüstungskonzerns Elbit Systems Ltd. und ein führender Systementwickler, Produzent und Anbieter von militärischen Systemlösungen in den Bereichen Funkkommunikation, Führungssysteme, Elektronische Kampfführung, Aufklärung, Optronik, unbemannte Systeme und Cybersicherheit. Das Unternehmen mit Hauptsitz in Ulm beschäftigt mehrere hundert Mitarbeiter an mehreren deutschen Standorten. Ulm ist der Hauptstandort mit Produktion und Entwicklung und zugleich das Kompetenzzentrum für Hochfrequenz-Funk des gesamten Elbit-Konzerns. Weitere Standorte bestehen in Berlin (Hauptstadtrepräsentanz), Koblenz (Büro für Verteidigungs- und Regierungsbeziehungen) und seit August 2025 in Norddeutschland (Marine-Kompetenzzentrum). Elbit Systems Deutschland plant eine massive Expansion: Bis 2028 sollen über 1.000 Mitarbeiter eingestellt und bis zu acht Standorte in Deutschland eröffnet werden. Das Unternehmen ist im Lobbyregister des Bundestages unter der Registernummer R004255 eingetragen und nach ISO 9001:2015 zertifiziert.",
-    "url": "https://elbitsystems-de.com/",
-    "category": ["Kommunikation", "Elektronik", "Optronik", "Cybersicherheit", "Unbemannte Systeme", "Marine"],
-    "parents": ["elbit"],
-    "products": [
-      "Funkkommunikation (Softwaredefiniertes Funkgerät)",
-      "Elektronische Kampfführung",
-      "Optronik und Nachtsichtgeräte",
-      "Unbemannte Systeme",
-      "Cybersicherheit",
-      "Führungssysteme",
-      "SkyStriker Loitering-Munition",
-      "Marinekommunikations- und Selbstschutzsysteme"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "airbus-ds": {
-    "name": "Airbus Defence and Space",
-    "description": "Airbus Defence and Space ist die Rüstungs- und Raumfahrtsparte der Airbus Group und Europas größtes Verteidigungs- und Raumfahrtunternehmen. Das Portfolio umfasst Militärflugzeuge (Eurofighter, A400M, A330 MRTT), Satelliten, unbemannte Systeme, Cybersicherheit und sichere Kommunikation. Hauptsitz ist Taufkirchen/Ottobrunn bei München, die Division beschäftigt weltweit rund 33.000 Mitarbeiter.",
-    "url": "https://www.airbus.com/en/products-services/defence",
-    "category": ["Luftfahrt", "Raumfahrt", "Elektronik", "Dienstleistungen"],
-    "parents": ["airbus"],
-    "products": [
-      "Eurofighter Typhoon",
-      "A400M Atlas",
-      "A330 MRTT",
-      "C295",
-      "CN235",
-      "Eurodrone (FCAS)",
-      "Galileo-Satelliten",
-      "MetOp-Wettersatelliten",
-      "TerraSAR-X / TanDEM-X",
-      "Cybersicherheitslösungen"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "heckler-koch": {
-    "name": "Heckler & Koch",
-    "description": "Heckler & Koch (H&K) ist ein deutscher Hersteller von Handfeuerwaffen mit Sitz in Oberndorf am Neckar. Das Unternehmen wurde 1949 von ehemaligen Mauser-Ingenieuren gegründet und ist heute der weltweit führende Hersteller von Handfeuerwaffen für NATO- und EU-Streitkräfte. Die Produktpalette umfasst Pistolen, Maschinenpistolen, Sturmgewehre, Präzisionsgewehre, Maschinengewehre und Granatwerfer. H&K beschäftigt rund 1.340 Mitarbeiter (2025), davon etwa 85 % am Stammsitz in Deutschland. Die H&K AG ist seit 2015 an der Börse notiert.",
-    "url": "https://www.heckler-koch.com/",
-    "category": ["Handfeuerwaffen", "Infanterie"],
+  "quantum-systems": {
+    "name": "Quantum Systems",
+    "description": "Quantum Systems ist ein führender europäischer Hersteller von KI-gestützten unbemannten Luftfahrtsystemen für Verteidigungs- und Sicherheitsanwendungen. Das 2015 gegründete Unternehmen mit Hauptsitz in Gilching bei München am Sonderflughafen Oberpfaffenhofen entwickelt, produziert und betreibt Aufklärungsdrohnen, autonome Systeme und die dazugehörige Software. Quantum Systems beschäftigt mehrere hundert Mitarbeiter, davon einen großen Teil in der Ukraine. Das Unternehmen betreibt Produktions- und Entwicklungsstandorte in Deutschland (Gilching, Berlin, Rheinbach, Jena), der Ukraine, den USA (Kalifornien, Alabama), Australien, UK, Rumänien, Litauen und Estland.",
+    "url": "https://quantum-systems.com/",
+    "category": ["Drohnen", "Unbemannte Luftfahrtsysteme", "Aufklärung, Überwachung und Zielerfassung", "KI-Software"],
     "parents": [],
     "products": [
-      "G36 Sturmgewehr",
-      "HK416 Sturmgewehr",
-      "MP5 Maschinenpistole",
-      "USP Pistole",
-      "P8 Pistole",
-      "MG4 Maschinengewehr",
-      "MG5 Maschinengewehr",
-      "G28 Präzisionsgewehr",
-      "AG36 Granatwerfer",
-      "Granatmaschinenwerfer 40 mm"
+      "Vector (Vertikalstart- und -landungs-Aufklärungsdrohne)",
+      "Scorpion (Aufklärungs-, Überwachungs- und Zielerfassungsdrohne)",
+      "Trinity (taktisches unbemanntes Luftfahrtsystem)",
+      "KI-gestützte Aufklärungs-, Überwachungs- und Zielerfassungssysteme",
+      "Autonome Software für unbemannte Luftfahrtsysteme",
+      "Radar- und Hochfrequenz-Sensorik"
     ],
     "updatedAt": "2026-09-20"
   },
-  "marinearsenal": {
-    "name": "Marinearsenal (MArs)",
-    "description": "Das Marinearsenal (MArs) ist eine Dienststelle des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw) und der zentrale Instandhaltungsbetrieb der Deutschen Marine. Hauptaufgabe ist die materielle Einsatzbereitschaft der seegehenden Einheiten der Deutschen Marine weltweit sicherzustellen. Der Zuständigkeitsbereich umfasst Schiffe, Boote, Landanlagen, Marineschulen, Funksendestationen und Munitionsdepots. Das MArs fungiert als Generalunternehmer für Instandsetzung und vergibt Aufträge an die Privatwirtschaft. Es betreibt drei Hauptstandorte (Wilhelmshaven, Kiel, Rostock) mit Ausbildungswerkstätten in sechs Ausbildungsberufen. 2024 wurden Instandsetzungsaufträge im Wert von rund 540 Mio. Euro an die gewerbliche Wirtschaft vergeben.",
-    "url": "https://www.bundeswehr.de/de/organisation/ausruestung-baainbw/struktur",
-    "category": ["Marine", "Dienstleistungen", "Instandhaltung"],
+  "rafael": {
+    "name": "Rafael Advanced Defense Systems Ltd.",
+    "description": "Rafael ist ein israelischer Rüstungskonzern mit Sitz in Haifa. Das Unternehmen ist auf Lenkflugkörper, Panzerabwehrwaffen und Luftverteidigungssysteme spezialisiert und Gesellschafter der EuroSpike GmbH (mit Diehl und Rheinmetall).",
+    "url": "https://www.rafael.co.il/",
+    "category": ["Verteidigung", "Lenkflugkörper", "Panzer"],
     "parents": [],
-    "products": [
-      "Instandsetzung von Marineschiffen",
-      "Instandsetzung von Führungs- und Waffeneinsatzsystemen",
-      "Materialerhaltung",
-      "Ausbildung in sechs Ausbildungsberufen"
-    ],
+    "products": [],
     "updatedAt": "2026-09-20"
   },
   "renk": {
@@ -390,253 +732,26 @@
     ],
     "updatedAt": "2026-09-20"
   },
-  "vincorion": {
-    "name": "VINCORION Advanced Systems GmbH",
-    "description": "VINCORION ist ein führender Entwickler und Hersteller von missionskritischen Energie- und mechatronischen Lösungen für Verteidigungsplattformen und fortschrittliche Luftfahrtsysteme. Das Unternehmen mit Hauptsitz in Wedel bei Hamburg ist eine Marke des Technologiekonzerns Jenoptik und bedient die Kernsegmente Fahrzeugsysteme, Energiesysteme und Luftfahrt. VINCORION liefert Schlüsselkomponenten für führende militärische und zivile Plattformen wie Leopard 2, PUMA, IRIS-T SLM, H145 und NH90. Rund 900 hochqualifizierte Mitarbeiter entwickeln und fertigen die Lösungen an drei Standorten in Deutschland (Wedel, Essen, Altenstadt) und einem Vertriebsstandort in El Paso, Texas (USA). 2025 erwirtschaftete das Unternehmen einen Umsatz von rund 240 Mio. EUR. Die Wurzeln reichen bis in die 1960er Jahre zur Gründung des AEG-Standorts Wedel zurück, später bekannt als ESW Systems Wedel.",
-    "url": "https://vincorion.com/",
-    "category": ["Antriebstechnik", "Elektronik", "Verteidigung", "Luftfahrt", "Energiesysteme"],
+  "rheinmetall": {
+    "name": "Rheinmetall AG",
+    "description": "Die Rheinmetall AG ist ein börsennotierter integrierter Technologiekonzern mit Sitz in Düsseldorf und einer der größten Rüstungskonzerne Europas. Das Unternehmen gliedert sich in die Segmente Weapon and Ammunition, Electronic Solutions, Vehicle Systems und Power Systems. Rheinmetall beschäftigt rund 34.000 Mitarbeiter an über 160 Standorten und Produktionsstätten in mehr als 30 Ländern. 2024 erzielte der Konzern einen Umsatz von rund 9,8 Mrd. EUR im Verteidigungsgeschäft.",
+    "url": "https://www.rheinmetall.com/",
+    "category": ["Panzer", "Munition", "Luftverteidigung", "Elektronik", "Fahrzeuge", "Marine"],
     "parents": [],
     "products": [
-      "Waffenstabilisierungssysteme",
-      "Generatoren für gepanzerte Fahrzeuge",
-      "Mobile Stromerzeuger und Energiesysteme",
-      "Hybrid-Stromsysteme und intelligente Mikronetze",
-      "Rettungswinden und Luftfahrtkomponenten",
-      "Leistungselektronik",
-      "Präzisionsgetriebe und Antriebstechnik",
-      "Stabilisierungs- und Hebesysteme"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "gsmk": {
-    "name": "GSMK Gesellschaft für Sichere Mobile Kommunikation mbH",
-    "description": "GSMK ist ein unabhängiges, privat geführtes Cybersicherheitsunternehmen mit Sitz in Berlin und ein Pionier auf dem Gebiet der mobilen Geräte- und Netzwerksicherheit. Das 2003 gegründete Unternehmen entwickelt, produziert und vermarktet die GSMK CryptoPhone-Produktlinie sicherer mobiler, Desktop- und Satellitenterminals mit starker Ende-zu-Ende-Verschlüsselung und Metadaten-Schutz. Ergänzend bietet GSMK mit Overwatch und Oversight Netzwerksicherheitssysteme für Mobilfunknetzbetreiber, Regulierungsbehörden sowie Sicherheitsbehörden an. GSMK hält mehrere Patente im Bereich der sicheren Kommunikation und arbeitet mit Kunden in über 50 Ländern zusammen. Der Firmensitz befindet sich in der Marienstraße 11 in Berlin-Mitte.",
-    "url": "https://www.gsmk.de/",
-    "category": ["Cybersicherheit", "Verschlüsselung", "Sichere Kommunikation", "Mobilfunk-Sicherheit"],
-    "parents": [],
-    "products": [
-      "GSMK CryptoPhone (sichere Mobiltelefone)",
-      "GSMK CryptoPhone Desktop",
-      "GSMK CryptoPhone Satellite",
-      "GSMK Overwatch (Netzwerksicherheit)",
-      "GSMK Oversight (Netzwerküberwachungsschutz)",
-      "Ende-zu-Ende-Verschlüsselungssysteme"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "atlas-elektronik": {
-    "name": "ATLAS ELEKTRONIK GmbH",
-    "description": "ATLAS ELEKTRONIK ist ein führendes Marinesystemhaus und eine 100%ige Tochtergesellschaft der Thyssenkrupp AG. Das Unternehmen entstand 1902 aus den Atlas-Werken und hat sich auf Ausrüstung und Systeme für Über- und Unterwasser-Seestreitkräfte spezialisiert. ATLAS entwickelt und fertigt integrierte Sonarsysteme für U-Boote, Minenjagdboote und Kampfschiffe sowie Torpedos und marineelektronische Systeme. Mit rund 2.800 Mitarbeitern ist ATLAS an mehreren Standorten in Deutschland sowie über internationale Tochtergesellschaften in Europa, Nordamerika, Asien und Australien vertreten. Hauptstandort mit Entwicklung, Produktion und Verwaltung ist Bremen-Sebaldsbrück.",
-    "url": "https://www.atlas-elektronik.com/",
-    "category": ["Marine", "Elektronik", "Sensoren", "Verteidigung"],
-    "parents": ["thyssenkrupp"],
-    "products": [
-      "Sonarsysteme für U-Boote",
-      "Minenjagdsysteme",
-      "Torpedos",
-      "Führungs- und Waffeneinsatzsysteme",
-      "Marinekommunikationssysteme",
-      "Simulationssysteme",
-      "Autonome Unterwasserfahrzeuge"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "ffg": {
-    "name": "Flensburger Fahrzeugbau-Gesellschaft mbH (FFG)",
-    "description": "Die Flensburger Fahrzeugbau-Gesellschaft mbH (FFG) ist ein international tätiges Hightech-Unternehmen der Wehrtechnik mit über 150-jähriger Tradition. Der Ursprung geht auf das Jahr 1872 und den Bau von Segel- und Dampfschiffen in Flensburg zurück. Heute ist FFG ein führendes Systemhaus für die Entwicklung, Herstellung, Umrüstung und Optimierung von gepanzerten Ketten- und Radfahrzeugen. Das Unternehmen beschäftigt rund 900 Mitarbeiter am Kernstandort Flensburg (inkl. Tochtergesellschaften etwa 1.500). Zu den Kernkompetenzen zählen die Grund-, Haupt- und Bedarfsinstandsetzung, Nutzungsdauerverlängerung und Modernisierung militärischer Fahrzeuge. FFG ist Lizenznehmer von Raytheon für die Fertigung von Komponenten für die Paveway-Laserlenkbombe und betreibt das CBRN-Materialzentrum der Bundeswehr. Auftraggeber aus über 40 Ländern vertrauen auf Fahrzeugtechnologie 'Made in Flensburg'. FFG investiert derzeit über 75 Mio. EUR in ein neues Werk in Handewitt (Werk 3), das 2027 die Produktion aufnehmen soll. Das Unternehmen ist ein wichtiger Industriepartner im CAVS-Programm (Gemeinsames Gepanzertes Fahrzeugsystem) und fertigt den Patria 6x6 für die Bundeswehr.",
-    "url": "https://www.ffg-flensburg.de/",
-    "category": ["Panzer", "Fahrzeugsysteme", "Instandhaltung", "Munition"],
-    "parents": [],
-    "products": [
-      "Instandsetzung gepanzerter Rad- und Kettenfahrzeuge",
-      "Nutzungsdauerverlängerung",
-      "Umbau und Modernisierung",
-      "Paveway-Leitwerksbaugruppen",
-      "WiSENT 2 Berge- und Pionierfahrzeuge",
-      "Patria 6x6 (Gemeinsames Gepanzertes Fahrzeugsystem)",
-      "Gepanzertes Gefechtsunterstützungsfahrzeug",
-      "CBRN-Schutzausstattung"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "dnd": {
-    "name": "Dynamit Nobel Defence GmbH",
-    "description": "Die Dynamit Nobel Defence GmbH (DND) ist ein mittelständisches Systemhaus der wehrtechnischen Industrie mit Hauptsitz in Burbach (Nordrhein-Westfalen). DND ist als eigenständige GmbH aus der Defence-Sparte der ehemaligen Dynamit Nobel AG hervorgegangen und blickt auf über 60 Jahre Erfahrung in der Entwicklung und Produktion von schultergestützten Mehrzweckwaffen zurück. Das Unternehmen ist seit 2004 eine Tochtergesellschaft des israelischen Rüstungskonzerns Rafael Advanced Defense Systems. DND beschäftigt rund 600 Mitarbeiter und betreibt auf einem über einen Quadratkilometer großen Werksgelände in Burbach mit 260 Gebäuden Entwicklung, Fertigung und Erprobung sicherheitsrelevanter Hochtechnologie. Das Portfolio umfasst schultergestützte Panzerabwehrwaffen (Panzerfaust 3, RGW-Serie, MATADOR), Reaktivschutzsysteme, Counter-Mobility-Systeme, digitale Gefechtsführungssysteme, Softwaredefinierte Funkgeräte und Brandschutzsysteme. DND ist Lizenznehmer für die Panzerfaust 3 und Hauptlieferant der deutschen Streitkräfte für Panzerabwehrhandwaffen.",
-    "url": "https://dn-defence.com/",
-    "category": ["Panzer", "Munition", "Elektronik", "Digitale Systeme"],
-    "parents": ["rafael"],
-    "products": [
-      "Panzerfaust 3",
-      "RGW 60",
-      "RGW 90",
-      "RGW 110",
-      "MATADOR",
-      "Reaktivschutzsysteme",
-      "Counter-Mobility-Systeme",
-      "Skorpion 2 Minenwurfsystem",
-      "AT2+ Panzerabwehrminen",
-      "Softwaredefinierte Funkgeräte",
-      "C4ISTAR-Lösungen",
-      "Brandschutzsysteme"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "schueler-wehrtechnik": {
-    "name": "SCHÜLER Wehrtechnik GmbH",
-    "description": "Die SCHÜLER Wehrtechnik GmbH ist ein mittelständisches Unternehmen der deutschen Wehrtechnikindustrie mit Sitz in Limburg an der Lahn. Seit über 50 Jahren ist die Instandsetzung von Baugruppen militärischer Rad- und Kettenfahrzeuge für die Bundeswehr die Kernkompetenz des Unternehmens. Darüber hinaus fertigt SCHÜLER Wehrtechnik Bremskomponenten, insbesondere für die Kampfpanzer LEOPARD 1, LEOPARD 2 und den Transportpanzer Fuchs, und liefert als Originalgerätehersteller Ersatzteile an das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw), die deutsche Verteidigungsindustrie sowie zunehmend an ausländische Nutzerstaaten. Das Unternehmen gehört zur SCHÜLER Unternehmensgruppe, zu der auch die SCHÜLER Zerspanungstechnik GmbH und die MOV'IT GmbH gehören. Die Gruppe beschäftigt über 70 Mitarbeiter und ist in mehr als 15 Branchen tätig.",
-    "url": "https://www.schueler-gruppe.de/en/company/wehrtechnik-gmbh/",
-    "category": ["Instandhaltung", "Panzer", "Fahrzeugsysteme", "Bremssysteme"],
-    "parents": [],
-    "products": [
-      "Instandsetzung von Rad- und Kettenfahrzeugen",
-      "Bremskomponenten für LEOPARD 1",
-      "Bremskomponenten für LEOPARD 2",
-      "Bremskomponenten für TPz Fuchs",
-      "Ersatzteile für militärische Fahrzeuge",
-      "CNC-Bearbeitung (SCHÜLER Zerspanungstechnik)",
-      "Hochleistungsbremssysteme (MOV'IT)"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "helsing": {
-    "name": "Helsing",
-    "description": "Helsing ist ein 2021 gegründetes europäisches Verteidigungstechnologie-Unternehmen mit Sitz in München, das sich auf die Anwendung von Künstlicher Intelligenz (KI) im Rüstungssektor spezialisiert hat. Das Unternehmen entwickelt KI-gestützte Softwarelösungen für Verteidigungsplattformen, elektronische Kampfführung und autonome Systeme. Helsing verfolgt die Mission, demokratische Werte und offene Gesellschaften durch technologische Überlegenheit zu schützen. Bekannt wurde Helsing durch die KI-Plattform 'Centaur' für Luftkampf- und Gefechtsfeldentscheidungen sowie die HX-2-Strike-Drohne. Zu den Investoren zählen Spotify-Gründer Daniel Ek, General Catalyst und Prima Materia. Helsing ist in Deutschland (München, Berlin), in Europa (London, Paris, Stockholm, Warschau, Tallinn), in der Ukraine und den USA (West Virginia) vertreten.",
-    "url": "https://helsing.ai/",
-    "category": ["KI-Software", "Verteidigung", "Autonome Systeme", "Elektronische Kampfführung"],
-    "parents": [],
-    "products": [
-      "Centaur (KI-Agent für Luftkampf)",
-      "HX-2 (KI-gestützte Strike-Drohne)",
-      "KI-Software für elektronische Kampfführung",
-      "Autonome Systeme",
-      "Software-Architekturen für Verteidigungsplattformen"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "quantum-systems": {
-    "name": "Quantum Systems",
-    "description": "Quantum Systems ist ein führender europäischer Hersteller von KI-gestützten unbemannten Luftfahrtsystemen für Verteidigungs- und Sicherheitsanwendungen. Das 2015 gegründete Unternehmen mit Hauptsitz in Gilching bei München am Sonderflughafen Oberpfaffenhofen entwickelt, produziert und betreibt Aufklärungsdrohnen, autonome Systeme und die dazugehörige Software. Quantum Systems beschäftigt mehrere hundert Mitarbeiter, davon einen großen Teil in der Ukraine. Das Unternehmen betreibt Produktions- und Entwicklungsstandorte in Deutschland (Gilching, Berlin, Rheinbach, Jena), der Ukraine, den USA (Kalifornien, Alabama), Australien, UK, Rumänien, Litauen und Estland.",
-    "url": "https://quantum-systems.com/",
-    "category": ["Drohnen", "Unbemannte Luftfahrtsysteme", "Aufklärung, Überwachung und Zielerfassung", "KI-Software"],
-    "parents": [],
-    "products": [
-      "Vector (Vertikalstart- und -landungs-Aufklärungsdrohne)",
-      "Scorpion (Aufklärungs-, Überwachungs- und Zielerfassungsdrohne)",
-      "Trinity (taktisches unbemanntes Luftfahrtsystem)",
-      "KI-gestützte Aufklärungs-, Überwachungs- und Zielerfassungssysteme",
-      "Autonome Software für unbemannte Luftfahrtsysteme",
-      "Radar- und Hochfrequenz-Sensorik"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "stark-defence": {
-    "name": "STARK Defence (SKD SE)",
-    "description": "STARK ist ein 2024 gegründetes europäisches Verteidigungstechnologie-Unternehmen mit Hauptsitz in Berlin. Das Unternehmen entwickelt, produziert und liefert hochleistungsfähige unbemannte Systeme, die softwaredefiniert, massenskalierbar und kosteneffizient sind. STARK hat sich als Europas am schnellsten wachsendes Defence-Tech-Unternehmen etabliert und ist auf Loitering-Munition (Einweg-Effektoren), Aufklärungsdrohnen und unbemannte maritime Systeme spezialisiert. Das Flaggschiffprodukt Virtus ist eine Kampfdrohne, die bereits an der Front in der Ukraine eingesetzt wurde. STARK ist in fünf Ländern präsent und betreibt Produktionsstätten in Deutschland, Großbritannien und der Ukraine sowie Forschungs- und Entwicklungsstandorte in Schweden, Griechenland und den Niederlanden. Im Juni 2026 sammelte das Unternehmen 500 Mio. Euro bei einer Bewertung von 3,2 Mrd. Euro ein. Zu den Investoren zählen Sequoia Capital und Peter Thiels Founders Fund. Die Bundeswehr hat STARK und Helsing Aufträge im Wert von jeweils rund 269 Mio. Euro zur Lieferung von Drohnen an die in Litauen stationierte 45. Panzerbrigade erteilt.",
-    "url": "https://stark-defence.com/",
-    "category": ["Drohnen", "Loitering-Munition", "Unbemannte Systeme", "Verteidigungstechnologie"],
-    "parents": [],
-    "products": [
-      "Virtus (Loitering-Munition)",
-      "Unbemannte maritime Systeme (Unbemannte Überwasserschiffe)",
-      "Aufklärungsdrohnen",
-      "Softwaredefinierte autonome Systeme",
+      "Leopard 2 Kampfpanzer (Komponenten, Zulieferer)",
+      "Puma Schützenpanzer (Zulieferer)",
+      "Boxer Radpanzer (Zulieferer)",
+      "Lynx Schützenpanzer (Erstausrüster)",
+      "Panzerhaubitze 2000 (Zulieferer)",
+      "RCH 155 (Zulieferer)",
+      "Artilleriemunition (155 mm)",
+      "Panzermunition (120 mm)",
+      "Luftverteidigungssysteme (Skyranger, Skynex)",
       "Elektronische Kampfführung",
-      "Drohnenabwehr-Lasersysteme"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "auterion": {
-    "name": "Auterion",
-    "description": "Auterion ist der weltweit führende Anbieter von Betriebssystemen und Apps für unbemannte Systeme in der Luft, zu Land und zu Wasser. Das 2017 als ETH-Spin-off gegründete Unternehmen verlegte seinen Hauptsitz im Frühjahr 2024 von Zürich in die USA nach Arlington, Virginia. Auterion entwickelt eine offene, softwaredefinierte Plattform auf Basis des PX4-Autopiloten, die herstellerunabhängige, autonome Drohnen für kommerzielle und militärische Anwendungen ermöglicht. Zu den Kunden zählen GE Aviation, Quantum Systems, Freefly Systems, Avy und Watts Innovations. Auterion beschäftigt rund 300 Mitarbeiter und betreibt Forschungs- und Entwicklungsstandorte in München und Zürich sowie einen Standort in London. Zu den Investoren zählen Lakestar, Mosaic Ventures, Costanoa Ventures, Tectonic Ventures und der ehemalige Google-CEO Eric Schmidt. Seit 2025 ist Rheinmetall strategischer Partner von Auterion.",
-    "url": "https://auterion.com/",
-    "category": ["KI-Software", "Drohnen-Betriebssystem", "Autonome Systeme", "Verteidigungstechnologie"],
-    "parents": [],
-    "products": [
-      "Auterion OS (Betriebssystem für Drohnen)",
-      "Auterion Mission Control",
-      "Auterion Enterprise PX4",
-      "Auterion Suite (Cloud-Plattform)",
-      "Auterion RTK",
-      "KI-gestützte Autonomie-Software",
-      "Drohnenabwehr-Lösungen"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "airlogix": {
-    "name": "Airlogix",
-    "description": "Airlogix ist ein 2020 gegründetes ukrainisches Verteidigungstechnologie-Unternehmen mit Sitz in Kyiv, das unbemannte Luftfahrtsysteme für Aufklärung und Frachtlogistik entwickelt und produziert. Die Drohnen von Airlogix nutzen Maschinelles Sehen und Künstliche Intelligenz für halbautonome Operationen und werden primär im Verteidigungssektor eingesetzt. Das Unternehmen beschäftigt rund 25 Mitarbeiter und hat sich auf kampferprobte, modular aufgebaute unbemannte Luftfahrzeuge mit anpassungsfähigen Flugsystemen und robusten Nutzlastkapazitäten spezialisiert. Airlogix ist eine Tochtergesellschaft der ukrainischen Verteidigungsindustrie und hat 2026 ein Gemeinschaftsunternehmen mit dem deutschen Unternehmen Auterion gegründet, um weitreichende Kampfdrohnen in Deutschland zu produzieren.",
-    "url": "https://airlogix.ua/",
-    "category": ["Drohnen", "Unbemannte Luftfahrtsysteme", "Loitering-Munition", "Verteidigungstechnologie"],
-    "parents": [],
-    "products": [
-      "Aufklärungsdrohnen",
-      "Kamikaze-Drohnen (Loitering-Munition)",
-      "Frachtlogistik-Unbemannte Luftfahrzeuge",
-      "KI-gestützte Zielerfassung"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "auterion-airlogix": {
-    "name": "Auterion Airlogix Joint Venture",
-    "description": "Das Auterion Airlogix Joint Venture wurde im Februar 2026 gegründet und ist ein deutsch-amerikanisch-ukrainisches Gemeinschaftsunternehmen zur Serienproduktion weitreichender Kampfdrohnen für die Ukraine. Auterion liefert die Software samt Betriebssystem, Airlogix die Hardware. Die Produktion findet in Deutschland statt – an einem Standort im Großraum München und einem weiteren in Ostdeutschland. Der Auftrag der Bundesregierung umfasst mehr als 5.000 Drohnen mit einem Volumen von rund 300 Millionen Euro. Es werden zwei Modelle gefertigt: eine mittlere Reichweite und eine größere Reichweite von bis zu 1.500 Kilometern. Die Auslieferung soll Mitte 2027 abgeschlossen sein. Die Drohnen sind mit KI ausgestattet, um auch bei elektronischer Abwehr das Ziel zu erreichen.",
-    "url": "https://auterion.com/",
-    "category": ["Drohnen", "Loitering-Munition", "Verteidigungstechnologie"],
-    "parents": ["auterion", "airlogix"],
-    "products": [
-      "Kamikaze-Drohnen (mittlere Reichweite)",
-      "Kamikaze-Drohnen (bis 1.500 km Reichweite)",
-      "KI-gestützte Zielerfassung",
-      "Autonome Flugsteuerung"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "donaustahl": {
-    "name": "Donaustahl GmbH",
-    "description": "Die Donaustahl GmbH ist ein 2020 gegründetes bayerisches Defence-Start-up mit rechtlichem Sitz in Hutthurm (Landkreis Passau) und einem Fokus auf die Entwicklung und Produktion hochmoderner Lösungen für militärische Anwendungen. Das Unternehmen hat sich auf unbemannte Waffensysteme und Loitering-Munition spezialisiert und gilt als Deutschlands führendes Unternehmen in diesem Bereich. Die Donaustahl GmbH ist als 'Offense-Start-up' positioniert und verfolgt das Ziel einer 100% deutschen Wertschöpfungskette. CEO und Gründer ist Stefan Thumann, der das Unternehmen zunächst als Hersteller von Kurzwaffen-Anschlagschäften gründete und nach dem Beginn des Ukraine-Krieges auf Verteidigungstechnologie umstellte. Das Unternehmen hält mehr als zehn Patente und plant, bis 2026 über 30.000 unbemannte Luftfahrzeug-Gefechtskörper jährlich zu produzieren. Zu den Produkten zählen die ALMP MAUS (Adaptive Loitering-Munition-Plattform), Gefechtsköpfe der Sonyashnyk-Serie, Drohnenmotoren und Lichtwellenleiter. Donaustahl ist im Handelsregister des Amtsgerichts Passau unter HRB 10808 eingetragen und im Bayerischen Lobbyregister unter der Registernummer DEBYLT0003 registriert. Der frühere KNDS-Finanzvorstand Horst Rieder ist seit November 2025 CFO des Unternehmens.",
-    "url": "https://www.donaustahl.com/",
-    "category": ["Loitering-Munition", "Drohnen", "Unbemannte Luftfahrtsysteme", "Verteidigungstechnologie", "Munition"],
-    "parents": [],
-    "products": [
-      "ALMP MAUS (Adaptive Loitering-Munition-Plattform)",
-      "ALMP Ratte (Loitering-Munition)",
-      "ALMP Stryga (Loitering-Munition)",
-      "Sonyashnyk-Gefechtsköpfe",
-      "Drohnenmotoren",
-      "Lichtwellenleiter",
-      "Aufklärungs- und Bekämpfungssysteme",
-      "Unbemannte Luftfahrzeug-Bordwaffen (mBK185, GAG40)"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "tytan-technologies": {
-    "name": "TYTAN Technologies GmbH",
-    "description": "TYTAN Technologies ist ein 2023 gegründetes Münchner Deep-Tech-Start-up, das KI-gesteuerte Abfangdrohnen (Interceptor) und modulare Systeme für die Drohnenabwehr entwickelt. Das Unternehmen wurde von den damaligen TU-München-Studenten Balázs Nagy und Batuhan Yumurtacı gegründet und hat sich auf kosteneffiziente, autonome kinetische Abwehrlösungen zum Schutz von Menschen und kritischer Infrastruktur spezialisiert. Die Systeme werden unter realen Gefechtsbedingungen in der Ukraine getestet und sind bei der Bundeswehr sowie weiteren Streitkräften im Einsatz. TYTAN beschäftigt rund 80 Mitarbeiter und plant den Ausbau auf etwa 150. Das Unternehmen hat in einer Serie-A-Finanzierungsrunde 30 Millionen Euro eingesammelt, angeführt vom NATO Innovation Fund und Armira. Zu den strategischen Partnern zählen HENSOLDT, DEUTZ und Mercedes. TYTAN ist im Lobbyregister des Bundestages unter der Registernummer R007894 eingetragen.",
-    "url": "https://www.tytan-technologies.com/",
-    "category": ["Drohnen", "Drohnenabwehr", "Luftverteidigung", "KI-Software", "Verteidigungstechnologie"],
-    "parents": [],
-    "products": [
-      "Interceptor-Drohnen (KI-gesteuerte Abfangdrohnen)",
-      "Modulare Luftverteidigungssysteme",
-      "KI-gestützte Zielerfassung",
-      "Autonome Abfangsysteme",
-      "Sensorik-Integration (mit HENSOLDT)",
-      "Energie- und Antriebslösungen (mit DEUTZ)"
-    ],
-    "updatedAt": "2026-09-20"
-  },
-  "se3-labs": {
-    "name": "SE3 Labs GmbH",
-    "description": "SE3 Labs ist ein 2023 gegründetes europäisches Deep-Tech-Unternehmen mit Sitz in München, das eine Plattform für räumliche Künstliche Intelligenz für unbemannte und autonome Systeme entwickelt. Das Unternehmen kombiniert fortschrittliches maschinelles 3D-Sehen mit großen Sprachmodellen, um eine skalierbare Technologieplattform zu schaffen, die Sensorfusion und semantisches Verständnis zu einem Echtzeit-3D-Lagebild (Gesamtlagebild) vereint. Dies ermöglicht präzise Geolokalisierung, zielgenaue Koordinaten für Sensor-zu-Schütze-Ketten, robuste Navigation und koordiniertes Schwarmverhalten in Umgebungen ohne Globales Navigationssatellitensystem. SE3 Labs wurde von Lukas Köstler (CEO), Simon Klenk (CTO) und Prof. Daniel Cremers (CSO) gegründet und ist im Lobbyregister des Bundestages unter der Registernummer R007657 eingetragen. Zu den strategischen Partnern zählt HENSOLDT (Absichtserklärung seit Juni 2026). Zu den Investoren gehören Lakestar, Seedcamp und Sequoia Capital. Das Unternehmen beschäftigt rund 20 Mitarbeiter und hat seinen Sitz in der Ungererstraße 175 in München (zuvor Lichtenbergstraße 8 in Garching).",
-    "url": "https://www.se3.ai/",
-    "category": ["KI-Software", "Räumliche KI", "Maschinelles Sehen", "Autonome Systeme", "Verteidigungstechnologie"],
-    "parents": [],
-    "products": [
-      "Räumliche-KI-Plattform",
-      "3D-Gesamtlagebild",
-      "Navigation und Schwarmverhalten ohne Globales Navigationssatellitensystem",
-      "Sensor-zu-Schütze-Ketten",
-      "Sprachbasierte Interaktion mit 3D-Daten",
-      "Echtzeit-Sensorfusion"
+      "Soldatensysteme (IdZ-ES)",
+      "Militärlastwagen (HX, SX)",
+      "Marinewaffensysteme"
     ],
     "updatedAt": "2026-09-20"
   },
@@ -660,58 +775,53 @@
     ],
     "updatedAt": "2026-09-20"
   },
-  "airbus": {
-    "name": "Airbus Group SE",
-    "description": "Airbus ist ein führendes globales Unternehmen der Luft- und Raumfahrt mit Sitz in Leiden, Niederlande. Die Gruppe gliedert sich in die Divisionen Airbus Commercial Aircraft, Airbus Defence and Space und Airbus Helicopters. Airbus Defence and Space ist Europas größtes Verteidigungs- und Raumfahrtunternehmen.",
-    "url": "https://www.airbus.com/",
-    "category": ["Luftfahrt", "Raumfahrt", "Verteidigung"],
+  "schueler-wehrtechnik": {
+    "name": "SCHÜLER Wehrtechnik GmbH",
+    "description": "Die SCHÜLER Wehrtechnik GmbH ist ein mittelständisches Unternehmen der deutschen Wehrtechnikindustrie mit Sitz in Limburg an der Lahn. Seit über 50 Jahren ist die Instandsetzung von Baugruppen militärischer Rad- und Kettenfahrzeuge für die Bundeswehr die Kernkompetenz des Unternehmens. Darüber hinaus fertigt SCHÜLER Wehrtechnik Bremskomponenten, insbesondere für die Kampfpanzer LEOPARD 1, LEOPARD 2 und den Transportpanzer Fuchs, und liefert als Originalgerätehersteller Ersatzteile an das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw), die deutsche Verteidigungsindustrie sowie zunehmend an ausländische Nutzerstaaten. Das Unternehmen gehört zur SCHÜLER Unternehmensgruppe, zu der auch die SCHÜLER Zerspanungstechnik GmbH und die MOV'IT GmbH gehören. Die Gruppe beschäftigt über 70 Mitarbeiter und ist in mehr als 15 Branchen tätig.",
+    "url": "https://www.schueler-gruppe.de/en/company/wehrtechnik-gmbh/",
+    "category": ["Instandhaltung", "Panzer", "Fahrzeugsysteme", "Bremssysteme"],
     "parents": [],
-    "products": [],
+    "products": [
+      "Instandsetzung von Rad- und Kettenfahrzeugen",
+      "Bremskomponenten für LEOPARD 1",
+      "Bremskomponenten für LEOPARD 2",
+      "Bremskomponenten für TPz Fuchs",
+      "Ersatzteile für militärische Fahrzeuge",
+      "CNC-Bearbeitung (SCHÜLER Zerspanungstechnik)",
+      "Hochleistungsbremssysteme (MOV'IT)"
+    ],
     "updatedAt": "2026-09-20"
   },
-  "bae-systems": {
-    "name": "BAE Systems plc",
-    "description": "BAE Systems ist ein britischer Rüstungskonzern mit Sitz in Farnborough und einer der größten Verteidigungs- und Sicherheitskonzerne der Welt. Das Unternehmen ist Gesellschafter von MBDA (37,5 %) und europäischer Partner mehrerer Rüstungsprogramme.",
-    "url": "https://www.baesystems.com/",
-    "category": ["Verteidigung", "Luftfahrt", "Marine", "Panzer"],
+  "se3-labs": {
+    "name": "SE3 Labs GmbH",
+    "description": "SE3 Labs ist ein 2023 gegründetes europäisches Deep-Tech-Unternehmen mit Sitz in München, das eine Plattform für räumliche Künstliche Intelligenz für unbemannte und autonome Systeme entwickelt. Das Unternehmen kombiniert fortschrittliches maschinelles 3D-Sehen mit großen Sprachmodellen, um eine skalierbare Technologieplattform zu schaffen, die Sensorfusion und semantisches Verständnis zu einem Echtzeit-3D-Lagebild (Gesamtlagebild) vereint. Dies ermöglicht präzise Geolokalisierung, zielgenaue Koordinaten für Sensor-zu-Schütze-Ketten, robuste Navigation und koordiniertes Schwarmverhalten in Umgebungen ohne Globales Navigationssatellitensystem. SE3 Labs wurde von Lukas Köstler (CEO), Simon Klenk (CTO) und Prof. Daniel Cremers (CSO) gegründet und ist im Lobbyregister des Bundestages unter der Registernummer R007657 eingetragen. Zu den strategischen Partnern zählt HENSOLDT (Absichtserklärung seit Juni 2026). Zu den Investoren gehören Lakestar, Seedcamp und Sequoia Capital. Das Unternehmen beschäftigt rund 20 Mitarbeiter und hat seinen Sitz in der Ungererstraße 175 in München (zuvor Lichtenbergstraße 8 in Garching).",
+    "url": "https://www.se3.ai/",
+    "category": ["KI-Software", "Räumliche KI", "Maschinelles Sehen", "Autonome Systeme", "Verteidigungstechnologie"],
     "parents": [],
-    "products": [],
+    "products": [
+      "Räumliche-KI-Plattform",
+      "3D-Gesamtlagebild",
+      "Navigation und Schwarmverhalten ohne Globales Navigationssatellitensystem",
+      "Sensor-zu-Schütze-Ketten",
+      "Sprachbasierte Interaktion mit 3D-Daten",
+      "Echtzeit-Sensorfusion"
+    ],
     "updatedAt": "2026-09-20"
   },
-  "leonardo": {
-    "name": "Leonardo S.p.A.",
-    "description": "Leonardo ist ein italienischer Rüstungs- und Raumfahrtkonzern mit Sitz in Rom. Das Unternehmen ist Gesellschafter von MBDA (25 %) und in den Bereichen Hubschrauber, Elektronik, Cyber und Raumfahrt aktiv.",
-    "url": "https://www.leonardo.com/",
-    "category": ["Verteidigung", "Luftfahrt", "Elektronik", "Cyber"],
+  "stark-defence": {
+    "name": "STARK Defence (SKD SE)",
+    "description": "STARK ist ein 2024 gegründetes europäisches Verteidigungstechnologie-Unternehmen mit Hauptsitz in Berlin. Das Unternehmen entwickelt, produziert und liefert hochleistungsfähige unbemannte Systeme, die softwaredefiniert, massenskalierbar und kosteneffizient sind. STARK hat sich als Europas am schnellsten wachsendes Defence-Tech-Unternehmen etabliert und ist auf Loitering-Munition (Einweg-Effektoren), Aufklärungsdrohnen und unbemannte maritime Systeme spezialisiert. Das Flaggschiffprodukt Virtus ist eine Kampfdrohne, die bereits an der Front in der Ukraine eingesetzt wurde. STARK ist in fünf Ländern präsent und betreibt Produktionsstätten in Deutschland, Großbritannien und der Ukraine sowie Forschungs- und Entwicklungsstandorte in Schweden, Griechenland und den Niederlanden. Im Juni 2026 sammelte das Unternehmen 500 Mio. Euro bei einer Bewertung von 3,2 Mrd. Euro ein. Zu den Investoren zählen Sequoia Capital und Peter Thiels Founders Fund. Die Bundeswehr hat STARK und Helsing Aufträge im Wert von jeweils rund 269 Mio. Euro zur Lieferung von Drohnen an die in Litauen stationierte 45. Panzerbrigade erteilt.",
+    "url": "https://stark-defence.com/",
+    "category": ["Drohnen", "Loitering-Munition", "Unbemannte Systeme", "Verteidigungstechnologie"],
     "parents": [],
-    "products": [],
-    "updatedAt": "2026-09-20"
-  },
-  "thyssenkrupp": {
-    "name": "thyssenkrupp AG",
-    "description": "thyssenkrupp ist ein deutscher Industriekonzern mit Sitz in Essen. Aus dem Konzern stammt TKMS (U-Boot-Bau, 2025 ausgegliedert) und ATLAS ELEKTRONIK (Marineelektronik, 100 %).",
-    "url": "https://www.thyssenkrupp.com/",
-    "category": ["Industrie", "Marine", "U-Boote"],
-    "parents": [],
-    "products": [],
-    "updatedAt": "2026-09-20"
-  },
-  "elbit": {
-    "name": "Elbit Systems Ltd.",
-    "description": "Elbit Systems ist ein israelischer Rüstungskonzern mit Sitz in Haifa. Das Unternehmen entwickelt und produziert Systeme in den Bereichen Luftfahrt, Land-, See- und Cybersicherheit und ist über die Tochter Elbit Systems Deutschland auch auf dem deutschen Markt aktiv.",
-    "url": "https://elbitsystems.com/",
-    "category": ["Verteidigung", "Elektronik", "Luftfahrt", "Cyber"],
-    "parents": [],
-    "products": [],
-    "updatedAt": "2026-09-20"
-  },
-  "rafael": {
-    "name": "Rafael Advanced Defense Systems Ltd.",
-    "description": "Rafael ist ein israelischer Rüstungskonzern mit Sitz in Haifa. Das Unternehmen ist auf Lenkflugkörper, Panzerabwehrwaffen und Luftverteidigungssysteme spezialisiert und Gesellschafter der EuroSpike GmbH (mit Diehl und Rheinmetall).",
-    "url": "https://www.rafael.co.il/",
-    "category": ["Verteidigung", "Lenkflugkörper", "Panzer"],
-    "parents": [],
-    "products": [],
+    "products": [
+      "Virtus (Loitering-Munition)",
+      "Unbemannte maritime Systeme (Unbemannte Überwasserschiffe)",
+      "Aufklärungsdrohnen",
+      "Softwaredefinierte autonome Systeme",
+      "Elektronische Kampfführung",
+      "Drohnenabwehr-Lasersysteme"
+    ],
     "updatedAt": "2026-09-20"
   },
   "thales": {
@@ -733,5 +843,68 @@
       "Digitale Identität und Sicherheit",
       "Bahntechnik und Signalsysteme"
     ]
+  },
+  "thyssenkrupp": {
+    "name": "thyssenkrupp AG",
+    "description": "thyssenkrupp ist ein deutscher Industriekonzern mit Sitz in Essen. Aus dem Konzern stammt TKMS (U-Boot-Bau, 2025 ausgegliedert) und ATLAS ELEKTRONIK (Marineelektronik, 100 %).",
+    "url": "https://www.thyssenkrupp.com/",
+    "category": ["Industrie", "Marine", "U-Boote"],
+    "parents": [],
+    "products": [],
+    "updatedAt": "2026-09-20"
+  },
+  "tkms": {
+    "name": "TKMS AG & Co. KGaA",
+    "description": "TKMS (ehemals Thyssenkrupp Marine Systems) ist der weltweit führende Anbieter von konventionellen, nicht-nuklear betriebenen U-Booten sowie ein bedeutender Hersteller von Überwasserschiffen, Marineführungssystemen und Marineelektronik. Das Unternehmen wurde 2025 aus dem Thyssenkrupp-Konzern ausgegliedert und ist seit Oktober 2025 als TKMS AG & Co. KGaA an der Börse notiert (Thyssenkrupp behält 51 %). TKMS beschäftigt über 8.300 Mitarbeiter und betreibt drei Werften in Kiel, Wismar und Itajaí (Brasilien).",
+    "url": "https://www.tkmsgroup.com/",
+    "category": ["Marine", "U-Boote", "Überwasserschiffe", "Elektronik"],
+    "parents": [],
+    "products": [
+      "U-Boote der Klasse 212CD",
+      "U-Boote der Klasse 214",
+      "U-Boote der Klasse 218SG",
+      "MEKO-Fregatten",
+      "MEKO-Korvetten",
+      "Sonarsysteme",
+      "Führungssysteme",
+      "Waffeneinsatzsysteme",
+      "Marinekommunikation",
+      "Forschungsschiff Polarstern 2"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "tytan-technologies": {
+    "name": "TYTAN Technologies GmbH",
+    "description": "TYTAN Technologies ist ein 2023 gegründetes Münchner Deep-Tech-Start-up, das KI-gesteuerte Abfangdrohnen (Interceptor) und modulare Systeme für die Drohnenabwehr entwickelt. Das Unternehmen wurde von den damaligen TU-München-Studenten Balázs Nagy und Batuhan Yumurtacı gegründet und hat sich auf kosteneffiziente, autonome kinetische Abwehrlösungen zum Schutz von Menschen und kritischer Infrastruktur spezialisiert. Die Systeme werden unter realen Gefechtsbedingungen in der Ukraine getestet und sind bei der Bundeswehr sowie weiteren Streitkräften im Einsatz. TYTAN beschäftigt rund 80 Mitarbeiter und plant den Ausbau auf etwa 150. Das Unternehmen hat in einer Serie-A-Finanzierungsrunde 30 Millionen Euro eingesammelt, angeführt vom NATO Innovation Fund und Armira. Zu den strategischen Partnern zählen HENSOLDT, DEUTZ und Mercedes. TYTAN ist im Lobbyregister des Bundestages unter der Registernummer R007894 eingetragen.",
+    "url": "https://www.tytan-technologies.com/",
+    "category": ["Drohnen", "Drohnenabwehr", "Luftverteidigung", "KI-Software", "Verteidigungstechnologie"],
+    "parents": [],
+    "products": [
+      "Interceptor-Drohnen (KI-gesteuerte Abfangdrohnen)",
+      "Modulare Luftverteidigungssysteme",
+      "KI-gestützte Zielerfassung",
+      "Autonome Abfangsysteme",
+      "Sensorik-Integration (mit HENSOLDT)",
+      "Energie- und Antriebslösungen (mit DEUTZ)"
+    ],
+    "updatedAt": "2026-09-20"
+  },
+  "vincorion": {
+    "name": "VINCORION Advanced Systems GmbH",
+    "description": "VINCORION ist ein führender Entwickler und Hersteller von missionskritischen Energie- und mechatronischen Lösungen für Verteidigungsplattformen und fortschrittliche Luftfahrtsysteme. Das Unternehmen mit Hauptsitz in Wedel bei Hamburg ist eine Marke des Technologiekonzerns Jenoptik und bedient die Kernsegmente Fahrzeugsysteme, Energiesysteme und Luftfahrt. VINCORION liefert Schlüsselkomponenten für führende militärische und zivile Plattformen wie Leopard 2, PUMA, IRIS-T SLM, H145 und NH90. Rund 900 hochqualifizierte Mitarbeiter entwickeln und fertigen die Lösungen an drei Standorten in Deutschland (Wedel, Essen, Altenstadt) und einem Vertriebsstandort in El Paso, Texas (USA). 2025 erwirtschaftete das Unternehmen einen Umsatz von rund 240 Mio. EUR. Die Wurzeln reichen bis in die 1960er Jahre zur Gründung des AEG-Standorts Wedel zurück, später bekannt als ESW Systems Wedel.",
+    "url": "https://vincorion.com/",
+    "category": ["Antriebstechnik", "Elektronik", "Verteidigung", "Luftfahrt", "Energiesysteme"],
+    "parents": [],
+    "products": [
+      "Waffenstabilisierungssysteme",
+      "Generatoren für gepanzerte Fahrzeuge",
+      "Mobile Stromerzeuger und Energiesysteme",
+      "Hybrid-Stromsysteme und intelligente Mikronetze",
+      "Rettungswinden und Luftfahrtkomponenten",
+      "Leistungselektronik",
+      "Präzisionsgetriebe und Antriebstechnik",
+      "Stabilisierungs- und Hebesysteme"
+    ],
+    "updatedAt": "2026-09-20"
   }
 }

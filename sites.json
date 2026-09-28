@@ -658,6 +658,421 @@
     ]
   },
   {
+    "id": "agp-de-duesseldorf",
+    "companyId": "agp-sglass",
+    "lat": 51.2065,
+    "lng": 6.7705,
+    "headquarter": true,
+    "siteName": "Firmensitz Düsseldorf",
+    "address": "Speditionstraße 15a, 40221 Düsseldorf",
+    "city": "Düsseldorf",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Firmensitz und Geschäftsstelle der AGP sGlass Europe GmbH im Düsseldorfer Stadtteil Hamm. Hier befinden sich Vertrieb, Export und Verwaltung. Das Unternehmen wurde am 24. Januar 2025 ins Handelsregister eingetragen (Amtsgericht Düsseldorf HRB 107753). Geschäftsführer ist Christoph Schulz. Der Standort ist als Mitglied im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) registriert und stellt auf Fachmessen wie der Enforce Tac und der Eurosatory aus.",
+    "products": [
+      "Vertrieb und Export von Sicherheitsglas",
+      "Installation und Wartung",
+      "Beratung"
+    ],
+    "sources": [
+      "https://www.companyhouse.de/AGP-sGlass-Europe-GmbH-Duesseldorf",
+      "https://www.bdsv.eu"
+    ]
+  },
+  {
+    "id": "agp-de-aachen",
+    "companyId": "agp-sglass",
+    "lat": 50.7862,
+    "lng": 6.0699,
+    "headquarter": false,
+    "siteName": "AGP Europe GmbH – Aachen (ehemals)",
+    "address": "Roermonder Straße 4a, 52072 Aachen",
+    "city": "Aachen",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Früherer Standort der AGP Europe GmbH in Aachen. Die Gesellschaft ist im Handelsregister des Amtsgerichts Aachen unter HRB 22176 eingetragen und befindet sich seit Februar 2025 im Insolvenzverfahren. Die Aktivitäten wurden in die 2025 neu gegründete AGP sGlass Europe GmbH mit Sitz in Düsseldorf überführt. Der Standort Aachen diente dem Vertrieb von Sicherheitsglas und Panzerglas für den europäischen Markt.",
+    "products": [
+      "Vertrieb von Sicherheitsglas"
+    ],
+    "sources": [
+      "https://www.companyhouse.de/AGP-Europe-GmbH-Aachen",
+      "https://insolvenzkontor.de/insolvenz/agp-europe-gmbh-93-in-222-24"
+    ]
+  },
+  {
+    "id": "agp-de-baesweiler",
+    "companyId": "agp-sglass",
+    "lat": 50.9167,
+    "lng": 6.1833,
+    "headquarter": false,
+    "siteName": "AGP Europe GmbH – Baesweiler (ehemals)",
+    "address": "Arnold-Sommerfeld-Ring 16, 52499 Baesweiler",
+    "city": "Baesweiler",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Früherer operativer Standort der AGP Europe GmbH in Baesweiler. Die Gesellschaft betrieb hier den Vertrieb (Großhandel) von Glas und Panzerglas sowie technische Beratung für Kunden in Europa. Die AGP Europe GmbH ist im Handelsregister des Amtsgerichts Aachen unter HRB 22176 eingetragen und befindet sich seit Februar 2025 im Insolvenzverfahren. Das Unternehmen stellte 2024 auf der Eurosatory in Paris aus.",
+    "products": [
+      "Vertrieb von Glas und Panzerglas",
+      "Technische Beratung"
+    ],
+    "sources": [
+      "https://insolvenzkontor.de/insolvenz/agp-europe-gmbh-93-in-222-24",
+      "https://bdsv-exhibitions.eu/show/eurosatory-2024/584"
+    ]
+  },
+  {
+    "id": "agp-be-ghent",
+    "companyId": "agp-group",
+    "lat": 51.0167,
+    "lng": 3.7167,
+    "headquarter": true,
+    "siteName": "AGP eGlass – Ghent (eGlass 2.0 / Hauptsitz AGP eGlass)",
+    "address": "Nederzwijnaarde 2, Building 56, 9052 Ghent, Belgien",
+    "city": "Ghent",
+    "country": "BE",
+    "description": "Hauptsitz von AGP eGlass und Standort der eGlass-2.0-Produktionsstätte. Die 2018 von der belgischen Soliver-Gruppe übernommene Anlage produziert jährlich bis zu 3.000.000 Quadratmeter Hightech-Automobilglas auf 40.000 Quadratmetern Produktionsfläche. Die eGlass 2.0-Linie ist auf pressgebogene, komplex geformte Verglasungen bis 4,5 Quadratmeter spezialisiert und verfügt über Beschichtungstechnologie sowie switchable glazing lines.",
+    "products": [
+      "Automotive-Verglasung (eGlass)",
+      "AR-HUD-fähige Windschutzscheiben",
+      "Switchable Glazing"
+    ],
+    "sources": [
+      "https://agpglass.com/wp-content/uploads/2018/11/AGP-Group-56-Years-new.pdf",
+      "https://www.signalhire.com",
+      "https://invest.flandersinvestmentandtrade.com"
+    ]
+  },
+  {
+    "id": "agp-be-roeselare",
+    "companyId": "agp-group",
+    "lat": 50.9444,
+    "lng": 3.1225,
+    "headquarter": false,
+    "siteName": "AGP eGlass – Roeselare (eGlass 2.5)",
+    "address": "Groene-Herderstraat 18, 8800 Roeselare, Belgien",
+    "city": "Roeselare",
+    "country": "BE",
+    "description": "Produktionsstandort der eGlass-2.5-Linie in Roeselare, Belgien. Die Anlage fertigt laminiertes Sicherheitsglas für Kraftfahrzeuge und deren Anhänger. Mit 48.000 Quadratmetern Produktionsfläche und einer Jahreskapazität von 3.375.000 Quadratmetern Sicherheitsglas ist dies eine der größten Automobilglas-Produktionsstätten Europas. Rund 400 feste Mitarbeiter arbeiten am Standort.",
+    "products": [
+      "Automotive-Sicherheitsglas",
+      "Laminated Safety Glazing"
+    ],
+    "sources": [
+      "https://agpglass.com/wp-content/uploads/2018/11/AGP-Group-56-Years-new.pdf",
+      "https://www.made-in.be"
+    ]
+  },
+  {
+    "id": "agp-be-evergem",
+    "companyId": "agp-group",
+    "lat": 51.1000,
+    "lng": 3.7000,
+    "headquarter": false,
+    "siteName": "AGP eGlass – Evergem (ehemals Soliver)",
+    "address": "Evergem, Belgien",
+    "city": "Evergem",
+    "country": "BE",
+    "description": "Produktionsstandort von AGP eGlass in Evergem, Belgien, ehemals Teil der Soliver-Gruppe. Zusammen mit dem Standort Zwijnaarde beschäftigt die Anlage rund 600 Mitarbeiter. Der Standort ist auf die Produktion von laminiertem Sicherheitsglas für die Automobilindustrie spezialisiert.",
+    "products": [
+      "Automotive-Sicherheitsglas"
+    ],
+    "sources": [
+      "https://www.made-in.be"
+    ]
+  },
+  {
+    "id": "agp-be-zwijnaarde",
+    "companyId": "agp-group",
+    "lat": 51.0167,
+    "lng": 3.7167,
+    "headquarter": false,
+    "siteName": "AGP eGlass – Zwijnaarde (ehemals Soliver)",
+    "address": "Zwijnaarde, Ghent, Belgien",
+    "city": "Ghent",
+    "country": "BE",
+    "description": "Produktionsstandort von AGP eGlass in Zwijnaarde bei Ghent, ehemals Teil der Soliver-Gruppe. Zusammen mit dem Standort Evergem beschäftigt die Anlage rund 600 Mitarbeiter. Die Anlage ist auf hochautomatisierte Linien für laminierte Automobilverglasung (komplexe Teile) bis 4,5 Quadratmeter und Ultralite-Fähigkeiten spezialisiert.",
+    "products": [
+      "Automotive-Sicherheitsglas",
+      "Ultralite-Verglasung"
+    ],
+    "sources": [
+      "https://www.made-in.be"
+    ]
+  },
+  {
+    "id": "agp-co-bogota",
+    "companyId": "agp-group",
+    "lat": 4.7110,
+    "lng": -74.0721,
+    "headquarter": false,
+    "siteName": "AGP sGlass – Bogotá (sGlass 1.0 / F&E-Zentrum)",
+    "address": "Bogotá, Kolumbien",
+    "city": "Bogotá",
+    "country": "CO",
+    "description": "Produktionsstandort von AGP sGlass in Bogotá und wichtigstes Forschungs- und Entwicklungszentrum der AGP Group. Die Anlage erstreckt sich über mehr als 16.000 Quadratmeter und ist auf die Produktion von kugelsicherem Glas für militärische und marine Anwendungen spezialisiert. Die Jahreskapazität beträgt 27.000 Quadratmeter ballistisches Sicherheitsglas. Bogotá beherbergt auch ein Referenz-Ballistiklabor und ist der Hauptsitz für Forschung, Entwicklung und Engineering der AGP. Über 10 % des Nettoumsatzes von AGP werden in F&E investiert.",
+    "products": [
+      "Ballistisches Sicherheitsglas (BRG)",
+      "Transparente Panzerungssysteme",
+      "Marine-Panzerglas"
+    ],
+    "sources": [
+      "https://agpglass.com/col/sobre-sglass/",
+      "https://agpglass.com/wp-content/uploads/2018/11/AGP-Group-56-Years-new.pdf"
+    ]
+  },
+  {
+    "id": "agp-br-curitiba",
+    "companyId": "agp-group",
+    "lat": -25.4284,
+    "lng": -49.2733,
+    "headquarter": false,
+    "siteName": "AGP sGlass – São José dos Pinhais (Curitiba)",
+    "address": "Alameda Arpo, 2751, Bairro Costeira, São José dos Pinhais, Paraná, Brasilien",
+    "city": "São José dos Pinhais",
+    "state": "Paraná",
+    "country": "BR",
+    "description": "Produktionsstandort von AGP sGlass in São José dos Pinhais bei Curitiba, Paraná. Die Anlage beherbergt die weltweit größte Fabrik für ziviles Panzerglas mit über 20.000 Quadratmetern Produktionsfläche und einer Kapazität von bis zu 7.200 Sätzen pro Jahr. Der Standort ist ausschließlich auf die Produktion von zivilem Panzerglas spezialisiert und beliefert Kunden in Brasilien, Argentinien, Chile und Uruguay. Hier werden die fortschrittlichsten Gläser der Welt entwickelt, darunter IB33 und IB33 Pro. Die Anlage verfügt über ein spezialisiertes Ballistiklabor und ist nach ISO 9001:2015 zertifiziert.",
+    "products": [
+      "Ziviles Panzerglas",
+      "IB33 / IB33 Pro"
+    ],
+    "sources": [
+      "https://agpglass.com/en/bra/about-the-plant/",
+      "https://agpglass.com/wp-content/uploads/2018/11/AGP-Group-56-Years-new.pdf"
+    ]
+  },
+  {
+    "id": "agp-pe-lima-sglass",
+    "companyId": "agp-group",
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "headquarter": false,
+    "siteName": "AGP sGlass – Lima (sGlass 1.0 / AGP Perú)",
+    "address": "Lima, Peru",
+    "city": "Lima",
+    "country": "PE",
+    "description": "Produktionsstandort von AGP sGlass in Lima, Peru. Die Anlage erstreckt sich über 13.000 Quadratmeter und hat eine Jahreskapazität von 9.000 Quadratmetern ballistischem Sicherheitsglas. Der Standort ist auf komplexe Verglasungen und Spezialglaslabore spezialisiert. AGP Perú ist Teil der sGlass-Division und beliefert Kunden in ganz Lateinamerika.",
+    "products": [
+      "Ballistisches Sicherheitsglas",
+      "Komplexe Verglasungen"
+    ],
+    "sources": [
+      "https://agpglass.com/wp-content/uploads/2018/11/AGP-Group-56-Years-new.pdf"
+    ]
+  },
+  {
+    "id": "agp-pe-lima-eglass",
+    "companyId": "agp-group",
+    "lat": -12.0500,
+    "lng": -77.0500,
+    "headquarter": false,
+    "siteName": "AGP eGlass – Lima (eGlass 1.0 Peru)",
+    "address": "Lima, Peru",
+    "city": "Lima",
+    "country": "PE",
+    "description": "Produktionsstandort der eGlass-1.0-Linie in Lima, Peru. Die Anlage erstreckt sich über 30.000 Quadratmeter und hat eine Jahreskapazität von 650.000 Quadratmetern Sicherheitsglas. Der Standort verfügt über eine hochautomatisierte Linie für laminierte Automobilverglasung (komplexe Teile) bis 4,5 Quadratmeter und Ultralite-Fähigkeiten.",
+    "products": [
+      "Automotive-Sicherheitsglas",
+      "Ultralite-Verglasung"
+    ],
+    "sources": [
+      "https://agpglass.com/wp-content/uploads/2018/11/AGP-Group-56-Years-new.pdf"
+    ]
+  },
+  {
+    "id": "agp-mx-nuevo-leon",
+    "companyId": "agp-group",
+    "lat": 25.6866,
+    "lng": -100.3161,
+    "headquarter": false,
+    "siteName": "AGP eGlass – Nuevo León (Mexiko)",
+    "address": "Nuevo León, Mexiko",
+    "city": "Monterrey",
+    "state": "Nuevo León",
+    "country": "MX",
+    "description": "Geplanter Produktionsstandort von AGP in Nuevo León, Mexiko. Im Jahr 2022 kündigte AGP eine Investition von 800 Millionen US-Dollar für den Bau einer Fabrik in Nuevo León an. Die Anlage soll hauptsächlich den nordamerikanischen Markt mit Hightech-Automobilverglasung beliefern. Der genaue Standort innerhalb von Nuevo León ist nicht öffentlich bekannt.",
+    "products": [
+      "Automotive-Verglasung (eGlass)"
+    ],
+    "sources": [
+      "https://gestion-repo.uigv.edu.pe"
+    ]
+  },
+  {
+    "id": "agp-us-fort-worth",
+    "companyId": "agp-group",
+    "lat": 32.7555,
+    "lng": -97.3308,
+    "headquarter": false,
+    "siteName": "AGP Defense & eGlass – Fort Worth, Texas",
+    "address": "9329 Comanche Ridge Dr, Fort Worth, TX 76131, USA",
+    "city": "Fort Worth",
+    "state": "Texas",
+    "country": "US",
+    "description": "US-Standort von AGP mit den Geschäftsbereichen AGP Defense und eGlass Texas. AGP Defense ist auf ballistisches Sicherheitsglas für militärische und Sicherheitsanwendungen spezialisiert. Der Standort in Fort Worth dient als Produktions- und Vertriebsstandort für den US-Markt und ist Teil des eGlass-Netzwerks von AGP.",
+    "products": [
+      "Ballistisches Sicherheitsglas",
+      "Automotive-Verglasung (eGlass)"
+    ],
+    "sources": [
+      "https://www.glassonweb.com",
+      "https://agpglass.com"
+    ]
+  },
+  {
+    "id": "agp-tech-center-pe-lima",
+    "companyId": "agp-group",
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "headquarter": false,
+    "siteName": "AGP Tech Innovation Center – Lima",
+    "address": "Lima, Peru",
+    "city": "Lima",
+    "country": "PE",
+    "description": "Technologie-Innovationszentrum von AGP in Lima, Peru. Eines von vier globalen Tech Innovation Centers. Fokus auf Forschung und Entwicklung von Spezialverglasungen und Prototypen.",
+    "sources": [
+      "https://elcomercio-gestion-prod.cdn.arcpublishing.com"
+    ]
+  },
+  {
+    "id": "agp-tech-center-it-mailand",
+    "companyId": "agp-group",
+    "lat": 45.4642,
+    "lng": 9.1900,
+    "headquarter": false,
+    "siteName": "AGP Tech Innovation Center – Italien",
+    "address": "Italien",
+    "city": "Mailand",
+    "country": "IT",
+    "description": "Technologie-Innovationszentrum von AGP in Italien. Eines von vier globalen Tech Innovation Centers. Fokus auf Forschung und Entwicklung von Spezialverglasungen und Prototypen.",
+    "sources": [
+      "https://elcomercio-gestion-prod.cdn.arcpublishing.com"
+    ]
+  },
+  {
+    "id": "agp-tech-center-de-duesseldorf",
+    "companyId": "agp-group",
+    "lat": 51.2277,
+    "lng": 6.7735,
+    "headquarter": false,
+    "siteName": "AGP Tech Innovation Center – Deutschland",
+    "address": "Deutschland",
+    "city": "Düsseldorf",
+    "country": "DE",
+    "description": "Technologie-Innovationszentrum von AGP in Deutschland. Eines von vier globalen Tech Innovation Centers. Fokus auf Forschung und Entwicklung von Spezialverglasungen und Prototypen.",
+    "sources": [
+      "https://elcomercio-gestion-prod.cdn.arcpublishing.com"
+    ]
+  },
+  {
+    "id": "agp-sg-singapore",
+    "companyId": "agp-group",
+    "lat": 1.3521,
+    "lng": 103.8198,
+    "headquarter": false,
+    "siteName": "AGP Singapore – Vertriebsbüro Asien-Pazifik",
+    "address": "Singapur",
+    "city": "Singapur",
+    "country": "SG",
+    "description": "Vertriebsbüro von AGP in Singapur. Dient als regionaler Hub für den asiatisch-pazifischen Raum.",
+    "sources": [
+      "https://www.glassonline.com"
+    ]
+  },
+  {
+    "id": "agp-cn-shanghai",
+    "companyId": "agp-group",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "headquarter": false,
+    "siteName": "AGP eGlass – Shanghai (Vertriebsbüro)",
+    "address": "Pudong, Shanghai, China",
+    "city": "Shanghai",
+    "country": "CN",
+    "description": "Vertriebsbüro von AGP eGlass in Shanghai, China. Dient der Betreuung von Kunden in China und der Zusammenarbeit mit chinesischen Automobilherstellern. AGP eGlass hat zudem eine strategische Partnerschaft mit dem Schweizer Deep-Tech-Unternehmen WayRay für AR-HUD-fähige Windschutzscheiben.",
+    "sources": [
+      "https://www.signalhire.com"
+    ]
+  },
+  {
+    "id": "agp-in-mumbai",
+    "companyId": "agp-group",
+    "lat": 19.0760,
+    "lng": 72.8777,
+    "headquarter": false,
+    "siteName": "AGP India – Mumbai",
+    "address": "Mumbai, Maharashtra, Indien",
+    "city": "Mumbai",
+    "country": "IN",
+    "description": "Vertriebsbüro von AGP in Mumbai, Indien. AGP ist seit 2002 über ein Joint Venture mit Mahaveer Mirror in Indien aktiv und vermarktet dort architektonische Glasprodukte.",
+    "sources": [
+      "https://startupintros.com",
+      "https://www.glassonline.com"
+    ]
+  },
+  {
+    "id": "aim-de-heilbronn",
+    "companyId": "aim-infrarot",
+    "lat": 49.135087,
+    "lng": 9.206248,
+    "headquarter": true,
+    "siteName": "Hauptsitz und Produktion Heilbronn",
+    "address": "Theresienstraße 2, 74072 Heilbronn",
+    "city": "Heilbronn",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Hauptsitz und wichtigster Produktionsstandort der AIM Infrarot-Module GmbH. Hier befinden sich Entwicklung, Fertigung, Verwaltung und das zentrale Reinraum-Labor. Das Unternehmen ist im Handelsregister eingetragen und nach DIN 2303 (Herstellungs- und Prüfqualifikation für wehrtechnische Produkte) zertifiziert. Die Adresse Theresienstraße 2 ist der offizielle Firmensitz. AIM beschäftigte 2024 rund 398 Mitarbeiter und erzielte einen Jahresumsatz von 90,7 Mio. €. Geschäftsführer sind Dr. Wolfgang Cabanski (Sprecher) und Christian Pfleghaar.",
+    "products": [
+      "Infrarotdetektoren",
+      "Wärmebildgeräte",
+      "Stirling-Kühlmaschinen"
+    ],
+    "sources": [
+      "https://www.aim-ir.com/de/unternehmen.html",
+      "https://www.din2303.de",
+      "https://www.northdata.de"
+    ]
+  },
+  {
+    "id": "aim-de-ulm",
+    "companyId": "aim-infrarot",
+    "lat": 48.3984,
+    "lng": 9.9916,
+    "headquarter": false,
+    "siteName": "ROIC-Design-Center Ulm",
+    "address": "Söflingerstraße 100, 89077 Ulm",
+    "city": "Ulm",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Entwicklungsstandort und ROIC-Design-Center (Read-Out Integrated Circuits) der AIM Infrarot-Module GmbH in Ulm. Hier werden integrierte Ausleseschaltungen für Infrarotdetektoren konzipiert, umgesetzt und verifiziert. Der Standort ist auf Halbleitertechnologie und ASIC-Entwicklung spezialisiert. Die Nähe zur Universität Ulm und zur dortigen Halbleiterforschung ermöglicht die Rekrutierung von Spitzenkräften. Der Standort wurde 2022 in einer Stellenausschreibung als 'Standort Ulm' mit dem Schwerpunkt Halbleitertechnologie erwähnt.",
+    "products": [
+      "ROIC-Design",
+      "ASIC-Entwicklung",
+      "Halbleitertechnologie"
+    ],
+    "sources": [
+      "https://www.aim-ir.com/de/unternehmen.html",
+      "https://de.wikipedia.org/wiki/AIM_Infrarot-Module",
+      "http://www.aim-ir.com/fileadmin/files/Stellenangebote/Stellenanzeige_ASIC_Entwickler.pdf"
+    ]
+  },
+  {
+    "id": "aim-de-heilbronn-sontheim",
+    "companyId": "aim-infrarot",
+    "lat": 49.1500,
+    "lng": 9.2200,
+    "headquarter": false,
+    "siteName": "Geplanter Produktionsstandort Heilbronn-Sontheim",
+    "address": "Heilbronn-Sontheim, Baden-Württemberg (genauer Standort nicht veröffentlicht)",
+    "city": "Heilbronn",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Geplanter Erweiterungsstandort der AIM Infrarot-Module GmbH in Heilbronn-Sontheim. Im Februar 2026 wurde bekannt, dass AIM die früheren Werkshallen des Maschinen- und Anlagenbauers Illig in Heilbronn-Sontheim erworben hat. Das Unternehmen war auf der Suche nach Erweiterungsmöglichkeiten in Heilbronn, um seine Produktionskapazitäten auszubauen. Was AIM in den neuen Räumen produzieren will und wann die Fertigung startet, wurde noch nicht mitgeteilt. Der Standort soll die bestehende Produktion in der Theresienstraße ergänzen.",
+    "sources": [
+      "https://www.stimme.de"
+    ]
+  },
+  {
     "id": "airbus-ds-de-ottobrunn",
     "companyId": "airbus-ds",
     "lat": 48.0667,
@@ -1058,6 +1473,914 @@
     "description": "Australisches Raumfahrtbüro und Satellitenfertigung im Australian Space Park. Resilient Multi-Mission (RMS) STaR Shot Programm.",
     "products": ["Satellitenfertigung", "RMS STaR Shot"],
     "sources": ["https://www.australiandefence.com.au", "https://lotfourteen.com.au"]
+  },
+  {
+    "id": "albrecht-bender-de-weissenburg",
+    "companyId": "albrecht-bender",
+    "lat": 49.0300,
+    "lng": 10.9700,
+    "headquarter": true,
+    "siteName": "Hauptsitz und Produktion Weißenburg",
+    "address": "Richard-Stücklen-Straße 15, 91781 Weißenburg in Bayern",
+    "city": "Weißenburg in Bayern",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz und einziger deutscher Produktionsstandort der Albrecht Bender GmbH u. Co. in Weißenburg in Bayern (Landkreis Weißenburg-Gunzenhausen). Das Unternehmen wurde 1864 in Ansbach gegründet und befindet sich seit 1892 am Standort Weißenburg. 2011 erfolgte ein Neubau mit Umsiedlung ins Industriegebiet West. Hier befinden sich Entwicklung, Produktion, Verwaltung und Vertrieb. Die Produktion umfasst maschinelle und handgestickte Abzeichen, gewebte Bänder und Etiketten sowie die gesamte Palette der Uniform-Accessoires. Das Unternehmen ist im Handelsregister des Amtsgerichts Ansbach unter HRA 1205 eingetragen. Geschäftsführer sind Gerhard Fürst und Roland Fürst.",
+    "products": [
+      "Abzeichen",
+      "Gewebte Bänder",
+      "Dienstabzeichen",
+      "Kordeln und Litzen"
+    ],
+    "sources": [
+      "https://www.a-bender.de/",
+      "https://www.a-bender.de/unternehmen/ueber-uns/",
+      "https://www.northdata.de/Albrecht%20Bender%20GmbH%20%26%20Co.%20KG,%20Wei%C3%9Fenburg/Amtsgericht%20Ansbach%20HRA%201205"
+    ]
+  },
+  {
+    "id": "albrecht-bender-cz-kraslice",
+    "companyId": "albrecht-bender",
+    "lat": 50.3167,
+    "lng": 12.5000,
+    "headquarter": false,
+    "siteName": "Uniform-Accessoires Bohemia, s.r.o. – Kraslice",
+    "address": "B. Smetany 1962, 358 01 Kraslice, Tschechische Republik",
+    "city": "Kraslice",
+    "country": "CZ",
+    "description": "Tschechischer Produktionsstandort der Albrecht Bender GmbH u. Co. Die Uniform-Accessoires Bohemia, s.r.o. wurde 1999 in Kraslice gegründet und ist ein Tochterunternehmen von Albrecht Bender. Kraslice liegt in einer Region, die seit über 100 Jahren für ihre Textilproduktion und insbesondere für Stickerei bekannt ist. Hier wird maschinelle Stickerei für Uniform-Accessoires gefertigt. Das Unternehmen ist im tschechischen Handelsregister unter IČO 25232291 eingetragen.",
+    "products": [
+      "Maschinelle Stickerei",
+      "Uniform-Accessoires"
+    ],
+    "sources": [
+      "https://rejstrik-firem.kurzy.cz/25232291/uniform-accessoires-bohemia-sro/",
+      "https://www.edb.cz"
+    ]
+  },
+  {
+    "id": "albrecht-bender-tn-tunis",
+    "companyId": "albrecht-bender",
+    "lat": 36.8000,
+    "lng": 10.1800,
+    "headquarter": false,
+    "siteName": "Produktionsstandort Tunesien",
+    "address": "Tunesien (genauer Standort nicht veröffentlicht)",
+    "city": "Tunis",
+    "country": "TN",
+    "description": "Produktionsstandort der Albrecht Bender GmbH u. Co. in Tunesien. Neben dem Hauptsitz in Weißenburg und der Niederlassung in Tschechien betreibt das Unternehmen eine weitere Produktionsstätte in Tunesien. Dort wird Stickerei schwerpunktmäßig mit Maschinen und zu einem kleinen Teil auch noch von Hand gefertigt. Der genaue Standort innerhalb Tunesiens ist nicht öffentlich bekannt.",
+    "products": [
+      "Maschinelle Stickerei",
+      "Handstickerei",
+      "Uniform-Accessoires"
+    ],
+    "sources": [
+      "https://www.zsk.de/zh-CN/en/case-studies-overview/bender.php"
+    ]
+  },
+  {
+    "id": "alixpartners-de-muenchen",
+    "companyId": "alixpartners",
+    "lat": 48.1350,
+    "lng": 11.5700,
+    "headquarter": true,
+    "siteName": "Deutschland-Hauptsitz München",
+    "address": "Sendlinger Straße 12, 80331 München",
+    "city": "München",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Deutschland-Hauptsitz und einer der beiden ältesten Standorte von AlixPartners in Deutschland. Das Büro befindet sich in der 5. Etage der Sendlinger Straße 12 im Zentrum Münchens, unweit des Marienplatzes. Der Standort ist im Handelsregister des Amtsgerichts München unter HRB 146584 eingetragen. Neben Düsseldorf ist München eine der beiden Keimzellen des Deutschlandgeschäfts. Hier ist auch die Praxis für Luft- und Raumfahrt sowie Verteidigung angesiedelt.",
+    "sources": [
+      "https://www.alixpartners.com/de/kontakt/standorte/muenchen/",
+      "https://www.handelsregister.ai"
+    ]
+  },
+  {
+    "id": "alixpartners-de-duesseldorf",
+    "companyId": "alixpartners",
+    "lat": 51.2230,
+    "lng": 6.7800,
+    "headquarter": false,
+    "siteName": "Büro Düsseldorf",
+    "address": "Benrather Straße 31, 40213 Düsseldorf",
+    "city": "Düsseldorf",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Büro von AlixPartners im Düsseldorfer Kö-Quartier an der Benrather Straße 31. Der Standort ist einer der beiden ältesten Deutschland-Standorte und wurde 20 Jahre nach Eröffnung des ersten Deutschlandbüros weiter ausgebaut. Von hier werden Kunden in Nordrhein-Westfalen und den angrenzenden Regionen betreut. Die Telefonnummer lautet +49 211 97 55 10 00.",
+    "sources": [
+      "https://www.tma-deutschland.org",
+      "https://mergr.com"
+    ]
+  },
+  {
+    "id": "alixpartners-de-frankfurt",
+    "companyId": "alixpartners",
+    "lat": 50.1100,
+    "lng": 8.6700,
+    "headquarter": false,
+    "siteName": "Büro Frankfurt am Main",
+    "address": "Marienturm, Taunusanlage 9–10, 60329 Frankfurt am Main",
+    "city": "Frankfurt am Main",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "Büro von AlixPartners im Marienturm in Frankfurt am Main, eröffnet im Oktober 2024. Der Marienturm ist mit 155 Metern Höhe das 15. höchste Gebäude Frankfurts und liegt im Bankenviertel, wenige Gehminuten vom Frankfurter Hauptbahnhof entfernt. Frankfurt ist der dritte Deutschland-Standort und markiert 20 Jahre nach Eröffnung des ersten Deutschlandbüros einen weiteren Expansionsschritt. Der Standort wurde eröffnet, um die Präsenz im Finanzsektor und bei Private-Equity-Kunden zu stärken.",
+    "sources": [
+      "https://www.alixpartners.com/de/kontakt/standorte/frankfurt/",
+      "https://www.consultancy.eu"
+    ]
+  },
+    {
+    "id": "alixpartners-ch-zuerich",
+    "companyId": "alixpartners",
+    "lat": 47.3630,
+    "lng": 8.5360,
+    "headquarter": false,
+    "siteName": "Büro Zürich",
+    "address": "Bleicherweg 72, 8002 Zürich, Schweiz",
+    "city": "Zürich",
+    "country": "CH",
+    "description": "Büro von AlixPartners in Zürich, eröffnet 2014 und damit der älteste Standort in der DACH-Region. Das Büro feierte 2024 sein zehnjähriges Jubiläum und hat sich als feste Größe im Schweizer Beratungsmarkt etabliert. Beatrix Morath leitet das Schweizer Büro seit 2014 und ist Co-Leader der DACH-Region. Der Standort wird als Zweigniederlassung der AlixPartners Limited (London) geführt und ist im Schweizer Handelsregister unter CHE-321.851.620 eingetragen. Die Adresse lautet Bleicherweg 72 in 8002 Zürich.",
+    "sources": [
+      "https://www.alixpartners.com/de/newsroom/pm-veit-buetterlin-goldberg-ch/",
+      "https://zh.chregister.ch"
+    ]
+  },
+    {
+    "id": "alixpartners-us-new-york",
+    "companyId": "alixpartners",
+    "lat": 40.7555,
+    "lng": -73.9690,
+    "headquarter": false,
+    "siteName": "Weltweiter Hauptsitz New York",
+    "address": "909 Third Avenue, New York, NY 10022, USA",
+    "city": "New York",
+    "state": "New York",
+    "country": "US",
+    "description": "Weltweiter Hauptsitz von AlixPartners in New York City. Das Büro befindet sich in der 909 Third Avenue im Stadtteil Midtown Manhattan. Von hier werden die globalen Aktivitäten des Unternehmens gesteuert. AlixPartners wurde 1981 gegründet und hat seinen Hauptsitz seit jeher in New York. Die Telefonnummer lautet +1 212 490 2500.",
+    "sources": [
+      "https://www.alixpartners.com/get-in-touch/offices/new-york/",
+      "https://craft.co/alix-partners/"
+    ]
+  },
+  {
+    "id": "alixpartners-us-boston",
+    "companyId": "alixpartners",
+    "lat": 42.3555,
+    "lng": -71.0565,
+    "headquarter": false,
+    "siteName": "Büro Boston",
+    "address": "125 High Street, Boston, MA, USA",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "US",
+    "description": "US-Standort von AlixPartners in Boston, Massachusetts.",
+    "sources": [
+      "https://craft.co/alix-partners/"
+    ]
+  },
+  {
+    "id": "alixpartners-us-chicago",
+    "companyId": "alixpartners",
+    "lat": 41.8880,
+    "lng": -87.6320,
+    "headquarter": false,
+    "siteName": "Büro Chicago",
+    "address": "300 N. LaSalle Street, Suite 1800, Chicago, IL 60654, USA",
+    "city": "Chicago",
+    "state": "Illinois",
+    "country": "US",
+    "description": "US-Standort von AlixPartners in Chicago, Illinois. Das Büro befindet sich in der 300 N. LaSalle Street, Suite 1800.",
+    "sources": [
+      "https://craft.co/alix-partners/"
+    ]
+  },
+  {
+    "id": "alixpartners-us-dallas",
+    "companyId": "alixpartners",
+    "lat": 32.7870,
+    "lng": -96.8020,
+    "headquarter": false,
+    "siteName": "Büro Dallas",
+    "address": "2101 Cedar Springs Road, Suite 1100, Dallas, TX, USA",
+    "city": "Dallas",
+    "state": "Texas",
+    "country": "US",
+    "description": "US-Standort von AlixPartners in Dallas, Texas.",
+    "sources": [
+      "https://craft.co/alix-partners/"
+    ]
+  },
+  {
+    "id": "alixpartners-us-houston",
+    "companyId": "alixpartners",
+    "lat": 29.7580,
+    "lng": -95.3670,
+    "headquarter": false,
+    "siteName": "Büro Houston",
+    "address": "845 Texas Ave, Suite 3920, Houston, TX, USA",
+    "city": "Houston",
+    "state": "Texas",
+    "country": "US",
+    "description": "US-Standort von AlixPartners in Houston, Texas.",
+    "sources": [
+      "https://craft.co/alix-partners/"
+    ]
+  },
+  {
+    "id": "alixpartners-us-los-angeles",
+    "companyId": "alixpartners",
+    "lat": 34.0520,
+    "lng": -118.2570,
+    "headquarter": false,
+    "siteName": "Büro Los Angeles",
+    "address": "555 South Flower Street, Suite 4200, Los Angeles, CA, USA",
+    "city": "Los Angeles",
+    "state": "Kalifornien",
+    "country": "US",
+    "description": "US-Standort von AlixPartners in Los Angeles, Kalifornien.",
+    "sources": [
+      "https://craft.co/alix-partners/"
+    ]
+  },
+  {
+    "id": "alixpartners-us-southfield",
+    "companyId": "alixpartners",
+    "lat": 42.4760,
+    "lng": -83.2230,
+    "headquarter": false,
+    "siteName": "Büro Southfield",
+    "address": "2000 Town Center, Suite 2400, Southfield, MI 48075, USA",
+    "city": "Southfield",
+    "state": "Michigan",
+    "country": "US",
+    "description": "US-Standort von AlixPartners in Southfield, Michigan, im Großraum Detroit. Der Standort ist wichtig für die Betreuung von Automobilkunden.",
+    "sources": [
+      "https://www.archive.org"
+    ]
+  },
+  {
+    "id": "alixpartners-gb-london",
+    "companyId": "alixpartners",
+    "lat": 51.5140,
+    "lng": -0.1050,
+    "headquarter": false,
+    "siteName": "Büro London",
+    "address": "6 New Street Square, London EC4A 3BF, Vereinigtes Königreich",
+    "city": "London",
+    "country": "GB",
+    "description": "UK-Hauptsitz von AlixPartners in London. Das Büro befindet sich in der 6 New Street Square im Stadtteil City of London. Die AlixPartners UK LLP ist im englischen Handelsregister unter der Nummer OC360308 eingetragen. Der Standort ist der größte außerhalb der USA und dient als Zentrum für Restrukturierungs- und Insolvenzberatung in Europa.",
+    "sources": [
+      "https://find-and-update.company-information.service.gov.uk"
+    ]
+  },
+  {
+    "id": "alixpartners-ae-dubai",
+    "companyId": "alixpartners",
+    "lat": 25.2110,
+    "lng": 55.2790,
+    "headquarter": false,
+    "siteName": "Büro Dubai",
+    "address": "Level 5, Unit 501, Al Fattan Currency House, Dubai International Financial Centre, Dubai, VAE",
+    "city": "Dubai",
+    "country": "AE",
+    "description": "Büro von AlixPartners im Dubai International Financial Centre (DIFC). Der Standort befindet sich im Al Fattan Currency House, Tower 2, Unit 501, in der Nähe der Axis Bank. Von Dubai aus werden Kunden in den Golfstaaten und im Nahen Osten betreut. Das Büro wurde 2021 neu gestaltet.",
+    "sources": [
+      "https://www.glassdoor.co.in",
+      "https://craft.co/alix-partners/"
+    ]
+  },
+  {
+    "id": "alixpartners-sa-riyadh",
+    "companyId": "alixpartners",
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "headquarter": false,
+    "siteName": "Büro Riad",
+    "address": "Olaya Street, Al Yasmeen, Riyadh 13325, Saudi-Arabien",
+    "city": "Riyadh",
+    "country": "SA",
+    "description": "Büro von AlixPartners in Riad, Saudi-Arabien. Der Standort befindet sich an der Olaya Street im Viertel Al Yasmeen. Von Riad aus werden Kunden in Saudi-Arabien und der Golfregion betreut.",
+    "sources": [
+      "https://www.glassdoor.ca"
+    ]
+  },
+  {
+    "id": "alixpartners-sg-singapore",
+    "companyId": "alixpartners",
+    "lat": 1.2830,
+    "lng": 103.8510,
+    "headquarter": false,
+    "siteName": "Büro Singapur",
+    "address": "88 Market Street, #46-03, Singapore 048948",
+    "city": "Singapur",
+    "country": "SG",
+    "description": "Büro von AlixPartners in Singapur, eröffnet 2023. Der Standort befindet sich in der 88 Market Street (CapitaSpring), #46-03. Singapur dient als regionaler Hub für Südostasien und ist auf komplexe grenzüberschreitende Restrukturierungen und Transaktionen spezialisiert. Die AlixPartners Singapore Pte. Ltd. ist im Handelsregister unter der Nummer 202209016C eingetragen.",
+    "sources": [
+      "https://www.alixpartners.com/get-in-touch/offices/singapore/",
+      "https://opengovsg.com"
+    ]
+  },
+  {
+    "id": "alixpartners-cn-shanghai",
+    "companyId": "alixpartners",
+    "lat": 31.2300,
+    "lng": 121.4700,
+    "headquarter": false,
+    "siteName": "Büro Shanghai",
+    "address": "Suite 3201, HKRI Centre Two, 288 Shimen Road (No. 1), Jing'an District, Shanghai 200041, China",
+    "city": "Shanghai",
+    "country": "CN",
+    "description": "Büro von AlixPartners in Shanghai, China. Der Standort befindet sich im HKRI Centre Two (Xingye Taikoo Hui) in der Shimen Road im Bezirk Jing'an. AlixPartners ist seit 2007 in Shanghai präsent und hat 2012 das Geschäft auf Hongkong ausgeweitet. Die chinesische Tochtergesellschaft heißt 艾睿铂投资咨询（上海）有限公司.",
+    "sources": [
+      "https://www.alixpartners.com/zh/contact/offices/shanghai/"
+    ]
+  },
+  {
+    "id": "alixpartners-hk-hongkong",
+    "companyId": "alixpartners",
+    "lat": 22.3193,
+    "lng": 114.1694,
+    "headquarter": false,
+    "siteName": "Büro Hongkong",
+    "address": "Hongkong",
+    "city": "Hongkong",
+    "country": "HK",
+    "description": "Büro von AlixPartners in Hongkong, eröffnet 2012. Der Standort ergänzt das Shanghai-Büro und dient der Betreuung von Kunden in Greater China und dem asiatisch-pazifischen Raum.",
+    "sources": [
+      "https://baike.baidu.com"
+    ]
+  },
+  {
+    "id": "alixpartners-jp-tokio",
+    "companyId": "alixpartners",
+    "lat": 35.6800,
+    "lng": 139.7600,
+    "headquarter": false,
+    "siteName": "Büro Tokio",
+    "address": "Tokio, Japan",
+    "city": "Tokio",
+    "country": "JP",
+    "description": "Büro von AlixPartners in Tokio, Japan. Der Standort ist Teil des Asien-Netzwerks von AlixPartners und betreut Kunden in Japan.",
+    "sources": [
+      "https://baike.baidu.com"
+    ]
+  },
+    {
+    "id": "alixpartners-fr-paris",
+    "companyId": "alixpartners",
+    "lat": 48.8700,
+    "lng": 2.3300,
+    "headquarter": false,
+    "siteName": "Büro Paris",
+    "address": "Paris, Frankreich",
+    "city": "Paris",
+    "country": "FR",
+    "description": "Büro von AlixPartners in Paris, Frankreich. Der Standort betreut Kunden in Frankreich und Südeuropa.",
+    "sources": [
+      "https://baike.baidu.com"
+    ]
+  },
+  {
+    "id": "alixpartners-it-mailand",
+    "companyId": "alixpartners",
+    "lat": 45.4640,
+    "lng": 9.1900,
+    "headquarter": false,
+    "siteName": "Büro Mailand",
+    "address": "Mailand, Italien",
+    "city": "Mailand",
+    "country": "IT",
+    "description": "Büro von AlixPartners in Mailand, Italien. Der Standort betreut Kunden in Italien und Südeuropa.",
+    "sources": [
+      "https://baike.baidu.com"
+    ]
+  },
+    {
+    "id": "alixpartners-br-sao-paulo",
+    "companyId": "alixpartners",
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "headquarter": false,
+    "siteName": "Büro São Paulo",
+    "address": "São Paulo, Brasilien",
+    "city": "São Paulo",
+    "country": "BR",
+    "description": "Büro von AlixPartners in São Paulo, Brasilien. Der Standort betreut Kunden in Südamerika.",
+    "sources": [
+      "https://baike.baidu.com"
+    ]
+  },
+  {
+    "id": "allegro-capital-de-moenchengladbach",
+    "companyId": "allegro-capital",
+    "lat": 51.1667,
+    "lng": 6.4500,
+    "headquarter": true,
+    "siteName": "Firmensitz und Produktion Mönchengladbach",
+    "address": "Klosterhofweg 64, 41199 Mönchengladbach",
+    "city": "Mönchengladbach",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Firmensitz und einziger Standort der Allegro Capital, Logistics, Services & More GmbH im Mönchengladbacher Stadtteil Güdderath. Hier befinden sich Verwaltung, Produktion und Vertrieb der SORB®XT-Produktlinie. Das Unternehmen ist im Handelsregister des Amtsgerichts Mönchengladbach unter HRB 19194 eingetragen. Geschäftsführer ist Wolf-Peter Korth. Das Unternehmen produziert nach eigenen Angaben alle Produkte in Deutschland und vertreibt sie über mehr als 250 Vertriebsstandorte weltweit. Die USt-IdNr. lautet DE308746153. Die Telefonnummer ist +49 2166 1268-160.",
+    "products": [
+      "SORB®XT Multi-Absorber",
+      "SORB®XT Stain Solution",
+      "SORB®XT Flood Cubes"
+    ],
+    "sources": [
+      "https://www.sorb-xt.de/en/imprint",
+      "https://www.companyhouse.de/Allegro-Capital-Logistics-Services-More-GmbH-Moenchengladbach",
+      "https://www.bdsv.eu"
+    ]
+  },
+  {
+    "id": "anschuetz-de-kiel",
+    "companyId": "anschuetz",
+    "lat": 54.3400,
+    "lng": 10.1300,
+    "headquarter": true,
+    "siteName": "Hauptsitz Kiel",
+    "address": "Zeyestraße 16-24, 24106 Kiel",
+    "city": "Kiel",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Hauptsitz und größter Standort der Anschütz GmbH in Kiel-Wik. Hier arbeiten über 500 Mitarbeiter in den Bereichen Verwaltung, Entwicklung, Einkauf, Produktion, Qualitätsmanagement, Vertrieb und Kundendienst. Am Standort werden Produkte und Systemlösungen für Navigation, integrierte Brückensysteme und Missionssysteme sowie hochspezialisierte Lösungen für die Automatisierung und Steuerung von U-Booten entwickelt und gefertigt. Der Hauptsitz verfügt über zwei Fabriken: Factory 1 in der Zeyestraße 16-24 und Factory 2 in der Mecklenburger Straße 32-36. Das Unternehmen ist im Handelsregister des Amtsgerichts Kiel unter HRB 4086 eingetragen. Die Telefonnummer lautet +49 431 3019 0.",
+    "products": [
+      "Integrierte Brückensysteme",
+      "Kreiselkompasse",
+      "ECDIS",
+      "Radare",
+      "U-Boot-Systeme"
+    ],
+    "sources": [
+      "https://www.anschuetz.com/imprint",
+      "https://www.anschuetz.com/news/article/the-anschuetz-group-always-at-your-service-in-six-locations"
+    ]
+  },
+  {
+    "id": "anschuetz-de-bremerhaven",
+    "companyId": "anschuetz",
+    "lat": 53.5283,
+    "lng": 8.1122,
+    "headquarter": false,
+    "siteName": "Zweigstelle Bremerhaven",
+    "address": "Bremerhaven, Niedersachsen",
+    "city": "Bremerhaven",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Zweigstelle der Anschütz GmbH in Bremerhaven. Die Zweigstelle unterstützt Kunden in der Region und ist Teil des deutschen Servicenetzes der Anschütz Group.",
+    "sources": [
+      "https://www.anschuetz.com/news/article/the-anschuetz-group-always-at-your-service-in-six-locations"
+    ]
+  },
+  {
+    "id": "anschuetz-de-hamburg",
+    "companyId": "anschuetz",
+    "lat": 53.5500,
+    "lng": 9.9900,
+    "headquarter": false,
+    "siteName": "Zweigstelle Hamburg",
+    "address": "Hamburg",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "country": "DE",
+    "description": "Zweigstelle der Anschütz GmbH in Hamburg. Die Zweigstelle unterstützt Kunden in Norddeutschland und ist Teil des deutschen Servicenetzes der Anschütz Group.",
+    "sources": [
+      "https://www.anschuetz.com/news/article/the-anschuetz-group-always-at-your-service-in-six-locations"
+    ]
+  },
+  {
+    "id": "anschuetz-de-flensburg",
+    "companyId": "anschuetz",
+    "lat": 54.7833,
+    "lng": 9.4333,
+    "headquarter": false,
+    "siteName": "Standort Flensburg",
+    "address": "Fördepromenade 16-18 – Sonwik, 24944 Flensburg",
+    "city": "Flensburg",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Standort der Anschütz GmbH in Flensburg-Sonwik an der Fördepromenade. Der Standort dient der Kundenbetreuung und dem Service in der Region Flensburg.",
+    "sources": [
+      "https://www.anschuetz.com/imprint"
+    ]
+  },
+  {
+    "id": "anschuetz-ch-shanghai",
+    "companyId": "anschuetz",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "headquarter": false,
+    "siteName": "Anschuetz Shanghai (Repräsentanzbüro)",
+    "address": "Shanghai, China",
+    "city": "Shanghai",
+    "country": "CN",
+    "description": "Anschuetz Shanghai war die erste Tochtergesellschaft der Anschütz Group und die Antwort auf den Schiffbau-Boom in China. Der Standort verfügt über herausragende Fähigkeiten in den Bereichen Projektmanagement, Inbetriebnahme und Systemkonfiguration und bietet technische Unterstützung, Beratung und Support für Werften und Reedereien bei Schiffbauprojekten in China.",
+    "sources": [
+      "https://www.anschuetz.com/news/article/the-anschuetz-group-always-at-your-service-in-six-locations"
+    ]
+  },
+  {
+    "id": "anschuetz-sg-singapore",
+    "companyId": "anschuetz",
+    "lat": 1.3521,
+    "lng": 103.8198,
+    "headquarter": false,
+    "siteName": "Anschuetz Singapore",
+    "address": "Singapur",
+    "city": "Singapur",
+    "country": "SG",
+    "description": "Anschuetz Singapore ist seit 2009 mit qualifiziertem Vertrieb und Service tätig und hochwertiger Ersatzteillieferant für Südostasien. Der Standort ist Ansprechpartner für Handelsschifffahrt und Marinekunden – von der frühen Beratung und Systemauslegung bis hin zu Installation und After-Sales-Service.",
+    "sources": [
+      "https://www.anschuetz.com/news/article/the-anschuetz-group-always-at-your-service-in-six-locations"
+    ]
+  },
+  {
+    "id": "anschuetz-pa-panama",
+    "companyId": "anschuetz",
+    "lat": 8.9833,
+    "lng": -79.5167,
+    "headquarter": false,
+    "siteName": "Anschuetz Panama SrL",
+    "address": "Panama City, Panama",
+    "city": "Panama City",
+    "country": "PA",
+    "description": "Anschuetz Panama bietet seit 2014 mit hochqualifiziertem und erfahrenem Personal exzellenten Kundensupport und Servicekoordination für den amerikanischen Kontinent. Neben Service-Schulungseinrichtungen verwaltet der Standort ein großes Ersatzteillager für die schnelle Lieferung von Originalteilen.",
+    "sources": [
+      "https://www.anschuetz.com/news/article/the-anschuetz-group-always-at-your-service-in-six-locations"
+    ]
+  },
+  {
+    "id": "anschuetz-br-rio",
+    "companyId": "anschuetz",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "headquarter": false,
+    "siteName": "Anschuetz do Brasil – Rio de Janeiro",
+    "address": "Rio de Janeiro, Brasilien",
+    "city": "Rio de Janeiro",
+    "country": "BR",
+    "description": "Anschuetz do Brasil ist das lokale Kompetenzzentrum für Navigation und maritime Systemintegration für die brasilianische und lateinamerikanische Schiffbau-, Schifffahrts-, Marine- und Offshore-Industrie.",
+    "sources": [
+      "https://www.anschuetz.com/news/article/the-anschuetz-group-always-at-your-service-in-six-locations"
+    ]
+  },
+  {
+    "id": "anschuetz-uk-portsmouth",
+    "companyId": "anschuetz",
+    "lat": 50.8198,
+    "lng": -1.0874,
+    "headquarter": false,
+    "siteName": "Anschuetz UK Ltd – Portsmouth",
+    "address": "Portsmouth, Hampshire, Vereinigtes Königreich",
+    "city": "Portsmouth",
+    "country": "GB",
+    "description": "Anschuetz UK unterstützt Kunden in Großbritannien und dem Commonwealth mit unerreichter Expertise und Erfahrung in integrierten Marinesystemen, einschließlich integrierter Navigations- und Brückensysteme für Kriegsschiffe, Überwachungssysteme und einer bewährten Infrastruktur für maßgeschneiderte After-Sales-Services.",
+    "sources": [
+      "https://www.anschuetz.com/news/article/the-anschuetz-group-always-at-your-service-in-six-locations"
+    ]
+  },
+  {
+    "id": "anschuetz-au-sydney",
+    "companyId": "anschuetz",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "headquarter": false,
+    "siteName": "Anschuetz Australia Pty Ltd",
+    "address": "Sydney, Australien",
+    "city": "Sydney",
+    "country": "AU",
+    "description": "Anschuetz Australia Pty Ltd ist eine Tochtergesellschaft der Anschütz Group. Der Standort wurde aufgebaut, um Kunden in Australien und der Region Asien-Pazifik zu unterstützen.",
+    "sources": [
+      "https://www.linkedin.com/posts/anschuetz-kiel_anschützfamily-activity-7439254663906021376-mu0t"
+    ]
+  },
+  {
+    "id": "anschuetz-us-washington",
+    "companyId": "anschuetz",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "headquarter": false,
+    "siteName": "Anschuetz USA Inc",
+    "address": "Vereinigte Staaten",
+    "city": "Washington, D.C.",
+    "country": "US",
+    "description": "Anschuetz USA Inc ist eine Tochtergesellschaft der Anschütz Group für den US-amerikanischen Markt.",
+    "sources": [
+      "https://www.linkedin.com/posts/anschuetz-kiel_anschützfamily-activity-7439254663906021376-mu0t"
+    ]
+  },
+    {
+    "id": "anschuetz-sa-riyadh",
+    "companyId": "anschuetz",
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "headquarter": false,
+    "siteName": "Anschuetz Arabia (in Vorbereitung)",
+    "address": "Saudi-Arabien oder VAE (Standort noch nicht festgelegt)",
+    "city": "Riyadh",
+    "country": "SA",
+    "description": "Anschuetz Arabia befindet sich in Vorbereitung. Der Standort soll den Nahen Osten abdecken und die Präsenz der Anschütz Group in der Region stärken.",
+    "sources": [
+      "https://www.linkedin.com/posts/anschuetz-kiel_anschützfamily-activity-7439254663906021376-mu0t"
+    ]
+  },
+  {
+    "id": "anschuetz-es-madrid",
+    "companyId": "anschuetz",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "headquarter": false,
+    "siteName": "Anschuetz España (in Vorbereitung)",
+    "address": "Spanien (Standort noch nicht festgelegt)",
+    "city": "Madrid",
+    "country": "ES",
+    "description": "Anschuetz España befindet sich in Vorbereitung. Der Standort soll den spanischen Markt abdecken und die Präsenz der Anschütz Group in Südeuropa stärken.",
+    "sources": [
+      "https://www.linkedin.com/posts/anschuetz-kiel_anschützfamily-activity-7439254663906021376-mu0t"
+    ]
+  },
+  {
+    "id": "argus-interception-de-rotenburg",
+    "companyId": "argus-interception",
+    "lat": 53.1110,
+    "lng": 9.4040,
+    "headquarter": true,
+    "siteName": "Firmensitz und Produktion Rotenburg (Wümme)",
+    "address": "Zum Flugplatz 68, 27356 Rotenburg (Wümme)",
+    "city": "Rotenburg (Wümme)",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Hauptsitz und Produktionsstandort der ARGUS INTERCEPTION GmbH am Flugplatz Rotenburg (Wümme). Das Unternehmen wurde 2023 gegründet und ist seit 2024 am Standort Rotenburg beheimatet. Hier werden die A1-FALKE®-Netzabfangdrohne und die zugehörigen C-UAS-Systeme entwickelt, getestet und gefertigt. Rund 200 Drohnen entstehen jährlich am Standort – made in Germany, das Endprodukt sogar made in Rotenburg. Das Unternehmen ist im Handelsregister des Amtsgerichts Walsrode unter HRB 213046 eingetragen. Geschäftsführer sind Dennis Rauscher (CEO), Sven Steingräber (CSO) und Christoph Rau (CFO).",
+    "products": [
+      "A1-FALKE® Netzabfangdrohne",
+      "ARGUS Interceptor",
+      "C-UAS-Gesamtlösungen"
+    ],
+    "sources": [
+      "https://argus-interception.com/legal-notice/",
+      "https://militaeraktuell.at/argus-drohnen-abfangen-oder-besser-einfangen/",
+      "https://www.kreiszeitung.de"
+    ]
+  },
+  {
+    "id": "argus-interception-de-fassberg",
+    "companyId": "argus-interception",
+    "lat": 52.9000,
+    "lng": 10.1667,
+    "headquarter": false,
+    "siteName": "Standort Faßberg",
+    "address": "Zum Sieck 44, 29328 Faßberg",
+    "city": "Faßberg",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Zweiter Standort der ARGUS INTERCEPTION GmbH in Faßberg, in unmittelbarer Nähe zum Luftwaffenstützpunkt Faßberg. Die Adresse Zum Sieck 44 wird auf Messen (Enforce Tac, IDEX) als offizieller Standort geführt. Von Faßberg aus werden insbesondere die Lieferungen an die Bundeswehr koordiniert – die ersten 24 Abfangdrohnen wurden bereits geliefert, bis 2027 sollen weitere 136 folgen. Der Standort dient als Fertigungs- und Logistikstandort für die Serienproduktion der A1-FALKE®-Systeme.",
+    "products": [
+      "A1-FALKE® Netzabfangdrohne",
+      "Serienfertigung"
+    ],
+    "sources": [
+      "https://bdsv-exhibitions.eu/show/enforce-tac-2025/726",
+      "https://service.meettaiwan.com"
+    ]
+  },
+    {
+    "id": "arx-de-oberding",
+    "companyId": "arx-robotics",
+    "lat": 48.3167,
+    "lng": 11.8500,
+    "headquarter": true,
+    "siteName": "Firmensitz Oberding",
+    "address": "Möslstraße 19b, 85445 Oberding",
+    "city": "Oberding",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Firmensitz der ARX Robotics GmbH in Oberding bei München. Die Adresse Möslstraße 19b ist im Handelsregister und im Lobbyregister des Bundestages als offizieller Unternehmenssitz eingetragen. Von hier werden Unternehmensführung, Entwicklung und Vertrieb gesteuert. Das Unternehmen ist im Handelsregister des Amtsgerichts München unter HRB 282951 eingetragen. Geschäftsführer sind Marc Wietfeld (CEO), Maximilian Wied (CFO) und Stefan Röbel (COO).",
+    "products": [
+      "GEREON RCS",
+      "ARX Core",
+      "Mithra OS"
+    ],
+    "sources": [
+      "https://www.lobbyregister.bundestag.de",
+      "https://www.wer-zu-wem.de/firma/arx-robotics.html"
+    ]
+  },
+  {
+    "id": "arx-de-schwaig",
+    "companyId": "arx-robotics",
+    "lat": 48.3000,
+    "lng": 11.8833,
+    "headquarter": false,
+    "siteName": "Produktionsstätte Schwaig",
+    "address": "ehemalige KraussMaffei Automation Hallen, Schwaig bei München",
+    "city": "Schwaig",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Produktionsstätte von ARX Robotics in den früheren Hallen von KraussMaffei Automation in Schwaig bei München. Seit Juli 2025 arbeitet ARX hier an der Serienfertigung unbemannter Bodensysteme. Die Produktionsstätte ist Teil der größten Produktionsstätte für militärische Roboter in Europa. Hier werden die GEREON-Systeme für den Einsatz in der Ukraine und bei NATO-Streitkräften gefertigt.",
+    "products": [
+      "GEREON RCS",
+      "Unbemannte Bodensysteme"
+    ],
+    "sources": [
+      "https://www.merkur.de"
+    ]
+  },
+  {
+    "id": "arx-de-muenchen-freimann",
+    "companyId": "arx-robotics",
+    "lat": 48.1833,
+    "lng": 11.6000,
+    "headquarter": false,
+    "siteName": "Neuer Hauptsitz und Produktion München-Schwabing-Freimann",
+    "address": "Schwabing-Freimann, München (18.000 m² Fläche)",
+    "city": "München",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Neuer Hauptsitz und Produktionsstätte von ARX Robotics im Münchner Stadtteil Schwabing-Freimann. Das Unternehmen plant, bis Mitte 2026 eine 18.000 Quadratmeter große Fläche im Norden Münchens zu beziehen. Die neue Anlage soll die Fertigungskapazität in Deutschland verfünffachen. ARX hatte zuvor angekündigt, einen neuen Hauptsitz und eine Produktionsstätte in München zu eröffnen, um die steigende Nachfrage nach GEREON-Systemen zu bedienen.",
+    "products": [
+      "GEREON RCS",
+      "Serienfertigung"
+    ],
+    "sources": [
+      "https://www.arx-robotics.com",
+      "https://www.merkur.de"
+    ]
+  },
+  {
+    "id": "arx-de-ulm",
+    "companyId": "arx-robotics",
+    "lat": 48.3984,
+    "lng": 9.9916,
+    "headquarter": false,
+    "siteName": "DEUTZ-Werk Ulm (Serienfertigung GEREON)",
+    "address": "DEUTZ-Werk Ulm, Ulm, Baden-Württemberg",
+    "city": "Ulm",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Produktionsstandort im DEUTZ-Werk Ulm. Am 7. Juli 2026 starteten DEUTZ und ARX Robotics die industrielle Serienfertigung des unbemannten Bodensystems GEREON im DEUTZ-Werk Ulm. Die Partnerschaft verbindet die militärische Innovation von ARX im Bereich softwaredefinierter Verteidigungssysteme mit der industriellen Skalierungskompetenz von DEUTZ. Erste Systeme wurden ab Spätsommer 2026 an die Ukraine ausgeliefert.",
+    "products": [
+      "GEREON RCS",
+      "Serienfertigung"
+    ],
+    "sources": [
+      "https://esut.de/2026/07/meldungen/72620/deutz-beginnt-mit-der-produktion-des-ugv-gereon/"
+    ]
+  },
+  {
+    "id": "arx-de-berlin",
+    "companyId": "arx-robotics",
+    "lat": 52.5170,
+    "lng": 13.3940,
+    "headquarter": false,
+    "siteName": "Hauptstadtrepräsentanz Berlin",
+    "address": "Vossstraße 33, 10117 Berlin",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "DE",
+    "description": "Hauptstadtrepräsentanz von ARX Robotics in der Vossstraße 33 in Berlin-Mitte. Das Büro dient als Schnittstelle zur Politik, zum Bundestag, zu den Bundesministerien und zur Bundeswehr. Im Lobbyregister des Bundestages ist die Hauptstadtrepräsentanz unter R007278 eingetragen.",
+    "sources": [
+      "https://www.lobbyregister.bundestag.de"
+    ]
+  },
+  {
+    "id": "arx-de-london",
+    "companyId": "arx-robotics",
+    "lat": 51.5120,
+    "lng": -0.1240,
+    "headquarter": false,
+    "siteName": "ARX Robotics UK Ltd – London (UK-Hauptsitz)",
+    "address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, Vereinigtes Königreich",
+    "city": "London",
+    "country": "GB",
+    "description": "UK-Hauptsitz von ARX Robotics, eröffnet 2025. Das Unternehmen hat zwei Standorte im Zentrum Londons in unmittelbarer Nähe zur British Army, dem UK Ministry of Defence und Industriepartnern eröffnet. Die ARX ROBOTICS UK LTD ist im englischen Handelsregister unter der Nummer 16424547 eingetragen. Der Standort dient als Hauptsitz für zukünftige dezentrale Skalierungszellen für Produktion und Fahrzeugumbau in Großbritannien.",
+    "sources": [
+      "https://find-and-update.company-information.service.gov.uk",
+      "https://www.arx-robotics.com/article/arx-robotics-expands-into-the-uk"
+    ]
+  },
+  {
+    "id": "arx-de-south-west-england",
+    "companyId": "arx-robotics",
+    "lat": 50.7500,
+    "lng": -3.5000,
+    "headquarter": false,
+    "siteName": "Geplante Produktionsstätte Südwestengland",
+    "address": "Südwestengland (genauer Standort nicht veröffentlicht)",
+    "country": "GB",
+    "description": "Geplante Produktions- und F&E-Stätte von ARX Robotics im Südwesten Englands. ARX investiert 45 Millionen Pfund in eine neue Produktions- und Forschungsstätte mit einer Produktionskapazität von 1.800 Fahrzeugen pro Jahr. Es sollen 90 hochqualifizierte Arbeitsplätze innerhalb von 30 Monaten entstehen. Die Anlage soll eine überwiegend britische Lieferkette nutzen und die Digitalisierung der British Army vorantreiben.",
+    "sources": [
+      "https://www.arx-robotics.com/article/arx-robotics-expands-into-the-uk"
+    ]
+  },
+  {
+    "id": "arx-ua-kyiv",
+    "companyId": "arx-robotics",
+    "lat": 50.4500,
+    "lng": 30.5233,
+    "headquarter": false,
+    "siteName": "ARX Robotics Ukraine",
+    "address": "Kyiv, Ukraine",
+    "city": "Kyiv",
+    "country": "UA",
+    "description": "Ukrainische Tochtergesellschaft von ARX Robotics. Das Unternehmen arbeitet eng mit den ukrainischen Streitkräften zusammen und entwickelt seine unbemannten Landsysteme kontinuierlich anhand der Rückmeldungen aus dem Gefecht weiter. Ausbildung, Wartung und technische Anpassungen erfolgen direkt in enger Zusammenarbeit mit den militärischen Nutzern. Die GEREON-Systeme werden in großer Stückzahl in der Ukraine eingesetzt.",
+    "sources": [
+      "https://esut.de/2026/09/meldungen/74715/neue-arx-robotics-ostflanke-polen/"
+    ]
+  },
+    {
+    "id": "arx-pl-polen",
+    "companyId": "arx-robotics",
+    "lat": 52.2297,
+    "lng": 21.0122,
+    "headquarter": false,
+    "siteName": "ARX Robotics Polen – Produktionsstandort (im Aufbau)",
+    "address": "Polen (genauer Standort nicht veröffentlicht)",
+    "city": "Warschau",
+    "country": "PL",
+    "description": "Geplanter Produktionsstandort von ARX Robotics in Polen. Im September 2026 kündigte das Unternehmen die Gründung einer polnischen Gesellschaft an. In einem nächsten Schritt sollen ein dauerhafter Standort sowie eigene Einrichtungen für Ausbildung, Wartung und technischen Support entstehen. ARX plant Investitionen in zweistelliger Millionenhöhe und den Aufbau hochqualifizierter Arbeitsplätze bis zum Ende des Jahrzehnts. Polen wird damit zum vierten Markt von ARX Robotics nach Deutschland, der Ukraine und Großbritannien.",
+    "sources": [
+      "https://esut.de/2026/09/meldungen/74715/neue-arx-robotics-ostflanke-polen/"
+    ]
+  },
+  {
+    "id": "arx-at-innsbruck",
+    "companyId": "arx-robotics",
+    "lat": 47.2633,
+    "lng": 11.3933,
+    "headquarter": false,
+    "siteName": "ARX Robotics Austria GmbH – Innsbruck",
+    "address": "Grabenweg 72, 6020 Innsbruck, Österreich",
+    "city": "Innsbruck",
+    "country": "AT",
+    "description": "Österreichische Tochtergesellschaft ARX Robotics Austria GmbH mit Sitz in Innsbruck. Die Gesellschaft wurde am 12. Juni 2026 ins österreichische Firmenbuch eingetragen (Firmenbuchnummer 681051x). Stammkapital: 35.000 EUR. Geschäftsführer ist Henrich Maximilian Wied. Alleiniger Gesellschafter ist die ARX Robotics GmbH. Gegenstand: Entwicklung, Herstellung und Vertrieb von modularen Roboterplattformen, IoT-Geräten und Softwareprodukten für militärischen und zivilen Gebrauch.",
+    "sources": [
+      "https://www.evi.gv.at/f/681051x"
+    ]
+  },
+    {
+    "id": "astute-de-feldkirchen-westerham",
+    "companyId": "astute",
+    "lat": 47.8833,
+    "lng": 11.8500,
+    "headquarter": true,
+    "siteName": "Hauptsitz Feldkirchen-Westerham",
+    "address": "Pfarrer-Huber-Ring 8, 83620 Feldkirchen-Westerham",
+    "city": "Feldkirchen-Westerham",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz der Astute GmbH und zentraler Logistik-Hub mit eigenem Testlabor. Hier befinden sich Lagerhaltung, Vertrieb und Qualitätssicherung für elektronische, elektrische und elektromechanische Komponenten. Das Unternehmen ist im Handelsregister des Amtsgerichts München unter HRB 240694 eingetragen und nach AS9120B, ISO 9001 und AS6081 zertifiziert. Die Telefonnummer lautet +49 8024 4776590. Der Standort dient als europäisches Zentrum für Franchise-Distribution, unabhängiges Sourcing und 3PL-Dienstleistungen.",
+    "products": [
+      "Franchise-Distribution",
+      "Testlabor",
+      "3PL-Dienstleistungen",
+      "Langzeitlagerung"
+    ],
+    "sources": [
+      "https://www.astutegroup.com/locations/germany-de/",
+      "https://bdsv.eu/mitglieder/mitglied-details.html?show=388",
+      "https://www.online-handelsregister.de"
+    ]
+  },
+  {
+    "id": "astute-de-koeln",
+    "companyId": "astute",
+    "lat": 50.9500,
+    "lng": 6.9000,
+    "headquarter": false,
+    "siteName": "Niederlassung Köln",
+    "address": "Venloer Str. 310-316, 50825 Köln",
+    "city": "Köln",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Niederlassung der Astute GmbH in Köln-Ehrenfeld. Der Standort dient als Vertriebs- und Kundenbetreuungsbüro für Kunden in Nordrhein-Westfalen und dem westlichen Deutschland. Die Adresse Venloer Straße 310-316 ist im offiziellen Standortverzeichnis der Astute Group als Cologne Office geführt.",
+    "sources": [
+      "https://www.astutegroup.com/locations/germany-de/",
+      "https://www.astutegroup.com/locations/germany/"
+    ]
+  },
+  {
+    "id": "astute-de-schwabach",
+    "companyId": "astute",
+    "lat": 49.3300,
+    "lng": 11.0200,
+    "headquarter": false,
+    "siteName": "Astute Logic GmbH – Schwabach",
+    "address": "Raubershof 6, 91126 Schwabach",
+    "city": "Schwabach",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Standort der Tochtergesellschaft Astute Logic GmbH in Schwabach bei Nürnberg. Die Astute Logic GmbH ist ein Ingenieursdienstleister für Embedded Systeme mit Schwerpunkt hardwarenahe Softwareentwicklung. Der Standort wurde 2020 von Nürnberg (Lina-Ammon-Str. 30) nach Schwabach (Raubershof 6) verlegt. Das Unternehmen ist im Handelsregister des Amtsgerichts Nürnberg unter HRB 19886 eingetragen. Geschäftsführer ist Gerhard Wenger.",
+    "products": [
+      "Embedded-Systeme",
+      "Hardwarenahe Softwareentwicklung",
+      "FPGA-Design",
+      "Firmware-Entwicklung"
+    ],
+    "sources": [
+      "https://www.companyhouse.de/en/Astute-Logic-GmbH-Schwabach",
+      "https://www.astute-embedded-systeme.de"
+    ]
   },
   {
     "id": "atlas-de-bremen",
@@ -1499,19 +2822,6 @@
     "city": "Abu Dhabi",
     "country": "AE",
     "description": "Das Repräsentanzbüro in Abu Dhabi unterstützt die Geschäftsaktivitäten der Diehl Defence GmbH & Co. KG als Schnittstelle zu Kunden und Kooperationspartnern in den Golf-Staaten und in Afrika."
-  },
-  {
-    "id": "aim-de-heilbronn",
-    "companyId": "diehl",
-    "lat": 49.135087,
-    "lng": 9.206248,
-    "siteName": "AIM Infrarot-Module GmbH",
-    "address": "Theresienstraße 2, 74072 Heilbronn",
-    "city": "Heilbronn",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "Die AIM Infrarot-Module GmbH in Heilbronn ist ein führender Hersteller von Hochleistungsmodulen für Wärmebildgeräte und Lenkflugkörper. Die Produkte des Weltmarktführers in der Infrarot-Technologie werden bei den Streitkräften aller NATO-Länder, im Zivilschutz, in der Forschung, in der Überwachung von Industrieprozessen, bei Anwendungen im Umweltschutz und in der Medizin eingesetzt.",
-    "products": ["Infrarot-Technologie"]
   },
   {
     "id": "dd-praezision-de-ueberlingen",

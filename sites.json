@@ -1825,7 +1825,7 @@
       "https://baike.baidu.com"
     ]
   },
-    {
+  {
     "id": "alixpartners-fr-paris",
     "companyId": "alixpartners",
     "lat": 48.8700,
@@ -2691,6 +2691,1023 @@
     ],
     "sources": [
       "https://www.deutsche-exportdatenbank.de"
+    ]
+  },
+  {
+    "id": "autoflug-de-rellingen",
+    "companyId": "autoflug",
+    "lat": 53.6500,
+    "lng": 9.8333,
+    "headquarter": true,
+    "siteName": "Hauptsitz Rellingen",
+    "address": "Industriestraße 10, 25462 Rellingen",
+    "city": "Rellingen",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Hauptsitz und einziger Entwicklungs- und Produktionsstandort der AUTOFLUG GmbH in Rellingen bei Hamburg. Das Unternehmen wurde 1919 in Berlin gegründet und 1958 von Dr. med. Gerhard Sedlmayr nach Rellingen verlegt. Hier befinden sich Entwicklung, Konstruktion, Herstellung, Vertrieb, Wartung, Reparatur und Dokumentation von Sicherheits- und Rettungssystemen, Sicherheitssitzen, Pilotenausrüstung, Fallschirm- und Bergesystemen, Kraftstoffmesssystemen sowie Test- und Prüfsystemen. AUTOFLUG beschäftigt am Standort über 300 Mitarbeiter. Das Unternehmen ist im Handelsregister des Amtsgerichts Pinneberg unter HRB 5365 eingetragen und nach EN 9100:2018 zertifiziert.",
+    "products": [
+      "Sicherheits- und Rettungssysteme",
+      "Sicherheitssitze",
+      "MULTIBASE",
+      "Fallschirm- und Bergesysteme"
+    ],
+    "sources": [
+      "https://www.autoflug.com/de/impressum/",
+      "https://www.lobbyregister.bundestag.de"
+    ]
+  },
+  {
+    "id": "autoflug-de-ummendorf",
+    "companyId": "autoflug",
+    "lat": 48.0833,
+    "lng": 9.8333,
+    "headquarter": false,
+    "siteName": "Niederlassung Ummendorf",
+    "address": "Biberacher Straße 83, 88444 Ummendorf",
+    "city": "Ummendorf",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Zertifizierte Niederlassung der AUTOFLUG GmbH in Ummendorf (Baden-Württemberg), in unmittelbarer Nähe zur Luftwaffen-Instandhaltungsgruppe Ummendorf. Der Standort ist auf Wartung, Reparatur und Dokumentation von Rettungs- und Sicherheitssystemen, Sicherheitssitzen, Fallschirm- und Landeanlagen spezialisiert. Zusammen mit der Luftwaffen-Instandhaltungsgruppe Ummendorf stellt AUTOFLUG die wirtschaftliche und kompetente Betreuung von Rettungs- und Sicherheitsgerät der Waffensysteme PA200 TORNADO, F-4F PHANTOM und EF2000 EUROFIGHTER sicher. Der Standort ist im EN-9100-Zertifikat als eigenständige Niederlassung aufgeführt.",
+    "products": [
+      "Wartung und Reparatur",
+      "Rettungs- und Sicherheitssysteme"
+    ],
+    "sources": [
+      "https://www.autoflug.com/wp-content/uploads/2021/09/Zertifikat-EN-9100_2018-deutsch.pdf",
+      "https://www.autoflug.com"
+    ]
+  },
+  {
+    "id": "autounique-de-bayreuth",
+    "companyId": "autounique",
+    "lat": 49.9481,
+    "lng": 11.5783,
+    "headquarter": true,
+    "siteName": "Firmensitz Bayreuth",
+    "address": "Gottlieb-Keim-Straße 60, 95448 Bayreuth",
+    "city": "Bayreuth",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Aktueller Firmensitz der Autounique GmbH in Bayreuth. Seit der Sitzverlegung von Chemnitz nach Bayreuth (beschlossen am 28. März 2018) ist die Gottlieb-Keim-Straße 60 die offizielle Geschäftsanschrift. Das Unternehmen ist im Handelsregister des Amtsgerichts Bayreuth unter HRB 6739 eingetragen. Geschäftsführer ist Jörg Lorenz. Der Standort dient als interdisziplinäres Beratungs-, Entwicklungs- und Projektbüro für Sonderfahrzeugbau.",
+    "products": [
+      "Sonderfahrzeugbau",
+      "Beratung und Entwicklung"
+    ],
+    "sources": [
+      "https://www.companyhouse.de/en/Autounique-GmbH-Bayreuth",
+      "https://bdsv.eu/mitglieder/mitglied-details.html?show=291"
+    ]
+  },
+  {
+    "id": "avilus-de-ismaning",
+    "companyId": "avilus",
+    "lat": 48.2269,
+    "lng": 11.6783,
+    "headquarter": true,
+    "siteName": "Hauptsitz Ismaning",
+    "address": "Osterfeldstraße 82, 85737 Ismaning",
+    "city": "Ismaning",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz der AVILUS GmbH in Ismaning bei München. Das Unternehmen wurde am 3. September 2021 gegründet und hat seinen Sitz am 25. Januar 2024 von Hemer nach Ismaning verlegt. Die neue Firmenzentrale wurde im März 2023 bezogen und dient als perfekter Kompromiss für das überwiegend in München ansässige Engineering-Team, um in unmittelbarer Nähe zum Flugbetriebs-Testgelände in Manching zu bleiben. Hier befinden sich Unternehmensführung, Entwicklung, Konstruktion und Vertrieb. Das Unternehmen ist im Handelsregister des Amtsgerichts München unter HRB 290902 eingetragen. Geschäftsführer ist Ernst Wilhelm Rittinghaus. AVILUS ist im BDSV und im Lobbyregister des Bundestages registriert.",
+    "products": [
+      "Grille",
+      "Wespe",
+      "Bussard",
+      "RasCore"
+    ],
+    "sources": [
+      "https://www.avilus.com/de/imprint",
+      "https://www.bdsv.eu/mitglieder/mitglied-details.html?show=385",
+      "https://www.avilus.com/news/new-branch-offices-in-ismaning"
+    ]
+  },
+  {
+    "id": "avilus-de-bredstedt",
+    "companyId": "avilus",
+    "lat": 54.6900,
+    "lng": 8.9800,
+    "headquarter": false,
+    "siteName": "Fertigungsstätte Bredstedt",
+    "address": "Jens-Patent-Weg 4-6, 25821 Bredstedt",
+    "city": "Bredstedt",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Fertigungsstätte der AVILUS GmbH in Bredstedt, Schleswig-Holstein. Hier erfolgt die Produktion der Drohnen in Partnerschaft mit Breezer Aircraft. Während der Bussard in Bayern entwickelt und getestet wird, erfolgt seine Produktion in Schleswig-Holstein. Die Partnerschaft basiert auf dem Austausch von Fachwissen und einer Wertschöpfungskette mit starkem deutschem Fußabdruck, die minimale Wartezeiten und maximale Einsatzbereitschaft garantiert. Der Standort ist auch für Vertriebs- und Business-Development-Aktivitäten zuständig.",
+    "products": [
+      "Bussard (Produktion)",
+      "Drohnen-Fertigung"
+    ],
+    "sources": [
+      "https://www.avilus.com/contact",
+      "https://www.avilus.com/news/avilus-breezer-aircraft"
+    ]
+  },
+  {
+    "id": "avilus-de-manching",
+    "companyId": "avilus",
+    "lat": 48.7167,
+    "lng": 11.5333,
+    "headquarter": false,
+    "siteName": "Testzentrum Manching",
+    "address": "Manching, Bayern",
+    "city": "Manching",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Testzentrum der AVILUS GmbH in Manching bei Ingolstadt. Hier werden die Drohnen des Unternehmens getestet und weiterentwickelt. Der Standort liegt in unmittelbarer Nähe zum Flugplatz Manching und zum Airbus-Standort Manching. Der Hauptsitz in Ismaning wurde bewusst mit Blick auf die Nähe zu diesem Flugbetriebs-Testgelände gewählt.",
+    "products": [
+      "Flugtests",
+      "Drohnen-Erprobung"
+    ],
+    "sources": [
+      "https://www.bdsv.eu/mitglieder/mitglied-details.html?show=385"
+    ]
+  },
+  {
+    "id": "avilus-de-erding",
+    "companyId": "avilus",
+    "lat": 48.3000,
+    "lng": 11.9000,
+    "headquarter": false,
+    "siteName": "Testzentrum Erding",
+    "address": "Erding, Bayern",
+    "city": "Erding",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Testzentrum der AVILUS GmbH in Erding bei München. Der Standort dient als zweites Testzentrum für die Erprobung der Drohnen. Erding liegt nordöstlich von München und bietet optimale Bedingungen für Flugtests.",
+    "products": [
+      "Flugtests",
+      "Drohnen-Erprobung"
+    ],
+    "sources": [
+      "https://www.bdsv.eu/mitglieder/mitglied-details.html?show=385"
+    ]
+  },
+  {
+    "id": "avilus-au-melbourne",
+    "companyId": "avilus",
+    "lat": -37.8136,
+    "lng": 144.9631,
+    "headquarter": false,
+    "siteName": "Büro Melbourne",
+    "address": "181 William Street, Melbourne VIC 3000, Australien",
+    "city": "Melbourne",
+    "state": "Victoria",
+    "country": "AU",
+    "description": "Australischer Standort der AVILUS GmbH in Melbourne. Das Büro befindet sich in der 181 William Street im Zentrum von Melbourne. Der Standort dient der Betreuung von Kunden in Australien und der Region Asien-Pazifik.",
+    "sources": [
+      "https://www.avilus.com/contact"
+    ]
+  },
+  {
+    "id": "axsol-de-wuerzburg",
+    "companyId": "axsol",
+    "lat": 49.7932,
+    "lng": 9.9511,
+    "headquarter": true,
+    "siteName": "Hauptsitz Würzburg",
+    "address": "Ohmstraße 3, 97076 Würzburg",
+    "city": "Würzburg",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz der AXSOL GmbH in Würzburg. Hier befinden sich Unternehmensführung, Entwicklung, Projektmanagement und Vertrieb. Das Unternehmen wurde am 29. Mai 2019 ins Handelsregister des Amtsgerichts Würzburg eingetragen und ist unter HRB 14641 geführt. Geschäftsführer ist Jürgen Zinecker. Die USt-IdNr. lautet DE 283778642. AXSOL ist ein Full-Service-EPC-Partner für stationäre Batteriespeichersysteme (BESS) und betreut Kunden aus Energieversorgung, Industrie und kritischer Infrastruktur. Das Unternehmen ist im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet und stellt auf Fachmessen wie der Milipol aus.",
+    "products": [
+      "Energy Container Solutions (ECS)",
+      "AXOS",
+      "ADONYS",
+      "ARVEY B2"
+    ],
+    "sources": [
+      "https://www.axsol.eu/impressum/",
+      "https://www.online-handelsregister.de/handelsregisterauszug/by/Wuerzburg/HRB/14641/AXSOL-GmbH"
+    ]
+  },
+  {
+    "id": "axsol-de-bleicherode",
+    "companyId": "axsol",
+    "lat": 51.4146,
+    "lng": 10.5892,
+    "headquarter": false,
+    "siteName": "Standort Bleicherode-Obergebra",
+    "address": "Gewerbesiedlung 9, 99752 Bleicherode OT Obergebra",
+    "city": "Bleicherode",
+    "state": "Thüringen",
+    "country": "DE",
+    "description": "Zweiter Standort der AXSOL GmbH in Bleicherode-Obergebra, Thüringen. Der Standort war ursprünglich der Gründungssitz des Unternehmens (2012) und wurde 2017 in das Handelsregister des Amtsgerichts Würzburg unter HRB 11553 eingetragen. Die AXSOL GmbH aus Bleicherode/Obergebra wurde 2017 als Thüringen-Landessieger im KfW Award Gründen ausgezeichnet. Von hier aus werden Produktion, Lager und Service für die mobilen Batteriespeichersysteme (ARVEY B2) gesteuert. Der Standort ist im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet.",
+    "products": [
+      "ARVEY B2",
+      "Mobile Batteriespeicher"
+    ],
+    "sources": [
+      "https://mapcarta.com/W358605505",
+      "https://www.online-handelsregister.de/handelsregisterauszug/by/Wuerzburg/HRB/11553/Axsol-GmbH",
+      "https://www.bm-t.de"
+    ]
+  },
+  {
+    "id": "axsol-de-projekt-altencelle",
+    "companyId": "axsol",
+    "lat": 52.6167,
+    "lng": 10.0833,
+    "headquarter": false,
+    "siteName": "Batteriespeicher Altencelle (Projekt)",
+    "address": "Altencelle, Niedersachsen",
+    "city": "Altencelle",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Batteriespeicherprojekt in Altencelle, Niedersachsen. AXSOL hat für terralayr einen Batteriespeicher mit 15 MW Leistung und 30 MWh Kapazität errichtet und im Juli 2026 in Betrieb genommen. Die Anlage ist der zweitgrößte Batteriespeicher Niedersachsens und wird über das Energiemanagementsystem AXOS gesteuert. Die Anlage unterstützt Stromhandel und Netzdienstleistungen.",
+    "products": [
+      "BESS mit 15 MW / 30 MWh",
+      "AXOS"
+    ],
+    "sources": [
+      "https://www.axsol.eu/blog/axsol-bringt-30-mwh-batteriespeicher-fuer-terralayr-ans-netz/"
+    ]
+  },
+  {
+    "id": "axsol-de-projekt-lohsa",
+    "companyId": "axsol",
+    "lat": 51.3833,
+    "lng": 14.4000,
+    "headquarter": false,
+    "siteName": "Batteriespeicher Lohsa (Projekt)",
+    "address": "Lohsa, Sachsen",
+    "city": "Lohsa",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Batteriespeicherprojekt in Lohsa, Sachsen. Gemeinsam mit terralayr realisiert AXSOL einen 8-MW- und 16-MWh-Batteriespeicher zur Netzstützung, der ab Frühjahr 2026 Primärregelenergie bereitstellt. Das System wird vom Energiemanagementsystem AXOS gesteuert.",
+    "products": [
+      "BESS mit 8 MW / 16 MWh",
+      "AXOS"
+    ],
+    "sources": [
+      "https://www.axsol.eu/blog/16-mwh-batteriespeicher-lohsa/"
+    ]
+  },
+  {
+    "id": "axsol-de-projekt-celle",
+    "companyId": "axsol",
+    "lat": 52.6167,
+    "lng": 10.0833,
+    "headquarter": false,
+    "siteName": "Batteriespeicher Celle (Projekt)",
+    "address": "Celle, Niedersachsen",
+    "city": "Celle",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Batteriespeicherprojekt in Celle, Niedersachsen. AXSOL errichtet für terralayr einen Batteriespeicher mit 15 MW Leistung und 30 MWh Kapazität, der bis Ende 2025 als zweitgrößter Batteriespeicher Niedersachsens in Betrieb gehen soll. Die Steuerung erfolgt über AXOS.",
+    "products": [
+      "BESS mit 15 MW / 30 MWh",
+      "AXOS"
+    ],
+    "sources": [
+      "https://www.axsol.eu/blog/axsol-bringt-30-mwh-batteriespeicher-fuer-terralayr-ans-netz/"
+    ]
+  },
+  {
+    "id": "axsol-de-projekt-osnabrueck",
+    "companyId": "axsol",
+    "lat": 52.2799,
+    "lng": 8.0472,
+    "headquarter": false,
+    "siteName": "Batteriespeicher Osnabrück (Projekt)",
+    "address": "Osnabrück, Niedersachsen",
+    "city": "Osnabrück",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Batteriespeicherprojekt in Osnabrück, Niedersachsen. Seit Frühjahr 2025 betreut JUWI ein kleineres Speicherprojekt von AXSOL in Osnabrück. Es war das erste gemeinsame Projekt der strategischen Partnerschaft zwischen AXSOL und JUWI.",
+    "products": [
+      "BESS"
+    ],
+    "sources": [
+      "https://www.stadt-und-werk.de/?pdf=1&postid=81683#1#1"
+    ]
+  },
+  {
+    "id": "axsol-de-projekt-balzhausen",
+    "companyId": "axsol",
+    "lat": 48.1667,
+    "lng": 10.4167,
+    "headquarter": false,
+    "siteName": "Batteriespeicher Balzhausen (Projekt)",
+    "address": "Balzhausen, Bayern",
+    "city": "Balzhausen",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Batteriespeicherprojekt in Balzhausen, Bayern. Teil der strategischen Partnerschaft zwischen AXSOL und JUWI. Die Anlage soll noch 2026 in Betrieb gehen und gemeinsam mit den Projekten in Altencelle und Lohsa eine Gesamtkapazität von 89 MWh erreichen.",
+    "products": [
+      "BESS"
+    ],
+    "sources": [
+      "https://www.stadt-und-werk.de/?pdf=1&postid=81683#1#1"
+    ]
+  },
+  {
+    "id": "baeck-de-norderstedt",
+    "companyId": "baeck",
+    "lat": 53.7000,
+    "lng": 10.0167,
+    "headquarter": true,
+    "siteName": "Hauptsitz Norderstedt (COBA)",
+    "address": "Langenharmer Weg 223-225, 22844 Norderstedt",
+    "city": "Norderstedt",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Hauptsitz und einziger Standort der Baeck GmbH & Co. KG im Norderstedter Stadtteil Harksheide. Das Unternehmen ist im Handelsregister des Amtsgerichts Kiel unter HRA 1443 NO eingetragen. Hier befinden sich Verwaltung, Lager, Vertrieb und Qualitätsmanagement. Baeck ist nach ISO 9001:2015 zertifiziert (Geltungsbereich: Lagerung und Handel mit chemischen Erzeugnissen, elektrischen und elektronischen Bauteilen und Anlagen). Die Telefonnummer lautet +49 40 521 706-0, die E-Mail-Adresse info@coba.de. Das Unternehmen beschäftigt 20–49 Mitarbeiter und ist im BDSV gelistet.",
+    "products": [
+      "Elektronische Komponenten",
+      "Elektrische Bauteile",
+      "Mechanische Komponenten",
+      "Batterien",
+      "Kabel"
+    ],
+    "sources": [
+      "https://www.coba.de/impressum.html",
+      "https://www.companyhouse.de/Baeck-GMBH-Co-KG-Norderstedt",
+      "https://bdsv.eu/mitglieder/mitglied-details.html?show=133"
+    ]
+  },
+  {
+    "id": "bareways-de-luebeck",
+    "companyId": "bareways",
+    "lat": 53.8386,
+    "lng": 10.7050,
+    "headquarter": true,
+    "siteName": "Hauptsitz Lübeck",
+    "address": "Maria-Goeppert-Straße 3, 23562 Lübeck",
+    "city": "Lübeck",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Hauptsitz und einziger Standort der BAREWAYS GmbH auf einem Technologie-Campus in Lübeck (St. Jürgen). Das Unternehmen wurde am 28. Juni 2019 ins Handelsregister des Amtsgerichts Lübeck unter HRB 19028 HL eingetragen. Hier befinden sich Entwicklung, Softwareentwicklung, Data Engineering, UX/UI und Unternehmensführung. Die Büros liegen auf einem Technologie-Campus mit direkt angrenzendem Park. Die Telefonnummer lautet +49-451-202717-30. Geschäftsführer sind Moritz von Grotthuss (CEO) und Sascha Klement (CTO).",
+    "products": [
+      "KI-gestützte Navigationsdienste",
+      "Location-AI-Plattform"
+    ],
+    "sources": [
+      "https://bareways.ai/legal-notice/",
+      "https://www.online-handelsregister.de",
+      "https://www.companyhouse.de"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-de-muenchen",
+    "companyId": "bauer-kompressoren",
+    "lat": 48.0975,
+    "lng": 11.5083,
+    "headquarter": true,
+    "siteName": "Verwaltungszentrale München",
+    "address": "Stäblistraße 8, 81477 München",
+    "city": "München",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Verwaltungszentrale und Hauptsitz der BAUER KOMPRESSOREN GmbH in München. Hier befinden sich Einkauf, Buchhaltung, Vertrieb, IT sowie ein Großteil der Entwicklungsabteilung. Die Zertifizierung nach ISO 9001 und ISO 14001 gilt für den Geltungsbereich Vertrieb, Entwicklung, Produktmanagement und Marketing von Verdichteranlagen, Aufbereitungs- und Speichersystemen für Luft und Gase bis 500 bar. Das Unternehmen ist im Handelsregister des Amtsgerichts München unter HRB 61193 eingetragen. Die Telefonnummer lautet +49 89 / 78049 – 0.",
+    "products": [
+      "Vertrieb",
+      "Entwicklung",
+      "Produktmanagement"
+    ],
+    "sources": [
+      "https://www.bauer-kompressoren.de/de_de/bauer-germany",
+      "https://www.bauer-kompressoren.de/fileadmin/documents/products/certificate/17634_00_msum_de.pdf"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-de-geretsried-nord",
+    "companyId": "bauer-kompressoren",
+    "lat": 47.8833,
+    "lng": 11.4667,
+    "headquarter": false,
+    "siteName": "Werk I Geretsried Nord",
+    "address": "Bayerwaldstraße 8, 82538 Geretsried",
+    "city": "Geretsried",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Werk I der BAUER KOMPRESSOREN GmbH in Geretsried Nord, 35 km südlich von München. 2014 wurde der Standort Drygalski Allee aufgelöst und die Anlagenfertigung in dieses hochmoderne neue Werk verlegt. Hier werden alle Anlagen vom kleinen tragbaren Atemluftkompressor bis hin zur schlüsselfertigen CNG-Großtankstelle gebaut. Der Standort ist im ISO-14001-Zertifikat für den Geltungsbereich Herstellung und Erprobung von Verdichteranlagen, Aufbereitungs- und Speichersystemen für Luft und Gase bis 500 bar gelistet.",
+    "products": [
+      "Atemluftkompressoren",
+      "CNG-Großtankstellen",
+      "Industriekompressoren"
+    ],
+    "sources": [
+      "https://www.bauer-kompressoren.de/de_de/bauer-germany",
+      "https://www.bauer-kompressoren.de/fileadmin/documents/products/certificate/17634_00_msum_de.pdf"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-de-geretsried-sued",
+    "companyId": "bauer-kompressoren",
+    "lat": 47.8500,
+    "lng": 11.4833,
+    "headquarter": false,
+    "siteName": "Werk II Geretsried Süd",
+    "address": "Wallensteinstraße 4a, 82538 Geretsried",
+    "city": "Geretsried",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Werk II und Servicezentrum der BAUER KOMPRESSOREN GmbH in Geretsried Süd. Hier befinden sich das Schulungszentrum BAUER ACADEMY, der Service, die Werkstatt und der Ersatzteilvertrieb. Der Standort ist im ISO-14001-Zertifikat für den Geltungsbereich Service von Verdichteranlagen, Aufbereitungs- und Speichersystemen für Luft und Gase bis 500 bar gelistet.",
+    "products": [
+      "Service",
+      "Ersatzteile",
+      "BAUER ACADEMY"
+    ],
+    "sources": [
+      "https://www.bauer-kompressoren.de/de_de/bauer-germany",
+      "https://www.bauer-kompressoren.de/fileadmin/documents/products/certificate/17634_00_msum_de.pdf"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-de-geretsried-uniccomp",
+    "companyId": "bauer-kompressoren",
+    "lat": 47.8833,
+    "lng": 11.4667,
+    "headquarter": false,
+    "siteName": "UNICCOMP-Werk Geretsried",
+    "address": "Bayerwaldstraße 6, 82538 Geretsried",
+    "city": "Geretsried",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Das UNICCOMP-Werk (UCC) in Geretsried ist seit 2001 der strategische Produktions-Hub der BAUER GROUP. Die Fertigung erfolgt nach den Prinzipien des Lean und Quick Response Manufacturing und garantiert höchste Qualität und Lieferkettensicherheit. Der Standort ist im ISO-14001-Zertifikat gelistet.",
+    "products": [
+      "Kompressoren",
+      "Druckluftsysteme"
+    ],
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_en/bauer-works-en",
+      "https://www.bauer-kompressoren.de/fileadmin/documents/products/certificate/17634_00_msum_de.pdf"
+    ]
+  },
+    {
+    "id": "bauer-kompressoren-at-wiener-neudorf",
+    "companyId": "bauer-kompressoren",
+    "lat": 48.0800,
+    "lng": 16.3167,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN Ges.m.b.H. – Wiener Neudorf",
+    "address": "IZ NÖ Süd Straße 3, Objekt 26, 2351 Wiener Neudorf, Österreich",
+    "city": "Wiener Neudorf",
+    "country": "AT",
+    "description": "Österreichische Tochtergesellschaft der BAUER GROUP, seit 1995 im Firmenbuch eingetragen (Firmenbuchnummer 124901d). Verantwortlich für den Vertrieb von BAUER Industrie- und Atemluftkompressoren in Österreich und im osteuropäischen Raum. Das Hauptgeschäft bilden Hochdrucksysteme für den Tauchsport und die Feuerwehr.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/de_de/bauer-austria",
+      "https://www.evi.gv.at"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-fr-mery",
+    "companyId": "bauer-kompressoren",
+    "lat": 45.6500,
+    "lng": 5.9000,
+    "headquarter": false,
+    "siteName": "BAUER COMPRESSEURS SAS – Méry",
+    "address": "315 Rue Nicolas Copernic, 73420 Méry, Frankreich",
+    "city": "Méry",
+    "country": "FR",
+    "description": "Französische Tochtergesellschaft BAUER COMPRESSEURS SAS mit Sitz in Méry. Das Unternehmen wurde 1985 in Paris gegründet und hat 25 Mitarbeiter. Es entwickelt, produziert und vertreibt Steuerungssysteme und Kompressoranlagen für die Gasinnendrucktechnologie und vertreibt BAUER Mittel- und Hochdruck-Kompressorsysteme für Industrie- und Atemluftanwendungen.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/fr_fr/bauer-france"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-fr-la-ciotat",
+    "companyId": "bauer-kompressoren",
+    "lat": 43.1736,
+    "lng": 5.6047,
+    "headquarter": false,
+    "siteName": "BAUER COMPRESSEURS SAS – La Ciotat",
+    "address": "La Ciotat, Frankreich",
+    "city": "La Ciotat",
+    "country": "FR",
+    "description": "Zweiter französischer Standort von BAUER COMPRESSEURS SAS in La Ciotat. Die Tochtergesellschaft ist für das Tauchsport-Marktgeschäft verantwortlich und hat sich erfolgreich auf Gasdruckverfahren, Sicherheitsbefüllsysteme für den Feuerwehrmarkt und kompakte CNG-Systeme spezialisiert.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/fr_fr/bauer-france"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-uk-st-helens",
+    "companyId": "bauer-kompressoren",
+    "lat": 53.4500,
+    "lng": -2.7167,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN UK Ltd. – St. Helens",
+    "address": "Unit 410 Haydock Lane, Haydock, St. Helens, Merseyside, WA11 9TH, Vereinigtes Königreich",
+    "city": "St. Helens",
+    "country": "GB",
+    "description": "Britische Tochtergesellschaft BAUER KOMPRESSOREN UK Ltd., gegründet 1976 (zunächst als Safety Air Services Ltd.). Das Unternehmen ist auf die Konstruktion und Fertigung von Spezialanwendungen für die Öl- und Gasindustrie, militärische Versorgung, Nuklear- und Seismikbranche spezialisiert. Kernprodukte sind containerbasierte Kompressor- und Kaskadensysteme für Schiffe und Produktionsplattformen sowie H2S-Schutz für die Erdgas- und Erdölförderung.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_gb/bauer-uk"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-it-arcugnano",
+    "companyId": "bauer-kompressoren",
+    "lat": 45.5667,
+    "lng": 11.5167,
+    "headquarter": false,
+    "siteName": "BAUER COMPRESSORI S.r.l. – Arcugnano (Vicenza)",
+    "address": "Via Galileo Galilei 9, 36057 Arcugnano, Italien",
+    "city": "Arcugnano",
+    "state": "Venetien",
+    "country": "IT",
+    "description": "Italienische Tochtergesellschaft BAUER COMPRESSORI S.r.l. Unipersonale, gegründet 1994 in Arcugnano bei Vicenza im Zentrum des norditalienischen Industriegürtels. Verantwortlich für Vertrieb und Service von Atemluft-, Industrie-, Öl- und Gaskompressoranlagen sowie der Gasinnendrucktechnologie (GIT) in Italien und der Türkei.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/it_it/bauer-italy"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-ro-brasov",
+    "companyId": "bauer-kompressoren",
+    "lat": 45.6500,
+    "lng": 25.6000,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN ROMANIA – Brașov",
+    "address": "Brașov, Rumänien",
+    "city": "Brașov",
+    "country": "RO",
+    "description": "Produktionsstandort der BAUER KOMPRESSOREN ROMANIA in Brașov, Rumänien – eine Neuerung aus dem Jahr 2024. Mit modernster Infrastruktur stärkt und erweitert das Werk die Produktionskapazität der BAUER GROUP erheblich und ist eine zukunftssichere Erweiterung für wachsende Märkte.",
+    "products": [
+      "Kompressoren",
+      "Druckluftsysteme"
+    ],
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_en/bauer-works-en"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-ru-moskau",
+    "companyId": "bauer-kompressoren",
+    "lat": 55.7558,
+    "lng": 37.6173,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN RUSSLAND – Moskau",
+    "address": "Moskau, Russland",
+    "city": "Moskau",
+    "country": "RU",
+    "description": "Russische Tochtergesellschaft BAUER KOMPRESSOREN RUSSLAND, gegründet 2010 als hundertprozentige Tochtergesellschaft der BAUER COMP Holding GmbH, München. Bietet Vertrieb und Service für BAUER Kompressoren in Russland.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/de_de/bauer-russia"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-eg-kairo",
+    "companyId": "bauer-kompressoren",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN Egypt Ltd. – Kairo",
+    "address": "Kairo, Ägypten",
+    "city": "Kairo",
+    "country": "EG",
+    "description": "Ägyptische Tochtergesellschaft BAUER KOMPRESSOREN Egypt Ltd. für Vertrieb und Service in Ägypten. Gegründet im Rahmen der Expansion der BAUER GROUP in den Jahren 2006–2015.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/de_de/bauer-egypt"
+    ]
+  },
+    {
+    "id": "bauer-kompressoren-us-norfolk",
+    "companyId": "bauer-kompressoren",
+    "lat": 36.8508,
+    "lng": -76.2859,
+    "headquarter": false,
+    "siteName": "BAUER COMPRESSORS Inc. – Norfolk, Virginia",
+    "address": "1328 Azalea Garden Road, Norfolk, VA 23502, USA",
+    "city": "Norfolk",
+    "state": "Virginia",
+    "country": "US",
+    "description": "US-Hauptsitz von BAUER COMPRESSORS Inc. (BCI), gegründet 1976 in Norfolk, Virginia. BCI ist die zweitgrößte Gesellschaft der BAUER GROUP und dominiert den gesamten amerikanischen Kontinent im Bereich Hochdruckkompressoren. Die 115.000 Quadratfuß große Anlage dient als Produktions-, Montage- und Vertriebszentrum für Niederdruck- und Hochdruckkompressoranlagen für Luft und Gase, insbesondere CNG. Der Standort liegt strategisch günstig in der Nähe des größten US-Marinestützpunkts.",
+    "products": [
+      "Atemluftkompressoren",
+      "CNG-Kompressoren",
+      "Marine-Kompressoren",
+      "Industriekompressoren"
+    ],
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_us/bauer-usa"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-us-miami",
+    "companyId": "bauer-kompressoren",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "headquarter": false,
+    "siteName": "BAUER COMPRESSORS Inc. – Miami",
+    "address": "Miami, Florida, USA",
+    "city": "Miami",
+    "state": "Florida",
+    "country": "US",
+    "description": "Eine von fünf Niederlassungen von BAUER COMPRESSORS Inc. in den USA.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_us/bauer-usa"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-us-los-angeles",
+    "companyId": "bauer-kompressoren",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "headquarter": false,
+    "siteName": "BAUER COMPRESSORS Inc. – Los Angeles",
+    "address": "Los Angeles, Kalifornien, USA",
+    "city": "Los Angeles",
+    "state": "Kalifornien",
+    "country": "US",
+    "description": "Eine von fünf Niederlassungen von BAUER COMPRESSORS Inc. in den USA.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_us/bauer-usa"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-us-san-francisco",
+    "companyId": "bauer-kompressoren",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "headquarter": false,
+    "siteName": "BAUER COMPRESSORS Inc. – San Francisco / Livermore",
+    "address": "Livermore, Kalifornien, USA",
+    "city": "Livermore",
+    "state": "Kalifornien",
+    "country": "US",
+    "description": "BAUER San Francisco (BSF) ist die Westküsten-Niederlassung von BAUER COMPRESSORS USA, zentral gelegen in Livermore, Kalifornien. Bietet Service-Center und Vertrieb.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_us/bauer-usa"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-us-suedkalifornien",
+    "companyId": "bauer-kompressoren",
+    "lat": 33.6846,
+    "lng": -117.8265,
+    "headquarter": false,
+    "siteName": "BAUER COMPRESSORS Inc. – Südkalifornien",
+    "address": "Südkalifornien, USA",
+    "city": "Irvine",
+    "state": "Kalifornien",
+    "country": "US",
+    "description": "Eine von fünf Niederlassungen von BAUER COMPRESSORS Inc. in den USA.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_us/bauer-usa"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-us-detroit",
+    "companyId": "bauer-kompressoren",
+    "lat": 42.3314,
+    "lng": -83.0458,
+    "headquarter": false,
+    "siteName": "BAUER COMPRESSORS Inc. – Detroit",
+    "address": "Detroit, Michigan, USA",
+    "city": "Detroit",
+    "state": "Michigan",
+    "country": "US",
+    "description": "Eine von fünf Niederlassungen von BAUER COMPRESSORS Inc. in den USA.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_us/bauer-usa"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-br-sao-paulo",
+    "companyId": "bauer-kompressoren",
+    "lat": -23.6167,
+    "lng": -46.5500,
+    "headquarter": false,
+    "siteName": "BAUER COMPRESSORES Brasil Ltda. – São Caetano do Sul",
+    "address": "Al. Conde de Porto Alegre, 1298, São Caetano do Sul, SP, Brasilien",
+    "city": "São Caetano do Sul",
+    "state": "São Paulo",
+    "country": "BR",
+    "description": "Brasilianische Tochtergesellschaft BAUER COMPRESSORES Brasil Ltda. mit Sitz in São Caetano do Sul bei São Paulo. Seit 1976 Fertigung, Montage und Vertrieb von Niederdruck- und Hochdruckkompressoranlagen für Luft und Gase, insbesondere für CNG. Bereiche: Atemluft, Tauchen, Industrie und Militär.",
+    "products": [
+      "Atemluftkompressoren",
+      "CNG-Kompressoren",
+      "Industriekompressoren"
+    ],
+    "sources": [
+      "https://www.bauer-kompressoren.de/pt_br/bauer-brazil"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-pa-panama-city",
+    "companyId": "bauer-kompressoren",
+    "lat": 8.9833,
+    "lng": -79.5167,
+    "headquarter": false,
+    "siteName": "BAUER FUNDACIONES PANAMA S.A. – Panama City",
+    "address": "Panama City, Panama",
+    "city": "Panama City",
+    "country": "PA",
+    "description": "Panama-Standort der BAUER GROUP. Hinweis: Dies ist ein Standort der BAUER Spezialtiefbau-Gruppe, nicht der BAUER KOMPRESSOREN GmbH.",
+    "sources": [
+      "https://www.bauer.de"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-hk-hongkong",
+    "companyId": "bauer-kompressoren",
+    "lat": 22.3193,
+    "lng": 114.1694,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN China Ltd. – Hongkong",
+    "address": "Unit 06, 21/F, Westley Square, 48 Hoi Yuen Road, Kwun Tong, Hongkong",
+    "city": "Hongkong",
+    "country": "HK",
+    "description": "BAUER KOMPRESSOREN China Ltd. (BKC) wurde 2002 in Hongkong gegründet und ist die am schnellsten wachsende Tochtergesellschaft der BAUER GROUP. BKC bietet ein auf den chinesischen Markt zugeschnittenes Produktspektrum und betreut Kunden wie Sensata, Sinopac, China Fire und China Seismic sowie zahlreiche Top-Universitäten und Forschungseinrichtungen.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_cn/bauer-china"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-cn-shanghai",
+    "companyId": "bauer-kompressoren",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN Shanghai Ltd.",
+    "address": "No. 97 Honghe Road, Min Hang, Shanghai 200245, China",
+    "city": "Shanghai",
+    "country": "CN",
+    "description": "BAUER KOMPRESSOREN Shanghai Ltd. (BKS) wurde 2007 gegründet und erweitert das China-Engagement von BAUER. Die Gesellschaft ist im Handelsregister von Shanghai eingetragen und betreut Kunden in der Region.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_cn/bauer-china"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-cn-beijing",
+    "companyId": "bauer-kompressoren",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN Beijing Ltd.",
+    "address": "4-1012 Purple International, #2 Yinhe South Str., Shijingshan, Beijing 100040, China",
+    "city": "Peking",
+    "country": "CN",
+    "description": "BAUER KOMPRESSOREN Beijing Ltd. (BKB) wurde 2013 gegründet und ergänzt das China-Netzwerk von BAUER.",
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_cn/bauer-china"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-cn-taicang",
+    "companyId": "bauer-kompressoren",
+    "lat": 31.4500,
+    "lng": 121.1000,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN Taicang (BKJ) – Fertigungsstandort",
+    "address": "Taicang, Jiangsu, China (nahe Shanghai)",
+    "city": "Taicang",
+    "state": "Jiangsu",
+    "country": "CN",
+    "description": "Neuer Fertigungsstandort von BAUER KOMPRESSOREN CHINA (BKC) in Taicang, Jiangsu, nahe Shanghai, mit 7.000 Quadratmetern Fläche. Der Standort wurde 2023/2024 errichtet, um die Fertigungskapazitäten für den chinesischen Markt zu erweitern.",
+    "products": [
+      "Kompressoren",
+      "Druckluftsysteme"
+    ],
+    "sources": [
+      "https://www.bauer-kompressoren.de/en_cn/bauer-china"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-in-pune",
+    "companyId": "bauer-kompressoren",
+    "lat": 18.6298,
+    "lng": 73.7997,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN India Pvt. Ltd. – Pune",
+    "address": "Plot no. T-128, 'T' Block, MIDC, Pimpri Chinchwad Industrial Area, Bhosari, Pune – 411026, Indien",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "IN",
+    "description": "Indische Tochtergesellschaft BAUER KOMPRESSOREN India Pvt. Ltd. (BKI), gegründet im Dezember 2008. Der Standort in Pune bei Mumbai wurde gewählt, weil die Stadt als boomender Industriestandort optimale Bedingungen bot. Über 70 Mitarbeiter, lokale Entwicklung und Fertigung. Das Produktportfolio reicht vom kompakten Atemluftkompressor bis zu fahrzeug- oder containerbasierten Großanlagen. Kunden sind Stahlwerke, Automobilunternehmen, Katastrophenschutzbehörden, Luft- und Raumfahrtunternehmen und Biogasproduzenten.",
+    "products": [
+      "Atemluftkompressoren",
+      "Industriekompressoren",
+      "CNG-Kompressoren",
+      "Biogas-Kompressoren"
+    ],
+    "sources": [
+      "https://www.bauer-kompressoren.de/de_de/bauer-india"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-kr-seoul",
+    "companyId": "bauer-kompressoren",
+    "lat": 37.5665,
+    "lng": 126.9780,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN Korea Ltd. – Seoul",
+    "address": "Seoul, Südkorea",
+    "city": "Seoul",
+    "country": "KR",
+    "description": "Südkoreanische Tochtergesellschaft BAUER KOMPRESSOREN Korea Ltd. für Vertrieb und Service in Südkorea.",
+    "sources": [
+      "https://www.bauer-group.de"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-tw-taipei",
+    "companyId": "bauer-kompressoren",
+    "lat": 25.0330,
+    "lng": 121.5654,
+    "headquarter": false,
+    "siteName": "BAUER Technologies Taiwan Ltd. – Taipei",
+    "address": "Taipei, Taiwan",
+    "city": "Taipei",
+    "country": "TW",
+    "description": "Taiwanesische Tochtergesellschaft BAUER Technologies Taiwan Ltd. mit Sitz in Taipei. Hinweis: Dies ist ein Standort der BAUER Spezialtiefbau-Gruppe, nicht der BAUER KOMPRESSOREN GmbH.",
+    "sources": [
+      "https://www.bauer.de"
+    ]
+  },
+  {
+    "id": "bauer-kompressoren-au-sydney",
+    "companyId": "bauer-kompressoren",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "headquarter": false,
+    "siteName": "BAUER KOMPRESSOREN Australia Pty. Ltd. – Sydney",
+    "address": "Sydney, Australien",
+    "city": "Sydney",
+    "country": "AU",
+    "description": "Australische Tochtergesellschaft BAUER KOMPRESSOREN Australia Pty. Ltd. für Vertrieb und Service in Australien und Ozeanien.",
+    "sources": [
+      "https://www.bauer-group.de"
+    ]
+  },
+  {
+    "id": "binz-de-ilmenau",
+    "companyId": "binz-automotive",
+    "lat": 50.6833,
+    "lng": 10.9167,
+    "headquarter": true,
+    "siteName": "Hauptwerk Ilmenau",
+    "address": "Am Vogelherd 21, 98693 Ilmenau",
+    "city": "Ilmenau",
+    "state": "Thüringen",
+    "country": "DE",
+    "description": "Hauptwerk und Unternehmenssitz der BINZ Automotive GmbH in Ilmenau im Thüringer Wald. In den vier zusammengehörigen Werkshallen werden Krankenwagen, Behördenfahrzeuge, Einsatzfahrzeuge und Fahrzeuge mit mobiler Medizintechnik konzipiert und produziert. Die Werke 1 bis 3 liegen im Gewerbegebiet 'Am Vogelherd', Werk 4 im benachbarten Gewerbegebiet 'Am Wald'. Rund 280 Mitarbeiter sind am Standort beschäftigt. Jährlich verlassen etwa 1.500 Fahrzeuge die Werkshallen. Die Produktionsfläche beträgt rund 16.000 Quadratmeter. Das Unternehmen ist im Handelsregister des Amtsgerichts Jena unter HRB 515051 B eingetragen. Geschäftsführer sind Oliver Mössler und Carsten Bothmann.",
+    "products": [
+      "Krankenwagen",
+      "Behördenfahrzeuge",
+      "Einsatzfahrzeuge",
+      "Mobile Medizintechnik"
+    ],
+    "sources": [
+      "https://binz-automotive.com/impressum/",
+      "https://binz-automotive.com/en/profile/locations/ilmenau/"
+    ]
+  },
+  {
+    "id": "binz-de-plauen",
+    "companyId": "binz-automotive",
+    "lat": 50.4942,
+    "lng": 12.1378,
+    "headquarter": false,
+    "siteName": "Produktionsstandort Plauen",
+    "address": "Leuchtsmühlenweg 12, 08523 Plauen",
+    "city": "Plauen",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Produktionsstandort der BINZ Automotive Sachsen GmbH in Plauen im Vogtland. Der Standort befindet sich auf dem Gelände des einstigen Neoplan/MAN-Werks am Leuchtsmühlenweg im Südwesten von Plauen. BINZ übernahm den Standort 2021 von MAN und führt damit die mehr als 100-jährige Fahrzeugbautradition fort. Am Standort sind rund 239 Mitarbeiter beschäftigt. Hier werden Blaulichtfahrzeuge für Rettungsdienste, Feuerwehren und Behörden gefertigt, darunter auch Sanitätstransporter für die Bundeswehr. Die BINZ Automotive Sachsen GmbH ist im Handelsregister des Amtsgerichts Chemnitz unter HRB 33930 eingetragen. Geschäftsführer ist Oliver Mössler.",
+    "products": [
+      "Blaulichtfahrzeuge",
+      "Sanitätstransporter",
+      "Feuerwehrfahrzeuge",
+      "Behördenfahrzeuge"
+    ],
+    "sources": [
+      "https://binz-automotive.com/impressum/",
+      "https://binz-automotive.com/en/profile/locations/plauen/"
+    ]
+  },
+  {
+    "id": "binz-pluederhausen",
+    "companyId": "binz-automotive",
+    "lat": 48.8000,
+    "lng": 9.6167,
+    "headquarter": false,
+    "siteName": "Niederlassung Süd Plüderhausen",
+    "address": "Im Rank 10, 73655 Plüderhausen",
+    "city": "Plüderhausen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Vertriebs- und Serviceniederlassung Süd der BINZ Automotive GmbH in Plüderhausen (Baden-Württemberg), im Großraum Stuttgart. Hier werden Beratung, Verkauf und ein Servicestützpunkt geboten, der vom Hauptsitz in Ilmenau koordiniert wird. Der Standort dient der Betreuung von Kunden in Süddeutschland und der Region Stuttgart. Die Adresse Im Rank 10 ist im Handelsregister und in Branchenverzeichnissen als offizieller Standort vermerkt. Die Telefonnummer lautet +49 7181 88791-0.",
+    "products": [
+      "Vertrieb",
+      "Service",
+      "Beratung"
+    ],
+    "sources": [
+      "https://binz-automotive.com/pluederhausen/",
+      "https://www.11880.com"
+    ]
+  },
+  {
+    "id": "blackned-de-heimertingen",
+    "companyId": "blackned",
+    "lat": 48.0333,
+    "lng": 10.1500,
+    "headquarter": true,
+    "siteName": "Hauptsitz Heimertingen",
+    "address": "Zugspitzstraße 1, 87751 Heimertingen",
+    "city": "Heimertingen",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz und Unternehmenszentrale der blackned GmbH in Heimertingen im Landkreis Unterallgäu. Hier befinden sich Unternehmensführung, Entwicklung, Projektmanagement und Verwaltung. Das Unternehmen ist im Handelsregister des Amtsgerichts Memmingen unter HRB 17319 eingetragen. Die Telefonnummer lautet +49 8331 99 59 – 600. Geschäftsführer sind Dr. Joel Langenberg (CEO) und Sebastian Buchberger (CFO). blackned beschäftigt rund 300 Mitarbeiter an sechs Standorten in der DACH-Region.",
+    "products": [
+      "RIDUX",
+      "XONITOR",
+      "TACTICAL CORE"
+    ],
+    "sources": [
+      "https://blackned.de/imprint/",
+      "https://www.lobbyregister.bundestag.de"
+    ]
+  },
+  {
+    "id": "blackned-de-gilching",
+    "companyId": "blackned",
+    "lat": 48.1167,
+    "lng": 11.2833,
+    "headquarter": false,
+    "siteName": "Standort Gilching",
+    "address": "Zeppelinstraße 2, 82205 Gilching",
+    "city": "Gilching",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Standort der blackned GmbH in Gilching bei München. Der Standort dient als Entwicklungs- und Projektstandort für Kunden im Großraum München. Die Adresse Zeppelinstraße 2 ist im Standortverzeichnis des Unternehmens und in Stellenausschreibungen als offizieller Standort aufgeführt.",
+    "products": [
+      "Softwareentwicklung",
+      "Projektmanagement"
+    ],
+    "sources": [
+      "https://jobs.blackned.de",
+      "https://profiles.crustdata.com/company/blackned-gmbh"
+    ]
+  },
+  {
+    "id": "blackned-de-koblenz",
+    "companyId": "blackned",
+    "lat": 50.3567,
+    "lng": 7.5942,
+    "headquarter": false,
+    "siteName": "Standort Koblenz",
+    "address": "Bubenheimer Bann 14, 56070 Koblenz",
+    "city": "Koblenz",
+    "state": "Rheinland-Pfalz",
+    "country": "DE",
+    "description": "Standort der blackned GmbH in Koblenz. Der Standort liegt in unmittelbarer Nähe zum Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw) und dient als Schnittstelle zur Bundeswehr sowie für Projektmanagement und Systemintegration.",
+    "sources": [
+      "https://profiles.crustdata.com/company/blackned-gmbh",
+      "https://www.jobvector.de"
+    ]
+  },
+  {
+    "id": "blackned-de-berlin",
+    "companyId": "blackned",
+    "lat": 52.5000,
+    "lng": 13.3800,
+    "headquarter": false,
+    "siteName": "Hauptstadtrepräsentanz Berlin",
+    "address": "Mehringdamm 57, 10961 Berlin",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "DE",
+    "description": "Hauptstadtrepräsentanz der blackned GmbH in Berlin-Kreuzberg. Das Büro am Mehringdamm 57 dient als Schnittstelle zur Politik, zum Bundestag, zu den Bundesministerien und zur Bundeswehr. Es ist im Lobbyregister des Bundestages als Hauptstadtrepräsentanz eingetragen (Registernummer R005115).",
+    "sources": [
+      "https://www.lobbyregister.bundestag.de",
+      "https://profiles.crustdata.com/company/blackned-gmbh"
+    ]
+  },
+  {
+    "id": "blackned-de-nuernberg",
+    "companyId": "blackned",
+    "lat": 49.4300,
+    "lng": 11.0200,
+    "headquarter": false,
+    "siteName": "Standort Nürnberg",
+    "address": "Südwestpark 23, 90449 Nürnberg",
+    "city": "Nürnberg",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Standort der blackned GmbH im Nürnberger Südwestpark. Der Standort dient als Entwicklungs- und Projektstandort für Kunden in Nordbayern.",
+    "sources": [
+      "https://www.jobvector.de"
+    ]
+  },
+  {
+    "id": "blackned-de-salzburg",
+    "companyId": "blackned",
+    "lat": 47.8100,
+    "lng": 13.0400,
+    "headquarter": false,
+    "siteName": "blackned in Austria GmbH – Salzburg",
+    "address": "Glockengasse 4d, 5020 Salzburg, Österreich",
+    "city": "Salzburg",
+    "country": "AT",
+    "description": "Österreichische Tochtergesellschaft blackned in Austria GmbH mit Sitz in Salzburg. Die Gesellschaft wurde am 3. September 2013 ins österreichische Firmenbuch eingetragen (Firmenbuchnummer 401740w) und ist auf IT-Beratung und Softwareentwicklung spezialisiert. Der Standort dient als Kompetenzzentrum für den österreichischen Markt und die Betreuung von Kunden in Österreich sowie der DACH-Region. Die Telefonnummer lautet +43 662 23 10 – 610. Im November 2025 übernahm blackned die Salzburger Semonit GmbH, die Entwicklerin der Software Jazzey.",
+    "sources": [
+      "https://www.wko.at",
+      "https://www.evi.gv.at",
+      "https://www.pressetext.com"
     ]
   },
   {

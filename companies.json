@@ -388,6 +388,76 @@
     ],
     "updatedAt": "2026-09-20"
   },
+  "autoflug": {
+    "name": "AUTOFLUG GmbH",
+    "description": "Die AUTOFLUG GmbH ist ein 1919 von dem Flugpionier Gerhard Sedlmayr in Berlin-Johannisthal gegründetes, inhabergeführtes Familienunternehmen der dritten Generation mit Hauptsitz in Rellingen bei Hamburg. Seit über 100 Jahren ist der Name AUTOFLUG untrennbar mit der Rettung und Sicherheit von Menschen verbunden – zu Lande, zu Wasser und in der Luft. Das Unternehmen ist ein weltweit anerkannter Lieferant und Servicepartner für die internationale Luftfahrtindustrie und Wehrtechnik. AUTOFLUG entwickelt, fertigt und wartet Sicherheits- und Rettungssysteme, Sicherheitssitze und Insassenschutzsysteme, multifunktionale Paletten (MULTIBASE), Pilotenausrüstung, Fallschirm- und Bergesysteme, Kraftstoffmess- und Steuerungssysteme, Bewegungs- und Lagesensoren sowie Test- und Prüfsysteme. Ein Schwerpunkt ist die Betreuung von Rettungs- und Sicherheitsgerät der Waffensysteme PA200 TORNADO, F-4F PHANTOM und EF2000 EUROFIGHTER in Kooperation mit der Luftwaffen-Instandhaltungsgruppe Ummendorf. AUTOFLUG beschäftigt über 300 Mitarbeiter und ist im Handelsregister des Amtsgerichts Pinneberg unter HRB 5365 eingetragen. Geschäftsführender Gesellschafter ist Martin Kroell. Das Unternehmen ist nach EN 9100:2018 (technisch gleichwertig mit AS 9100D) zertifiziert.",
+    "url": "https://www.autoflug.com/",
+    "category": ["Luftfahrt", "Verteidigung", "Sicherheit", "Rettungssysteme", "Insassenschutz"],
+    "parents": [],
+    "products": [
+      "Sicherheits- und Rettungssysteme",
+      "Sicherheitssitze und Insassenschutzsysteme",
+      "MULTIBASE (Multifunktionale Frachtraumpaletten)",
+      "Pilotenausrüstung",
+      "Fallschirm- und Bergesysteme",
+      "Kraftstoffmess- und Steuerungssysteme",
+      "Bewegungs- und Lagesensoren",
+      "Test- und Prüfsysteme"
+    ]
+  },
+  "autounique": {
+    "name": "Autounique GmbH",
+    "description": "Die Autounique GmbH ist ein 2013 gegründetes interdisziplinäres Beratungs-, Entwicklungs- und Projektbüro mit Sitz in Bayreuth und über 30 Jahren Erfahrung im Sonderfahrzeugbau. Das Unternehmen ist ein technisch kompetenter Partner für Kunden aus dem zivilen und militärischen Bereich und deckt die gesamte Bandbreite von der strategischen Unternehmensberatung und dem Produktionsmanagement über die ballistische Material- und Konzeptentwicklung bis hin zur Projektunterstützung bei Prototypen und Sonderserien ab. Dank eines internationalen Netzwerks von kommerziellen und wissenschaftlichen Partnern können Kunden weltweit betreut werden. Der Geschäftsgegenstand umfasst Planung, Entwicklung und Konstruktion, Herstellung und Vertrieb von Materialien, Maschinen und Anlagen, Automatisierung und Mechanisierung, Elektrotechnik sowie die Herstellung von Kraftfahrzeug- und Maschinenmodellen, Funktionsmodellen, Prototypen, Karosserien und Sondermaschinen. Das Unternehmen ist im Handelsregister des Amtsgerichts Bayreuth unter HRB 6739 eingetragen und im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet. Geschäftsführer ist Jörg Lorenz. Das Stammkapital beträgt 25.000 EUR.",
+    "url": "https://www.autounique.com/",
+    "category": ["Sonderfahrzeugbau", "Panzerung", "Entwicklung", "Beratung", "Verteidigung"],
+    "parents": [],
+    "products": [
+      "Sonderfahrzeugbau",
+      "Ballistische Material- und Konzeptentwicklung",
+      "Strategische Unternehmensberatung",
+      "Produktionsmanagement",
+      "Prototypen- und Sonderserienunterstützung",
+      "Automatisierung und Mechanisierung",
+      "Elektrotechnik",
+      "Fahrzeug- und Maschinenmodelle",
+      "Funktionsmodelle und Karosserien",
+      "Prüf- und Testeinrichtungen"
+    ]
+  },
+  "avilus": {
+    "name": "AVILUS GmbH",
+    "description": "Die AVILUS GmbH ist ein 2021 gegründetes deutsches Luftfahrtunternehmen mit Hauptsitz in Ismaning bei München, das eine neue Klasse von Dual-Use-Drohnen für medizinische Evakuierung, Logistik und ISR-Unterstützung entwickelt, produziert und betreibt. Das Unternehmen wurde am 3. September 2021 gegründet und ist im Handelsregister des Amtsgerichts München unter HRB 290902 eingetragen (zuvor Amtsgericht Iserlohn HRB 10074, Sitz Hemer). Der Sitz wurde am 25. Januar 2024 von Hemer nach Ismaning verlegt. Geschäftsführer ist Ernst Wilhelm Rittinghaus. AVILUS ist im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet und im Lobbyregister des Bundestages registriert. Das Unternehmen entwickelt Drohnen mit einer maximalen Startmasse von 500–1.000 kg und einer charakteristischen Größe von bis zu 8 Metern. Das Portfolio umfasst die Rettungsdrohne Grille, die Mehrzweck-Helikopterdrohne Wespe und die strategische Flächendrohne Bussard. Alle Drohnen nutzen das Avioniksystem RasCore, das nach militärischen Standards entworfen und mit NATO-Gefechtsführungssystemen kompatibel ist. AVILUS beschäftigt rund 50 Mitarbeiter und ist nach EASA Specific Category zugelassen.",
+    "url": "https://www.avilus.com/",
+    "category": ["Drohnen", "Unbemannte-Systeme", "Luftfahrt", "Rettungssysteme", "Verteidigungstechnologie"],
+    "parents": [],
+    "products": [
+      "Grille (Rettungsdrohne, 50 km, 175 kg Nutzlast)",
+      "Wespe (Mehrzweck-Helikopterdrohne, 300 km, 200 kg Nutzlast)",
+      "Bussard (Strategische Flächendrohne, 2500 km, 150 kg Nutzlast)",
+      "RasCore (Avioniksystem)",
+      "Drone as a Service",
+      "Manned-to-Unmanned Conversion"
+    ]
+  },
+  "axsol": {
+    "name": "AXSOL GmbH",
+    "description": "Die AXSOL GmbH ist ein 2012 gegründetes Unternehmen mit Hauptsitz in Würzburg, das sich auf die Entwicklung, Projektierung und den schlüsselfertigen Bau stationärer und mobiler Batteriespeichersysteme (BESS) spezialisiert hat. AXSOL ist ein Full-Service-EPC-Partner (Engineering, Procurement, Construction) und begleitet Kunden über den gesamten Lebenszyklus einer Speicherlösung – von der Analyse und Auslegung über die Beschaffung, den Bau und die Inbetriebnahme bis zur Betriebsführung. Kernprodukt ist die Energy Container Solutions (ECS)-Plattform, eine modular skalierbare Batteriespeicherlösung für Industrie, Infrastruktur und Versorger bis in den Multi-Megawatt-Bereich, ergänzt um das hauseigene Energiemanagementsystem AXOS zur Echtzeit-Steuerung sowie das KI-gestützte System ADONYS zur Optimierung von Lebensdauer und Erträgen. AXSOL liefert auch mobile Batteriespeicher (ARVEY B2) und hybride Energiecontainer (MEC, HBS) für militärische Anwendungen, den Katastrophenschutz und kritische Infrastrukturen. Das Unternehmen beschäftigt rund 15 Mitarbeiter und ist im Handelsregister des Amtsgerichts Würzburg unter HRB 14641 eingetragen. Geschäftsführer ist Jürgen Zinecker. Seit November 2023 gehört AXSOL mehrheitlich zur Joachim Loh Unternehmensgruppe GmbH (Haiger, Hessen) mit über 1.500 Mitarbeitern und 440 Mio. € Umsatz.",
+    "url": "https://www.axsol.eu/",
+    "category": ["Energie", "Batteriespeicher", "Energiemanagement", "Verteidigung", "Infrastruktur"],
+    "parents": ["joachim-loh"],
+    "products": [
+      "Energy Container Solutions (ECS)",
+      "AXOS (Energiemanagementsystem)",
+      "ADONYS (KI-Optimierung)",
+      "ARVEY B2 (mobiler Batteriespeicher)",
+      "MEC (Multi-hybrider Energiecontainer)",
+      "HBS (Hybrid Battery System)",
+      "CN20 hybrid",
+      "CNHybrid",
+      "Grid-scale BESS (bis Multi-MW)",
+      "LFP-Batterien mit über 10.000 Ladezyklen"
+    ]
+  },
   "bae-systems": {
     "name": "BAE Systems plc",
     "description": "BAE Systems ist ein britischer Rüstungskonzern mit Sitz in Farnborough und einer der größten Verteidigungs- und Sicherheitskonzerne der Welt. Das Unternehmen ist Gesellschafter von MBDA (37,5 %) und europäischer Partner mehrerer Rüstungsprogramme.",
@@ -396,6 +466,93 @@
     "parents": [],
     "products": [],
     "updatedAt": "2026-09-20"
+  },
+  "baeck": {
+    "name": "Baeck GmbH & Co. KG",
+    "description": "Die Baeck GmbH & Co. KG ist ein 1950 gegründetes, familiengeführtes Handelsunternehmen mit Sitz in Norderstedt bei Hamburg, das unter der Marke COBA auftritt. Das Unternehmen ist auf den Im- und Export sowie den Großhandel mit elektronischen, elektrischen und mechanischen Bauteilen spezialisiert und beliefert die europäische Verteidigungs-, Industrie- und Technologiebranche. Das Portfolio umfasst aktive und passive elektronische Komponenten, Halbleiter, Transformatoren, Kabelkonfektionierung, Primär- und Sekundärbatterien, Verbindungstechnik, Gehäuse, Beleuchtung sowie chemische Erzeugnisse. Baeck fungiert als kritische Schnittstelle zwischen globalen Komponentenherstellern – insbesondere aus Ostasien, Nordamerika und Europa – und europäischen Systemintegratoren. Das Unternehmen beschäftigt 20–49 Mitarbeiter, ist nach ISO 9001:2015 zertifiziert und im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet. Es ist im Handelsregister des Amtsgerichts Kiel unter HRA 1443 NO eingetragen. Persönlich haftende Gesellschafterin ist die Verwaltungsgesellschaft Baeck & Co. – Coba – m.b.H. (Amtsgericht Kiel, HRB 1489 NO). Geschäftsführer sind Dipl.-Betriebsw. E. Michael Scheube, Dipl.-Ing. Wolf D. Scheube und Andreas Rost.",
+    "url": "https://www.coba.de/",
+    "category": ["Elektronik", "Komponenten", "Großhandel", "Logistik", "Verteidigung"],
+    "parents": [],
+    "products": [
+      "Aktive elektronische Komponenten",
+      "Diskrete und Leistungshalbleiter",
+      "Passive Bauelemente",
+      "Transformatoren",
+      "Kabel und Kabelkonfektionierung",
+      "Primär- und Sekundärbatterien",
+      "Verbindungstechnik",
+      "Gehäuse und mechanische Komponenten",
+      "Beleuchtung",
+      "Chemische Erzeugnisse",
+      "Antriebstechnik"
+    ]
+  },
+  "bareways": {
+    "name": "BAREWAYS GmbH",
+    "description": "Die BAREWAYS GmbH ist ein 2019 gegründetes Technologieunternehmen mit Sitz in Lübeck, das KI-gestützte Navigations- und Mobilitätsdienste für den automobilen und motorisierten Bereich entwickelt. Das Unternehmen wurde von Moritz von Grotthuss (CEO) und Sascha Klement (CTO) gegründet und hat sich auf hochwertige Karten- und Routing-Dienste für alle Wetter- und Straßenbedingungen spezialisiert. Die Bareways-Technologie nutzt Location-AI, um sichere und komfortable Routen zu berechnen – auch abseits befestigter Straßen und in ländlichen Regionen mit schlechter Infrastruktur. Zu den Kunden zählen globale Automobil- und Motorradhersteller, Mobilitätsdienstleister, Reiseveranstalter und Autovermietungen (B2B). Die Dienste sind bereits bei mehreren Automobilherstellern weltweit im kommerziellen Einsatz. Das Unternehmen ist im Handelsregister des Amtsgerichts Lübeck unter HRB 19028 HL eingetragen und hat seinen Sitz auf einem Technologie-Campus in Lübeck. Bareways beschäftigt rund 15 Mitarbeiter.",
+    "url": "https://bareways.ai/",
+    "category": ["KI-Software", "Navigation", "Mobilität", "Location-AI", "Digitale-Dienste"],
+    "parents": [],
+    "products": [
+      "KI-gestützte Navigationsdienste",
+      "Location-AI-Plattform",
+      "Routing- und Kartendienste",
+      "Gefahrenwarnungen und Echtzeitdaten",
+      "Reisezeit-Schätzungen",
+      "Routenplanung für alle Straßenbedingungen"
+    ]
+  },
+  "bauer-kompressoren": {
+    "name": "BAUER KOMPRESSOREN GmbH",
+    "description": "Die BAUER KOMPRESSOREN GmbH ist ein 1946 gegründeter, weltweit führender Hersteller von Hoch- und Mitteldruck-Kompressoren sowie kompletten Druckluft- und Gassystemen mit Hauptsitz in München. Das Unternehmen ist Teil der BAUER GROUP, die mit rund 1.500 Mitarbeitern in 22 Tochtergesellschaften und einem weltweiten Netz aus rund 50 Niederlassungen und über 360 Partnern einen Umsatz von mehr als 420 Millionen Euro erwirtschaftet. Die BAUER GROUP ist auf allen Kontinenten vertreten. Die Produktpalette umfasst Atemluftkompressoren für Feuerwehr und Tauchen, Industriekompressoren, CNG-Großtankstellen, Hochdruck-Gassysteme, Marine-Kompressoren sowie Anlagen für die Gasinnendrucktechnologie. Die BAUER KOMPRESSOREN GmbH ist im Handelsregister des Amtsgerichts München unter HRB 61193 eingetragen. Der Hauptsitz befindet sich in der Stäblistraße 8 in 81477 München. Die Produktionsstandorte in Deutschland sind Geretsried (Werk I und II) sowie das UNICCOMP-Werk. Die BAUER KOMPRESSOREN GmbH ist nach ISO 9001 und ISO 14001 zertifiziert.",
+    "url": "https://www.bauer-kompressoren.de/",
+    "category": ["Kompressoren", "Drucklufttechnik", "Industrietechnik", "Marinesysteme", "Verteidigung"],
+    "parents": ["bauer-group"],
+    "products": [
+      "Atemluftkompressoren",
+      "Industriekompressoren",
+      "CNG-Großtankstellen",
+      "Hochdruck-Gassysteme",
+      "Marine-Kompressoren",
+      "Gasinnendrucktechnologie (GIT)",
+      "Biogas- und Wasserstoff-Kompressoren",
+      "Druckluftaufbereitung und Speichersysteme"
+    ]
+  },
+  "binz-automotive": {
+    "name": "BINZ Automotive GmbH",
+    "description": "Die BINZ Automotive GmbH ist ein 1936 von Michael Binz in Lorch (Württemberg) gegründetes und heute in Ilmenau (Thüringen) ansässiges Unternehmen im Sonderfahrzeugbau. BINZ ist eines der führenden Unternehmen im Ausbau von Fahrzeugen aus den Bereichen Ambulanz, Feuerwehr, Polizei und anderer öffentlich-rechtlicher Behörden und Institutionen. Das Unternehmen gehört zu den Technologieführern in der mobilen Medizintechnik und fertigt jährlich über 1.500 Ambulanz-, Feuerwehr- und Behördenfahrzeuge sowie Ausbauten für den medizinischen Dienst. BINZ betreibt zwei Produktionsstandorte – das Hauptwerk in Ilmenau (Thüringen) mit den Werken 1 bis 4 und den Standort Plauen (Sachsen) auf dem Gelände des einstigen Neoplan/MAN-Werks am Leuchtsmühlenweg – sowie eine Vertriebs- und Serviceniederlassung in Plüderhausen (Baden-Württemberg). Das Unternehmen beschäftigt über 500 Mitarbeiter an beiden Produktionsstandorten (Ilmenau: ca. 280, Plauen: ca. 239). Die BINZ Automotive GmbH ist im Handelsregister des Amtsgerichts Jena unter HRB 515051 B eingetragen. Geschäftsführer sind Oliver Mössler und Carsten Bothmann. Zu den Tochterunternehmen gehören die BINZ Ambulance- und Umwelttechnik GmbH (Ilmenau) und die BINZ Automotive Sachsen GmbH (Plauen).",
+    "url": "https://binz-automotive.com/",
+    "category": ["Sonderfahrzeugbau", "Rettungssysteme", "Fahrzeugsysteme", "Medizintechnik", "Verteidigung"],
+    "parents": [],
+    "products": [
+      "Ambulanzfahrzeuge",
+      "Feuerwehrfahrzeuge",
+      "Polizeifahrzeuge",
+      "Behördenfahrzeuge",
+      "Mobile Medizintechnik",
+      "Fahrzeuge mit mobiler medizinischer Technologie",
+      "Sanitätstransporter",
+      "RESCUBE (Box body in TopCompositeDesign)",
+      "Patientenlagerungssysteme",
+      "Desinfektionssysteme (UV-C LED)"
+    ]
+  },
+  "blackned": {
+    "name": "blackned GmbH",
+    "description": "Die blackned GmbH ist ein 2009 gegründeter Hightech-Softwarehersteller und Spezialist für missionskritische Kommunikationssysteme mit Hauptsitz in Heimertingen (Landkreis Unterallgäu, Bayern). Das Unternehmen entwickelt softwarebasierte Verteidigungslösungen für die Digitalisierung von Streitkräften. Kernprodukte sind die taktische Middleware RIDUX, das Managementsystem XONITOR und das digitale Ökosystem TACTICAL CORE, das einen zukunftssicheren und offenen Rahmen für Digitalisierungsprojekte innerhalb der NATO-Streitkräfte bietet. blackned beschäftigt rund 300 Mitarbeiter an sechs Standorten in der DACH-Region: Heimertingen (Hauptsitz), Gilching bei München, Koblenz, Berlin, Nürnberg und Salzburg (Österreich). Das Unternehmen ist im Handelsregister des Amtsgerichts Memmingen unter HRB 17319 eingetragen. Geschäftsführer sind Dr. Joel Langenberg (CEO) und Sebastian Buchberger (CFO). Im Januar 2025 hat die Rheinmetall Electronics GmbH ihren Anteil auf 51 % aufgestockt; seit März 2025 wird blackned als vollkonsolidiertes Tochterunternehmen in den Rheinmetall-Konzern einbezogen. Die blackned GmbH ist im Lobbyregister des Bundestages unter R005115 registriert und Mitglied im BDSV, Bitkom, Förderkreis Deutsches Heer, AFCEA Bonn, MARINBO und Wirtschaftsrat der CDU.",
+    "url": "https://blackned.de/",
+    "category": ["ki-software", "kommunikation", "verteidigungstechnologie", "digitalisierung", "sicherheit"],
+    "parents": ["rheinmetall"],
+    "products": [
+      "RIDUX (Taktische Middleware)",
+      "XONITOR (Managementsystem)",
+      "TACTICAL CORE (Digitales Ökosystem)",
+      "GuardStack (Produktfamilie)",
+      "Softwarebasierte Verteidigungslösungen",
+      "Ende-zu-Ende-verschlüsselte mobile Kommunikationssysteme",
+      "Taktische Netze für Landstreitkräfte"
+    ]
   },
   "diehl": {
     "name": "Diehl Defence",

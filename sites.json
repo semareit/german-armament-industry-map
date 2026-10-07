@@ -3711,6 +3711,435 @@
     ]
   },
   {
+    "id": "bluecher-de-erkrath",
+    "companyId": "bluecher",
+    "lat": 51.2185,
+    "lng": 6.9070,
+    "headquarter": true,
+    "siteName": "Hauptsitz Erkrath",
+    "address": "Mettmanner Str. 25, 40699 Erkrath",
+    "city": "Erkrath",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Hauptsitz und Unternehmenszentrale der Blücher GmbH in Erkrath bei Düsseldorf. Hier sind neben der Geschäftsführung alle zentralen Abteilungen angesiedelt – Vertrieb, Forschung & Entwicklung, Produktmanagement, Qualitätsmanagement, Controlling, Marketing und diverse Stabsstellen. Die permanente Entwicklungsarbeit, alle Produktionsschritte für SARATOGA® Schutzbekleidungen sowie der Vertrieb werden von Erkrath aus gesteuert. Das Unternehmen ist im Handelsregister des Amtsgerichts Wuppertal unter HRB 28129 eingetragen. Geschäftsführer ist Bernd Neumann. Die Telefonnummer lautet +49 (0)211 9244-0.",
+    "products": [
+      "Forschung und Entwicklung",
+      "Vertrieb",
+      "Produktmanagement"
+    ],
+    "sources": [
+      "https://bluecher.com/jobs/",
+      "https://www.northdata.de/Blücher+GmbH,+Erkrath/Amtsgericht+Wuppertal+HRB+28129"
+    ]
+  },
+  {
+    "id": "bluecher-de-premnitz",
+    "companyId": "bluecher",
+    "lat": 52.5333,
+    "lng": 12.3333,
+    "headquarter": false,
+    "siteName": "Betriebsstätte Adsor-Tech Premnitz",
+    "address": "Von-Blücher-Str. 2, 14727 Premnitz",
+    "city": "Premnitz",
+    "state": "Brandenburg",
+    "country": "DE",
+    "description": "Produktionsstandort der Blücher GmbH in Premnitz (Brandenburg). Hier befindet sich die Betriebsstätte Adsor-Tech, in der die Kernkomponenten der Blücher-Filtertechnologien – sphärische Hochleistungsadsorbenzien – hergestellt werden. Die Produktion erfolgt im firmeneigenen Werk in Brandenburg. Der Standort ist nach ISO 9001 zertifiziert (Geltungsbereich: Entwicklung und Herstellung von Hochleistungsadsorbenzien). Die Adresse Von-Blücher-Straße 2 in 14727 Premnitz ist im offiziellen Standortverzeichnis der Stadt Premnitz und im TÜV-Zertifikat aufgeführt. Die Telefonnummer lautet 03386 20000.",
+    "products": [
+      "Hochleistungsadsorbenzien",
+      "Textile ABC-Filter"
+    ],
+    "sources": [
+      "https://www.premnitz.de/verzeichnis/index.php?kategorie=880&modus=drucken",
+      "https://www.bluecher.com/fileadmin/Downloads/zertifikate/ISO9001DE.pdf"
+    ]
+  },
+  {
+    "id": "bluecher-de-premnitz",
+    "companyId": "bluecher",
+    "lat": 52.5350,
+    "lng": 12.3400,
+    "headquarter": false,
+    "siteName": "Betriebsstätte SmarTex Premnitz",
+    "address": "Wolprylastraße 4, 14727 Premnitz",
+    "city": "Premnitz",
+    "state": "Brandenburg",
+    "country": "DE",
+    "description": "Zweite Betriebsstätte der Blücher GmbH in Premnitz. Die Betriebsstätte SmarTex in der Wolprylastraße 4 ist auf die Herstellung von sorptiven Verbundwerkstoffen spezialisiert. Der Standort ist im TÜV-Zertifikat (ISO 9001) als eigenständiger Standort aufgeführt. Im August 2023 wurde der Blücher GmbH für den Betriebsteil SmarTex in der Wolprylastraße 4 die Genehmigung zur Errichtung und zum Betrieb einer Anlage zum Beschichten, Kaschieren und Laminieren von bahnenförmigen Substraten erteilt.",
+    "products": [
+      "Sorptive Verbundwerkstoffe"
+    ],
+    "sources": [
+      "https://www.bluecher.com/fileadmin/Downloads/zertifikate/ISO9001DE.pdf",
+      "https://bravors.brandenburg.de"
+    ]
+  },
+  {
+    "id": "bluecher-us-bethesda",
+    "companyId": "bluecher",
+    "lat": 38.9847,
+    "lng": -77.0947,
+    "headquarter": false,
+    "siteName": "Tex-Shield Inc. – Bethesda (US-Tochter)",
+    "address": "3 Bethesda Metro Center, Suite 700, Bethesda, MD 20814, USA",
+    "city": "Bethesda",
+    "state": "Maryland",
+    "country": "US",
+    "description": "US-Tochtergesellschaft der Blücher GmbH. Die Tex-Shield, Inc. wurde 1990 gegründet und ist eine hundertprozentige Tochtergesellschaft von Blücher USA, die wiederum vollständig der Blücher GmbH gehört. Tex-Shield stellt das chemische Schutzmaterial 'Saratoga Filter Cloth' her, das zu ABC-Schutzanzügen für das US-Militär und US-Behörden verarbeitet wird. Der Standort befindet sich im 3 Bethesda Metro Center in Bethesda, Maryland. Die Blücher-Gruppe produziert ihre Kernkomponenten ausschließlich in eigenen hochmodernen Werken in Deutschland und den USA.",
+    "products": [
+      "Saratoga Filter Cloth",
+      "ABC-Schutzmaterial"
+    ],
+    "sources": [
+      "https://www.dandb.com/businessdirectory/texshieldinc.-bethesda-md-21230187.html",
+      "https://www.ca1.uscourts.gov"
+    ]
+  },
+  {
+    "id": "boger-de-wolpertswende",
+    "companyId": "boger-electronics",
+    "lat": 47.8667,
+    "lng": 9.6000,
+    "headquarter": true,
+    "siteName": "Hauptsitz Wolpertswende",
+    "address": "Bauhofstraße 3, 88284 Wolpertswende",
+    "city": "Wolpertswende",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Neuer Hauptsitz der boger electronics gmbh seit März 2025. Das neue Firmengebäude wurde am 23. April 2025 feierlich eingeweiht. Der Neubau markiert einen bedeutenden Schritt in der Unternehmensentwicklung des Spezialisten für Signalanalyse und taktische Systeme. Hier befinden sich Unternehmensführung, Entwicklung und Vertrieb. Die Telefonnummer lautet +49 (0) 75 02 – 5 77 94 – 0. Das Unternehmen ist im Handelsregister des Amtsgerichts Ulm unter HRB 600169 eingetragen. Geschäftsführer ist Sven Boger.",
+    "products": [
+      "Kommunikationsaufklärungssysteme",
+      "Signalanalyse",
+      "Taktische Systeme"
+    ],
+    "sources": [
+      "https://www.boger-electronics.de/company/",
+      "https://www.boger-electronics.de/imprint/",
+      "https://defence-network.com/boger-electronics-feiert-einweihung-des-neuen-firmengebaeudes/"
+    ]
+  },
+  {
+    "id": "boger-de-halle-saale",
+    "companyId": "boger-electronics",
+    "lat": 51.4969,
+    "lng": 11.9689,
+    "headquarter": false,
+    "siteName": "Standort Halle (Saale)",
+    "address": "Halle (Saale), Sachsen-Anhalt",
+    "city": "Halle (Saale)",
+    "state": "Sachsen-Anhalt",
+    "country": "DE",
+    "description": "Zusätzlicher Geschäftsstandort der boger electronics gmbh in Halle (Saale). Der Standort wurde 2017 im Zuge der Übernahme des Unternehmens durch die zweite Familiengeneration (Sven Boger) eröffnet. Von hier aus werden Kunden in Mitteldeutschland betreut. Der genaue Standort innerhalb von Halle (Saale) ist nicht öffentlich bekannt; die Adresse wird in Unternehmensverzeichnissen nicht genannt. Die Standorteröffnung ist in der Unternehmenschronik als Meilenstein dokumentiert.",
+    "sources": [
+      "https://www.boger-electronics.de/company/",
+      "https://www.boger-electronics.de/de/unternehmen/"
+    ]
+  },
+  {
+    "id": "boger-ch-gais",
+    "companyId": "boger-electronics",
+    "lat": 47.3667,
+    "lng": 9.4500,
+    "headquarter": false,
+    "siteName": "boger-electronics swiss gmbh – Gais",
+    "address": "Traubenstrasse 10, 9056 Gais, Schweiz",
+    "city": "Gais",
+    "state": "Appenzell Ausserrhoden",
+    "country": "CH",
+    "description": "Schweizer Tochtergesellschaft der boger electronics gmbh. Die boger-electronics swiss gmbh wurde am 16. November 2010 ins Schweizer Handelsregister eingetragen (UID CHE-116.213.542, HR-Nummer CH-300.4.016.821-0) und hat ihren Sitz in Gais im Kanton Appenzell Ausserrhoden. Der Unternehmenszweck umfasst Vertrieb und Entwicklung von elektronischen Anlagen und Bauteilen der Funk- und Messtechnik. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten. Stammkapital: 20.000 CHF. Die Telefonnummer lautet +41 71 461 10 57. Für Schweizer Kunden ist dies die offizielle Kontaktadresse.",
+    "sources": [
+      "https://www.boger-electronics.de/de/impressum/",
+      "https://www.lixt.ch",
+      "https://www.moneyhouse.ch"
+    ]
+  },
+  {
+    "id": "bruker-optics-de-ettlingen",
+    "companyId": "bruker-optics",
+    "lat": 48.9333,
+    "lng": 8.4000,
+    "headquarter": true,
+    "siteName": "Hauptsitz und F&E-Zentrum Ettlingen",
+    "address": "Rudolf-Plank-Straße 27, 76275 Ettlingen",
+    "city": "Ettlingen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Hauptsitz und größtes F&E- und Fertigungszentrum der Bruker Optics GmbH & Co. KG in Ettlingen bei Karlsruhe. Hier befinden sich Unternehmensführung, Forschung und Entwicklung, Produktion, Vertrieb und Service für wissenschaftliche, analytische Messinstrumente sowie Geräte für Prozesskontrolle und Forschung. Der Standort ist im ISO-14001-Zertifikat als Standort /01 gelistet. Die Bruker Optics GmbH & Co. KG ist im Handelsregister des Amtsgerichts Mannheim unter HRA 710333 eingetragen. Die Telefonnummer lautet +49 7243 504-2000. Ebenfalls am Standort ansässig sind die Bruker Optics Verwaltungs GmbH und die Bruker BioSpin GmbH & Co. KG.",
+    "products": [
+      "FT-IR-Spektrometer",
+      "FT-NIR-Spektrometer",
+      "Raman-Spektrometer",
+      "Bildgebungsspektrometer"
+    ],
+    "sources": [
+      "https://www.bruker.com/de/about/quality",
+      "https://www.bruker.com/de/contact"
+    ]
+  },
+  {
+    "id": "bruker-optics-de-leipzig",
+    "companyId": "bruker-optics",
+    "lat": 51.3397,
+    "lng": 12.3731,
+    "headquarter": false,
+    "siteName": "F&E- und Produktionszentrum Leipzig (Trace Detection)",
+    "address": "Permoserstraße 19, Haus II, 04318 Leipzig",
+    "city": "Leipzig",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Zweites F&E- und Fertigungszentrum der Bruker Optics GmbH & Co. KG in Leipzig. Der Standort ist Sitz des Geschäftsbereichs Trace Detection, eines weltweit führenden Anbieters von chemischen Detektionssystemen für Sicherheits- und Verteidigungsanwendungen. Hier werden Ionenmobilitätsspektrometer und radiologische Detektionssysteme entwickelt und gefertigt. Der Standort ist im ISO-14001-Zertifikat als Standort /02 gelistet. Die Adresse Haus II, Permoserstraße 19 in 04318 Leipzig ist im BDSV-Mitgliederverzeichnis und in offiziellen Ausschreibungen dokumentiert.",
+    "products": [
+      "Ionenmobilitätsspektrometer",
+      "Radiologische Detektionssysteme",
+      "Trace-Detection-Systeme"
+    ],
+    "sources": [
+      "https://www.bruker.com/de/about/quality",
+      "https://bdsv.eu/mitglieder/mitglied-details.html?show=133"
+    ]
+  },
+  {
+    "id": "bruker-optics-de-erlangen",
+    "companyId": "bruker-optics",
+    "lat": 49.5897,
+    "lng": 11.0044,
+    "headquarter": false,
+    "siteName": "Vertriebsstandort Erlangen",
+    "address": "Erlangen, Bayern",
+    "city": "Erlangen",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Vertriebs- und Anwendungsstandort der Bruker Optics GmbH & Co. KG in Erlangen. Der Standort wurde durch eine Stellenausschreibung für einen Application Scientist BioPharma bekannt, die als Einsatzort den Postleitzahlenbereich 91058 Erlangen angibt. Der Standort dient der Kundenbetreuung, Anwendungsentwicklung und technischen Unterstützung für Kunden in Nordbayern. Der genaue Standort innerhalb Erlangens ist nicht öffentlich bekannt.",
+    "sources": [
+      "https://analytik.news/jobs/angebote/49501.html"
+    ]
+  },
+    {
+    "id": "bruker-optics-us-woodlands",
+    "companyId": "bruker-optics",
+    "lat": 30.1650,
+    "lng": -95.4880,
+    "headquarter": false,
+    "siteName": "Bruker Optics Inc. – The Woodlands, Texas (US-Hauptsitz)",
+    "address": "2700 Technology Forest Blvd, The Woodlands, TX 77381, USA",
+    "city": "The Woodlands",
+    "state": "Texas",
+    "country": "US",
+    "description": "US-Hauptsitz und F&E- sowie Fertigungszentrum der Bruker Optics in The Woodlands, Texas. Der Standort ist neben Ettlingen eines der beiden globalen F&E- und Produktionszentren von Bruker Optics. Hier werden FT-IR-, FT-NIR- und Raman-Spektrometer für den amerikanischen Markt entwickelt und gefertigt. Die Adresse ist im Handelsregister von Texas dokumentiert.",
+    "products": [
+      "FT-IR-Spektrometer",
+      "FT-NIR-Spektrometer",
+      "Raman-Spektrometer"
+    ],
+    "sources": [
+      "https://www.optikinstruments.eu/about-us/",
+      "https://catalog.expocentr.ru"
+    ]
+  },
+  {
+    "id": "bruker-optics-us-billerica",
+    "companyId": "bruker-optics",
+    "lat": 42.5584,
+    "lng": -71.2689,
+    "headquarter": false,
+    "siteName": "Bruker Corporation – Billerica (Konzernzentrale)",
+    "address": "40 Manning Road, Billerica, MA 01821, USA",
+    "city": "Billerica",
+    "state": "Massachusetts",
+    "country": "US",
+    "description": "Konzernzentrale der Bruker Corporation, der Muttergesellschaft von Bruker Optics. Die Bruker Corporation ist an der NASDAQ unter dem Kürzel BRKR notiert und beschäftigt weltweit über 6.000 Mitarbeiter. Von Billerica aus werden die globalen Aktivitäten der Konzernsparten Bruker Scientific Instruments (Bruker AXS, Bruker BioSpin, Bruker Daltonics und Bruker Optics) und Bruker Energy & Supercon Technologies (BEST) gesteuert.",
+    "sources": [
+      "https://www.finderr.de",
+      "https://www.bruker.com"
+    ]
+  },
+  {
+    "id": "bruker-optics-uk-london",
+    "companyId": "bruker-optics",
+    "lat": 51.5000,
+    "lng": -0.1200,
+    "headquarter": false,
+    "siteName": "Bruker Optics UK – London",
+    "address": "London, Vereinigtes Königreich",
+    "city": "London",
+    "country": "GB",
+    "description": "Vertriebs- und Supportzentrum von Bruker Optics für Großbritannien und Irland. Der Standort betreut Kunden in UK und Irland mit Vertrieb, Applikationssupport und Service für FT-IR-, FT-NIR- und Raman-Spektrometer.",
+    "sources": [
+      "https://www.bruker.com/en/services/support.html"
+    ]
+  },
+  {
+    "id": "bruker-optics-fr-paris",
+    "companyId": "bruker-optics",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "headquarter": false,
+    "siteName": "Bruker Optics Frankreich – Paris",
+    "address": "Paris, Frankreich",
+    "city": "Paris",
+    "country": "FR",
+    "description": "Vertriebs- und Supportzentrum von Bruker Optics für Frankreich. Der Standort betreut französische Kunden mit Vertrieb, Applikationssupport und Service.",
+    "sources": [
+      "https://www.bruker.com/en/services/support.html"
+    ]
+  },
+  {
+    "id": "bruker-optics-it-mailand",
+    "companyId": "bruker-optics",
+    "lat": 45.4642,
+    "lng": 9.1900,
+    "headquarter": false,
+    "siteName": "Bruker Optics Italien – Mailand",
+    "address": "Mailand, Italien",
+    "city": "Mailand",
+    "country": "IT",
+    "description": "Vertriebs- und Supportzentrum von Bruker Optics für Italien. Der Standort betreut italienische Kunden mit Vertrieb, Applikationssupport und Service.",
+    "sources": [
+      "https://www.bruker.com/en/services/support.html"
+    ]
+  },
+  {
+    "id": "bruker-optics-es-madrid",
+    "companyId": "bruker-optics",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "headquarter": false,
+    "siteName": "Bruker Optics Spanien – Madrid",
+    "address": "Madrid, Spanien",
+    "city": "Madrid",
+    "country": "ES",
+    "description": "Vertriebs- und Supportzentrum von Bruker Optics für Spanien und Portugal. Der Standort betreut Kunden auf der Iberischen Halbinsel.",
+    "sources": [
+      "https://www.bruker.com/en/services/support.html"
+    ]
+  },
+  {
+    "id": "bruker-optics-nl-benelux",
+    "companyId": "bruker-optics",
+    "lat": 52.0333,
+    "lng": 5.0833,
+    "headquarter": false,
+    "siteName": "Bruker Optics Benelux – Nieuwegein",
+    "address": "Nieuwegein, Niederlande",
+    "city": "Nieuwegein",
+    "country": "NL",
+    "description": "Vertriebs- und Supportzentrum von Bruker Optics für die Benelux-Länder (Belgien, Niederlande, Luxemburg). Der Standort betreut Kunden in der Region.",
+    "sources": [
+      "https://www.bruker.com/en/services/support.html"
+    ]
+  },
+  {
+    "id": "bruker-optics-de-stockholm",
+    "companyId": "bruker-optics",
+    "lat": 59.3293,
+    "lng": 18.0686,
+    "headquarter": false,
+    "siteName": "Bruker Optics Skandinavien – Stockholm",
+    "address": "Stockholm, Schweden",
+    "city": "Stockholm",
+    "country": "SE",
+    "description": "Vertriebs- und Supportzentrum von Bruker Optics für Skandinavien. Der Standort betreut Kunden in Schweden, Norwegen, Dänemark und Finnland.",
+    "sources": [
+      "https://www.bruker.com/en/services/support.html"
+    ]
+  },
+  {
+    "id": "bruker-optics-ch-shanghai",
+    "companyId": "bruker-optics",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "headquarter": false,
+    "siteName": "Bruker Optics China – Shanghai",
+    "address": "Shanghai, China",
+    "city": "Shanghai",
+    "country": "CN",
+    "description": "Vertriebs- und Supportzentrum von Bruker Optics für China. Der Standort betreut chinesische Kunden mit Vertrieb, Applikationssupport und Service.",
+    "sources": [
+      "https://www.bruker.com/en/services/support.html"
+    ]
+  },
+  {
+    "id": "bruker-optics-jp-tokio",
+    "companyId": "bruker-optics",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "headquarter": false,
+    "siteName": "Bruker Optics Japan – Tokio",
+    "address": "Tokio, Japan",
+    "city": "Tokio",
+    "country": "JP",
+    "description": "Vertriebs- und Supportzentrum von Bruker Optics für Japan. Der Standort betreut japanische Kunden mit Vertrieb, Applikationssupport und Service.",
+    "sources": [
+      "https://www.bruker.com/en/services/support.html"
+    ]
+  },
+  {
+    "id": "bruker-optics-in-mumbai",
+    "companyId": "bruker-optics",
+    "lat": 19.0760,
+    "lng": 72.8777,
+    "headquarter": false,
+    "siteName": "Bruker Optics Indien – Mumbai",
+    "address": "Mumbai, Indien",
+    "city": "Mumbai",
+    "country": "IN",
+    "description": "Vertriebs- und Supportzentrum von Bruker Optics für Indien. Der Standort betreut indische Kunden mit Vertrieb, Applikationssupport und Service.",
+    "sources": [
+      "https://www.bruker.com/en/services/support.html"
+    ]
+  },
+  {
+    "id": "bruker-optics-ae-dubai",
+    "companyId": "bruker-optics",
+    "lat": 25.2048,
+    "lng": 55.2708,
+    "headquarter": false,
+    "siteName": "Bruker Optics Naher Osten – Dubai",
+    "address": "Dubai, VAE",
+    "city": "Dubai",
+    "country": "AE",
+    "description": "Vertriebs- und Supportzentrum von Bruker Optics für den Nahen Osten. Der Standort betreut Kunden in den Golfstaaten und der Region.",
+    "sources": [
+      "https://www.bruker.com/en/services/support.html"
+    ]
+  },
+  {
+    "id": "bruker-optics-za-johannesburg",
+    "companyId": "bruker-optics",
+    "lat": -26.2041,
+    "lng": 28.0473,
+    "headquarter": false,
+    "siteName": "Bruker Optics Afrika – Johannesburg",
+    "address": "Johannesburg, Südafrika",
+    "city": "Johannesburg",
+    "country": "ZA",
+    "description": "Vertriebs- und Supportzentrum von Bruker Optics für Afrika. Der Standort betreut Kunden in Südafrika und dem südlichen Afrika.",
+    "sources": [
+      "https://www.bruker.com/en/services/support.html"
+    ]
+  },
+  {
+    "id": "burgmaier-hightech-de-laupheim",
+    "companyId": "burgmaier-hightech",
+    "lat": 48.2333,
+    "lng": 9.8833,
+    "headquarter": true,
+    "siteName": "Fertigungsstandort Laupheim",
+    "address": "Willy-Messerschmitt-Straße 10, 88471 Laupheim",
+    "city": "Laupheim",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Einziger Fertigungsstandort und Hauptsitz der Burgmaier Hightech GmbH + Co KG in Laupheim. Das Unternehmen wurde 2004 gegründet und 2007 um eine zweite Produktionshalle erweitert, wodurch sich die Produktionsfläche verdoppelte. Hier fertigt Burgmaier Hightech mit rund 400 Mitarbeitern an 100 Fertigungsmaschinen auf 30.000 m² Produktionsfläche hochpräzise Drehteile in Großserien. Das Unternehmen ist im Handelsregister des Amtsgerichts Ulm unter HRA 722215 eingetragen. Geschäftsführer ist Marco Lancuba. Die Telefonnummer lautet +49 7392 709 15-0.",
+    "products": [
+      "Hochpräzise Drehteile",
+      "Einbaufertige Präzisionsteile",
+      "Großserienfertigung"
+    ],
+    "sources": [
+      "https://burgmaier.com/impressum/",
+      "https://burgmaier.com/kontakt/"
+    ]
+  },
+  {
     "id": "diehl-de-ueberlingen-firmensitz",
     "companyId": "diehl",
     "lat": 47.758026,

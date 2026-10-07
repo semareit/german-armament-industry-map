@@ -554,6 +554,71 @@
       "Taktische Netze für Landstreitkräfte"
     ]
   },
+  "bluecher": {
+    "name": "Blücher GmbH",
+    "description": "Die Blücher GmbH ist ein 1969 gegründetes, familiengeführtes mittelständisches Unternehmen mit Hauptsitz in Erkrath bei Düsseldorf und das Herzstück der Blücher Gruppe. Das Unternehmen ist weltweit führend in der Entwicklung und Produktion hocheffizienter Filtertechnologien auf Basis sphärischer Hochleistungsadsorbenzien sowie von ABC-Schutzsystemen und Schutzbekleidung. Die Produkte sind durch über 350 Patente geschützt und finden in den SARATOGA® ABC-Schutzbekleidungen für Militär, Zivilschutz, Feuerwehr und Polizei sowie bei internationalen Organisationen wie der UNO-Organisation OPCW (Friedensnobelpreis 2013) weltweite Anwendung. Das Unternehmen beschäftigt rund 150 Mitarbeiter an den Standorten Erkrath und Premnitz. Der Hauptsitz in Erkrath steuert Entwicklung, Vertrieb, Produktmanagement und Qualitätsmanagement; der Produktionsstandort liegt in Premnitz (Brandenburg). Die Blücher GmbH ist im Handelsregister des Amtsgerichts Wuppertal unter HRB 28129 eingetragen und Mitglied im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV). Geschäftsführer ist Bernd Neumann.",
+    "url": "https://www.bluecher.com/",
+    "category": ["Schutzausrüstung", "Filtertechnologie", "Sicherheit", "Verteidigung", "Textiltechnik"],
+    "parents": [],
+    "products": [
+      "SARATOGA® ABC-Schutzbekleidung",
+      "Sphärische Hochleistungsadsorbenzien",
+      "Textile ABC-Filter",
+      "Filtertechnologien für Luft- und Wasserfiltration",
+      "CBRN-Schutzsysteme",
+      "Permasorb (Spezial-Tapete)",
+      "Schutzsysteme für Militär, Zivilschutz, Feuerwehr und Polizei"
+    ]
+  },
+  "boger-electronics": {
+    "name": "boger electronics gmbh",
+    "description": "Die boger electronics gmbh ist ein 1978 als 'Bogerfunk Funkanlagen' gegründetes mittelständisches Unternehmen mit neuem Hauptsitz in Wolpertswende (Landkreis Ravensburg, Baden-Württemberg). Das Unternehmen entwickelt und fertigt Kommunikationsaufklärungssysteme (COMINT & SIGINT) für Behörden und Streitkräfte. Der Schwerpunkt liegt auf der Funkaufklärung im HF- und V/UHF-Frequenzbereich sowie der Aufklärung mobiler und drahtloser Kommunikation (GSM/3G/4G/5G). Weitere Kompetenzen umfassen taktische Signalanalyse, automatische Signalklassifikation, Dekodierung und Peilung. Das Unternehmen beschäftigt 1-10 Mitarbeiter und ist im Handelsregister des Amtsgerichts Ulm unter HRB 600169 eingetragen. Geschäftsführer ist Sven Boger. Die USt-IdNr. lautet DE 146 350 861. boger electronics ist im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet und stellt auf Fachmessen wie der RÜ.NET aus.",
+    "url": "https://www.boger-electronics.de/",
+    "category": ["Elektronik", "Signalanalyse", "Kommunikationsaufklärung", "Sicherheit", "Verteidigung"],
+    "parents": [],
+    "products": [
+      "Kommunikationsaufklärungssysteme (COMINT)",
+      "Signalaufklärungssysteme (SIGINT)",
+      "HF- und V/UHF-Monitoring-Systeme",
+      "Automatisches Tasking und Workflow-Management",
+      "Signalklassifikation und Dekodierung",
+      "Peilsysteme für taktische UAVs",
+      "Kundenspezifische Sensor-Entwicklung"
+    ]
+  },
+  "bruker-optics": {
+    "name": "Bruker Optics GmbH & Co. KG",
+    "description": "Die Bruker Optics GmbH & Co. KG ist ein 1974 gegründeter und weltweit führender Hersteller von Fourier-Transform-Infrarot- (FT-IR), Nahinfrarot- (FT-NIR) und Raman-Spektrometern sowie von Bildgebungsspektrometern, mobilen Gaschromatographen/Massenspektrometern, Ionenmobilitätsspektrometern und radiologischen Detektionssystemen. Das Unternehmen ist Teil der Bruker Corporation (NASDAQ: BRKR) mit Sitz in Billerica, Massachusetts, und beschäftigt weltweit über 6.000 Mitarbeiter. Bruker Optics betreibt Forschungs- und Entwicklungs- sowie Fertigungszentren in Ettlingen (Baden-Württemberg) und Leipzig (Sachsen). Der Geschäftsbereich Trace Detection mit Sitz in Leipzig ist ein weltweit führender Anbieter von chemischen Detektionssystemen für Sicherheits- und Verteidigungsanwendungen. Bruker Optics ist im Handelsregister des Amtsgerichts Mannheim unter HRA 710333 eingetragen. Das Unternehmen ist im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet und stellt auf Fachmessen wie der analytica, ACHEMA, control und INTERSCHUTZ aus.",
+    "url": "https://www.bruker.com/",
+    "category": ["Messtechnik", "Sensorik", "Spektroskopie", "Sicherheit", "Verteidigung"],
+    "parents": [],
+    "products": [
+      "FT-IR-Spektrometer",
+      "FT-NIR-Spektrometer",
+      "Raman-Spektrometer und Mikroskope",
+      "Bildgebungsspektrometer",
+      "Mobile Gaschromatographen/Massenspektrometer",
+      "Ionenmobilitätsspektrometer",
+      "Radiologische Detektionssysteme",
+      "Trace-Detection-Systeme"
+    ]
+  },
+  "burgmaier-hightech": {
+    "name": "Burgmaier Hightech GmbH + Co KG",
+    "description": "Die Burgmaier Hightech GmbH + Co KG ist ein 2004 gegründeter, familiengeführter Spezialist für die Herstellung hochpräziser Drehteile in Großserien mit Sitz in Laupheim (Baden-Württemberg). Das Unternehmen ist Teil der Burgmaier-Gruppe, die 1931 von Hugo Burgmaier gegründet wurde und auf eine über 90-jährige Tradition in der Präzisionsfertigung zurückblickt. Am Standort Laupheim fertigt Burgmaier Hightech mit rund 400 Mitarbeitern an 100 Fertigungsmaschinen auf 30.000 m² Produktionsfläche einbaufertige Präzisionsteile aus hochwertigen Stählen und NE-Metallen – von Stückzahlgröße 1 bis 1 Million, vom Stangenmaterial bis zum Schmiede- oder Gussteil. Die Produkte kommen in den Bereichen Elektrolenkung, Hybridisierung, Nockenwellenverstellung, Getriebe, Bremsen und Elektromotoren zum Einsatz und werden an Kunden in der Automobilindustrie sowie in der Verteidigungs- und Sicherheitstechnik geliefert. Das Unternehmen ist im Handelsregister des Amtsgerichts Ulm unter HRA 722215 eingetragen. Persönlich haftende Gesellschafterin ist die Burgmaier Beteiligungsgesellschaft mbH. Geschäftsführer ist Marco Lancuba. Burgmaier Hightech ist im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet und stellt auf Fachmessen wie der Enforce Tac aus.",
+    "url": "https://burgmaier.com/",
+    "category": ["zerspanungstechnik", "präzisionsteile", "automobil", "verteidigung", "luftfahrt"],
+    "parents": [],
+    "products": [
+      "Hochpräzise Drehteile",
+      "Einbaufertige Präzisionsteile",
+      "Stahl- und NE-Metall-Bearbeitung",
+      "Großserienfertigung",
+      "Zerspanungstechnik",
+      "Schleifen von Werkstücken",
+      "Drehbearbeitung (Gildemeister, INDEX, Schütte, Tornos)"
+    ]
+  },
   "diehl": {
     "name": "Diehl Defence",
     "description": "Diehl Defence bündelt die Geschäftsaktivitäten der Diehl-Gruppe in den Bereichen Verteidigung und Sicherheit und ist ein führendes Systemhaus im Bereich der Luftverteidigung. Als Partner der Bundeswehr und internationaler Streitkräfte entwickelt und liefert Diehl Defence Hightech-Ausrüstung in den Bereichen bodengebundene Luftverteidigung, Lenkflugkörper, Munition, Trainings- und Schutzsysteme.",

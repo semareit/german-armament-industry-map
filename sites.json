@@ -4140,6 +4140,988 @@
     ]
   },
   {
+    "id": "ca-picard-de-remscheid",
+    "companyId": "ca-picard",
+    "lat": 51.1833,
+    "lng": 7.1833,
+    "headquarter": true,
+    "siteName": "Stammwerk Remscheid",
+    "address": "Hasteraue 9, 42857 Remscheid",
+    "city": "Remscheid",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Hauptsitz und Stammwerk der Carl Aug. Picard GmbH im Remscheider Morsbachtal. Hier befinden sich Unternehmensführung, Entwicklung, Vertrieb sowie Produktionsanlagen für hochverschleißfeste Präzisionsteile. Der Standort umfasst auch die C.A.PICARD Aus- und Weiterbildung. Das Unternehmen ist im Handelsregister des Amtsgerichts Wuppertal unter HRB 13207 eingetragen. Die Telefonnummer lautet +49 2191 893-0. Der Hauptsitz liegt idyllisch im Morsbachtal, ist aber verkehrstechnisch gut angebunden.",
+    "products": [
+      "Präzisionsteile",
+      "Presswerkzeuge",
+      "Verschleißteile"
+    ],
+    "sources": [
+      "https://capicard.de/en/standorte/",
+      "https://www.northdata.de/Carl+Aug.+Picard+GmbH,+Remscheid"
+    ]
+  },
+  {
+    "id": "ca-picard-de-monschau",
+    "companyId": "ca-picard",
+    "lat": 50.5667,
+    "lng": 6.2500,
+    "headquarter": false,
+    "siteName": "Werk Monschau-Imgenbroich",
+    "address": "Hans-Georg-Weiss-Str. 14, 52156 Monschau-Imgenbroich",
+    "city": "Monschau",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Zweites deutsches Werk der Carl Aug. Picard GmbH in Monschau-Imgenbroich bei Aachen. Hier produziert das Unternehmen hochverschleißfeste Präzisionsteile und betreibt Qualitätsmanagement und Qualitätssicherung. Der Standort ist im Handelsregister als Produktionsstätte eingetragen. Die Telefonnummer lautet +49 2472 9909-0.",
+    "products": [
+      "Präzisionsteile",
+      "Verschleißteile"
+    ],
+    "sources": [
+      "https://capicard.de/en/standorte/",
+      "https://www.wlw.de"
+    ]
+  },
+  {
+    "id": "ca-picard-de-boenen",
+    "companyId": "ca-picard",
+    "lat": 51.6000,
+    "lng": 7.7667,
+    "headquarter": false,
+    "siteName": "C.A. Picard Pelletizing GmbH Bönen (USG)",
+    "address": "Siemensstraße 38b, 59199 Bönen",
+    "city": "Bönen",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Produktionsstandort der C.A. Picard Pelletizing GmbH (USG Uwe Stücke Granuliertechnik GmbH) in Bönen. Das Unternehmen wurde 2009 gegründet und 2023 mehrheitlich von C.A.PICARD übernommen. Hier werden Lochplatten und Messer/Messerhalter für die unterschiedlichsten Unterwassergranulatoren hergestellt und vertrieben. Die Telefonnummer lautet +49 2383 91270-0. Die E-Mail-Adresse ist info@capicard-pt.de.",
+    "products": [
+      "Lochplatten für Unterwassergranulatoren",
+      "Messer und Messerhalter"
+    ],
+    "sources": [
+      "https://capicard.de/en/standorte/",
+      "https://www.active-ma.de"
+    ]
+  },
+  {
+    "id": "ca-picard-us-battle-creek",
+    "companyId": "ca-picard",
+    "lat": 42.3212,
+    "lng": -85.1797,
+    "headquarter": false,
+    "siteName": "C.A. Picard, Inc. – Battle Creek, Michigan",
+    "address": "305 Hill Brady Road, Battle Creek, MI 49037, USA",
+    "city": "Battle Creek",
+    "state": "Michigan",
+    "country": "US",
+    "description": "US-Produktionsstandort und Tochtergesellschaft C.A. Picard, Inc. in Battle Creek, Michigan. Das Werk fertigt hochverschleißfeste Präzisionsteile für den nordamerikanischen Markt und beschäftigt qualifizierte Mitarbeiter. Die Telefonnummer lautet +1 269 962-2231. Die E-Mail-Adresse ist info@capicard.com.",
+    "products": [
+      "Präzisionsteile",
+      "Verschleißteile"
+    ],
+    "sources": [
+      "https://capicard.de/en/standorte/"
+    ]
+  },
+  {
+    "id": "ca-picard-th-bangkok",
+    "companyId": "ca-picard",
+    "lat": 13.7200,
+    "lng": 100.5300,
+    "headquarter": false,
+    "siteName": "Carl Aug. Picard GmbH – Bangkok",
+    "address": "The Phyll Community Mall Building, Room G-08A, FL.G, 1770 Sukhumvit Road, Phra Khanong Tai, Phra Khanong, Bangkok 10260, Thailand",
+    "city": "Bangkok",
+    "country": "TH",
+    "description": "Vertretung der Carl Aug. Picard GmbH in Bangkok, Thailand. Der Standort dient der Betreuung von Kunden in Südostasien und dem Vertrieb der C.A.PICARD-Produkte in der Region.",
+    "sources": [
+      "https://capicard.de/en/standorte/"
+    ]
+  },
+  {
+    "id": "ca-picard-hk-hongkong",
+    "companyId": "ca-picard",
+    "lat": 22.4500,
+    "lng": 114.1667,
+    "headquarter": false,
+    "siteName": "C.A. Picard Far East Ltd. – Hongkong",
+    "address": "20 Dai Fu Street, Tai Po Industrial Estate, Tai Po, N.T., Hongkong, China",
+    "city": "Hongkong",
+    "country": "HK",
+    "description": "C.A. Picard Far East Ltd. mit Sitz im Tai Po Industrial Estate in Hongkong. Die Gesellschaft ist die regionale Holding für die Aktivitäten in Fernost und betreut die Produktionsstandorte in Jiangmen und das Vertriebsbüro in Suzhou. Die Telefonnummer lautet +852 2665-7868. Die E-Mail-Adresse ist sales@capicard.com.hk.",
+    "sources": [
+      "https://capicard.de/en/standorte/"
+    ]
+  },
+  {
+    "id": "ca-picard-cn-jiangmen",
+    "companyId": "ca-picard",
+    "lat": 22.5833,
+    "lng": 113.0833,
+    "headquarter": false,
+    "siteName": "C.A.Picard (Jiangmen) Co., Ltd. – Jiangmen",
+    "address": "Erheshan Industrial Zone, Baisha, West District, Jiangmen 529000, China",
+    "city": "Jiangmen",
+    "state": "Guangdong",
+    "country": "CN",
+    "description": "Erste eigene Produktionsstätte von C.A.PICARD auf dem chinesischen Festland, gegründet 1998. Das Werk fertigt Präzisionsteile und Verschleißteile für den asiatischen Markt. Die Telefonnummer lautet +86 (750) 352-2753. Die E-Mail-Adresse ist capjm_sales@capicard.com.cn.",
+    "products": [
+      "Präzisionsteile",
+      "Verschleißteile"
+    ],
+    "sources": [
+      "https://capicard.de/en/standorte/",
+      "https://capicard.com.cn"
+    ]
+  },
+  {
+    "id": "ca-picard-cn-jiangmen-plastic",
+    "companyId": "ca-picard",
+    "lat": 22.5833,
+    "lng": 113.1000,
+    "headquarter": false,
+    "siteName": "C.A.Picard Plastic (Jiangmen PRC) Co., Ltd.",
+    "address": "Zhong Xin Road 1#, Jiaotou No.1, Industrial Park, Jianghai Estate, Jiangmen 529040, China",
+    "city": "Jiangmen",
+    "state": "Guangdong",
+    "country": "CN",
+    "description": "Zweites Werk in Jiangmen, gegründet 2004, spezialisiert auf Verschleißteile für Doppelschneckenextruder. Die Gesellschaft ist im chinesischen Handelsregister unter der Unified Social Credit Code 9144070075831277X5 eingetragen.",
+    "products": [
+      "Verschleißteile für Doppelschneckenextruder"
+    ],
+    "sources": [
+      "https://capicard.de/en/standorte/",
+      "https://capicard.com.cn"
+    ]
+  },
+  {
+    "id": "ca-picard-cn-suzhou",
+    "companyId": "ca-picard",
+    "lat": 31.3000,
+    "lng": 120.6000,
+    "headquarter": false,
+    "siteName": "C.A. Picard (Suzhou) Representative Office – Suzhou",
+    "address": "Room 1709, 17th Floor, Block 3, Suzhou Int. Science and Technology Building, No. 112 South YingChun Road, Chengnan Street, Wuzhong Eco. Dev. Zone, Suzhou 215168, China",
+    "city": "Suzhou",
+    "state": "Jiangsu",
+    "country": "CN",
+    "description": "Vertriebsbüro von C.A.PICARD in Suzhou, gegründet 2007. Das Büro dient der Betreuung von Kunden in Nord- und Ostchina und deckt alle Produkte der Plate Technology- und Extrusion Technology-Divisionen ab.",
+    "sources": [
+      "https://capicard.de/en/standorte/",
+      "https://capicard.com.cn"
+    ]
+  },
+  {
+    "id": "ca-picard-jp-kawaguchi",
+    "companyId": "ca-picard",
+    "lat": 35.8833,
+    "lng": 139.7167,
+    "headquarter": false,
+    "siteName": "C.A. Picard Japan Co., Ltd. – Kawaguchi (Saitama)",
+    "address": "2-42-6 Kamiaoki, Kawaguchi City, Saitama 333-0844, Japan",
+    "city": "Kawaguchi",
+    "state": "Saitama",
+    "country": "JP",
+    "description": "Japanische Tochtergesellschaft C.A. Picard Japan Co., Ltd. mit Sitz in Kawaguchi nördlich von Tokio. Das Unternehmen wurde 1998 gegründet und bezog 2019 ein neugebautes Gebäude am Standort Kawaguchi. Die Telefonnummer lautet +81 0 48 263-5017. Die E-Mail-Adresse ist sales@capicard.co.jp. Am Standort steht ein Vorführsystem für Unterwassergranulatoren zur Verfügung.",
+    "sources": [
+      "https://capicard.de/en/standorte/",
+      "https://capicard.de"
+    ]
+  },
+  {
+    "id": "ca-picard-jp-kobe",
+    "companyId": "ca-picard",
+    "lat": 34.6833,
+    "lng": 135.1667,
+    "headquarter": false,
+    "siteName": "C.A. Picard Japan Co., Ltd. – Kobe Branch",
+    "address": "Little Brothers Rokko Bldg. 5F-D, 1-3-19 Morigocho, Nada Ku, Kobe, Hyogo 657-0028, Japan",
+    "city": "Kobe",
+    "state": "Hyogo",
+    "country": "JP",
+    "description": "Zweigstelle von C.A. Picard Japan Co., Ltd. in Kobe. Der Standort dient der Kundenbetreuung und dem Vertrieb in der Region Kansai.",
+    "sources": [
+      "https://capicard.de/en/standorte/"
+    ]
+  },
+  {
+    "id": "carl-friederichs-de-frankfurt-am-main-schlitzer-strasse",
+    "companyId": "carl-friederichs",
+    "lat": 50.1167,
+    "lng": 8.7500,
+    "headquarter": true,
+    "siteName": "Standort Schlitzer Straße (Fechenheim)",
+    "address": "Schlitzer Straße 6-10, 60386 Frankfurt am Main",
+    "city": "Frankfurt am Main",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "Hauptsitz und Produktionsstandort der Carl Friederichs GmbH im Frankfurter Stadtteil Fechenheim. Der Standort an der Schlitzer Straße 6-10 wurde 1964 als zweites Werk für die Produktion von Nutzfahrzeugen für Europa, den Orient und Afrika eröffnet. Hier befinden sich die Unternehmensführung, die Entwicklung und Fertigung von Sonderfahrzeugen sowie eines der größten Lackierzentren im Rhein-Main-Gebiet. Das Unternehmen ist im Handelsregister des Amtsgerichts Frankfurt am Main unter HRB 12120 eingetragen. Geschäftsführer ist Henrik Schepler.",
+    "products": [
+      "Gepanzerte Sicherheitsfahrzeuge",
+      "Geld- und Werttransporter",
+      "Sonderschutzkarosserien",
+      "Lackierung"
+    ],
+    "sources": [
+      "https://www.friederichs-frankfurt.de/impressum/",
+      "https://www.companyhouse.de/Carl-Friederichs-GmbH-Frankfurt-am-Main"
+    ]
+  },
+  {
+    "id": "carl-friederichs-de-frankfurt-am-main-hardenbergstrasse",
+    "companyId": "carl-friederichs",
+    "lat": 50.1180,
+    "lng": 8.6600,
+    "headquarter": false,
+    "siteName": "Standort Hardenbergstraße (Westend)",
+    "address": "Hardenbergstraße 3-7, 60327 Frankfurt am Main",
+    "city": "Frankfurt am Main",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "Zweiter Standort der Carl Friederichs GmbH im Frankfurter Stadtteil Westend. Das Unternehmen bezog die Räumlichkeiten an der Hardenbergstraße 1953. Hier befinden sich die Karosseriewerkstatt und die Unfallreparatur für Pkw, Nutzfahrzeuge, Busse und Sonderfahrzeuge. Der Standort ist auch für die Lackierung und Instandsetzung zuständig.",
+    "products": [
+      "Unfallreparatur",
+      "Lackierung",
+      "Karosseriebau"
+    ],
+    "sources": [
+      "https://www.friederichs-frankfurt.de/",
+      "https://web2.cylex.de"
+    ]
+  },
+  {
+    "id": "carl-walther-de-ulm",
+    "companyId": "carl-walther",
+    "lat": 48.4011,
+    "lng": 9.9876,
+    "headquarter": true,
+    "siteName": "Hauptwerk Ulm",
+    "address": "Im Lehrer Feld 1, 89081 Ulm",
+    "city": "Ulm",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Hauptwerk und juristischer Sitz der Carl Walther GmbH & Co. Produktions KG im Ulmer Industriegebiet Lehrer Feld. Das hochmoderne Werk wurde 1953 nach dem Zweiten Weltkrieg von Fritz Walther neu aufgebaut und ist seitdem die zentrale Produktionsstätte. Hier werden Sport- und Verteidigungswaffen in Serienproduktion gefertigt. Das Werk beherbergt zudem die Walther Meister Manufaktur, in der erfahrene Büchsenmacher unter Leitung von Matthias Schulzendorf individuelle Custom-Sportwaffen in enger Zusammenarbeit mit Kunden fertigen. Das Unternehmen ist im Handelsregister des Amtsgerichts Ulm unter HRA 2612 eingetragen. Die Telefonnummer lautet +49 731 1539-0.",
+    "products": [
+      "Dienstpistolen (P99, PDP)",
+      "Sportpistolen (GSP, SSP)",
+      "Sportgewehre (KK500, LG400)",
+      "Custom-Sportwaffen (Meister Manufaktur)"
+    ],
+    "sources": [
+      "https://de.wikipedia.org/wiki/Carl_Walther_GmbH",
+      "https://www.carl-walther.de/",
+      "https://www.all4shooters.com"
+    ]
+  },
+  {
+    "id": "carl-walther-de-arnsberg",
+    "companyId": "carl-walther",
+    "lat": 51.4000,
+    "lng": 8.0667,
+    "headquarter": false,
+    "siteName": "Zweigniederlassung Arnsberg",
+    "address": "Donnerfeld 2, 59757 Arnsberg",
+    "city": "Arnsberg",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Zweigniederlassung der Carl Walther GmbH & Co. Produktions KG in Arnsberg-Neheim. Der Standort Donnerfeld 2 ist Sitz der Arnsberger Umarex-Gruppe, zu der Carl Walther seit 1993 gehört. Hier werden Sportwaffen und Verteidigungswaffen gefertigt. Die Zweigniederlassung ist im Handelsregister des Amtsgerichts Arnsberg unter HRA 2621 eingetragen. Die Telefonnummer lautet +49 2932 638-100.",
+    "products": [
+      "Sportwaffen",
+      "Verteidigungswaffen"
+    ],
+    "sources": [
+      "https://de.wikipedia.org/wiki/Carl_Walther_GmbH",
+      "https://www.carl-walther.de/",
+      "https://www.companyhouse.de"
+    ]
+  },
+  {
+    "id": "carmenta-de-muenchen",
+    "companyId": "carmenta-germany",
+    "lat": 48.1333,
+    "lng": 11.5500,
+    "headquarter": true,
+    "siteName": "Hauptsitz München",
+    "address": "Theresienhöhe 28, 80339 München",
+    "city": "München",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz und einziger offizieller Standort der Carmenta Germany GmbH in München. Das Büro wurde 2019 als Business Hub für die DACH-Region eröffnet und ist die Basis für deutschsprachige Kollegen aus Vertrieb, Projektmanagement und Softwareentwicklung. Hier werden Geospatial-Softwarelösungen für Verteidigung und öffentliche Sicherheit entwickelt und vertrieben. Das Unternehmen ist im Handelsregister des Amtsgerichts München unter HRB 174192 eingetragen. Geschäftsführer ist Karl Gunnar Torbjörn Lönnqvist. Die Adresse Theresienhöhe 28 in 80339 München ist im ISO-27001-Zertifikat der Carmenta-Gruppe als offizieller Standort aufgeführt.",
+    "products": [
+      "Geospatial-Software",
+      "Situational Awareness",
+      "UAV-Video-Integration"
+    ],
+    "sources": [
+      "https://carmenta.com/contact",
+      "https://carmenta.com/wp-content/uploads/2026/02/ISO-IEC_27001-ENG-C849193-0-20260205.pdf",
+      "https://die-deutsche-wirtschaft.de/unternehmen/carmenta-germany-gmbh-muenchen/"
+    ]
+  },
+  {
+    "id": "ceramtec-de-plochingen",
+    "companyId": "ceramtec",
+    "lat": 48.7136,
+    "lng": 9.4189,
+    "headquarter": true,
+    "siteName": "Hauptsitz Plochingen",
+    "address": "CeramTec-Platz 1–9, 73207 Plochingen",
+    "city": "Plochingen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Hauptsitz der CeramTec-Gruppe in Plochingen bei Stuttgart. Hier befinden sich Unternehmensführung, Entwicklung und Vertrieb. Der Standort Plochingen/Ebersbach bildet mit dem benachbarten Werk in Ebersbach/Fils einen der größten Produktionsverbünde der Gruppe. Die CeramTec GmbH ist im Handelsregister des Amtsgerichts Esslingen unter HRB 221794 eingetragen. Die Telefonnummer lautet +49 7153 611-0.",
+    "products": [
+      "Hochleistungskeramik",
+      "Medizintechnik",
+      "Industriekeramik"
+    ],
+    "sources": [
+      "https://www.ceramtec-group.com/de/impressum",
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-de-ebersbach",
+    "companyId": "ceramtec",
+    "lat": 48.7167,
+    "lng": 9.4667,
+    "headquarter": false,
+    "siteName": "SPK by CeramTec, Standort Ebersbach/Fils",
+    "address": "Hauptstr. 56, 73061 Ebersbach/Fils",
+    "city": "Ebersbach/Fils",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Produktionsstandort SPK by CeramTec in Ebersbach/Fils, direkt benachbart zum Hauptsitz in Plochingen. Hier werden keramische Komponenten und Schneidkeramik gefertigt. Der Standort ist Teil des Produktionsverbunds Plochingen/Ebersbach.",
+    "products": [
+      "Schneidkeramik",
+      "Keramische Komponenten"
+    ],
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-de-lauf",
+    "companyId": "ceramtec",
+    "lat": 49.5167,
+    "lng": 11.2833,
+    "headquarter": false,
+    "siteName": "Standort Lauf an der Pegnitz",
+    "address": "Luitpoldstraße 15, 91207 Lauf an der Pegnitz",
+    "city": "Lauf an der Pegnitz",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Produktionsstandort CeramTec GmbH in Lauf an der Pegnitz bei Nürnberg. Hier werden keramische Produkte für die Industrie und Medizintechnik entwickelt und gefertigt. Der Standort ist im ISO-9001-Zertifikat der CeramTec GmbH als eigenständiger Produktionsstandort aufgeführt.",
+    "products": [
+      "Keramische Produkte",
+      "Medizintechnik"
+    ],
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-de-marktredwitz",
+    "companyId": "ceramtec",
+    "lat": 50.0000,
+    "lng": 12.0833,
+    "headquarter": false,
+    "siteName": "Standort Marktredwitz",
+    "address": "CeramTec-Weg 1, 95615 Marktredwitz",
+    "city": "Marktredwitz",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Gründungsstandort und einer der größten Produktionsstandorte der CeramTec GmbH in Marktredwitz (Oberfranken). Die industrielle Geschichte reicht bis 1903 zurück. Hier werden Substrate, Komponenten für Drucksensoren und andere Strukturkeramiken hergestellt. Der Standort ist im ISO-9001-Zertifikat als eigenständiger Produktionsstandort aufgeführt.",
+    "products": [
+      "Substrate",
+      "Drucksensoren",
+      "Strukturkeramik"
+    ],
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit",
+      "https://www.ceramtec-group.com/de/unternehmen/geschichte"
+    ]
+  },
+  {
+    "id": "ceramtec-de-lohmar",
+    "companyId": "ceramtec",
+    "lat": 50.8333,
+    "lng": 7.2167,
+    "headquarter": false,
+    "siteName": "CeramTec-ETEC GmbH, Lohmar",
+    "address": "An der Burg Sülz 17, 53797 Lohmar",
+    "city": "Lohmar",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Produktionsstandort der CeramTec-ETEC GmbH in Lohmar bei Köln. Hier werden Aluminiumoxid und andere Strukturkeramiken hergestellt. Die CeramTec-ETEC GmbH ist eine Tochtergesellschaft der CeramTec GmbH.",
+    "products": [
+      "Aluminiumoxid",
+      "Strukturkeramik"
+    ],
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-de-wilhermsdorf",
+    "companyId": "ceramtec",
+    "lat": 49.4500,
+    "lng": 10.7500,
+    "headquarter": false,
+    "siteName": "Emil Müller GmbH, Wilhermsdorf",
+    "address": "Dürrnbucher Str. 10, 91452 Wilhermsdorf",
+    "city": "Wilhermsdorf",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Produktionsstandort der Emil Müller GmbH in Wilhermsdorf (Mittelfranken), einer Tochtergesellschaft der CeramTec GmbH. Hier werden keramische Komponenten gefertigt.",
+    "products": [
+      "Keramische Komponenten"
+    ],
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-de-loerrach",
+    "companyId": "ceramtec",
+    "lat": 47.6167,
+    "lng": 7.6667,
+    "headquarter": false,
+    "siteName": "CeramTec Dentalvertriebs GmbH, Lörrach",
+    "address": "Wallbrunnstraße 24, 79539 Lörrach",
+    "city": "Lörrach",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Standort der CeramTec Dentalvertriebs GmbH in Lörrach, einer Tochtergesellschaft der CeramTec GmbH. Hier ist der Vertrieb für Dentalprodukte angesiedelt.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-cz-sumpek",
+    "companyId": "ceramtec",
+    "lat": 49.9667,
+    "lng": 16.9833,
+    "headquarter": false,
+    "siteName": "CeramTec Czech Republic, s.r.o. – Šumperk",
+    "address": "Žerotínova 62, 78701 Šumperk, Tschechische Republik",
+    "city": "Šumperk",
+    "country": "CZ",
+    "description": "Produktionsstandort der CeramTec Czech Republic, s.r.o. in Šumperk. Hier liegt die Expertise in Siliziumkarbid für die Halbleiterindustrie und den 3D-Druck. Der Standort ist Teil des europäischen Produktionsnetzwerks.",
+    "products": [
+      "Siliziumkarbid",
+      "Halbleiterkomponenten",
+      "3D-Druck"
+    ],
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-gb-ruabon",
+    "companyId": "ceramtec",
+    "lat": 53.0000,
+    "lng": -2.9833,
+    "headquarter": false,
+    "siteName": "CeramTec UK Limited, Ruabon",
+    "address": "Vauxhall Industrial Estate, Ruabon, Wrexham LL14 6HY, Vereinigtes Königreich",
+    "city": "Wrexham",
+    "country": "GB",
+    "description": "Produktionsstandort von CeramTec UK Limited in Ruabon, Wales. Hier werden Piezokeramik, Sensoren, Wandler und Kondensatoren für Automotive, Medizintechnik und Industrie gefertigt.",
+    "products": [
+      "Piezokeramik",
+      "Sensoren",
+      "Wandler",
+      "Kondensatoren"
+    ],
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-gb-southampton",
+    "companyId": "ceramtec",
+    "lat": 50.9167,
+    "lng": -1.3833,
+    "headquarter": false,
+    "siteName": "CeramTec UK Limited, Southampton",
+    "address": "Antelope Park, Bursledon Road, Thornhill, Southampton SO19 7TG, Vereinigtes Königreich",
+    "city": "Southampton",
+    "country": "GB",
+    "description": "Zweiter Produktionsstandort von CeramTec UK Limited in Southampton. Hier werden keramische Komponenten gefertigt.",
+    "products": [
+      "Keramische Komponenten"
+    ],
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-pl-gorzyce",
+    "companyId": "ceramtec",
+    "lat": 50.6167,
+    "lng": 21.8500,
+    "headquarter": false,
+    "siteName": "PST Press + Sintertechnik Sp.z.o.o. – Gorzyce",
+    "address": "Ul. Odlewników 52, 39-432 Gorzyce, Polen",
+    "city": "Gorzyce",
+    "country": "PL",
+    "description": "Produktionsstandort der PST Press + Sintertechnik Sp.z.o.o. in Gorzyce, Polen. Das Unternehmen ist eine Tochtergesellschaft der CeramTec GmbH.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-es-manresa",
+    "companyId": "ceramtec",
+    "lat": 41.7167,
+    "lng": 1.8500,
+    "headquarter": false,
+    "siteName": "CeramTec Ibérica – Manresa/Barcelona",
+    "address": "C/Carrió, 31, entresol 1ª, 08242 Manresa, Barcelona, Spanien",
+    "city": "Manresa",
+    "country": "ES",
+    "description": "Standort der CeramTec Ibérica, Innovative Ceramic Engineering, S.L.U. in Manresa bei Barcelona. Tochtergesellschaft der CeramTec GmbH für den spanischen Markt.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-ch-spreitenbach",
+    "companyId": "ceramtec",
+    "lat": 47.4167,
+    "lng": 8.3667,
+    "headquarter": false,
+    "siteName": "CeramTec Schweiz GmbH – Spreitenbach",
+    "address": "Bodenäckerstrasse 5, CH-8957 Spreitenbach, Schweiz",
+    "city": "Spreitenbach",
+    "country": "CH",
+    "description": "Standort der CeramTec Schweiz GmbH in Spreitenbach. Tochtergesellschaft der CeramTec GmbH für den Schweizer Markt.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-us-laurens",
+    "companyId": "ceramtec",
+    "lat": 34.4990,
+    "lng": -82.0143,
+    "headquarter": false,
+    "siteName": "CeramTec North America LLC – Laurens, SC",
+    "address": "One Technology Place, Laurens, SC 29360, USA",
+    "city": "Laurens",
+    "state": "South Carolina",
+    "country": "US",
+    "description": "US-Hauptsitz und Produktionsstandort der CeramTec North America LLC in Laurens, South Carolina. Hier werden keramische Komponenten für den nordamerikanischen Markt gefertigt.",
+    "products": [
+      "Keramische Komponenten",
+      "Medizintechnik"
+    ],
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-us-willoughby",
+    "companyId": "ceramtec",
+    "lat": 41.6398,
+    "lng": -81.4065,
+    "headquarter": false,
+    "siteName": "DAI Ceramics, LLC – Willoughby, OH",
+    "address": "38240 Airport Pkwy, Willoughby, OH 44094, USA",
+    "city": "Willoughby",
+    "state": "Ohio",
+    "country": "US",
+    "description": "Produktionsstandort der DAI Ceramics, LLC in Willoughby, Ohio. Tochtergesellschaft der CeramTec GmbH.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-mx-puebla",
+    "companyId": "ceramtec",
+    "lat": 19.0333,
+    "lng": -98.1833,
+    "headquarter": false,
+    "siteName": "Press and Sinter Technics de Mexico – Puebla",
+    "address": "Resurrección Oriente 10, Parque Industrial Resurrección, C.P. 72228 Puebla, Mexiko",
+    "city": "Puebla",
+    "country": "MX",
+    "description": "Produktionsstandort der Press and Sinter Technics de Mexico, S.A. de C.V. in Puebla. Tochtergesellschaft der CeramTec GmbH.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-br-sao-paulo",
+    "companyId": "ceramtec",
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "headquarter": false,
+    "siteName": "CeramTec Brasil – São Paulo",
+    "address": "São Paulo, Brasilien",
+    "city": "São Paulo",
+    "country": "BR",
+    "description": "Standort von CeramTec in Brasilien (Tochtergesellschaft oder Vertriebsbüro). Die CeramTec-Gruppe ist in Brasilien mit einer Tochtergesellschaft vertreten.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-cz-suzhou",
+    "companyId": "ceramtec",
+    "lat": 31.3000,
+    "lng": 120.6000,
+    "headquarter": false,
+    "siteName": "CeramTec Suzhou Ltd. – Suzhou",
+    "address": "428 Zhongnan Street, Suzhou Industrial Park, 215026 Suzhou, China",
+    "city": "Suzhou",
+    "country": "CN",
+    "description": "Produktionsstandort der CeramTec Suzhou Ltd. im Suzhou Industrial Park. Tochtergesellschaft der CeramTec GmbH für den chinesischen Markt.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-cn-shanghai",
+    "companyId": "ceramtec",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "headquarter": false,
+    "siteName": "CeramTec Suzhou Ltd., Zweigstelle Shanghai",
+    "address": "No. 778 Chuangxinxi Road, Pilot Free Trade Zone, Pudong District, Shanghai 201210, China",
+    "city": "Shanghai",
+    "country": "CN",
+    "description": "Zweigstelle der CeramTec Suzhou Ltd. in Shanghai (Pudong).",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-cn-beijing",
+    "companyId": "ceramtec",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "headquarter": false,
+    "siteName": "CeramTec Suzhou Ltd., Zweigstelle Beijing",
+    "address": "Room 1305, International Finance and Economics Center, Block C, No.87 West Third Ring North Road, Haidian District, 100089 Beijing, China",
+    "city": "Peking",
+    "country": "CN",
+    "description": "Zweigstelle der CeramTec Suzhou Ltd. in Peking (Haidian District).",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-cn-wuxi",
+    "companyId": "ceramtec",
+    "lat": 31.5667,
+    "lng": 120.2833,
+    "headquarter": false,
+    "siteName": "CeramTec Suzhou Ltd., Zweigstelle Wuxi",
+    "address": "Room 302-37, 3rd floor, C building No. 35, Changjiangnan Road, Xinwu District, Wuxi 214100, China",
+    "city": "Wuxi",
+    "country": "CN",
+    "description": "Zweigstelle der CeramTec Suzhou Ltd. in Wuxi (Xinwu District).",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-tw-taipei",
+    "companyId": "ceramtec",
+    "lat": 25.0330,
+    "lng": 121.5654,
+    "headquarter": false,
+    "siteName": "CeramTec GmbH, Standort Taiwan – Taipei",
+    "address": "16F., No.89, Songren Rd., Xinyi Dist., Taipei City 11073, Taiwan (R.O.C.)",
+    "city": "Taipei",
+    "country": "TW",
+    "description": "Repräsentanzbüro der CeramTec GmbH in Taipei, Taiwan.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-my-seremban",
+    "companyId": "ceramtec",
+    "lat": 2.7167,
+    "lng": 101.9333,
+    "headquarter": false,
+    "siteName": "CeramTec Innovative Ceramic Engineering (M) Sdn. Bhd. – Seremban",
+    "address": "Lot 17 & 18, Lorong Bunga Tanjung 3/1, Senawang Industrial Park, Negeri Sembilan 70400 Seremban, Malaysia",
+    "city": "Seremban",
+    "country": "MY",
+    "description": "Produktionsstandort der CeramTec Innovative Ceramic Engineering (M) Sdn. Bhd. in Seremban, Malaysia. Tochtergesellschaft der CeramTec GmbH für den südostasiatischen Markt.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-in-mumbai",
+    "companyId": "ceramtec",
+    "lat": 19.0760,
+    "lng": 72.8777,
+    "headquarter": false,
+    "siteName": "CeramTec India – Mumbai",
+    "address": "Mumbai, Indien",
+    "city": "Mumbai",
+    "country": "IN",
+    "description": "Standort von CeramTec in Indien (Vertriebsbüro oder Tochtergesellschaft). Die CeramTec-Gruppe ist in Indien mit einer Vertretung präsent.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "ceramtec-kr-seoul",
+    "companyId": "ceramtec",
+    "lat": 37.5665,
+    "lng": 126.9780,
+    "headquarter": false,
+    "siteName": "CeramTec Korea – Seoul",
+    "address": "Seoul, Südkorea",
+    "city": "Seoul",
+    "country": "KR",
+    "description": "Standort von CeramTec in Südkorea (Vertriebsbüro oder Tochtergesellschaft). Die CeramTec-Gruppe ist in Südkorea mit einer Vertretung präsent.",
+    "sources": [
+      "https://www.ceramtec-group.com/de/unternehmen/ceramtec-weltweit"
+    ]
+  },
+  {
+    "id": "continental-aerospace-de-st-egidien",
+    "companyId": "continental-aerospace",
+    "lat": 50.7833,
+    "lng": 12.6333,
+    "headquarter": true,
+    "siteName": "Hauptsitz und Produktion St. Egidien",
+    "address": "Platanenstraße 14, 09356 St. Egidien",
+    "city": "St. Egidien",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Hauptsitz und größter Produktionsstandort der Continental Aerospace Technologies GmbH in St. Egidien (Sachsen). Hier werden die Jet-A- und Diesel-Kolbenflugmotoren mit FADEC-Technologie entwickelt und gefertigt. Der Standort ist zudem Sitz der Continental Aerospace Technologies Academy, in der das Jet-A-Trainingsprogramm für Wartungstechniker durchgeführt wird. Das Unternehmen ist im Handelsregister des Amtsgerichts Chemnitz unter HRB 27989 eingetragen. Geschäftsführer ist Jürgen Schwarz. Die Telefonnummer lautet +49 37204 696-0.",
+    "products": [
+      "Jet-A Kolbenflugmotoren",
+      "Diesel-Flugmotoren",
+      "FADEC-gesteuerte Motoren"
+    ],
+    "sources": [
+      "https://continental.aero/contact-us/",
+      "https://de.wikipedia.org/wiki/Thielert_AG"
+    ]
+  },
+  {
+    "id": "continental-aerospace-de-altenburg",
+    "companyId": "continental-aerospace",
+    "lat": 50.9833,
+    "lng": 12.4333,
+    "headquarter": false,
+    "siteName": "Produktionsstandort Altenburg",
+    "address": "Altenburg, Thüringen",
+    "city": "Altenburg",
+    "state": "Thüringen",
+    "country": "DE",
+    "description": "Zweiter deutscher Produktionsstandort der Continental Aerospace Technologies GmbH in Altenburg (Thüringen). Hier werden Motoren und Motorkomponenten für die Jet-A- und Diesel-Flugmotorenfamilie gefertigt. Der Standort ist Teil des deutschen Produktionsnetzwerks mit insgesamt drei Standorten.",
+    "products": [
+      "Motoren",
+      "Motorkomponenten"
+    ],
+    "sources": [
+      "https://continental.aero/careers/en/Continental_Aerospace_Technologies_GmbH/",
+      "https://continentaldiesel.de/about-us/"
+    ]
+  },
+  {
+    "id": "continental-aerospace-de-hamburg",
+    "companyId": "continental-aerospace",
+    "lat": 53.5500,
+    "lng": 9.9900,
+    "headquarter": false,
+    "siteName": "Entwicklungsstandort Hamburg",
+    "address": "Hamburg, Deutschland",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "country": "DE",
+    "description": "Entwicklungsstandort der Continental Aerospace Technologies GmbH in Hamburg. Hier werden neue Motorengenerationen und Technologien für die allgemeine Luftfahrt entwickelt. Der Standort ist auf Forschung und Entwicklung spezialisiert und ergänzt die Produktionsstandorte in St. Egidien und Altenburg.",
+    "products": [
+      "Forschung und Entwicklung",
+      "Motorentechnologie"
+    ],
+    "sources": [
+      "https://continental.aero/careers/en/Continental_Aerospace_Technologies_GmbH/",
+      "https://continentaldiesel.de/about-us/"
+    ]
+  },
+  {
+    "id": "continental-aerospace-us-mobile",
+    "companyId": "continental-aerospace",
+    "lat": 30.6667,
+    "lng": -88.0500,
+    "headquarter": false,
+    "siteName": "Continental Aerospace Technologies – Hauptsitz Mobile (USA)",
+    "address": "2039 South Broad Street, Mobile, AL 36615, USA",
+    "city": "Mobile",
+    "state": "Alabama",
+    "country": "US",
+    "description": "US-Hauptsitz der Continental Aerospace Technologies (Muttergesellschaft) am Brookley Aeroplex in Mobile, Alabama. Von hier werden die globalen Aktivitäten gesteuert. Der Standort umfasst Produktions- und Entwicklungsanlagen für AvGas- und Jet-A-Kolbenflugmotoren. Das Unternehmen wurde 1905 gegründet und ist ein weltweit führender Hersteller von Kolbenflugmotoren für die allgemeine Luftfahrt. Die Telefonnummer lautet +1 800 326 0089.",
+    "products": [
+      "AvGas-Kolbenflugmotoren",
+      "Jet-A-Kolbenflugmotoren"
+    ],
+    "sources": [
+      "https://continental.aero/contact-us/",
+      "https://continental.aero/about-us/"
+    ]
+  },
+  {
+    "id": "continental-services-us-fairhope",
+    "companyId": "continental-aerospace",
+    "lat": 30.5167,
+    "lng": -87.9000,
+    "headquarter": false,
+    "siteName": "Continental Services – Fairhope (Wartungszentrum)",
+    "address": "H.L. Sonny Callahan Airport, KCQF, 8600 County Road 32, Fairhope, AL 36532, USA",
+    "city": "Fairhope",
+    "state": "Alabama",
+    "country": "US",
+    "description": "Factory Service Center und Wartungszentrum von Continental Services am H.L. Sonny Callahan Airport (KCQF) in Fairhope, Alabama. Hier werden umfassende Wartungs-, Inspektions-, Reparatur- und Motorenüberholungsdienste für Continental- und Lycoming-Motoren angeboten. Das 100-jährige Luftfahrterfahrung und Handwerkskunst vereint. Die Telefonnummer lautet +1 251 930 4400.",
+    "products": [
+      "Motorenüberholung",
+      "Wartung",
+      "Inspektion",
+      "Reparatur"
+    ],
+    "sources": [
+      "https://continental.aero/contact-us/",
+      "https://continentalservices.aero/"
+    ]
+  },
+  {
+    "id": "continental-aerospace-cn-beijing",
+    "companyId": "continental-aerospace",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "headquarter": false,
+    "siteName": "Continental Aerospace Technologies – Peking (China)",
+    "address": "No. 8 Beichen East Rd., Beijing International Convention Center, Room 5021, Chaoyang District, Beijing 100101, China",
+    "city": "Peking",
+    "country": "CN",
+    "description": "Standort von Continental Aerospace Technologies in Peking (Chaoyang District). Der Standort dient als Vertretung für den chinesischen Markt. Die Continental Aerospace Technologies Holding Limited war bis 2026 an der Hongkonger Börse notiert (HKEX) und befand sich mehrheitlich im Besitz der chinesischen AVIC (Aviation Industry Corporation of China). Im Juni 2026 wurde das Unternehmen für 535 Mio. USD an die US-amerikanische Private-Equity-Gesellschaft Arcline Investment Management verkauft.",
+    "sources": [
+      "https://www.linkedin.com/company/continental-aerospace-technologies/",
+      "https://www.aerotime.aero/articles/arcline-buy-chinese-owned-continental-aerospace"
+    ]
+  },
+  {
+    "id": "continental-fuel-storage-de-hannover",
+    "companyId": "continental-fuel-storage",
+    "lat": 52.3705,
+    "lng": 9.7325,
+    "headquarter": true,
+    "siteName": "Juristischer Sitz Hannover",
+    "address": "Continental-Plaza 1, 30175 Hannover",
+    "city": "Hannover",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Juristischer Sitz der Continental Fuel Storage Systems GmbH in Hannover. Die Gesellschaft wurde am 5. Februar 2021 gegründet und ist im Handelsregister des Amtsgerichts Hannover unter HRB 221213 eingetragen. Der Sitz wurde im Februar 2024 von der Vahrenwalder Straße 9 (30165 Hannover) zur Continental-Plaza 1 verlegt. Vom juristischen Sitz in Hannover aus werden die Unternehmensaktivitäten gesteuert. Geschäftsführer ist Lars MacNeil.",
+    "sources": [
+      "https://www.webvalid.de/company/Continental+Fuel+Storage+Systems+GmbH,+Hannover/HRB+221213",
+      "https://www.northdata.de/?id=6427793311399936"
+    ]
+  },
+  {
+    "id": "continental-fuel-storage-de-alsdorf",
+    "companyId": "continental-fuel-storage",
+    "lat": 50.8736,
+    "lng": 6.1667,
+    "headquarter": false,
+    "siteName": "Produktionsstandort Alsdorf",
+    "address": "Werner-Heisenberg-Straße 6-8, 52477 Alsdorf",
+    "city": "Alsdorf",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Produktionsstandort der Continental Fuel Storage Systems GmbH in Alsdorf bei Aachen. Der Spatenstich für den neuen Standort erfolgte am 8. Juni 2022; die Produktion startete im Frühjahr 2023. Die Anlage umfasst einen 3.100 m² großen Neubau und eine revitalisierte Bestandsimmobilie mit 5.100 m², sodass auf insgesamt 8.200 Quadratmetern produziert wird. Die Investitionssumme lag bei 20 Millionen Euro. Hier werden flexible Kraftstoffbehälter für Luftfahrt, Motorsport, Schifffahrt und Nutzfahrzeuge gefertigt. Der Standort ist nach EN 9100:2018 (äquivalent zu AS 9100D) zertifiziert. Rund 100 Mitarbeiter sind hier beschäftigt.",
+    "products": [
+      "Flexible Kraftstofftanks",
+      "Kraftstofftanks für Luftfahrt und Motorsport"
+    ],
+    "sources": [
+      "https://www.continental.com/de/presse/pressemitteilungen/20220608-spatenstich-alsdorf/",
+      "https://www.gvw.com/aktuelles/pressemitteilungen/detail/aconlog-und-continental-starten-neuen-standort",
+      "https://www.certipedia.com/quality_marks/9000014522"
+    ]
+  },
+  {
+    "id": "covenant-us-washington-dc",
+    "companyId": "covenant",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "headquarter": true,
+    "siteName": "Hauptsitz Washington, D.C.",
+    "address": "Washington, D.C., USA",
+    "city": "Washington, D.C.",
+    "state": "District of Columbia",
+    "country": "US",
+    "description": "Hauptsitz und Unternehmenszentrale von Covenant in Washington, D.C. Das 2024 gegründete Unternehmen wird von hier aus gesteuert. Die Nähe zur US-Bundesregierung und zum Verteidigungsministerium ist strategisch bedeutsam für die Auftragsakquise und politische Abstimmung.",
+    "sources": [
+      "https://www.welt.de/regionales/sachsen/article6ac3c3915a0c502f202984e4/us-ruestungsunternehmen-oeffnet-standort-in-leipzig.html"
+    ]
+  },
+  {
+    "id": "covenant-us-dallas",
+    "companyId": "covenant",
+    "lat": 32.7767,
+    "lng": -96.7970,
+    "headquarter": false,
+    "siteName": "Produktionsstandort Dallas, Texas",
+    "address": "Dallas, Texas, USA",
+    "city": "Dallas",
+    "state": "Texas",
+    "country": "US",
+    "description": "Produktionsstandort von Covenant in Dallas, Texas. Die Anlage mit rund 105.000 Quadratfuß (ca. 9.755 m²) Fläche wurde für die Versorgung des US-Marktes errichtet. Hier sollen ab 2027 ebenfalls 1.000 Anthem-Marschflugkörper pro Jahr produziert werden, ab 2028 dann 5.000 Stück jährlich. Der Standort ist damit Teil der dualen Produktionsstrategie von Covenant mit Werken in den USA und Deutschland.",
+    "products": [
+      "Anthem (Marschflugkörper)"
+    ],
+    "sources": [
+      "https://mobil.aa.com.tr/en/europe/us-israeli-defense-company-to-produce-cruise-missiles-in-germany/4052315"
+    ]
+  },
+  {
+    "id": "covenant-de-leipzig",
+    "companyId": "covenant",
+    "lat": 51.3397,
+    "lng": 12.3731,
+    "headquarter": false,
+    "siteName": "Produktionsstandort Leipzig (Leipziger Norden)",
+    "address": "Leipziger Norden, 04158 Leipzig (genauer Standort nicht veröffentlicht)",
+    "city": "Leipzig",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Erster europäischer Produktionsstandort und weltweit größter Standort von Covenant, eröffnet am 5. Oktober 2026. Die mehr als 10.000 m² große Produktionshalle befindet sich im Leipziger Norden; der genaue Standort wird aus Sicherheitsgründen (hybride Anschlagsgefahr, Proteste) nicht veröffentlicht. Covenant hat eine bestehende Gewerbehalle angemietet und investiert rund 250 Mio. Euro. Die Fertigung des Anthem-Marschflugkörpers soll im ersten Quartal 2027 beginnen; im ersten Jahr sind 1.000 Stück geplant, ab 2028 dann 5.000 Stück jährlich. Bis zu 250 Arbeitsplätze sollen zunächst geschaffen werden. Von Leipzig aus sollen europäische Kunden beliefert werden. Die Montage erfolgt in Leipzig; die Bestückung mit Sprengstoff erst vor Ort bei den Kunden.",
+    "products": [
+      "Anthem (Marschflugkörper)"
+    ],
+    "sources": [
+      "https://www.welt.de/regionales/sachsen/article6ac3c3915a0c502f202984e4/us-ruestungsunternehmen-oeffnet-standort-in-leipzig.html",
+      "https://www.mz.de/mitteldeutschland/wirtschaft/us-rustungsfirma-covenant-startet-in-leipzig-bis-zu-250-neue-jobs-4333575"
+    ]
+  },
+  {
+    "id": "covenant-il-haifa",
+    "companyId": "covenant",
+    "lat": 32.7940,
+    "lng": 34.9896,
+    "headquarter": false,
+    "siteName": "Entwicklungs- und Testzentrum Nordisrael",
+    "address": "Nordisrael (genauer Standort nicht veröffentlicht)",
+    "city": "Haifa",
+    "country": "IL",
+    "description": "Entwicklungs- und Testeinrichtung von Covenant in Nordisrael. Hier findet nach Berichten überwiegend die Entwicklung der Waffensysteme statt. Das Unternehmen wurde von dem israelischen Rüstungsingenieur Ofir Dayan mitgegründet und beschäftigt einen großen Teil seiner Entwicklungsteams in Israel. Der genaue Standort wird aus Sicherheitsgründen nicht veröffentlicht.",
+    "sources": [
+      "https://www.mdr.de/nachrichten/deutschland/wirtschaft/ruestung-waffenproduktion-montage-halle-leipzig,covenant-industries-104.html",
+      "https://mobil.aa.com.tr/en/europe/us-israeli-defense-company-to-produce-cruise-missiles-in-germany/4052315"
+    ]
+  },
+  {
     "id": "diehl-de-ueberlingen-firmensitz",
     "companyId": "diehl",
     "lat": 47.758026,

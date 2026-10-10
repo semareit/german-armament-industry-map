@@ -619,6 +619,131 @@
       "Drehbearbeitung (Gildemeister, INDEX, Schütte, Tornos)"
     ]
   },
+  "ca-picard": {
+    "name": "Carl Aug. Picard GmbH",
+    "description": "Die Carl Aug. Picard GmbH (C.A.PICARD®) ist ein 1876 von Carl August Picard in Remscheid gegründetes, familiengeführtes Traditionsunternehmen der Metallverarbeitung, das sich in fünfter und sechster Generation im Familienbesitz befindet. Das Unternehmen ist ein international führender Premiumhersteller von hochverschleißfesten Präzisionsteilen aus Metall für die Kunststoff-, Gießerei-, Platten- und Extrusionsindustrie sowie für Verteidigungs- und Sicherheitsanwendungen. C.A.PICARD® beschäftigt über 500 qualifizierte Mitarbeiter weltweit und verfügt über Standorte in Remscheid (Hauptsitz), Monschau und Bönen in Deutschland sowie über Niederlassungen und Tochtergesellschaften in den USA, China, Japan, Hongkong und Thailand. Die Kernkompetenzen liegen in den Bereichen Metallurgie, Wärmebehandlung und hochpräzise Zerspanung. Das Unternehmen liefert unter anderem Komponenten für die Verteidigungsindustrie und ist im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet. Die Carl Aug. Picard GmbH ist im Handelsregister des Amtsgerichts Wuppertal unter HRB 13207 eingetragen. Geschäftsführer sind Dr. Frank Picard, Dr. Nils Picard und Gilles Picard.",
+    "url": "https://capicard.de/",
+    "category": ["Zerspanungstechnik", "Präzisionsteile", "Metallurgie", "Industrie", "Verteidigung"],
+    "parents": [],
+    "products": [
+      "Hochverschleißfeste Präzisionsteile",
+      "Lochplatten und Messer für Unterwassergranulatoren",
+      "Verschleißteile für Doppelschneckenextruder",
+      "Presswerkzeuge und Trennscheiben",
+      "Komponenten für die Gießereiindustrie",
+      "Wärmebehandlung und Oberflächentechnik",
+      "CNC-Zerspanung"
+    ]
+  },
+  "carl-friederichs": {
+    "name": "Carl Friederichs GmbH",
+    "description": "Die Carl Friederichs GmbH ist ein 1840 von Heinrich Ludwig Friederichs in Frankfurt am Main gegründeter Karosseriebau-Betrieb und zählt heute zu den führenden Herstellern von Sonderfahrzeugen in Deutschland. Das Unternehmen wird von der gemeinnützigen Heinz und Gisela Friederichs Stiftung getragen und befindet sich in Familienhand. Aus dem Handwerk des Kutschenbaus kommend, hat sich Carl Friederichs auf die individuelle Anfertigung ziviler Sonderschutzkarosserien, gepanzerter Sicherheitsfahrzeuge, Geld- und Werttransporter, Blaulichtfahrzeuge für Rettungsdienste, Feuerwehren und Polizei sowie mobiler Werkstätten und Kleinbusse spezialisiert. Das Unternehmen verfügt über eines der größten Lackierzentren im Rhein-Main-Gebiet und ist nach DIN EN ISO 9001:2015 zertifiziert. Carl Friederichs beschäftigt rund 110 Mitarbeiter an zwei Standorten in Frankfurt am Main (Schlitzer Straße und Hardenbergstraße). Der Export erfolgt weltweit. Das Unternehmen ist im Handelsregister des Amtsgerichts Frankfurt am Main unter HRB 12120 eingetragen. Geschäftsführer ist Henrik Schepler.",
+    "url": "https://www.friederichs-frankfurt.de/",
+    "category": ["Sonderfahrzeugbau", "Panzerung", "Fahrzeugsysteme", "Sicherheit", "Dienstleistungen"],
+    "parents": [],
+    "products": [
+      "Zivile Sonderschutzkarosserien",
+      "Gepanzerte Sicherheitsfahrzeuge (VPAM VR9)",
+      "Geld- und Werttransporter",
+      "Blaulichtfahrzeuge (Rettungsdienst, Feuerwehr, Polizei)",
+      "Mobiles Schutzcontainer (BRV 1999 VR7 / VPAM VR9)",
+      "Kleinbusse und mobile Werkstätten",
+      "Unfallreparatur und Lackierung",
+      "FRIEDERICHS Modell CARL (Toyota Land Cruiser 300)"
+    ]
+  },
+  "carl-walther": {
+    "name": "Carl Walther GmbH & Co. Produktions KG",
+    "description": "Die Carl Walther GmbH & Co. Produktions KG ist der Produktionsarm des 1886 von Carl Wilhelm Freund Walther in Zella-Mehlis (Thüringen) gegründeten Traditionswaffenherstellers Carl Walther. Das Unternehmen mit Hauptsitz in Ulm (Baden-Württemberg) ist heute eines der bekanntesten Unternehmen der deutschen Schusswaffenindustrie und stellt Sport- und Verteidigungswaffen, Maschinen und Werkzeuge her. Seit 1993 gehört Carl Walther zur Arnsberger Umarex-Gruppe (PW Group). Die Produktionsgesellschaft ist neben der Carl Walther Gesellschaft mit beschränkter Haftung (Vertrieb) eine von zwei Tochtergesellschaften der Umarex GmbH & Co. KG. Die Produktionsstandorte sind Ulm (Hauptwerk, Im Lehrer Feld 1) und Arnsberg (Zweigniederlassung, Donnerfeld 2). Das Ulmer Werk ist eine hochmoderne Entwicklungs- und Fabrikationsstätte mit Serienproduktion und der Walther Meister Manufaktur für Custom-Sportwaffen. Die Arnsberger Zweigniederlassung fertigt Sportwaffen und Verteidigungswaffen. Die Carl Walther GmbH & Co. Produktions KG ist im Handelsregister des Amtsgerichts Ulm unter HRA 2612 eingetragen. Die Zweigniederlassung Arnsberg ist unter HRA 2621 beim Amtsgericht Arnsberg registriert. Geschäftsführer ist Bernhard Knöbel. Das Unternehmen erzielte 2024 einen Umsatz von 62,70 Mio. EUR.",
+    "url": "https://www.carl-walther.de/",
+    "category": ["Handfeuerwaffen", "Infanterie", "Verteidigung", "Sportwaffen", "Zerspanungstechnik"],
+    "parents": ["umarex"],
+    "products": [
+      "Dienstpistolen (P99, PDP, P30)",
+      "Sportpistolen (GSP, SSP)",
+      "Sportgewehre (KK500, LG400)",
+      "Verteidigungswaffen",
+      "Maschinen und Werkzeuge",
+      "Custom-Sportwaffen (Meister Manufaktur)"
+    ]
+  },
+  "carmenta-germany": {
+    "name": "Carmenta Germany GmbH",
+    "description": "Die Carmenta Germany GmbH ist die deutsche Tochtergesellschaft der schwedischen Carmenta Geospatial Technologies AB (Hauptsitz Göteborg) und ein führender Anbieter von Geospatial-Software für missionskritische Anwendungen in den Bereichen Verteidigung, öffentliche Sicherheit und Luftfahrt. Das Unternehmen entwickelt Softwareprodukte zur Echtzeit-Visualisierung und -Analyse dynamischer Geodaten, die von Systemintegratoren und Streitkräften für Lagebilder, Missionsplanung und Command-and-Control eingesetzt werden. Die Carmenta Germany GmbH wurde am 8. Februar 2016 gegründet und hat ihren Sitz in München. Sie ist im Handelsregister des Amtsgerichts München unter HRB 174192 eingetragen. Geschäftsführer ist Karl Gunnar Torbjörn Lönnqvist. Das Unternehmen beschäftigt rund 27 Mitarbeiter und erzielte 2024 einen geschätzten Umsatz von 12 Millionen Euro. Carmenta ist im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet und stellt auf Fachmessen wie der AFCEA in Bonn aus. Die Carmenta-Gruppe beschäftigt insgesamt rund 70 Mitarbeiter an Standorten in Schweden, Deutschland, Frankreich, Großbritannien und den USA.",
+    "url": "https://carmenta.com/",
+    "category": ["KI-Software", "Geodaten", "Situationsbewusstsein", "Verteidigung", "Luftfahrt"],
+    "parents": [],
+    "products": [
+      "Geospatial-Software für Echtzeit-Lagebilder",
+      "Missionsplanungs- und Command-and-Control-Systeme",
+      "3D-Geländedarstellung und -analyse",
+      "UAV-Video-Integration und Georeferenzierung",
+      "Situational-Awareness-Plattformen",
+      "Geospatial SDK (Software Development Kit)"
+    ]
+  },
+  "ceramtec": {
+    "name": "CeramTec GmbH",
+    "description": "Die CeramTec GmbH ist ein 1903 in Marktredwitz gegründetes und heute in Plochingen (Baden-Württemberg) ansässiges Unternehmen, das weltweit zu den führenden Herstellern von Hochleistungskeramik zählt. Mit mehr als 120 Jahren Materialexpertise entwickelt und fertigt CeramTec keramische Komponenten für die Medizintechnik, Industrie, Automobil-, Luft- und Raumfahrt-, Elektronik- und Halbleiterindustrie. Das Produktportfolio umfasst über 10.000 Produkte, Komponenten und Teile, darunter die Biolox-Produktfamilie für medizinische Implantate, Hochleistungssubstrate, Piezokeramiken sowie spezialisierte Komponenten für industrielle Anwendungen. CeramTec beschäftigt über 3.800 Mitarbeiter an 16 Produktionsstandorten in Europa, Amerika und Asien. Der Umsatz betrug 2024 rund 746 Millionen Euro. Die CeramTec GmbH ist im Handelsregister des Amtsgerichts Esslingen unter HRB 221794 eingetragen. Die CeramTec-Gruppe ist im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet.",
+    "url": "https://www.ceramtec-group.com/",
+    "category": ["Keramik", "Werkstoffe", "Medizintechnik", "Industrietechnik", "Halbleiter"],
+    "parents": [],
+    "products": [
+      "Biolox (medizinische Implantate)",
+      "Hochleistungssubstrate",
+      "Piezokeramiken",
+      "Keramische Komponenten für Automobil und Luftfahrt",
+      "Halbleiterkomponenten",
+      "Schneidkeramik",
+      "Keramische Wälzlager",
+      "Industriekeramik"
+    ]
+  },
+  "continental-aerospace": {
+    "name": "Continental Aerospace Technologies GmbH",
+    "description": "Die Continental Aerospace Technologies GmbH ist ein 2013 gegründeter deutscher Flugmotorenhersteller mit Sitz in St. Egidien (Sachsen). Das Unternehmen ging aus der Thielert Aircraft Engines GmbH hervor und ist auf die Entwicklung und Produktion von treibstoffsparenden, kerosinbetriebenen (Jet-A) und dieselgetriebenen Kolbenflugmotoren für die allgemeine Luftfahrt spezialisiert. Die Motoren sind mit modernster FADEC-Technologie (Full Authority Digital Engine Control) ausgestattet. Das Unternehmen ist Teil der Continental Aerospace Technologies Ltd. und beschäftigt an seinen drei deutschen Standorten rund 180–200 Mitarbeiter. Die Continental Aerospace Technologies GmbH ist im Handelsregister des Amtsgerichts Chemnitz unter HRB 27989 eingetragen. Geschäftsführer ist Jürgen Schwarz. Die deutschen Standorte sind St. Egidien (Hauptsitz und Produktion), Altenburg (Produktion) und Hamburg (Entwicklung). Das Unternehmen ist im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet.",
+    "url": "https://continental.aero/",
+    "category": ["Luftfahrt", "Antriebstechnik", "Motoren", "Verteidigung", "Industrietechnik"],
+    "parents": [],
+    "products": [
+      "Jet-A Kolbenflugmotoren",
+      "Diesel-Flugmotoren",
+      "FADEC-gesteuerte Motoren",
+      "AvGas-Kolbenflugmotoren",
+      "Motorkomponenten",
+      "Ersatzteile",
+      "Motorenüberholung (Continental Services)"
+    ]
+  },
+  "continental-fuel-storage": {
+    "name": "Continental Fuel Storage Systems GmbH",
+    "description": "Die Continental Fuel Storage Systems GmbH ist ein 2021 gegründetes Unternehmen der Continental-Gruppe mit juristischem Sitz in Hannover und Produktionsstandort in Alsdorf (Nordrhein-Westfalen). Das Unternehmen ist auf die Entwicklung, Herstellung, den Vertrieb und die Reparatur von flexiblen und beschichteten Kraftstofftanks für Flugzeuge, Hubschrauber, Schiffe und Fahrzeuge spezialisiert. Die handgefertigten High-Tech-Kraftstoffbehälter aus Gummi sind sicherheitsrelevante Komponenten, die in der Luftfahrt, im Motorsport (FIA FT3.0 und FT3.5 zertifiziert), in Booten sowie in Renn- und Nutzfahrzeugen zum Einsatz kommen. Die Produkte werden als Einzelstücke oder in Serienproduktion gefertigt und sind für den Temperaturbereich von -50 °C bis +90 °C ausgelegt. Das Unternehmen ging aus dem Behälterbau der Continental AG hervor und beschäftigt rund 100 Mitarbeiter. Die Continental Fuel Storage Systems GmbH ist im Handelsregister des Amtsgerichts Hannover unter HRB 221213 eingetragen. Geschäftsführer ist Lars MacNeil. Die Produktionsstätte in Alsdorf umfasst 8.200 Quadratmeter und wurde mit einer Investition von 20 Millionen Euro errichtet. Das Unternehmen ist nach EN 9100:2018 (äquivalent zu AS 9100D) zertifiziert.",
+    "url": "https://www.continental-industry.com/",
+    "category": ["Luftfahrt", "Antriebstechnik", "Kraftstoffsysteme", "Automobil", "Verteidigung"],
+    "parents": [],
+    "products": [
+      "Flexible Kraftstofftanks für Flugzeuge",
+      "Kraftstofftanks für Hubschrauber",
+      "Kraftstofftanks für Schiffe und Boote",
+      "Kraftstofftanks für Rennfahrzeuge (FIA FT3.0 / FT3.5)",
+      "Kraftstofftanks für Nutzfahrzeuge",
+      "Kundenspezifische Tankeinbauten und Anschlusselemente",
+      "Selbstabdichtende und explosionsunterdrückende Tanks"
+    ]
+  },
+  "covenant": {
+    "name": "Covenant",
+    "description": "Covenant ist ein 2024 gegründetes US-amerikanisches Verteidigungs-Start-up mit Hauptsitz in Washington, D.C., das weitreichende Marschflugkörper für Präzisionsschläge („deep strike“) entwickelt und produziert. Das Unternehmen wurde vom US-amerikanisch-israelischen Unternehmer Michael Kaufman und dem israelischen Rüstungsingenieur Ofir Dayan gegründet und beschäftigt einen großen Teil seiner Entwicklungsteams in Israel. Kernprodukt ist der Marschflugkörper Anthem, der einen Gefechtskopf von rund 200 kg tragen und eine Reichweite von über 1.000 km erreichen soll – zu einem Stückpreis im sechsstelligen US-Dollar-Bereich, deutlich günstiger als vergleichbare Systeme. Covenant hat in drei Finanzierungsrunden über 250 Mio. US-Dollar eingeworben, unter anderem von Andreessen Horowitz, Founders Fund (Peter Thiel), Lux Capital, 8VC, Lightspeed, Altimeter und Aleph. Das Unternehmen hat bereits Aufträge im Wert von 150 Mio. US-Dollar gesichert, darunter Qualifikations-, F&E- und Produktionsverträge. Covenant betreibt Produktionsstandorte in Leipzig (Deutschland) und Dallas (Texas, USA) sowie Entwicklungs- und Testeinrichtungen in Nordisrael. Als Berater für Deutschland wurde der ehemalige Generalleutnant der Bundeswehr Andreas Marlow gewonnen.",
+    "url": "https://covenant.com",
+    "category": ["Lenkflugkörper", "Munition", "Verteidigungstechnologie", "Luftfahrt"],
+    "parents": [],
+    "products": [
+      "Anthem (Marschflugkörper)",
+      "Waffensysteme für Präzisionsschläge (deep strike)",
+      "Lenk- und Navigationssysteme",
+      "Turbojet-Antriebssysteme"
+    ]
+  },
   "diehl": {
     "name": "Diehl Defence",
     "description": "Diehl Defence bündelt die Geschäftsaktivitäten der Diehl-Gruppe in den Bereichen Verteidigung und Sicherheit und ist ein führendes Systemhaus im Bereich der Luftverteidigung. Als Partner der Bundeswehr und internationaler Streitkräfte entwickelt und liefert Diehl Defence Hightech-Ausrüstung in den Bereichen bodengebundene Luftverteidigung, Lenkflugkörper, Munition, Trainings- und Schutzsysteme.",

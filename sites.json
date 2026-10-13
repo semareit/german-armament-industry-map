@@ -10,7 +10,7 @@
     "city": "Strickscheid",
     "state": "Rheinland-Pfalz",
     "country": "DE",
-    "description": "Hauptsitz und Stammwerk der AARONIA AG im Gewerbegebiet Aaronia AG II in Strickscheid in der Eifel, nahe der Grenze zu Belgien und Luxemburg. Hier werden alle Produkte entwickelt, gefertigt, getestet und kalibriert – 'Made in Germany' ausnahmslos. Das Unternehmen ist im Handelsregister des Amtsgerichts Wittlich unter HRB 32462 eingetragen. Die Hauptadresse ist Kauthenbergstraße 14; weitere Gebäude im Gewerbegebiet Aaronia AG II (Aaroniaweg 1) werden für Personal, Produktion und Verwaltung genutzt. 2026 begann die Erweiterung der Produktionskapazitäten am Gründungsstandort.",
+    "description": "Hauptsitz und Stammwerk der AARONIA AG im Gewerbegebiet Aaronia AG II in Strickscheid in der Eifel, nahe der Grenze zu Belgien und Luxemburg. Hier werden alle Produkte entwickelt, gefertigt, getestet und kalibriert.",
     "products": [
       "SPECTRAN V6",
       "AARTOS DDS",
@@ -4446,7 +4446,7 @@
     "city": "München",
     "state": "Bayern",
     "country": "DE",
-    "description": "Hauptsitz und einziger offizieller Standort der Carmenta Germany GmbH in München. Das Büro wurde 2019 als Business Hub für die DACH-Region eröffnet und ist die Basis für deutschsprachige Kollegen aus Vertrieb, Projektmanagement und Softwareentwicklung. Hier werden Geospatial-Softwarelösungen für Verteidigung und öffentliche Sicherheit entwickelt und vertrieben. Das Unternehmen ist im Handelsregister des Amtsgerichts München unter HRB 174192 eingetragen. Geschäftsführer ist Karl Gunnar Torbjörn Lönnqvist. Die Adresse Theresienhöhe 28 in 80339 München ist im ISO-27001-Zertifikat der Carmenta-Gruppe als offizieller Standort aufgeführt.",
+    "description": "Hauptsitz und einziger offizieller Standort der Carmenta Germany GmbH in München. Das Büro wurde 2019 als Business Hub für die DACH-Region eröffnet und ist die Basis für deutschsprachige Kollegen aus Vertrieb, Projektmanagement und Softwareentwicklung. Hier werden Geospatial-Softwarelösungen für Verteidigung und öffentliche Sicherheit entwickelt und vertrieben.",
     "products": [
       "Geospatial-Software",
       "Situational Awareness",
@@ -4469,7 +4469,7 @@
     "city": "Plochingen",
     "state": "Baden-Württemberg",
     "country": "DE",
-    "description": "Hauptsitz der CeramTec-Gruppe in Plochingen bei Stuttgart. Hier befinden sich Unternehmensführung, Entwicklung und Vertrieb. Der Standort Plochingen/Ebersbach bildet mit dem benachbarten Werk in Ebersbach/Fils einen der größten Produktionsverbünde der Gruppe. Die CeramTec GmbH ist im Handelsregister des Amtsgerichts Esslingen unter HRB 221794 eingetragen. Die Telefonnummer lautet +49 7153 611-0.",
+    "description": "Hauptsitz der CeramTec-Gruppe in Plochingen bei Stuttgart. Hier befinden sich Unternehmensführung, Entwicklung und Vertrieb. Der Standort Plochingen/Ebersbach bildet mit dem benachbarten Werk in Ebersbach/Fils einen der größten Produktionsverbünde der Gruppe.",
     "products": [
       "Hochleistungskeramik",
       "Medizintechnik",
@@ -4511,7 +4511,7 @@
     "city": "Lauf an der Pegnitz",
     "state": "Bayern",
     "country": "DE",
-    "description": "Produktionsstandort CeramTec GmbH in Lauf an der Pegnitz bei Nürnberg. Hier werden keramische Produkte für die Industrie und Medizintechnik entwickelt und gefertigt. Der Standort ist im ISO-9001-Zertifikat der CeramTec GmbH als eigenständiger Produktionsstandort aufgeführt.",
+    "description": "Produktionsstandort CeramTec GmbH in Lauf an der Pegnitz bei Nürnberg. Hier werden keramische Produkte für die Industrie und Medizintechnik entwickelt und gefertigt.",
     "products": [
       "Keramische Produkte",
       "Medizintechnik"
@@ -4531,7 +4531,7 @@
     "city": "Marktredwitz",
     "state": "Bayern",
     "country": "DE",
-    "description": "Gründungsstandort und einer der größten Produktionsstandorte der CeramTec GmbH in Marktredwitz (Oberfranken). Die industrielle Geschichte reicht bis 1903 zurück. Hier werden Substrate, Komponenten für Drucksensoren und andere Strukturkeramiken hergestellt. Der Standort ist im ISO-9001-Zertifikat als eigenständiger Produktionsstandort aufgeführt.",
+    "description": "Gründungsstandort und einer der größten Produktionsstandorte der CeramTec GmbH in Marktredwitz (Oberfranken). Hier werden Substrate, Komponenten für Drucksensoren und andere Strukturkeramiken hergestellt.",
     "products": [
       "Substrate",
       "Drucksensoren",
@@ -5022,7 +5022,7 @@
     "city": "Hannover",
     "state": "Niedersachsen",
     "country": "DE",
-    "description": "Juristischer Sitz der Continental Fuel Storage Systems GmbH in Hannover. Die Gesellschaft wurde am 5. Februar 2021 gegründet und ist im Handelsregister des Amtsgerichts Hannover unter HRB 221213 eingetragen. Der Sitz wurde im Februar 2024 von der Vahrenwalder Straße 9 (30165 Hannover) zur Continental-Plaza 1 verlegt. Vom juristischen Sitz in Hannover aus werden die Unternehmensaktivitäten gesteuert. Geschäftsführer ist Lars MacNeil.",
+    "description": "Juristischer Sitz der Continental Fuel Storage Systems GmbH in Hannover. Die Gesellschaft wurde am 5. Februar 2021 gegründet und ist im Handelsregister des Amtsgerichts Hannover unter HRB 221213 eingetragen. Vom juristischen Sitz in Hannover aus werden die Unternehmensaktivitäten gesteuert.",
     "sources": [
       "https://www.webvalid.de/company/Continental+Fuel+Storage+Systems+GmbH,+Hannover/HRB+221213",
       "https://www.northdata.de/?id=6427793311399936"
@@ -5039,7 +5039,7 @@
     "city": "Alsdorf",
     "state": "Nordrhein-Westfalen",
     "country": "DE",
-    "description": "Produktionsstandort der Continental Fuel Storage Systems GmbH in Alsdorf bei Aachen. Der Spatenstich für den neuen Standort erfolgte am 8. Juni 2022; die Produktion startete im Frühjahr 2023. Die Anlage umfasst einen 3.100 m² großen Neubau und eine revitalisierte Bestandsimmobilie mit 5.100 m², sodass auf insgesamt 8.200 Quadratmetern produziert wird. Die Investitionssumme lag bei 20 Millionen Euro. Hier werden flexible Kraftstoffbehälter für Luftfahrt, Motorsport, Schifffahrt und Nutzfahrzeuge gefertigt. Der Standort ist nach EN 9100:2018 (äquivalent zu AS 9100D) zertifiziert. Rund 100 Mitarbeiter sind hier beschäftigt.",
+    "description": "Produktionsstandort der Continental Fuel Storage Systems GmbH in Alsdorf bei Aachen. Hier werden flexible Kraftstoffbehälter für Luftfahrt, Motorsport, Schifffahrt und Nutzfahrzeuge gefertigt. Rund 100 Mitarbeiter sind hier beschäftigt.",
     "products": [
       "Flexible Kraftstofftanks",
       "Kraftstofftanks für Luftfahrt und Motorsport"
@@ -5119,6 +5119,728 @@
     "sources": [
       "https://www.mdr.de/nachrichten/deutschland/wirtschaft/ruestung-waffenproduktion-montage-halle-leipzig,covenant-industries-104.html",
       "https://mobil.aa.com.tr/en/europe/us-israeli-defense-company-to-produce-cruise-missiles-in-germany/4052315"
+    ]
+  },
+  {
+    "id": "daimler-truck-de-leinfelden-echterdingen",
+    "companyId": "daimler-truck",
+    "lat": 48.6900,
+    "lng": 9.1600,
+    "headquarter": true,
+    "siteName": "Konzernzentrale Leinfelden-Echterdingen",
+    "address": "Fasanenweg 10, 70771 Leinfelden-Echterdingen",
+    "city": "Leinfelden-Echterdingen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Konzernzentrale der Daimler Truck AG im Daimler Truck Campus (DTC) und Mercedes-Benz Trucks Campus (MBTC) in Leinfelden-Echterdingen bei Stuttgart. Hier sind die wesentlichen Verwaltungsbereiche des Konzerns unter einem Dach vereint. Der Standort ist im EMAS-Register eingetragen (ca. 3.901 Mitarbeiter). Die Daimler Truck Holding AG hat ihren Sitz in Stuttgart und die Hauptverwaltung in Leinfelden-Echterdingen. Im Rahmen der Abspaltung von der Daimler AG im Dezember 2021 wurden die Standorte im Großraum Stuttgart mit den Teil-Standorten Leinfelden-Echterdingen, Stuttgart-Untertürkheim und Esslingen-Brühl neu definiert. Arbeitsstätte für ca. 4.400 Mitarbeiter.",
+    "products": [
+      "Unternehmensführung",
+      "Verwaltung",
+      "Forschung und Entwicklung"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com/en/sustainability/environmental-statements/locations-in-the-area-of-stuttgart",
+      "https://www.emas-register.de"
+    ]
+  },
+  {
+    "id": "daimler-truck-de-stuttgart-untertuerkheim",
+    "companyId": "daimler-truck",
+    "lat": 48.7833,
+    "lng": 9.2500,
+    "headquarter": false,
+    "siteName": "Werk Stuttgart-Untertürkheim",
+    "address": "Mercedesstraße 120, 70372 Stuttgart-Untertürkheim",
+    "city": "Stuttgart",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Mercedes-Benz Werk Stuttgart-Untertürkheim mit über 110-jähriger Tradition, gegründet 1904. Das Werk ist Lead-Werk im weltweiten Powertrain-Produktionsverbund und Hightech-Standort für die Produktion hocheffizienter Motoren bis hin zu alternativen Antrieben. Künftig werden hier zusätzlich Batterien für Elektrofahrzeuge produziert. Der Standort ist Teil des Großraum-Standortverbunds Stuttgart mit Leinfelden-Echterdingen und Esslingen-Brühl. 2.501–5.000 Mitarbeiter.",
+    "products": [
+      "Motoren",
+      "Antriebsstränge",
+      "Batterien für Elektrofahrzeuge"
+    ],
+    "sources": [
+      "https://locations.daimlertruck.com/karriere/standorte/detail/stuttgart-untertuerkheim-daimler-truck-ag",
+      "https://www.daimlertruck.com/en/sustainability/environmental-statements/locations-in-the-area-of-stuttgart"
+    ]
+  },
+  {
+    "id": "daimler-truck-de-esslingen-bruehl",
+    "companyId": "daimler-truck",
+    "lat": 48.7500,
+    "lng": 9.3000,
+    "headquarter": false,
+    "siteName": "Standort Esslingen-Brühl",
+    "address": "Esslingen-Brühl, 73732 Esslingen am Neckar",
+    "city": "Esslingen am Neckar",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Teil-Standort des Großraum-Standortverbunds Stuttgart. Hier sind Teile der Forschung und Entwicklung untergebracht. Der Standort ist im EMAS-Register als Teil des Großraum-Stuttgart-Standorts gelistet.",
+    "products": [
+      "Forschung und Entwicklung"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com/en/sustainability/environmental-statements/locations-in-the-area-of-stuttgart"
+    ]
+  },
+  {
+    "id": "daimler-truck-de-woerth",
+    "companyId": "daimler-truck",
+    "lat": 49.0500,
+    "lng": 8.2833,
+    "headquarter": false,
+    "siteName": "Werk Wörth am Rhein",
+    "address": "Daimlerstraße 1, 76744 Wörth am Rhein",
+    "city": "Wörth am Rhein",
+    "state": "Rheinland-Pfalz",
+    "country": "DE",
+    "description": "Größtes Montagewerk für Lkw von Daimler Truck und Leit- sowie Volumenwerk im Produktionsverbund. Hier arbeiten 9.700 Mitarbeiter (Stand 31.12.2025) – der größte deutsche Standort. Wörth ist das Mercedes-Benz Stammwerk für schwere Lkw und produziert die Modelle Actros, Arocs und Atego. Ende 2024 feierte der batterieelektrische eActros 600 hier Serienstart. Das Werk bleibt trotz geplanter Verlagerung von Teilen der Produktion nach Cheb (Tschechien) das zentrale Leitwerk.",
+    "products": [
+      "Mercedes-Benz Actros",
+      "Mercedes-Benz Arocs",
+      "Mercedes-Benz Atego",
+      "Mercedes-Benz eActros 600"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com/newsroom/daimler-truck-in-zahlen",
+      "https://www.tagesschau.de/wirtschaft/unternehmen/daimler-truck-personalabbau-100.html"
+    ]
+  },
+  {
+    "id": "daimler-truck-de-mannheim",
+    "companyId": "daimler-truck",
+    "lat": 49.4875,
+    "lng": 8.4660,
+    "headquarter": false,
+    "siteName": "Werk Mannheim",
+    "address": "Mercedes-Benz Werk Mannheim, 68305 Mannheim",
+    "city": "Mannheim",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Zweitgrößter deutscher Standort mit 7.600 Mitarbeitern (Stand 31.12.2025). Das Werk Mannheim ist das Kompetenzzentrum für Motorenproduktion von Daimler Truck. Hier werden Dieselmotoren für Lkw und Busse gefertigt. Die Produktion wird im Rahmen der Partnerschaft mit Cummins für die Zukunft gerüstet.",
+    "products": [
+      "Dieselmotoren für Lkw und Busse"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com/newsroom/daimler-truck-in-zahlen",
+      "https://group.mercedes-benz.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-de-gaggenau",
+    "companyId": "daimler-truck",
+    "lat": 48.8000,
+    "lng": 8.3167,
+    "headquarter": false,
+    "siteName": "Werk Gaggenau",
+    "address": "Mercedes-Benz Werk Gaggenau, 76571 Gaggenau",
+    "city": "Gaggenau",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Traditionsstandort mit 4.400 Mitarbeitern (Stand 31.12.2025). Das Werk Gaggenau ist Kompetenzzentrum für Getriebe und Antriebskomponenten. Hier startete Ende 2024 die Produktion zentraler Komponenten für den eActros 600. Gaggenau ist der älteste Standort von Daimler Truck (Werksgründung 1904).",
+    "products": [
+      "Getriebe",
+      "Antriebskomponenten",
+      "Komponenten für eActros 600"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com/newsroom/daimler-truck-in-zahlen",
+      "https://www.daimlertruck.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-de-kassel",
+    "companyId": "daimler-truck",
+    "lat": 51.3122,
+    "lng": 9.4800,
+    "headquarter": false,
+    "siteName": "Werk Kassel",
+    "address": "Mercedes-Benz Werk Kassel, 34123 Kassel",
+    "city": "Kassel",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "Werk Kassel mit 2.700 Mitarbeitern (Stand 31.12.2025). Kompetenzzentrum für Achsen und Achskomponenten. Hier startete Ende 2024 die Produktion zentraler Komponenten für den eActros 600. Kassel ist einer der fünf deutschen Lkw-Standorte.",
+    "products": [
+      "Achsen",
+      "Achskomponenten",
+      "Komponenten für eActros 600"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com/newsroom/daimler-truck-in-zahlen",
+      "https://www.daimlertruck.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-de-neu-ulm",
+    "companyId": "daimler-truck",
+    "lat": 48.3833,
+    "lng": 10.0000,
+    "headquarter": false,
+    "siteName": "Daimler Buses Werk Neu-Ulm",
+    "address": "Daimler Buses GmbH, 89231 Neu-Ulm",
+    "city": "Neu-Ulm",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Werk Neu-Ulm der Daimler Buses GmbH mit 3.900 Mitarbeitern (Stand 31.12.2025). Hier werden Stadtbusse (Mercedes-Benz Citaro) und Reisebusse (Setra) gefertigt. Neu-Ulm ist der größte Bus-Produktionsstandort von Daimler Truck in Deutschland.",
+    "products": [
+      "Mercedes-Benz Citaro",
+      "Setra Reisebusse"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com/newsroom/daimler-truck-in-zahlen"
+    ]
+  },
+  {
+    "id": "daimler-truck-de-halberstadt",
+    "companyId": "daimler-truck",
+    "lat": 51.8950,
+    "lng": 11.0500,
+    "headquarter": false,
+    "siteName": "Global Parts Center Halberstadt",
+    "address": "Global Parts Center, 38820 Halberstadt",
+    "city": "Halberstadt",
+    "state": "Sachsen-Anhalt",
+    "country": "DE",
+    "description": "Global Parts Center (GPC) von Mercedes-Benz Trucks in Halberstadt. Das Zentrallager versorgt den weltweiten Ersatzteilmarkt für Mercedes-Benz Nutzfahrzeuge. Der Standort ist Teil des globalen Logistiknetzwerks von Daimler Truck.",
+    "products": [
+      "Ersatzteillogistik"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-fr-molsheim",
+    "companyId": "daimler-truck",
+    "lat": 48.5333,
+    "lng": 7.5000,
+    "headquarter": false,
+    "siteName": "Werk Molsheim (Frankreich)",
+    "address": "Mercedes-Benz Molsheim, 67120 Molsheim, Frankreich",
+    "city": "Molsheim",
+    "country": "FR",
+    "description": "Werk Molsheim in Frankreich. Hier werden Custom Tailored Trucks (Spezialfahrzeuge und Sonderanfertigungen) für Mercedes-Benz Trucks gefertigt. Der Standort ergänzt das europäische Produktionsnetzwerk.",
+    "products": [
+      "Custom Tailored Trucks",
+      "Spezialfahrzeuge"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-tr-aksaray",
+    "companyId": "daimler-truck",
+    "lat": 38.3725,
+    "lng": 34.0294,
+    "headquarter": false,
+    "siteName": "Werk Aksaray (Türkei)",
+    "address": "Mercedes-Benz Türk A.Ş., 68100 Aksaray, Türkei",
+    "city": "Aksaray",
+    "country": "TR",
+    "description": "Werk Aksaray in der Türkei mit über 1.600 Mitarbeitern, gegründet 1986. Wichtiger Produktionsstandort für Mercedes-Benz Actros und Arocs für den lokalen Markt und ausgewählte europäische Märkte. In Aksaray wurde das erste Konteiner-Rechenzentrum von Daimler Truck in Europa in Betrieb genommen. Der Standort ist in die Neuverteilung der Produktion im europäischen Netzwerk einbezogen.",
+    "products": [
+      "Mercedes-Benz Actros",
+      "Mercedes-Benz Arocs"
+    ],
+    "sources": [
+      "https://locations.daimlertruck.com",
+      "https://www.daimlertruck.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-tr-hosdere",
+    "companyId": "daimler-truck",
+    "lat": 41.1000,
+    "lng": 29.0000,
+    "headquarter": false,
+    "siteName": "Daimler Buses Werk Hoşdere (Türkei)",
+    "address": "Mercedes-Benz Türk A.Ş., Hoşdere, Istanbul, Türkei",
+    "city": "Istanbul",
+    "country": "TR",
+    "description": "Hoşdere Bus Factory in Istanbul, einer der größten integrierten Bus-Produktionsstandorte im Daimler Buses Netzwerk. Hier werden Stadt- und Überlandbusse für die Türkei und Exportmärkte gefertigt. Daimler Truck beschäftigt in der Türkei insgesamt rund 5.800 Mitarbeiter (Istanbul und Aksaray).",
+    "products": [
+      "Stadtbusse",
+      "Überlandbusse"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-cz-cheb",
+    "companyId": "daimler-truck",
+    "lat": 50.0833,
+    "lng": 12.3667,
+    "headquarter": false,
+    "siteName": "Geplantes Werk Cheb (Tschechien)",
+    "address": "Cheb, Tschechien (in Planung)",
+    "city": "Cheb",
+    "country": "CZ",
+    "description": "Geplanter neuer Montagestandort von Mercedes-Benz Trucks in Cheb (Tschechien), nahe der deutschen Grenze. Der Standort soll ab Ende des Jahrzehnts Teile der Produktion aus Wörth und Aksaray übernehmen und das europäische Produktionsnetzwerk ergänzen. Die Inbetriebnahme ist für Ende des Jahrzehnts geplant.",
+    "sources": [
+      "https://www.daimlertruck.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-us-portland",
+    "companyId": "daimler-truck",
+    "lat": 45.5231,
+    "lng": -122.6765,
+    "headquarter": false,
+    "siteName": "DTNA Hauptsitz und Engineering Hub Portland",
+    "address": "Portland, Oregon, USA",
+    "city": "Portland",
+    "state": "Oregon",
+    "country": "US",
+    "description": "Hauptsitz und Engineering Hub von Daimler Truck North America (DTNA) in Portland, Oregon. Hier finden Fahrzeugentwicklung, Tests und Produktvalidierung statt. 2.700 Mitarbeiter (Stand 31.12.2025).",
+    "products": [
+      "Forschung und Entwicklung",
+      "Fahrzeugentwicklung",
+      "Tests und Validierung"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com/newsroom/daimler-truck-in-zahlen",
+      "https://www.assemblymag.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-us-cleveland-nc",
+    "companyId": "daimler-truck",
+    "lat": 35.7333,
+    "lng": -81.1667,
+    "headquarter": false,
+    "siteName": "Freightliner Werk Cleveland, North Carolina",
+    "address": "Cleveland, North Carolina, USA",
+    "city": "Cleveland",
+    "state": "North Carolina",
+    "country": "US",
+    "description": "Größtes US-Produktionswerk von DTNA in Cleveland, North Carolina. Hier werden Freightliner-Lkw montiert. Der Standort ist Teil des Produktionsnetzwerks mit fünf Werken in North und South Carolina.",
+    "products": [
+      "Freightliner Lkw"
+    ],
+    "sources": [
+      "https://www.assemblymag.com",
+      "https://www.ttnews.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-us-gastonia",
+    "companyId": "daimler-truck",
+    "lat": 35.2625,
+    "lng": -81.1872,
+    "headquarter": false,
+    "siteName": "Freightliner Werk Gastonia, North Carolina",
+    "address": "Gastonia, North Carolina, USA",
+    "city": "Gastonia",
+    "state": "North Carolina",
+    "country": "US",
+    "description": "Freightliner-Produktionswerk in Gastonia, North Carolina. Teil des US-Produktionsnetzwerks von DTNA.",
+    "products": [
+      "Freightliner Lkw"
+    ],
+    "sources": [
+      "https://www.assemblymag.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-us-mount-holly",
+    "companyId": "daimler-truck",
+    "lat": 35.3000,
+    "lng": -81.0167,
+    "headquarter": false,
+    "siteName": "Freightliner Werk Mount Holly, North Carolina",
+    "address": "Mount Holly, North Carolina, USA",
+    "city": "Mount Holly",
+    "state": "North Carolina",
+    "country": "US",
+    "description": "Freightliner-Produktionswerk in Mount Holly, North Carolina. Teil des US-Produktionsnetzwerks von DTNA.",
+    "products": [
+      "Freightliner Lkw"
+    ],
+    "sources": [
+      "https://www.assemblymag.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-us-high-point",
+    "companyId": "daimler-truck",
+    "lat": 35.9557,
+    "lng": -80.0053,
+    "headquarter": false,
+    "siteName": "Thomas Built Buses Werk High Point, North Carolina",
+    "address": "High Point, North Carolina, USA",
+    "city": "High Point",
+    "state": "North Carolina",
+    "country": "US",
+    "description": "Produktionsstandort von Thomas Built Buses (Schulbusse) in High Point, North Carolina. Teil des US-Produktionsnetzwerks von DTNA.",
+    "products": [
+      "Schulbusse (Thomas Built Buses)"
+    ],
+    "sources": [
+      "https://www.assemblymag.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-us-gaffney",
+    "companyId": "daimler-truck",
+    "lat": 35.0718,
+    "lng": -81.6498,
+    "headquarter": false,
+    "siteName": "Freightliner Custom Chassis Werk Gaffney, South Carolina",
+    "address": "Gaffney, South Carolina, USA",
+    "city": "Gaffney",
+    "state": "South Carolina",
+    "country": "US",
+    "description": "Produktionsstandort von Freightliner Custom Chassis in Gaffney, South Carolina. Teil des US-Produktionsnetzwerks von DTNA.",
+    "products": [
+      "Freightliner Custom Chassis"
+    ],
+    "sources": [
+      "https://www.assemblymag.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-mx-saltillo",
+    "companyId": "daimler-truck",
+    "lat": 25.4333,
+    "lng": -100.9833,
+    "headquarter": false,
+    "siteName": "Freightliner Werk Saltillo, Coahuila",
+    "address": "Saltillo, Coahuila, Mexiko",
+    "city": "Saltillo",
+    "state": "Coahuila",
+    "country": "MX",
+    "description": "Freightliner-Produktionswerk in Saltillo, Coahuila, eröffnet 2009. Hier werden Freightliner Cascadia-Lkw montiert. Das Werk feierte die Produktion des 100.000sten Fahrzeugs. Zusammen mit Santiago Tianguistenco werden hier die meisten in Nordamerika gebauten Freightliner- und Western Star-Lkw montiert.",
+    "products": [
+      "Freightliner Cascadia",
+      "Western Star"
+    ],
+    "sources": [
+      "https://www.ttnews.com",
+      "https://www.autosieger.de"
+    ]
+  },
+  {
+    "id": "daimler-truck-mx-santiago-tianguistenco",
+    "companyId": "daimler-truck",
+    "lat": 19.1833,
+    "lng": -99.4667,
+    "headquarter": false,
+    "siteName": "Freightliner Werk Santiago Tianguistenco, Estado de México",
+    "address": "Santiago Tianguistenco, Estado de México, Mexiko",
+    "city": "Santiago Tianguistenco",
+    "state": "Estado de México",
+    "country": "MX",
+    "description": "Freightliner-Produktionswerk in Santiago Tianguistenco, Estado de México, in Betrieb seit 1991 (andere Quellen: 1992). Hier werden Freightliner-Lkw für den nordamerikanischen Markt montiert.",
+    "products": [
+      "Freightliner Lkw"
+    ],
+    "sources": [
+      "https://www.ttnews.com",
+      "https://mexicoindustry.com"
+    ]
+  },
+    {
+    "id": "daimler-truck-br-sao-bernardo",
+    "companyId": "daimler-truck",
+    "lat": -23.7000,
+    "lng": -46.5500,
+    "headquarter": false,
+    "siteName": "Mercedes-Benz Werk São Bernardo do Campo, São Paulo",
+    "address": "Avenida Alfred Jurzykowski, 562, Vila Paulicéia, São Bernardo do Campo, SP, Brasilien",
+    "city": "São Bernardo do Campo",
+    "state": "São Paulo",
+    "country": "BR",
+    "description": "Traditionsreichster Auslandsstandort von Daimler Truck in Brasilien, eröffnet am 28. September 1956. Hier werden alle Mercedes-Benz Lkw für den brasilianischen Markt (Accelo, Atego, Atron, Axor, Actros) sowie Aggregate (Motoren, Achsen, Getriebe) und Busfahrgestelle produziert. Daimler Truck investiert rund 600 Mio. Euro in den kommenden fünf Jahren in sein Nutzfahrzeuggeschäft in Brasilien.",
+    "products": [
+      "Mercedes-Benz Accelo",
+      "Mercedes-Benz Atego",
+      "Mercedes-Benz Atron",
+      "Mercedes-Benz Axor",
+      "Mercedes-Benz Actros",
+      "Motoren",
+      "Achsen",
+      "Getriebe",
+      "Busfahrgestelle"
+    ],
+    "sources": [
+      "https://www.mercedes-benz-trucks.com.br",
+      "https://locations.daimlertruck.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-br-juiz-de-fora",
+    "companyId": "daimler-truck",
+    "lat": -21.7500,
+    "lng": -43.3500,
+    "headquarter": false,
+    "siteName": "Mercedes-Benz Werk Juiz de Fora, Minas Gerais",
+    "address": "Juiz de Fora, Minas Gerais, Brasilien",
+    "city": "Juiz de Fora",
+    "state": "Minas Gerais",
+    "country": "BR",
+    "description": "Zweiter brasilianischer Produktionsstandort von Daimler Truck in Juiz de Fora, Minas Gerais. Hier werden Lkw-Fahrerhäuser gefertigt. Der Standort wird zusammen mit São Bernardo do Campo mit Solarenergie aus einem Photovoltaikprojekt versorgt.",
+    "products": [
+      "Lkw-Fahrerhäuser"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com",
+      "https://www.mercedes-benz-trucks.com.br"
+    ]
+  },
+  {
+    "id": "daimler-truck-in-chennai",
+    "companyId": "daimler-truck",
+    "lat": 12.9000,
+    "lng": 80.0833,
+    "headquarter": false,
+    "siteName": "Daimler India Commercial Vehicles (DICV) – Oragadam, Chennai",
+    "address": "SIPCOT Industrial Growth Centre, Oragadam, Mathur Post, 602105 Chennai, Indien",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "IN",
+    "description": "Integrierter Produktions- und F&E-Standort von Daimler India Commercial Vehicles (DICV) in Oragadam bei Chennai. 400 Hektar großes Gelände mit über 4.000 Mitarbeitern und mehr als 400 lokalen Zulieferern. Hier werden BharatBenz-Lkw für den indischen Markt sowie FUSO-Lkw für Exportmärkte produziert. DICV hat seinen Unternehmenssitz ebenfalls in Oragadam. Daimler Truck plant eine zusätzliche Investition von rund 4.000 Crore INR in Tamil Nadu.",
+    "products": [
+      "BharatBenz Lkw",
+      "FUSO Lkw"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com",
+      "https://locations.daimlertruck.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-jp-kawasaki",
+    "companyId": "daimler-truck",
+    "lat": 35.5833,
+    "lng": 139.6500,
+    "headquarter": false,
+    "siteName": "Mitsubishi Fuso Werk Kawasaki",
+    "address": "10 Ohkura-cho, Nakahara-ku, Kawasaki-shi, Kanagawa 211-8522, Japan",
+    "city": "Kawasaki",
+    "state": "Kanagawa",
+    "country": "JP",
+    "description": "Hauptwerk und Unternehmenssitz von Mitsubishi Fuso Truck and Bus Corporation (MFTBC) in Kawasaki. Hier arbeiten 3.200 Mitarbeiter (Stand 31.12.2025). Im Rahmen der Fusion des japanischen Nutzfahrzeuggeschäfts mit Toyota werden die FUSO-Aktivitäten in Kawasaki konsolidiert.",
+    "products": [
+      "FUSO Lkw",
+      "FUSO Busse"
+    ],
+    "sources": [
+      "https://www.daimlertruck.com/newsroom/daimler-truck-in-zahlen",
+      "https://locations.daimlertruck.com"
+    ]
+  },
+  {
+    "id": "daimler-truck-jp-koga",
+    "companyId": "daimler-truck",
+    "lat": 36.1833,
+    "lng": 139.7167,
+    "headquarter": false,
+    "siteName": "Mitsubishi Fuso Werk Koga",
+    "address": "Koga, Ibaraki, Japan",
+    "city": "Koga",
+    "state": "Ibaraki",
+    "country": "JP",
+    "description": "Produktionsstandort von Mitsubishi Fuso in Koga, Ibaraki. Der Standort soll nach der Fusion mit Toyota beibehalten werden.",
+    "products": [
+      "FUSO Lkw"
+    ],
+    "sources": [
+      "https://www.boerse-stuttgart.de"
+    ]
+  },
+  {
+    "id": "daimler-truck-jp-nitta",
+    "companyId": "daimler-truck",
+    "lat": 36.1333,
+    "lng": 139.6167,
+    "headquarter": false,
+    "siteName": "Mitsubishi Fuso Werk Nitta",
+    "address": "Nitta, Gunma, Japan",
+    "city": "Nitta",
+    "state": "Gunma",
+    "country": "JP",
+    "description": "Produktionsstandort von Mitsubishi Fuso in Nitta, Gunma. Der Standort soll nach der Fusion mit Toyota beibehalten werden.",
+    "products": [
+      "FUSO Lkw"
+    ],
+    "sources": [
+      "https://www.boerse-stuttgart.de"
+    ]
+  },
+  {
+    "id": "daimler-truck-jp-nakatsu",
+    "companyId": "daimler-truck",
+    "lat": 33.6000,
+    "lng": 131.1833,
+    "headquarter": false,
+    "siteName": "Mitsubishi Fuso Werk Nakatsu (geplanter Verkauf)",
+    "address": "Nakatsu, Oita, Japan",
+    "city": "Nakatsu",
+    "state": "Oita",
+    "country": "JP",
+    "description": "Mitsubishi Fuso Werk in Nakatsu, Oita. Der Standort soll im Zuge der Fusion des japanischen Nutzfahrzeuggeschäfts mit Toyota verkauft werden.",
+    "products": [
+      "FUSO Lkw"
+    ],
+    "sources": [
+      "https://www.boerse-stuttgart.de"
+    ]
+  },
+  {
+    "id": "decodio-de-forchheim",
+    "companyId": "decodio",
+    "lat": 49.7188,
+    "lng": 11.0583,
+    "headquarter": true,
+    "siteName": "Decodio GmbH – Forchheim (Deutschland)",
+    "address": "Äußere Nürnberger Str. 62, 91301 Forchheim",
+    "city": "Forchheim",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz der Decodio GmbH in Forchheim, Bayern, im Medical Valley. Die deutsche Tochtergesellschaft wurde 2019 gegründet und ist auf Vertrieb, Projektmanagement und Anwendungsentwicklung im Bereich Spectrum Monitoring Software spezialisiert. Die Decodio GmbH bietet maßgeschneiderte Systeme im EW/SIGINT-Bereich an. Die Software kann mit Empfängern von über 20 namhaften Herstellern auf Standard-PCs betrieben werden. Das Unternehmen ist im Handelsregister des Amtsgerichts Bamberg unter HRB 8618 eingetragen. Geschäftsführer ist Dr. Markus Scheide. Die Telefonnummer lautet +49 9191 9504240.",
+    "products": [
+      "Spectrum Monitoring Software",
+      "SIGINT/COMINT-Systeme",
+      "Emitterlokalisierung (TDoA/AoA)"
+    ],
+    "sources": [
+      "https://www.decodio.com/about/",
+      "https://bdsv-exhibitions.eu/show/ru-net/406",
+      "https://medical-valley-forchheim.de"
+    ]
+  },
+  {
+    "id": "decodio-ch-zuerich",
+    "companyId": "decodio",
+    "lat": 47.3888,
+    "lng": 8.5169,
+    "headquarter": false,
+    "siteName": "Decodio AG – Zürich (Schweiz)",
+    "address": "Heinrichstrasse 147, 8005 Zürich, Schweiz",
+    "city": "Zürich",
+    "country": "CH",
+    "description": "Hauptsitz der Decodio AG in Zürich und Muttergesellschaft der Decodio GmbH. Das Unternehmen wurde 2012 gegründet und ist auf digitales Signalprocessing, Signals Intelligence und Funküberwachung spezialisiert. Der Hauptsitz befindet sich an der Heinrichstrasse 147 im Zürcher Stadtkreis 5; eine weitere Adresse ist die Technoparkstrasse 1 in 8005 Zürich. Die Decodio AG ist im Schweizer Handelsregister unter CHE-420.161.200 eingetragen. Im November 2014 erhielt Decodio das CTI-Label der Eidgenössischen Technologie- und Innovationskommission; im März 2018 wurde das Qualitätsmanagementsystem nach ISO 9001:2015 zertifiziert. Die Telefonnummer lautet +41 44 552 08 70.",
+    "products": [
+      "Spectrum Monitoring Software",
+      "SIGINT/COMINT-Software",
+      "Emitterlokalisierung"
+    ],
+    "sources": [
+      "https://www.decodio.com/about/",
+      "https://www.rstungsreport-wob.ch/dealers/decodio-ag",
+      "https://www.moneyhouse.ch/en/company/decodio-ag-17001295281"
+    ]
+  },
+    {
+    "id": "decodio-fr-rennes",
+    "companyId": "decodio",
+    "lat": 48.1128,
+    "lng": -1.6790,
+    "headquarter": false,
+    "siteName": "Decodio SAS – Rennes (Frankreich)",
+    "address": "7 Rue de Châtillon, Immeuble Identity 3, 35000 Rennes, Frankreich",
+    "city": "Rennes",
+    "state": "Bretagne",
+    "country": "FR",
+    "description": "Französische Tochtergesellschaft Decodio SAS mit Sitz in Rennes, gegründet 2022. Das französische Team ist für technischen Support, Projektmanagement und Marktentwicklung in den Bereichen Funkmessung und mission-kritische Kommunikation zuständig. Die Gesellschaft ist im französischen Handelsregister unter SIRET 915292841 eingetragen und hat ein Stammkapital von 50.000 EUR. Die Adresse lautet 7 Rue de Châtillon, Immeuble Identity 3, 35000 Rennes. Der Standort unterstützt die wachsenden Aktivitäten von Decodio im französischen Verteidigungssektor.",
+    "products": [
+      "Technischer Support",
+      "Projektmanagement",
+      "Marktentwicklung"
+    ],
+    "sources": [
+      "https://www.decodio.com/about/",
+      "https://www.societe.com/societe/decodio-sas-915292841.html",
+      "https://www.bretagnecommerceinternational.com"
+    ]
+  },
+  {
+    "id": "deepset-de-berlin-zinnowitzstrasse",
+    "companyId": "deepset",
+    "lat": 52.5310,
+    "lng": 13.3870,
+    "headquarter": true,
+    "siteName": "Hauptsitz Berlin",
+    "address": "Zinnowitzer Straße 1, 10115 Berlin",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "DE",
+    "description": "Hauptsitz der deepset GmbH in Berlin-Mitte. Der 3. Stock der Zinnowitzer Straße 1 ist die offizielle Firmenadresse und im Handelsregister des Amtsgerichts Berlin-Charlottenburg unter HRB 197429 B eingetragen. Im Jahr 2024 eröffnete deepset hier ein neues Headquarters im Herzen von Berlin-Mitte, das als zentraler Treffpunkt für die Haystack- und deepset-Community dient. Der Standort ist dog-friendly. Die Telefonnummer lautet +49 30 726210544. Geschäftsführer sind Milos Rusic und Malte Pietsch.",
+    "products": [
+      "Haystack",
+      "deepset Cloud",
+      "Enterprise-Plattform"
+    ],
+    "sources": [
+      "https://www.deepset.ai/imprint",
+      "https://www.cbinsights.com/company/deepset#1",
+      "https://www.linkedin.com/company/deepset-ai"
+    ]
+  },
+  {
+    "id": "deepset-de-berlin-hermannstrasse",
+    "companyId": "deepset",
+    "lat": 52.4730,
+    "lng": 13.4470,
+    "headquarter": false,
+    "siteName": "Standort Berlin-Hermannstraße (Datenschutzrechtlicher Verantwortlicher)",
+    "address": "Hermannstraße 168, 12051 Berlin",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "DE",
+    "description": "Zweite Berliner Adresse der deepset GmbH in der Hermannstraße 168 in Berlin-Neukölln. Diese Adresse wird als datenschutzrechtlicher Verantwortlicher für den Bewerbungsprozess genannt und ist im Handelsregister unter derselben HRB-Nummer (HRB 197429 B) registriert. Sie dient als offizieller Geschäftssitz für HR- und Datenschutzangelegenheiten.",
+    "sources": [
+      "https://deepset.jobs.personio.de/privacy-policy"
+    ]
+  },
+  {
+    "id": "deepset-us-new-york",
+    "companyId": "deepset",
+    "lat": 40.7105,
+    "lng": -74.0117,
+    "headquarter": false,
+    "siteName": "deepset USA – New York",
+    "address": "165 Broadway, One Liberty Plaza, 23rd Floor, New York, NY 10006, USA",
+    "city": "New York",
+    "state": "New York",
+    "country": "US",
+    "description": "US-Standort der deepset GmbH im One Liberty Plaza in Lower Manhattan, New York. Der Standort dient als Vertretung für den nordamerikanischen Markt und ist im offiziellen Standortverzeichnis des Unternehmens als zweiter Standort neben Berlin aufgeführt. Von hier aus werden Kunden in den USA und Kanada betreut.",
+    "sources": [
+      "https://www.linkedin.com/company/deepset-ai",
+      "https://www.cbinsights.com/company/deepset#1"
+    ]
+  },
+  {
+    "id": "deepset-es-barcelona",
+    "companyId": "deepset",
+    "lat": 41.3874,
+    "lng": 2.1686,
+    "headquarter": false,
+    "siteName": "deepset Spanien – Barcelona",
+    "address": "Barcelona, Spanien",
+    "city": "Barcelona",
+    "country": "ES",
+    "description": "Standort der deepset GmbH in Barcelona, Spanien. Der Standort wird in Stellenausschreibungen des Unternehmens (z. B. für Account Executive – European Institutions) als einer der möglichen Arbeitsorte neben Berlin und London genannt. Als remote-first Unternehmen beschäftigt deepset hier Mitarbeiter für den europäischen Markt, insbesondere für Institutionen der Europäischen Union.",
+    "sources": [
+      "https://deepset.jobs.personio.de/job/2549138"
+    ]
+  },
+  {
+    "id": "deepset-gb-london",
+    "companyId": "deepset",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "headquarter": false,
+    "siteName": "deepset UK – London",
+    "address": "London, Vereinigtes Königreich",
+    "city": "London",
+    "country": "GB",
+    "description": "Standort der deepset GmbH in London, Vereinigtes Königreich. Der Standort wird in Stellenausschreibungen des Unternehmens (z. B. für Account Executive – European Institutions) als einer der möglichen Arbeitsorte neben Berlin und Barcelona genannt. Als remote-first Unternehmen beschäftigt deepset hier Mitarbeiter für den britischen Markt und für europäische Institutionen.",
+    "sources": [
+      "https://deepset.jobs.personio.de/job/2549138"
     ]
   },
   {

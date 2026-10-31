@@ -5844,6 +5844,173 @@
     ]
   },
   {
+    "id": "desmi-de-wentorf",
+    "companyId": "desmi",
+    "lat": 53.4833,
+    "lng": 10.2500,
+    "headquarter": true,
+    "siteName": "Hauptsitz Wentorf bei Hamburg",
+    "address": "Südredder 2, 21465 Wentorf bei Hamburg",
+    "city": "Wentorf bei Hamburg",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Hauptsitz und Zentrale der DESMI GmbH in Wentorf bei Hamburg. Das Unternehmen ist im Handelsregister des Amtsgerichts Lübeck unter HRB 19774 HL eingetragen. Die Gesellschaft wurde 1994 gegründet und firmierte ursprünglich als DESMI GmbH Rotan Pumpengesellschaft. Der Standort ist im BDSV-Mitgliederverzeichnis als Aussteller der RÜ.NET gelistet (Booth 46). Die Telefonnummer lautet +49 407 519847. Geschäftsführer ist Andreas Mevs.",
+    "products": [
+      "Pumpen für Industrie und Marine",
+      "Ölwehr-Ausrüstung",
+      "Pumpen für Verteidigung und Kraftstoffe"
+    ],
+    "sources": [
+      "https://www.northdata.de/DESMI GmbH, Wentorf b· Hamburg/Amtsgericht Lübeck HRB 19774 HL",
+      "https://de.kompass.com/c/desmi-gmbh/de601390/",
+      "https://bdsv-exhibitions.eu/show/ru-net/406"
+    ]
+  },
+  {
+    "id": "desmi-de-seevetal",
+    "companyId": "desmi",
+    "lat": 53.3833,
+    "lng": 10.0333,
+    "headquarter": false,
+    "siteName": "Standort Seevetal (An der Reitbahn)",
+    "address": "An der Reitbahn 15, 21218 Seevetal",
+    "city": "Seevetal",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Standort der DESMI GmbH in Seevetal bei Hamburg (An der Reitbahn 15, 21218 Seevetal). Der Standort wird in der offiziellen Standortliste der DESMI-Gruppe als deutscher Standort geführt. Hier befinden sich Lager- und Vertriebsflächen. Die DESMI GmbH Rotan Pumpengesellschaft hat ihre Produktions- und Lagerfläche durch einen Standortwechsel nach Seevetal verdoppelt. Die Telefonnummer lautet +49 407 519847.",
+    "products": [
+      "Lager",
+      "Vertrieb",
+      "Pumpen"
+    ],
+    "sources": [
+      "https://www.desmi.com/media/e2tamfqn/t1524uk.pdf",
+      "https://www.chemietechnik.de"
+    ]
+  },
+  {
+    "id": "desmi-de-taunusstein",
+    "companyId": "desmi",
+    "lat": 50.1368,
+    "lng": 8.1517,
+    "headquarter": false,
+    "siteName": "Standort Taunusstein-Neuhof",
+    "address": "Idsteiner Str. 78, Neuhof, 65232 Taunusstein",
+    "city": "Taunusstein",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "Standort der DESMI GmbH in Taunusstein-Neuhof im Rheingau-Taunus-Kreis. Der Standort wird in Unternehmensverzeichnissen als offizieller Standort der DESMI GmbH geführt. Er dient als Vertriebs- und Servicebüro für Kunden in Hessen und Süddeutschland. Die Telefonnummer lautet +49 6128 859454.",
+    "products": [
+      "Vertrieb",
+      "Service",
+      "Pumpen"
+    ],
+    "sources": [
+      "https://www.de-firmen.com/desmi-taunusstein-neuhof/"
+    ]
+  },
+  {
+    "id": "destinus-de-feldkirchen",
+    "companyId": "destinus",
+    "lat": 48.1500,
+    "lng": 11.7333,
+    "headquarter": true,
+    "siteName": "Hauptsitz Feldkirchen bei München",
+    "address": "Velaskostraße 10, 85622 Feldkirchen",
+    "city": "Feldkirchen",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz und offizieller Firmensitz der Destinus Germany GmbH in Feldkirchen bei München. Von hier aus werden die deutschen Aktivitäten des Unternehmens gesteuert und konzerninterne Forschungs-, Entwicklungs- und Beratungsdienstleistungen erbracht.",
+    "products": [
+      "Forschung und Entwicklung",
+      "Beratung",
+      "Raketen- und Antriebssysteme"
+    ],
+    "sources": [
+      "https://www.lobbyregister.bundestag.de/media/7e/49/681220/Lobbyregister-Registereintraege-Detailansicht-R006817-2026-01-13_14-46-49.pdf",
+      "https://www.northdata.de/Destinus%20Germany%20GmbH,%20Feldkirchen/Amtsgericht%20M%C3%BCnchen%20HRB%20275592"
+    ]
+  },
+  {
+    "id": "destinus-de-duesseldorf",
+    "companyId": "destinus",
+    "lat": 51.2277,
+    "lng": 6.7735,
+    "headquarter": false,
+    "siteName": "Geplanter Produktionsstandort Düsseldorf",
+    "address": "Düsseldorf, Nordrhein-Westfalen (geplant)",
+    "city": "Düsseldorf",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Produktionsstandort der Destinus Germany GmbH in Düsseldorf. Produktionskapazitäten für die Ruta-Marschflugkörper. Ein genauer Standort innerhalb Düsseldorfs ist nicht veröffentlicht. Die Produktion in den Niederlanden (Hengelo und Enschede) bleibt weiterhin das primäre Fertigungszentrum von Destinus.",
+    "products": [
+      "Marschflugkörper"
+    ],
+    "sources": [
+      "https://tj.sputniknews.ru",
+      "https://news.rambler.ru"
+    ]
+  },
+  {
+    "id": "destinus-de-unterluess",
+    "companyId": "destinus",
+    "lat": 52.8333,
+    "lng": 10.2833,
+    "headquarter": false,
+    "siteName": "Rheinmetall Destinus Strike Systems – Unterlüß",
+    "address": "Unterlüß, Niedersachsen",
+    "city": "Unterlüß",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Standort des Joint Ventures Rheinmetall Destinus Strike Systems in Unterlüß, Niedersachsen. Das Joint Venture wurde im April 2026 angekündigt und soll in der zweiten Jahreshälfte 2026 gegründet werden. Rheinmetall hält 51 % der Anteile, Destinus 49 %. Das Joint Venture wird Marschflugkörper und ballistische Raketenartillerie fertigen, darunter die Ruta B3 (2.000 km Reichweite, 250 kg Gefechtskopf) sowie Ruta B2 und Kryla. Die Endmontage, Integration und Tests werden in Deutschland stattfinden, mit erster Lieferbereitschaft ab 2026. Rheinmetall stellt am Standort Unterlüß Produktionsanlagen, Qualifikationsinfrastruktur und Programmmanagement. Das Joint Venture zielt auf NATO-Qualifikation und eine 100 % europäische Wertschöpfungskette.",
+    "products": [
+      "Ruta B3 (Marschflugkörper)",
+      "Ruta B2 (Marschflugkörper)",
+      "Kryla (Marschflugkörper)",
+      "Ballistische Raketenartillerie"
+    ],
+    "sources": [
+      "https://www.aerotime.aero/articles/rheinmetall-destinus-cruise-missile-joint-venture",
+      "https://www.destinus.com/post/rheinmetall-destinus-strike-systems-centres-its-priorities-on-ruta-b3-and-european-deep-strike-production",
+      "https://www.ndr.de"
+    ]
+  },
+  {
+    "id": "destinus-nl-hengelo",
+    "companyId": "destinus",
+    "lat": 52.2656,
+    "lng": 6.7931,
+    "headquarter": false,
+    "siteName": "Destinus – Hengelo (Niederlande)",
+    "address": "Haaksbergerstraat 47, 7554 PA Hengelo, Niederlande",
+    "city": "Hengelo",
+    "country": "NL",
+    "description": "Hauptsitz und primärer Produktionsstandort der Destinus-Gruppe in Hengelo, Niederlande. Hier werden die Marschflugkörper der Ruta-Familie in Serie gefertigt. Destinus produziert jährlich über 2.000 Marschflugkörper in Europa. Der Standort ist das Engineering- und Designzentrum der Gruppe und bleibt auch nach Gründung des Joint Ventures mit Rheinmetall das primäre Fertigungszentrum für die Kernsysteme.",
+    "products": [
+      "Ruta B2 (Marschflugkörper)",
+      "Kryla (Marschflugkörper)"
+    ],
+    "sources": [
+      "https://tj.sputniknews.ru",
+      "https://www.aerotime.aero/articles/rheinmetall-destinus-cruise-missile-joint-venture"
+    ]
+  },
+  {
+    "id": "destinus-nl-enschede",
+    "companyId": "destinus",
+    "lat": 52.2215,
+    "lng": 6.8937,
+    "headquarter": false,
+    "siteName": "Destinus – Enschede (Niederlande)",
+    "address": "Enschede, Niederlande",
+    "city": "Enschede",
+    "country": "NL",
+    "description": "Zweiter Standort der Destinus-Gruppe in den Niederlanden. Der Standort in Enschede ergänzt die Aktivitäten in Hengelo und ist Teil des niederländischen Produktions- und Entwicklungsnetzwerks.",
+    "sources": [
+      "https://www.technologybase.nl"
+    ]
+  },
+  {
     "id": "diehl-de-ueberlingen-firmensitz",
     "companyId": "diehl",
     "lat": 47.758026,
@@ -6026,6 +6193,797 @@
     "products": ["Sidewinder-Lenkflugkörper AIM-9L"]
   },
   {
+    "id": "dirks-defence-de-emden",
+    "companyId": "dirks-defence",
+    "lat": 53.3590,
+    "lng": 7.1900,
+    "headquarter": true,
+    "siteName": "Hauptsitz und Werk Emden",
+    "address": "Kanadische Straße 14, 26723 Emden",
+    "city": "Emden",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Hauptsitz und zentraler Standort der DIRKS Defence & Security GmbH & Co. KG in Emden. Der Standort im Emder Industriepark umfasst die Emdener Anlagen- und Fahrzeugtechnik (EAFT) und ist das größte Werk des Unternehmens. Hier befinden sich Unternehmensführung, Anlagen- und Fahrzeugbau, Instandhaltung und Modernisierung sowie militärische Logistik. Bundesverteidigungsminister Boris Pistorius besuchte den Standort im Juli 2026 und informierte sich über das Leistungsspektrum. Die DIRKS Defence & Security GmbH & Co. KG ist im Handelsregister des Amtsgerichts Aurich unter HRA 201567 eingetragen. Vertreten wird das Unternehmen durch Klaus Lübbers. Die Telefonnummer lautet +49 4921 9375-0.",
+    "products": [
+      "Refurbishment und Reparatur",
+      "MRO von Sonderfahrzeugen",
+      "Anlagen- und Fahrzeugbau"
+    ],
+    "sources": [
+      "https://defence.dirks-group.de/de/impressum",
+      "https://www.politikexpress.de/bundesverteidigungsminister-pistorius-zu-besuch-bei-der-dirks-group-2262861.html"
+    ]
+  },
+  {
+    "id": "dirks-defence-de-emden-zungenkai",
+    "companyId": "dirks-defence",
+    "lat": 53.3580,
+    "lng": 7.1890,
+    "headquarter": false,
+    "siteName": "Standort Emden (Zum Zungenkai)",
+    "address": "Zum Zungenkai, 26725 Emden",
+    "city": "Emden",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Zweiter Emder Standort der DIRKS Defence & Security GmbH & Co. KG an der Adresse Zum Zungenkai. Der Standort ist im BDSV-Mitgliederverzeichnis als offizielle Adresse geführt und dient als Kontaktadresse für das Unternehmen. Die Telefonnummer lautet +49 4921 9375-0.",
+    "sources": [
+      "https://bdsv.eu/mitglieder/mitglied-details.html?show=288",
+      "https://www.enforcetac.com"
+    ]
+  },
+  {
+    "id": "dirks-defence-de-geestland",
+    "companyId": "dirks-defence",
+    "lat": 53.6167,
+    "lng": 8.6167,
+    "headquarter": false,
+    "siteName": "Werk Geestland (bei Bremerhaven)",
+    "address": "Geestland, Niedersachsen",
+    "city": "Geestland",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Werk der DIRKS Defence in Geestland bei Bremerhaven. Der Standort gehört zu den sieben Werken der DIRKS Defence in Deutschland und im Baltikum und ist Teil des Werkstattverbunds für Instandhaltung und Reparatur von Militärfahrzeugen. Der Standort wird in Stellenausschreibungen und Unternehmensberichten als einer der deutschen Werke geführt.",
+    "sources": [
+      "https://www.hwk-oldenburg.de",
+      "https://www.politikexpress.de"
+    ]
+  },
+  {
+    "id": "dirks-defence-de-weitefeld",
+    "companyId": "dirks-defence",
+    "lat": 50.7333,
+    "lng": 7.9333,
+    "headquarter": false,
+    "siteName": "Werk Weitefeld (Thielmann WEW)",
+    "address": "Weitefeld, Rheinland-Pfalz",
+    "city": "Weitefeld",
+    "state": "Rheinland-Pfalz",
+    "country": "DE",
+    "description": "Produktionsstandort der ehemaligen Thielmann WEW in Weitefeld (Westerwald), die 2023 von der DIRKS Group übernommen wurde. Das Unternehmen ist ein führender Hersteller und Anbieter von Tankcontainerlösungen für den sicheren Flüssigkeitstransport im militärischen Kontext mit einer installierten Basis von über 3.000 Tankcontainern. Zu den Hauptkunden gehören die Bundeswehr, die U.S. Army sowie weitere NATO-Streitkräfte. Als Teil von DIRKS Defence & Security wird die Produktion von Trinkwasser- und Treibstoffcontainern für militärische Anwendungen am Standort ausgebaut. Der Betrieb läuft unter dem Namen Thielmann WEW weiter.",
+    "products": [
+      "Tankcontainer für militärische Anwendungen",
+      "Trinkwassercontainer",
+      "Treibstoffcontainer"
+    ],
+    "sources": [
+      "https://esut.de/2023/07/meldungen/43297/dirks-gruppe-hat-thielmann-wew-uebernommen/",
+      "https://pitchbook.com"
+    ]
+  },
+  {
+    "id": "dirks-defence-de-rittersbach",
+    "companyId": "dirks-defence",
+    "lat": 49.4167,
+    "lng": 9.1833,
+    "headquarter": false,
+    "siteName": "Werk Elztal-Rittersbach (OWR Odenwaldwerke)",
+    "address": "Elztal-Rittersbach, Baden-Württemberg",
+    "city": "Elztal",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Produktionsstandort der OWR Odenwaldwerke Rittersbach GmbH, die seit 1947 am Standort Rittersbach tätig ist und 2023 in die DIRKS Group integriert wurde. Die OWR ist auf Desinfektion und ASF Cleaning spezialisiert. Das Unternehmen firmiert unter dem neuen Namen OWR Odenwaldwerke Rittersbach GmbH und ist Teil der DIRKS Defence & Security. Der Standort ist eines der sieben Werke im Werkstattverbund.",
+    "products": [
+      "Desinfektion",
+      "ASF Cleaning"
+    ],
+    "sources": [
+      "https://www.heyjobs.co",
+      "https://www.74.de"
+    ]
+  },
+  {
+    "id": "dirks-defence-de-radevormwald",
+    "companyId": "dirks-defence",
+    "lat": 51.2000,
+    "lng": 7.3500,
+    "headquarter": false,
+    "siteName": "Werk Radevormwald (August Schröder Maschinenbau)",
+    "address": "Radevormwald, Nordrhein-Westfalen",
+    "city": "Radevormwald",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Standort der August Schröder Maschinenbau GmbH in Radevormwald, die im Dezember 2025 von der DIRKS Group übernommen wurde. Das Unternehmen bleibt unter seinem bisherigen Namen bestehen und wird dem Geschäftsbereich DIRKS Defence zugeordnet. Mit der Übernahme ergänzt DIRKS Defence sein bestehendes Leistungsspektrum im Bereich Zulieferung für den Verteidigungssektor. Der Standort ist Teil des Werkverbunds von DIRKS Defence.",
+    "sources": [
+      "https://esut.de/2026/02/meldungen/74598/dirks-group-uebernimmt-august-schroeder-maschinenbau/",
+      "https://www.bsozd.com"
+    ]
+  },
+  {
+    "id": "dirks-defence-de-langen",
+    "companyId": "dirks-defence",
+    "lat": 53.6167,
+    "lng": 8.6000,
+    "headquarter": false,
+    "siteName": "Werk Langen (MWB Fahrzeugtechnik GmbH)",
+    "address": "Langen, Niedersachsen",
+    "city": "Langen",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Standort der MWB Fahrzeugtechnik GmbH in Langen (Niedersachsen). Das Unternehmen gehört zum Geschäftsbereich DIRKS Defence & Security und ist Teil des Werkstattverbunds. Die MWB Fahrzeugtechnik GmbH ist im Handelsregister eingetragen und betreibt Instandhaltung und Reparatur von Fahrzeugen.",
+    "sources": [
+      "https://peoplecheck.de",
+      "https://www.online-handelsregister.de"
+    ]
+  },
+  {
+    "id": "dirks-defence-ee-tallinn",
+    "companyId": "dirks-defence",
+    "lat": 59.4370,
+    "lng": 24.7536,
+    "headquarter": false,
+    "siteName": "Baltic Defence & Technology – Tallinn",
+    "address": "Tallinn, Estland",
+    "city": "Tallinn",
+    "country": "EE",
+    "description": "Standort der Baltic Defence & Technology (BDT) in Tallinn, Estland. Die BDT und die EAFT gehören zum Geschäftsbereich DIRKS Defence & Security der DIRKS Group. Der Standort ist das siebte Werk der DIRKS Defence und bedient die estnischen Streitkräfte sowie NATO-Partner im Baltikum. Dorthin werden rund 100 Militär-LKW an die estnischen Streitkräfte ausgeliefert. Das Unternehmen bietet auch die Bereitstellung von Zeitarbeitskräften für die estnischen Streitkräfte sowie die Lieferung von Containern an.",
+    "sources": [
+      "https://baltic-deftech.ee",
+      "https://www.hwk-oldenburg.de",
+      "https://www.devex.com"
+    ]
+  },
+  {
+    "id": "dkf-de-berlin",
+    "companyId": "dkf",
+    "lat": 52.5256,
+    "lng": 13.4017,
+    "headquarter": true,
+    "siteName": "Firmensitz Berlin",
+    "address": "Rosenthaler Straße 40/41, 10178 Berlin",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "DE",
+    "description": "Aktueller Firmensitz der DKF Deutsche Kugellagerfabriken GmbH in Berlin-Mitte. Das Unternehmen ist im Handelsregister des Amtsgerichts Berlin-Charlottenburg unter HRB 197241 B eingetragen. Der Unternehmensgegenstand umfasst Beteiligungen, den Kauf und Verkauf von Beteiligungen, die Produktion und den Handel von Wälz- und Kugellagern sowie Artikeln der Antriebstechnik, des Maschinen- und Anlagenbaus. Das Stammkapital beträgt 25.000 EUR. Geschäftsführer ist Uwe Müller.",
+    "products": [
+      "Beteiligungen",
+      "Handel mit Wälz- und Kugellagern"
+    ],
+    "sources": [
+      "https://www.companyhouse.de/DKF-Deutsche-Kugellagerfabriken-GmbH-Berlin-Geschaeftsanschrift-Rosenthaler-Berlin",
+      "https://fusionbase.com/de/data/organization/e21fc60aba6649f51e700b162b6c6520/dkf-deutsche-kugellagerfabriken-gmbh"
+    ]
+  },
+  {
+    "id": "dkf-de-leipzig-boehlitz-ehrenberg",
+    "companyId": "dkf",
+    "lat": 51.3486,
+    "lng": 12.3089,
+    "headquarter": false,
+    "siteName": "Hauptwerk Leipzig-Böhlitz-Ehrenberg (heute KRW)",
+    "address": "Gutenbergstraße 6, 04178 Leipzig",
+    "city": "Leipzig",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Historischer Hauptstandort der DKF in Leipzig-Böhlitz-Ehrenberg. 1934 wurde hier innerhalb von zwei Jahren Bauzeit auf einer Fläche von 35.000 m² das zweite Werk errichtet. Unter dem Markennamen DKF produzierten 1.500 Mitarbeiter Nadel- und Rillenkugellager, Radial- und Axiallager, Vierpunktlager mit geteiltem Außenring, Flanschlager und während des Zweiten Weltkriegs Speziallager für Flugzeug- und Panzermotoren. Die DKF entwickelte sich rasch zu einem bedeutenden Hersteller von Wälzlagern; die Diesel-Flugmotoren der Deutschen Lufthansa wurden damals ausschließlich mit DKF-Wälzlagern bestückt. 1980 produzierte das Werk bis zu 385.000 Wälzlager jährlich auf einer Werksfläche von 76.000 m². Nach der Wende 1990 wurde das Werk in den FAG-Konzern eingebunden. 1992 musste DKFL Konkurs anmelden. Aus dem Firmenverbund ging 1993 die Kugel- und Rollenlagerwerk Leipzig GmbH (KRW) hervor, die die Tradition am Standort fortführt. KRW beschäftigt heute rund 270 Mitarbeiter und produziert über 9.000 verschiedene Wälzlagertypen mit Außendurchmessern von 50 mm bis 2.500 mm.",
+    "products": [
+      "Nadel- und Rillenkugellager",
+      "Radial- und Axiallager",
+      "Vierpunktlager",
+      "Flanschlager",
+      "Speziallager für Flugzeug- und Panzermotoren"
+    ],
+    "sources": [
+      "https://www.krw.de/en/company/history/",
+      "https://de.m.wikipedia.org/wiki/Deutsche_Kugellagerfabrik",
+      "https://www.leipziger-industriekultur.de"
+    ]
+  },
+  {
+    "id": "dnv-de-hamburg",
+    "companyId": "dnv",
+    "lat": 53.5500,
+    "lng": 9.9900,
+    "headquarter": true,
+    "siteName": "Hauptsitz Hamburg (Maritime Headquarters)",
+    "address": "Brooktorkai 18, 20457 Hamburg",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "country": "DE",
+    "description": "Deutscher Hauptsitz und globales Maritime Headquarters von DNV in der Hamburger HafenCity. Hier sind alle Entscheidungskompetenzen für die maritime Klassifikation und Zertifizierung sowie für die Öl- und Gasindustrie gebündelt. DNV Deutschland betreut mehr als 15 % der deutschen Schiffstonnage und ist damit die zweitgrößte Klassifikationsgesellschaft in Deutschland. Die DNV SE ist im Handelsregister des Amtsgerichts Hamburg unter HRB 115442 eingetragen. Die Telefonnummer lautet +49 40 36149-0. Geschäftsführer sind Torsten Fritz Schramm, Knut Ørbeck-Nilssen und Dr. Björn-Olaf Borth.",
+    "products": [
+      "Schiffsklassifikation",
+      "Maritime Beratung",
+      "Öl- und Gas-Zertifizierung"
+    ],
+    "sources": [
+      "https://www.dnv.de/Contact/",
+      "https://www.wer-zu-wem.de/firmenprofil/dnv-gl-40163--754e19af16.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-hamburg-tempowerk",
+    "companyId": "dnv",
+    "lat": 53.4667,
+    "lng": 10.0167,
+    "headquarter": false,
+    "siteName": "Standort Hamburg-Tempowerk",
+    "address": "Tempowerkring 11, 21079 Hamburg",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "country": "DE",
+    "description": "Zweiter Hamburger Standort von DNV im Tempowerkring. Der Standort ist im Zertifizierungs-Anhang der DNV GL SE als offizieller deutscher Standort aufgeführt.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-essen",
+    "companyId": "dnv",
+    "lat": 51.4500,
+    "lng": 7.0000,
+    "headquarter": false,
+    "siteName": "Standort Essen (Business Assurance D-A-CH)",
+    "address": "Wolbeckstraße 25, 45329 Essen",
+    "city": "Essen",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Zentrale des Geschäftsbereichs Business Assurance für Deutschland, Österreich und die Schweiz (D-A-CH) in Essen. Hier werden Managementsystemzertifizierungen (ISO 9001, ISO 14001, ISO 45001), Trainings und Weiterbildungen koordiniert. Der Standort ist auch für den maritimen Bereich aktiv. Die Telefonnummer lautet +49 201 7296-0.",
+    "products": [
+      "Managementsystemzertifizierung",
+      "Trainings",
+      "Maritime Dienstleistungen"
+    ],
+    "sources": [
+      "https://www.dnv.de/assurance/contact/location/"
+    ]
+  },
+  {
+    "id": "dnv-de-essen-schnieringshof",
+    "companyId": "dnv",
+    "lat": 51.4400,
+    "lng": 7.0100,
+    "headquarter": false,
+    "siteName": "Standort Essen-Schnieringshof",
+    "address": "Schnieringshof 14, 45329 Essen",
+    "city": "Essen",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Weiterer Essener Standort von DNV im Schnieringshof. Der Standort ist im Zertifizierungs-Anhang der DNV GL SE als offizieller deutscher Standort aufgeführt.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-dresden-wtc",
+    "companyId": "dnv",
+    "lat": 51.0500,
+    "lng": 13.7400,
+    "headquarter": false,
+    "siteName": "Standort Dresden (WTC Dresden)",
+    "address": "Maternistraße 15, 01067 Dresden",
+    "city": "Dresden",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Neuer Dresdner Standort von DNV im World Trade Center Dresden in der Altstadt, bezogen im Herbst 2025. DNV hat rund 1.600 m² Bürofläche im WTC Dresden angemietet und verlegte seinen Standort vom Stadtteil Mockritz hierher. Der Standort ist auf Energieberatung, Asset Management und Netzintegration spezialisiert. Dr. Thomas Werner ist Managing Director und Leiter des Dresdner Standorts. Das WTC Dresden ist mit der DGNB-Platin- und Wired-Score-Platin-Zertifizierung ausgezeichnet.",
+    "products": [
+      "Energieberatung",
+      "Asset Management",
+      "Netzintegration"
+    ],
+    "sources": [
+      "https://deal-magazin.com/news/142629/Aengevelt-und-CBRE-vermitteln-1600-m-im-Deka-Objekt-WTC-Dresden",
+      "https://jobs.dnv.com/locations/germany"
+    ]
+  },
+  {
+    "id": "dnv-de-dresden-mockritz",
+    "companyId": "dnv",
+    "lat": 51.0200,
+    "lng": 13.7500,
+    "headquarter": false,
+    "siteName": "Ehemaliger Standort Dresden-Mockritz",
+    "address": "Gostritzer Straße 67a, 01217 Dresden",
+    "city": "Dresden",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Ehemaliger Dresdner Standort von DNV in der Gostritzer Straße 67a im Stadtteil Mockritz. Hier war die DNV Energy Systems Germany GmbH ansässig, die aus der 1963 gegründeten KEMA-IEV GmbH hervorgegangen ist. Der Standort wurde im Herbst 2025 zugunsten des neuen Standorts im WTC Dresden aufgegeben.",
+    "sources": [
+      "https://mapcarta.com/de/W190428645"
+    ]
+  },
+  {
+    "id": "dnv-de-augsburg",
+    "companyId": "dnv",
+    "lat": 48.3667,
+    "lng": 10.8833,
+    "headquarter": false,
+    "siteName": "Standort Augsburg",
+    "address": "Augsburger Straße 9, 86157 Augsburg",
+    "city": "Augsburg",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Standort von DNV in Augsburg. Teil des deutschen Standortnetzwerks mit über 1.300 Mitarbeitern.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-bremerhaven",
+    "companyId": "dnv",
+    "lat": 53.5500,
+    "lng": 8.5833,
+    "headquarter": false,
+    "siteName": "Standort Bremerhaven",
+    "address": "Am Alten Vorhafen 8, 27568 Bremerhaven",
+    "city": "Bremerhaven",
+    "state": "Bremen",
+    "country": "DE",
+    "description": "Standort von DNV in Bremerhaven. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-duesseldorf",
+    "companyId": "dnv",
+    "lat": 51.2167,
+    "lng": 6.8000,
+    "headquarter": false,
+    "siteName": "Standort Düsseldorf",
+    "address": "Münsterstraße 248, 40470 Düsseldorf",
+    "city": "Düsseldorf",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Standort von DNV in Düsseldorf. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-elze",
+    "companyId": "dnv",
+    "lat": 52.1167,
+    "lng": 9.7333,
+    "headquarter": false,
+    "siteName": "Standort Elze",
+    "address": "Heinrich-Nagel-Str. 1, 31008 Elze",
+    "city": "Elze",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Standort von DNV in Elze. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-emden",
+    "companyId": "dnv",
+    "lat": 53.3667,
+    "lng": 7.2000,
+    "headquarter": false,
+    "siteName": "Standort Emden",
+    "address": "Schweckendieckplatz 3, 26721 Emden",
+    "city": "Emden",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Standort von DNV in Emden. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-esslingen",
+    "companyId": "dnv",
+    "lat": 48.7333,
+    "lng": 9.3000,
+    "headquarter": false,
+    "siteName": "Standort Esslingen",
+    "address": "Siemensstraße 17, 73733 Esslingen",
+    "city": "Esslingen",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Standort von DNV in Esslingen. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-flensburg",
+    "companyId": "dnv",
+    "lat": 54.7833,
+    "lng": 9.4333,
+    "headquarter": false,
+    "siteName": "Standort Flensburg",
+    "address": "Flensburg, Schleswig-Holstein",
+    "city": "Flensburg",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Standort von DNV in Flensburg. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.wer-zu-wem.de/firmenprofil/dnv-gl-40163--754e19af16.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-herne",
+    "companyId": "dnv",
+    "lat": 51.5333,
+    "lng": 7.2167,
+    "headquarter": false,
+    "siteName": "Standort Herne",
+    "address": "Südstr. 59, 44625 Herne",
+    "city": "Herne",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Standort von DNV in Herne. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-kiel",
+    "companyId": "dnv",
+    "lat": 54.3333,
+    "lng": 10.1333,
+    "headquarter": false,
+    "siteName": "Standort Kiel",
+    "address": "Am Kiel-Kanal 1, 24106 Kiel",
+    "city": "Kiel",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Standort von DNV in Kiel. Teil des deutschen Standortnetzwerks mit maritime Schwerpunkt.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-magdeburg",
+    "companyId": "dnv",
+    "lat": 52.1167,
+    "lng": 11.6333,
+    "headquarter": false,
+    "siteName": "Standort Magdeburg",
+    "address": "Alt Salbke 6-10, 39122 Magdeburg",
+    "city": "Magdeburg",
+    "state": "Sachsen-Anhalt",
+    "country": "DE",
+    "description": "Standort von DNV in Magdeburg. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-muelheim",
+    "companyId": "dnv",
+    "lat": 51.4333,
+    "lng": 6.8833,
+    "headquarter": false,
+    "siteName": "Standort Mülheim an der Ruhr",
+    "address": "Lahnstr. 26, 45478 Mülheim an der Ruhr",
+    "city": "Mülheim an der Ruhr",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Standort von DNV in Mülheim an der Ruhr. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-oldenburg",
+    "companyId": "dnv",
+    "lat": 53.1333,
+    "lng": 8.2167,
+    "headquarter": false,
+    "siteName": "Standort Oldenburg",
+    "address": "Marie-Curie-Str. 1, 26129 Oldenburg",
+    "city": "Oldenburg",
+    "state": "Niedersachsen",
+    "country": "DE",
+    "description": "Standort von DNV in Oldenburg. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-potsdam",
+    "companyId": "dnv",
+    "lat": 52.4000,
+    "lng": 13.0667,
+    "headquarter": false,
+    "siteName": "Standort Potsdam",
+    "address": "Behlertstr. 3a, Haus G, 14467 Potsdam",
+    "city": "Potsdam",
+    "state": "Brandenburg",
+    "country": "DE",
+    "description": "Standort von DNV in Potsdam. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-rostock",
+    "companyId": "dnv",
+    "lat": 54.0833,
+    "lng": 12.1333,
+    "headquarter": false,
+    "siteName": "Standort Rostock",
+    "address": "Doberaner Straße 47, 18057 Rostock",
+    "city": "Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "country": "DE",
+    "description": "Standort von DNV in Rostock. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf"
+    ]
+  },
+  {
+    "id": "dnv-de-kaiser-wilhelm-koog",
+    "companyId": "dnv",
+    "lat": 54.0000,
+    "lng": 8.8833,
+    "headquarter": false,
+    "siteName": "Standort Kaiser-Wilhelm-Koog",
+    "address": "Sommerdeich 14b, 25709 Kaiser-Wilhelm-Koog",
+    "city": "Kaiser-Wilhelm-Koog",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Standort von DNV in Kaiser-Wilhelm-Koog an der Nordseeküste. Teil des deutschen Standortnetzwerks.",
+    "sources": [
+      "https://www.dnvgl.co.uk/Images/Group HSE - BS OHSAS 18001- ISO 14001 Certificate Annex_tcm12-69110.pdf",
+      "https://jobs.dnv.com/locations/germany"
+    ]
+  },
+  {
+    "id": "doll-de-oppenau",
+    "companyId": "doll-fahrzeugbau",
+    "lat": 48.4667,
+    "lng": 8.1667,
+    "headquarter": true,
+    "siteName": "Hauptsitz und Werk Oppenau",
+    "address": "Industriestraße 13, 77728 Oppenau",
+    "city": "Oppenau",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Hauptsitz und Stammsitz der DOLL Fahrzeugbau GmbH in Oppenau im Schwarzwald. Das Unternehmen wurde 1878 als Kutschenschmiede gegründet und befindet sich seitdem am Standort Oppenau. Der Standort beherbergt das Verwaltungsgebäude, verschiedene Produktions- und Serviceabteilungen sowie die DOLL Airport Equipment GmbH. In den Werken in Oppenau arbeiten über 400 Mitarbeitende. Das Unternehmen ist im Handelsregister des Amtsgerichts Berlin-Charlottenburg unter HRB 160127 B eingetragen. Die Telefonnummer lautet +49 7804 49-0. Geschäftsführer sind Markus Ehl und Renato Ramella.",
+    "products": [
+      "Schwertransport-Sattelauflieger",
+      "Holztransportfahrzeuge",
+      "Flugfeldfahrzeuge",
+      "Militärische Fahrzeuge"
+    ],
+    "sources": [
+      "https://www.doll.eu/de/doll/impressum/",
+      "https://www.doll-timtech.com/fr/contact/sites-acces",
+      "https://www.doll.eu/files/doll/pdf/Lieferanteninfo/Logistikrichtlinie_DOLL_DE.pdf"
+    ]
+  },
+  {
+    "id": "doll-de-oppenau-hofmattenstrasse",
+    "companyId": "doll-fahrzeugbau",
+    "lat": 48.4680,
+    "lng": 8.1680,
+    "headquarter": false,
+    "siteName": "Standort Oppenau (Hofmattenstraße)",
+    "address": "Hofmattenstraße, 77728 Oppenau",
+    "city": "Oppenau",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Zweiter Standort in Oppenau an der Hofmattenstraße, der als Anfahrt für Besucher und für die Auslieferungshalle genutzt wird. Der Standort ergänzt die Produktions- und Verwaltungsflächen an der Industriestraße 13.",
+    "sources": [
+      "https://www.doll-timtech.com/fr/contact/sites-acces"
+    ]
+  },
+  {
+    "id": "doll-de-mildenau",
+    "companyId": "doll-fahrzeugbau",
+    "lat": 50.5333,
+    "lng": 13.0000,
+    "headquarter": false,
+    "siteName": "DOLL TimTech GmbH – Werk Mildenau",
+    "address": "Gewerbegebiet Nord 12, 09456 Mildenau",
+    "city": "Mildenau",
+    "state": "Sachsen",
+    "country": "DE",
+    "description": "Produktionsstandort der DOLL TimTech GmbH in Mildenau im Erzgebirge, eröffnet 2009. Das Werk wurde 2008 auf der grünen Wiese gebaut und 2009 in Betrieb genommen. Es ist das Kompetenzzentrum für Holztransportfahrzeuge und wurde kontinuierlich ausgebaut, zuletzt mit der Eröffnung einer neuen Auslieferungshalle. Die DOLL TimTech GmbH ist eine 100%ige Tochtergesellschaft der DOLL Fahrzeugbau GmbH. Die Telefonnummer lautet +49 3733 67 212 0.",
+    "products": [
+      "Holztransportfahrzeuge",
+      "Langholz- und Kurzholzfahrzeuge"
+    ],
+    "sources": [
+      "https://www.doll-timtech.com/fr/contact/sites-acces",
+      "https://www.doll.eu/files/doll/pdf/Lieferanteninfo/Logistikrichtlinie_DOLL_DE.pdf"
+    ]
+  },
+  {
+    "id": "doll-us-bridgeport",
+    "companyId": "doll-fahrzeugbau",
+    "lat": 39.8000,
+    "lng": -75.3500,
+    "headquarter": false,
+    "siteName": "DOLL America – Bridgeport, New Jersey",
+    "address": "Bridgeport, New Jersey, USA",
+    "city": "Bridgeport",
+    "state": "New Jersey",
+    "country": "US",
+    "description": "US-Produktions- und Vertriebsstandort der DOLL America in Bridgeport, New Jersey. Der Standort ist einer der drei Hauptproduktionsstandorte von DOLL und wird im Rahmen der strategischen Neuausrichtung kontinuierlich ausgebaut. DOLL America betreut Kunden in Nordamerika und bietet Schulungen, technischen Support, Reparaturen, mobilen Service und 24-Stunden-Ersatzteilservice.",
+    "products": [
+      "Schwertransportfahrzeuge",
+      "Flugfeldfahrzeuge"
+    ],
+    "sources": [
+      "https://www.doll.eu/de/doll/news-events/details/doll-investiert-12-mio-in-die-modernisierung-seiner-standorte.html",
+      "https://www.doll.eu/en/doll/news-events/details/doll-achieves-record-order-intake-of-over-eur-200-million.html"
+    ]
+  },
+  {
+    "id": "doll-us-hainesport",
+    "companyId": "doll-fahrzeugbau",
+    "lat": 39.9833,
+    "lng": -74.7667,
+    "headquarter": false,
+    "siteName": "DOLL America – Hainesport, New Jersey",
+    "address": "Hainesport, New Jersey, USA",
+    "city": "Hainesport",
+    "state": "New Jersey",
+    "country": "US",
+    "description": "Weiterer US-Standort von DOLL in Hainesport, New Jersey. Der Standort ergänzt die Aktivitäten in Bridgeport und dient als Service- und Vertriebsstandort für den nordamerikanischen Markt. DOLL America bietet hier Schulungen, technischen Support, Reparaturen und mobilen Service.",
+    "sources": [
+      "https://www.doll.eu/de/doll/technologie/fertigungstechnologie-und-technik.html"
+    ]
+  },
+  {
+    "id": "doll-fr-paris",
+    "companyId": "doll-fahrzeugbau",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "headquarter": false,
+    "siteName": "DOLL France SAS – Paris",
+    "address": "16 Rue Auber, 75009 Paris, Frankreich",
+    "city": "Paris",
+    "country": "FR",
+    "description": "Sitz der DOLL France SAS in Paris. Das Unternehmen wurde am 9. Februar 2021 gegründet und ist für den Vertrieb und Service von DOLL-Fahrzeugen in Frankreich zuständig. Die DOLL France SAS ist im französischen Handelsregister unter SIREN 894 130 749 eingetragen. Der Standort dient als Vertriebs- und Servicebasis für den französischen Markt.",
+    "products": [
+      "Schwertransportfahrzeuge",
+      "Holztransportfahrzeuge",
+      "Service"
+    ],
+    "sources": [
+      "https://annuaire-entreprises.data.gouv.fr/etablissement/89413074900027"
+    ]
+  },
+  {
+    "id": "doll-hu-ungarn",
+    "companyId": "doll-fahrzeugbau",
+    "lat": 47.5000,
+    "lng": 19.0833,
+    "headquarter": false,
+    "siteName": "Neues Werk Ungarn",
+    "address": "Ungarn (genauer Standort nicht veröffentlicht)",
+    "city": "Budapest",
+    "country": "HU",
+    "description": "Neues Produktionswerk von DOLL Fahrzeugbau in Ungarn. Das Werk wurde 2025 aufgebaut und ist mit hochspezialisierten Produktionslinien und modernster Fertigungstechnik ausgestattet. Es dient der Produktion der neuen DOLL NEXT Tiefbettauflieger-Generation und ergänzt das bestehende Produktionsnetzwerk strategisch, um die steigende Nachfrage nach leistungsfähigen Schwerlastfahrzeugen zuverlässig bedienen zu können. Der genaue Standort innerhalb Ungarns ist nicht veröffentlicht.",
+    "products": [
+      "DOLL NEXT Tiefbettauflieger"
+    ],
+    "sources": [
+      "https://www.doll.eu/de/doll/news-events/details/doll-next-tiefbettauflieger-serienstart-der-neuen-generation.html",
+      "https://transport-online.de"
+    ]
+  },
+  {
+    "id": "donaustahl-de-hutthurm",
+    "companyId": "donaustahl",
+    "lat": 48.6333,
+    "lng": 13.4667,
+    "headquarter": true,
+    "siteName": "Rechtlicher Sitz Hutthurm",
+    "address": "Alte Straße 4, 94116 Hutthurm",
+    "city": "Hutthurm",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Rechtlicher Sitz und Zentrale der Donaustahl GmbH in Hutthurm im niederbayerischen Landkreis Passau. Das Unternehmen ist im Handelsregister des Amtsgerichts Passau unter HRB 10808 eingetragen und im Bayerischen Lobbyregister unter DEBYLT0003 registriert. Von hier werden Unternehmensführung, Forschung und Entwicklung sowie die strategische Ausrichtung gesteuert. Donaustahl beschäftigt rund zwei Dutzend Mitarbeiter.",
+    "sources": [
+      "https://www.bayern.landtag.de",
+      "https://www.northdata.de",
+      "https://www.pnp.de"
+    ]
+  },
+  {
+    "id": "donaustahl-de-muenchen",
+    "companyId": "donaustahl",
+    "lat": 48.1351,
+    "lng": 11.582,
+    "siteName": "Produktionsstandort München",
+    "address": "München, Bayern",
+    "city": "München",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Produktionsstandort von Donaustahl im Großraum München. Hier werden die Komponenten für die Loitering-Munition-Systeme und Drohnen gefertigt. Das Unternehmen kündigte an, in Deutschland neue Fertigungskapazitäten für Drohnenmotoren und Lichtwellenleiter aufzubauen. Geplante Produktionskapazitäten bis Ende 2025: 20.000 Combat Stacks pro Monat, 5.000 ALMP MAUS pro Monat, 10.000 Zündsysteme pro Monat und 500 unbemannte Luftfahrzeug-Bordwaffen pro Monat.",
+    "products": [
+      "ALMP MAUS",
+      "Combat Stacks",
+      "Zündsysteme",
+      "Unbemannte Luftfahrzeug-Bordwaffen"
+    ],
+    "sources": [
+      "https://www.donaustahl.com",
+      "https://www.pnp.de"
+    ]
+  },
+  {
+    "id": "donaustahl-de-bayern-motoren",
+    "companyId": "donaustahl",
+    "lat": 48.5000,
+    "lng": 11.5000,
+    "headquarter": false,
+    "siteName": "Geplante Fertigung für elektrische Drohnenmotoren (Bayern)",
+    "address": "Bayern (genauer Standort noch nicht festgelegt)",
+    "city": "München",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Geplante neue Fertigung für elektrische Drohnenmotoren in Bayern. Der genaue Standort innerhalb Bayerns war zum Zeitpunkt der Ankündigung noch nicht festgelegt. Ziel dieser Initiative ist es, die Abhängigkeit von Lieferketten aus China zu verringern und die technologische Souveränität Europas im Drohnensektor zu stärken. Die Fertigung sollte im ersten Quartal 2026 starten.",
+    "products": [
+      "Elektrische Drohnenmotoren"
+    ],
+    "sources": [
+      "https://www.donaustahl.com",
+      "https://www.businessinsider.de"
+    ]
+  },
+  {
+    "id": "donaustahl-de-kyiv",
+    "companyId": "donaustahl",
+    "lat": 50.45,
+    "lng": 30.5233,
+    "siteName": "Produktionsstandort Kiew",
+    "address": "Kyiv, Ukraine",
+    "city": "Kyiv",
+    "country": "UA",
+    "description": "Produktionsstandort von Donaustahl in der Ukraine. Das Unternehmen liefert Kampfdrohnen an die ukrainischen Streitkräfte und hat die Produktion vor Ort aufgebaut, um flexibel und kosteneffizient auf die Bedürfnisse des ukrainischen Militärs reagieren zu können. Die Produkte werden unter Gefechtsbedingungen getestet und weiterentwickelt.",
+    "products": [
+      "ALMP MAUS",
+      "Kampfdrohnen"
+    ],
+    "sources": [
+      "https://www.donaustahl.com",
+      "https://www.welt.de",
+      "https://www.businessinsider.de"
+    ]
+  },
+  {
+    "id": "dracoon-de-regensburg",
+    "companyId": "dracoon",
+    "lat": 49.0134,
+    "lng": 12.1016,
+    "headquarter": true,
+    "siteName": "Hauptsitz Regensburg",
+    "address": "Galgenbergstraße 2a, 93053 Regensburg",
+    "city": "Regensburg",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz und Zentrale der DRACOON GmbH in Regensburg. Das Unternehmen wurde 2008 als SSP Europe GmbH gegründet und hat seinen Sitz in der Galgenbergstraße 2a im BioPark Regensburg. Von hier werden Entwicklung, Vertrieb, Support und alle Unternehmensaktivitäten gesteuert.",
+    "products": [
+      "DRACOON Enterprise Cloud",
+      "DRACOON Hybrid",
+      "DRACOON On-Premises"
+    ],
+    "sources": [
+      "https://www.dracoon.com/en/legal-notice",
+      "https://www.dracoon.com/de/kontakt",
+      "https://handelsregister.ai/dracoon-gmbh-regensburg",
+      "https://www.dracoon.com/de/dracoon-story"
+    ]
+  },
+  {
     "id": "dynitec-de-troisdorf",
     "companyId": "diehl",
     "lat": 50.819739,
@@ -6125,7 +7083,7 @@
       "Selbstverteidigungssysteme für Schiffe"
     ]
   },
-    {
+  {
     "id": "heckler-koch-de-oberndorf",
     "companyId": "heckler-koch",
     "lat": 48.29057,
@@ -10289,66 +11247,6 @@
     "description": "Zweiter Produktionsstandort des Gemeinschaftsunternehmens Auterion Airlogix in Ostdeutschland (geplant). Der genaue Standort ist noch nicht offiziell bekannt gegeben. Die Produktion soll die Kapazität des Münchner Standorts ergänzen, um die Nachfrage nach weitreichenden Kampfdrohnen zu bedienen. Das Gemeinschaftsunternehmen erwartet Folgeaufträge und eine langfristige Beauftragung.",
     "sources": [
       "https://wta.flz.de/deutsche-serienproduktion-von-5000-drohnen-fuer-kiew-geht-los/cnt-id-ps-c4c1a037-ad5c-4818-960d-2dee46e35c15"
-    ]
-  },
-  {
-    "id": "donaustahl-hutthurm",
-    "companyId": "donaustahl",
-    "lat": 48.6333,
-    "lng": 13.4667,
-    "headquarter": true,
-    "siteName": "Rechtlicher Sitz Hutthurm",
-    "address": "Alte Straße 4, 94116 Hutthurm",
-    "city": "Hutthurm",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Rechtlicher Sitz und Zentrale der Donaustahl GmbH in Hutthurm im niederbayerischen Landkreis Passau. Das Unternehmen ist im Handelsregister des Amtsgerichts Passau unter HRB 10808 eingetragen und im Bayerischen Lobbyregister unter DEBYLT0003 registriert. Von hier werden Unternehmensführung, Forschung und Entwicklung sowie die strategische Ausrichtung gesteuert. Donaustahl beschäftigt rund zwei Dutzend Mitarbeiter.",
-    "sources": [
-      "https://www.bayern.landtag.de",
-      "https://www.northdata.de",
-      "https://www.pnp.de"
-    ]
-  },
-  {
-    "id": "donaustahl-muenchen",
-    "companyId": "donaustahl",
-    "lat": 48.1351,
-    "lng": 11.582,
-    "siteName": "Produktionsstandort München",
-    "address": "München, Bayern",
-    "city": "München",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Produktionsstandort von Donaustahl im Großraum München. Hier werden die Komponenten für die Loitering-Munition-Systeme und Drohnen gefertigt. Das Unternehmen kündigte an, in Deutschland neue Fertigungskapazitäten für Drohnenmotoren und Lichtwellenleiter aufzubauen. Geplante Produktionskapazitäten bis Ende 2025: 20.000 Combat Stacks pro Monat, 5.000 ALMP MAUS pro Monat, 10.000 Zündsysteme pro Monat und 500 unbemannte Luftfahrzeug-Bordwaffen pro Monat.",
-    "products": [
-      "ALMP MAUS",
-      "Combat Stacks",
-      "Zündsysteme",
-      "Unbemannte Luftfahrzeug-Bordwaffen"
-    ],
-    "sources": [
-      "https://www.donaustahl.com",
-      "https://www.pnp.de"
-    ]
-  },
-  {
-    "id": "donaustahl-kyiv",
-    "companyId": "donaustahl",
-    "lat": 50.45,
-    "lng": 30.5233,
-    "siteName": "Produktionsstandort Kiew",
-    "address": "Kyiv, Ukraine",
-    "city": "Kyiv",
-    "country": "UA",
-    "description": "Produktionsstandort von Donaustahl in der Ukraine. Das Unternehmen liefert Kampfdrohnen an die ukrainischen Streitkräfte und hat die Produktion vor Ort aufgebaut, um flexibel und kosteneffizient auf die Bedürfnisse des ukrainischen Militärs reagieren zu können. Die Produkte werden unter Gefechtsbedingungen getestet und weiterentwickelt. CEO Stefan Thumann lebt seit 2025 aus Sicherheitsgründen an wechselnden geheimen Orten, nachdem russische Geheimdienste Mordpläne gegen ihn geschmiedet haben.",
-    "products": [
-      "ALMP MAUS",
-      "Kampfdrohnen"
-    ],
-    "sources": [
-      "https://www.donaustahl.com",
-      "https://www.welt.de",
-      "https://www.businessinsider.de"
     ]
   },
   {

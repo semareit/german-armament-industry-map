@@ -3,7 +3,13 @@
     "name": "AARONIA AG",
     "description": "Die AARONIA AG ist ein 2003 von Thorsten Chmielus gegründeter deutscher Hersteller von Hochfrequenz-Messgeräten, Spektrumanalysatoren, EMC-Antennen und Drohnendetektionssystemen mit Sitz in Strickscheid in der Eifel. Das Unternehmen ist auf Mess-, Ortungs- und Überwachungstechnik spezialisiert und entwickelt, fertigt, testet und kalibriert seine Produkte ausnahmslos in Deutschland. AARONIA ist weltweit führend im Bereich der Drohnendetektion – das AARTOS-Drohnendetektionssystem (DDS) ist bei Streitkräften und Sicherheitsbehörden in über 20 Ländern im Einsatz, darunter Deutschland, Österreich, Portugal, Finnland, Estland, Australien, die Ukraine, Großbritannien, die Niederlande, Kanada, Indonesien, Kenia, Uganda, Ruanda und Schweden.",
     "url": "https://www.aaronia.com/",
-    "category": ["Messtechnik", "Sensorik", "Drohnenabwehr", "Elektronische-Kampfführung", "Überwachung"],
+    "category": [
+      "Messtechnik",
+      "Sensorik",
+      "Drohnenabwehr",
+      "Elektronische-Kampfführung",
+      "Überwachung"
+    ],
     "parents": [],
     "products": [
       "SPECTRAN V6 (Echtzeit-Spektrumanalysator)",
@@ -19,13 +25,19 @@
       "Signalgeneratoren",
       "DF-Antennen"
     ],
-    "updatedAt": "2026-09-22"
+    "updatedAt": "2026-10-28"
   },
   "abeking-rasmussen": {
     "name": "Abeking & Rasmussen Schiffs- und Yachtwerft SE",
-    "description": "Die Abeking & Rasmussen Schiffs- und Yachtwerft SE (A&R) ist eine 1907 von Georg Abeking und Henry Rasmussen gegründete deutsche Werft mit Sitz in Lemwerder bei Bremen. Das Unternehmen ist auf den Neubau von Megayachten, Spezial- und Marineschiffen sowie komplexe Umbauten in allen drei Segmenten spezialisiert. Die moderne und kompakte Werft verfügt über Schiffbauhallen für Schiffe bis zu 125 Metern Länge und genießt weltweite Anerkennung für maßgeschneiderte Megayachten, Spezial- und Marineschiffe. A&R besitzt eine hohe technische Expertise und jahrzehntelange Erfahrung insbesondere im Bereich der Minenjagdboote. Zu den bekannten Projekten zählen die Megayacht 'Liva°' (118 Meter), die Minenjagdboote 'Pulau Fani' und 'Pulau Fanildo' für die indonesische Marine sowie das Mehrzweckschiff 'Mellum' für die Wasserstraßen- und Schifffahrtsverwaltung des Bundes.",
+    "description": "Die Abeking & Rasmussen Schiffs- und Yachtwerft SE (A&R) ist eine 1907 von Georg Abeking und Henry Rasmussen gegründete deutsche Werft mit Sitz in Lemwerder bei Bremen. Das Unternehmen ist auf den Neubau von Megayachten, Spezial- und Marineschiffen sowie komplexe Umbauten in allen drei Segmenten spezialisiert. A&R besitzt eine hohe technische Expertise und jahrzehntelange Erfahrung insbesondere im Bereich der Minenjagdboote.",
     "url": "https://www.abeking.com/",
-    "category": ["Marine", "Schiffbau", "Spezialschiffe", "Yachten", "Verteidigung"],
+    "category": [
+      "Marine",
+      "Schiffbau",
+      "Spezialschiffe",
+      "Yachten",
+      "Verteidigung"
+    ],
     "parents": [],
     "products": [
       "Megayachten",
@@ -35,13 +47,18 @@
       "Forschungsschiffe",
       "Schiffsreparatur und Umbauten"
     ],
-    "updatedAt": "2026-09-23"
+    "updatedAt": "2026-10-28"
   },
   "abraservice": {
     "name": "Abraservice Deutschland GmbH",
-    "description": "Die Abraservice Deutschland GmbH ist ein 2010 gegründeter, international tätiger Anbieter von verschleißfesten und hochfesten Stählen mit Sitz in Düsseldorf. Das Unternehmen ist Teil der schwedischen SSAB-Gruppe, einem weltweit führenden Hersteller von hochfesten Stählen. Abraservice liefert verschleißfeste Stähle wie Hardox®, Duroxite® und ROC™ sowie hochfeste und witterungsbeständige Stähle. Das Unternehmen verfügt über ein Netzwerk an Standorten in ganz Europa und bietet neben Zuschnitt und Anarbeitung auch komplett im Werk gefertigte Bauteile als OEM-Lieferant sowie maßgefertigte Verschleißteile für Maschinen und Anlagen. Abraservice Deutschland ist nach DIN EN ISO 9001 und DIN 2303 (Herstellerqualifikation für wehrtechnische Produkte) zertifiziert und damit ein qualifizierter Lieferant für die Bundeswehr.",
+    "description": "Die Abraservice Deutschland GmbH ist ein 2010 gegründeter, international tätiger Anbieter von verschleißfesten und hochfesten Stählen mit Sitz in Düsseldorf. Das Unternehmen ist Teil der schwedischen SSAB-Gruppe, einem weltweit führenden Hersteller von hochfesten Stählen. Abraservice liefert verschleißfeste Stähle wie Hardox®, Duroxite® und ROC™ sowie hochfeste und witterungsbeständige Stähle. Das Unternehmen verfügt über ein Netzwerk an Standorten in ganz Europa und bietet neben Zuschnitt und Anarbeitung auch komplett im Werk gefertigte Bauteile als OEM-Lieferant sowie maßgefertigte Verschleißteile für Maschinen und Anlagen.",
     "url": "https://www.abraservice.com/de-de/",
-    "category": ["Stahl", "Verschleißschutz", "Dienstleistungen", "Verteidigung"],
+    "category": [
+      "Stahl",
+      "Verschleißschutz",
+      "Dienstleistungen",
+      "Verteidigung"
+    ],
     "parents": [],
     "products": [
       "Hardox® Verschleißstahl",
@@ -52,13 +69,19 @@
       "Schweißbaugruppen und OEM-Teile",
       "Maßgefertigte Verschleißteile"
     ],
-    "updatedAt": "2026-09-23"
+    "updatedAt": "2026-10-28"
   },
   "acs-armoured-cars": {
     "name": "ACS Armoured Car Systems GmbH",
-    "description": "Die ACS Armoured Car Systems GmbH ist ein 2003 gegründetes mittelständisches Unternehmen mit Sitz in Friedberg-Derching bei Augsburg und eine Tochtergesellschaft der GRUMA Nutzfahrzeuge GmbH. Das Unternehmen ist auf die Entwicklung und Fertigung geschützter und taktischer Fahrzeuge sowie auf ballistischen Schutz und Integrationslösungen spezialisiert. ACS deckt unterschiedliche Fertigungstiefen ab, von der Entwicklung und dem Prototypenbau bis hin zur Serienfertigung von Fahrzeugen und Komponenten. Unter der Marke „ENOK“ vermarktet ACS taktische Mobilitätsplattformen in verschiedenen Gewichtsklassen für geschützte und ungeschützte Einsätze, darunter das Luftlandefahrzeug ENOK AB (Airborne). Zu den Kernkompetenzen zählen ballistischer Schutz nach STANAG 4569, Systemintegration sowie die Entwicklung und Fertigung von Einsatz- und Mobilitätslösungen. Das Unternehmen ist nach IATF 16949:2016, ISO 9001 und DIN 2303 Q3 (Herstellerqualifikation für wehrtechnische Produkte) zertifiziert.",
+    "description": "Die ACS Armoured Car Systems GmbH ist ein 2003 gegründetes mittelständisches Unternehmen mit Sitz in Friedberg-Derching bei Augsburg und eine Tochtergesellschaft der GRUMA Nutzfahrzeuge GmbH. Das Unternehmen ist auf die Entwicklung und Fertigung geschützter und taktischer Fahrzeuge sowie auf ballistischen Schutz und Integrationslösungen spezialisiert. ACS deckt unterschiedliche Fertigungstiefen ab, von der Entwicklung und dem Prototypenbau bis hin zur Serienfertigung von Fahrzeugen und Komponenten. Unter der Marke „ENOK“ vermarktet ACS taktische Mobilitätsplattformen in verschiedenen Gewichtsklassen für geschützte und ungeschützte Einsätze, darunter das Luftlandefahrzeug ENOK AB (Airborne). Zu den Kernkompetenzen zählen ballistischer Schutz nach STANAG 4569, Systemintegration sowie die Entwicklung und Fertigung von Einsatz- und Mobilitätslösungen.",
     "url": "https://www.acs-armoured-cars.com/",
-    "category": ["Panzerung", "Fahrzeugsysteme", "Sicherheit", "Verteidigung", "Systemintegration"],
+    "category": [
+      "Panzerung",
+      "Fahrzeugsysteme",
+      "Sicherheit",
+      "Verteidigung",
+      "Systemintegration"
+    ],
     "parents": [],
     "products": [
       "ENOK (Fahrzeugfamilie)",
@@ -70,13 +93,19 @@
       "Systemintegration",
       "Panzerstahl-Schweißen"
     ],
-    "updatedAt": "2026-09-23"
+    "updatedAt": "2026-10-28"
   },
   "adapteo": {
     "name": "Adapteo GmbH",
     "description": "Die Adapteo GmbH ist ein führender Anbieter flexibler, modularer Gebäude- und Raumlösungen mit deutscher Zentrale in Neu-Isenburg. Das Unternehmen entwickelt, baut, vermietet und verkauft modulare Gebäude für Schulen, Kitas, Büros, Unterkünfte, Messen und Events. Die Adapteo GmbH ist Teil der skandinavischen Adapteo Group, die Marktführer in Nordeuropa ist und über ein Netzwerk an Vertriebsbüros und Depots in neun Ländern verfügt.",
     "url": "https://adapteo.de/",
-    "category": ["Modulbau", "Raumlösungen", "Mietgebäude", "Container", "Dienstleistungen"],
+    "category": [
+      "Modulbau",
+      "Raumlösungen",
+      "Mietgebäude",
+      "Container",
+      "Dienstleistungen"
+    ],
     "parents": ["adapteo-group"],
     "products": [
       "Modulgebäude für Schulen und Kitas",
@@ -88,13 +117,19 @@
       "Montage, Wartung und Rückbau",
       "Sonderausstattungen nach Kundenwunsch"
     ],
-    "updatedAt": "2026-09-23"
+    "updatedAt": "2026-10-28"
   },
   "aerodata": {
     "name": "Aerodata AG",
-    "description": "Die Aerodata AG ist ein 1985 gegründetes mittelständisches Unternehmen aus Braunschweig, das weltweit in der Spezialluftfahrt tätig ist. Aerodata liefert Komplettlösungen für luftgestützte Überwachung, Aufklärung und Flugvermessung. Mit dem AeroFIS ist Aerodata weltweit führend bei Flugvermessungssystemen zur Kalibrierung von Navigations- und Landehilfen für die zivile und militärische Luftfahrt. Mit AeroMission bietet das Unternehmen ein eigenes Missionssystem für die Luftüberwachung (Meeresüberwachung, Landüberwachung, Detektion von Meeresverschmutzungen, Such- und Rettungsaufgaben). Weitere Produkte sind der multifunktionale Sensorbehälter OctoPod, das Kommunikationssystem AeroPhone und das unbemannte Aufklärungssystem AeroForce X. Die Aerodata-Gruppe erstreckt sich über den gesamten Globus mit Tochtergesellschaften in Deutschland, Norwegen, Australien, Thailand und den USA. Die Aktiengesellschaft ist im Lobbyregister des Bundestages unter der Registernummer R006974 eingetragen.",
+    "description": "Die Aerodata AG ist ein 1985 gegründetes mittelständisches Unternehmen aus Braunschweig, das weltweit in der Spezialluftfahrt tätig ist. Aerodata liefert Komplettlösungen für luftgestützte Überwachung, Aufklärung und Flugvermessung. Mit dem AeroFIS ist Aerodata weltweit führend bei Flugvermessungssystemen zur Kalibrierung von Navigations- und Landehilfen für die zivile und militärische Luftfahrt. Mit AeroMission bietet das Unternehmen ein eigenes Missionssystem für die Luftüberwachung (Meeresüberwachung, Landüberwachung, Detektion von Meeresverschmutzungen, Such- und Rettungsaufgaben). Weitere Produkte sind der multifunktionale Sensorbehälter OctoPod, das Kommunikationssystem AeroPhone und das unbemannte Aufklärungssystem AeroForce X. Die Aerodata-Gruppe erstreckt sich über den gesamten Globus mit Tochtergesellschaften in Deutschland, Norwegen, Australien, Thailand und den USA.",
     "url": "https://www.aerodata.de/",
-    "category": ["Luftfahrt", "Spezialmission", "Flugvermessung", "Überwachung", "Drohnen"],
+    "category": [
+      "Luftfahrt",
+      "Spezialmission",
+      "Flugvermessung",
+      "Überwachung",
+      "Drohnen"
+    ],
     "parents": [],
     "products": [
       "AeroFIS (Flugvermessungssystem)",
@@ -105,7 +140,7 @@
       "Flugvermessungsdienstleistungen",
       "Luftfahrzeug-Umrüstung und -Wartung"
     ],
-    "updatedAt": "2026-09-20"
+    "updatedAt": "2026-10-28"
   },
   "aeromaritime": {
     "name": "AEROMARITIME Systembau GmbH",
@@ -784,9 +819,15 @@
   },
   "deepset": {
     "name": "deepset GmbH",
-    "description": "Die deepset GmbH ist ein 2018 gegründetes Berliner Softwareunternehmen und Entwickler des Open-Source-NLP-Frameworks Haystack sowie der Haystack Enterprise Platform. Das Unternehmen hilft Organisationen dabei, maßgeschneiderte KI-Agenten und Retrieval-Augmented-Generation-Anwendungen (RAG) in Cloud- und On-Premise-Umgebungen zu entwickeln, zu betreiben und zu verwalten. deepset ist auf Natural Language Processing (NLP) und Künstliche Intelligenz (KI) spezialisiert und bedient vor allem die Bereiche Finanzen, Recht, Versicherungen und Online-Medien. Haystack wird von namhaften Organisationen wie der Europäischen Kommission, The Economist, Airbus und der Bundeswehr in Produktion eingesetzt. Das Unternehmen beschäftigt 51–200 Mitarbeiter und hat insgesamt rund 45,6 Mio. US-Dollar Wagniskapital eingeworben.",
+    "description": "Die deepset GmbH ist ein 2018 gegründetes Berliner Softwareunternehmen und Entwickler des Open-Source-NLP-Frameworks Haystack sowie der Haystack Enterprise Platform. Das Unternehmen hilft Organisationen dabei, maßgeschneiderte KI-Agenten und Retrieval-Augmented-Generation-Anwendungen (RAG) in Cloud- und On-Premise-Umgebungen zu entwickeln, zu betreiben und zu verwalten. deepset ist auf Natural Language Processing (NLP) und Künstliche Intelligenz (KI) spezialisiert und bedient vor allem die Bereiche Finanzen, Recht, Versicherungen und Online-Medien. Haystack wird von namhaften Organisationen wie der Europäischen Kommission, The Economist, Airbus und der Bundeswehr in Produktion eingesetzt. Das Unternehmen beschäftigt 51–200 Mitarbeiter.",
     "url": "https://www.deepset.ai/",
-    "category": ["KI-Software", "Natural-Language-Processing", "Enterprise-Software", "Cloud-Plattform", "Open-Source"],
+    "category": [
+      "KI-Software",
+      "Natural-Language-Processing",
+      "Enterprise-Software",
+      "Cloud-Plattform",
+      "Open-Source"
+    ],
     "parents": [],
     "products": [
       "Haystack (Open-Source NLP Framework)",
@@ -796,6 +837,51 @@
       "RAG-Anwendungen (Retrieval-Augmented Generation)",
       "KI-Agenten und Orchestrierung",
       "Enterprise-Suche und Dokumentenanalyse"
+    ]
+  },
+  "desmi": {
+    "name": "DESMI GmbH",
+    "description": "Die DESMI GmbH ist die deutsche Tochtergesellschaft der 1834 gegründeten dänischen DESMI A/S (Hauptsitz Nørresundby) und ein führender Anbieter von Pumpen- und Pumpenlösungen für Marine, Industrie, Ölwehr, Verteidigung und Kraftstoffe sowie Versorgungsunternehmen. Das Unternehmen produziert und liefert seit mehr als einem Jahrhundert Pumpen und Pumpenlösungen und beschäftigt weltweit über 600 Mitarbeiter mit einem eigenen Vertriebs- und Servicenetz in mehr als 16 Ländern. Die Gesellschaft ist auf den Import und Vertrieb von Pumpen für industrielle Anlagen spezialisiert, darunter Kreiselpumpen, Rotanpumpenaggregate und dichtungslose, magnetgekuppelte Pumpen in Grauguss, Stahlguss, Edelstahl und Bronze für die Chemie-, Petrochemie-, Lebensmittel-, Farben- und Lackindustrie, den Schiffbau und die Fernwärme.",
+    "url": "https://www.desmi.com/",
+    "category": [
+      "Pumpen",
+      "Industrietechnik",
+      "Marine",
+      "Ölwehr",
+      "Verteidigung"
+    ],
+    "parents": ["desmi-as"],
+    "products": [
+      "Kreiselpumpen",
+      "Rotanpumpenaggregate",
+      "Dichtungslose, magnetgekuppelte Pumpen",
+      "Pumpen für Chemie und Petrochemie",
+      "Pumpen für die Lebensmittelindustrie",
+      "Pumpen für Schiffbau und Marine",
+      "Ölwehr-Ausrüstung",
+      "Pumpen für Verteidigung und Kraftstoffe",
+      "Pumpen für Fernwärme und Versorgungsunternehmen"
+    ]
+  },
+  "destinus": {
+    "name": "Destinus Germany GmbH",
+    "description": "Die Destinus Germany GmbH ist die deutsche Tochtergesellschaft des niederländischen Verteidigungstechnologie-Unternehmens Destinus, einem 2021 gegründeten europäischen Defence-Tech-Konzern mit Hauptsitz in Hengelo (Niederlande). Destinus entwickelt, produziert und liefert skalierbare Angriffs- und Abwehrsysteme, darunter Marschflugkörper, gelenkte Raketensysteme, Abfangplattformen und Turbojet-Triebwerke. Kernprodukt ist die Ruta-Familie (Ruta B2, Ruta B3) mit einer Reichweite von über 450 km bis zu 2.000 km sowie die kompaktere Kryla für Sättigungsangriffe. Das Unternehmen produziert jährlich über 2.000 Marschflugkörper in Europa. Sie erbringt konzerninterne Forschungs-, Entwicklungs- und Beratungsdienstleistungen im Bereich der Unter-, Über- und Hyperschallfluggeräte und -technologien sowie der Raketen- und Antriebssysteme.",
+    "url": "https://www.destinus.com/",
+    "category": [
+      "Lenkflugkörper",
+      "Luftfahrt",
+      "Antriebstechnik",
+      "Verteidigungstechnologie",
+      "Raumfahrt"
+    ],
+    "parents": [],
+    "products": [
+      "Ruta B2 (Marschflugkörper, 250 kg Gefechtskopf, >450 km)",
+      "Ruta B3 (Marschflugkörper, 250 kg Gefechtskopf, 2.000 km)",
+      "Kryla (Kompakter Marschflugkörper, 50 kg Gefechtskopf)",
+      "Turbojet-Triebwerke",
+      "Abfangsysteme",
+      "Hyperschall-Technologien"
     ]
   },
   "diehl": {
@@ -820,6 +906,76 @@
     ],
     "updatedAt": "2026-09-20"
   },
+  "dirks-defence": {
+    "name": "DIRKS Defence & Security GmbH & Co. KG",
+    "description": "Die DIRKS Defence & Security GmbH & Co. KG ist der Wehrtechnikbereich der 1933 gegründeten DIRKS Group mit Hauptsitz in Emden (Niedersachsen). Das Unternehmen ist seit über 50 Jahren Partner von Bundeswehr, NATO und Behörden und als unabhängiger mittelständischer Dienstleister auf Refurbishment, Instandhaltung und Modernisierung von geschützten und ungeschützten Fahrzeugen spezialisiert. DIRKS Defence ist ein Allround-Anbieter für Maintenance, Repair & Overhaul (MRO) von Sonderfahrzeugen in Deutschland sowie im Auslandseinsatz. Im Bereich CBRN (chemische, biologische, radiologische und nukleare Gefahren) ist das Unternehmen Hersteller von Spezialgeräten und Verbrauchsmaterial. Zudem entwickelt, produziert und repariert DIRKS Defence Tankcontainer für militärische und zivile Anwendungen. Zur DIRKS Defence gehören sieben Werke in Deutschland und im Baltikum sowie ein Instandhaltungs- und Servicenetzwerk mit 160 Standorten in Deutschland. Die DIRKS Group beschäftigt rund 4.500 Mitarbeiter an 32 Standorten in Deutschland und international.",
+    "url": "https://defence.dirks-group.de/",
+    "category": [
+      "Instandhaltung",
+      "Sonderfahrzeugbau",
+      "Panzerung",
+      "Dienstleistungen",
+      "Verteidigung"
+    ],
+    "parents": ["dirks-group"],
+    "products": [
+      "Refurbishment und Reparatur geschützter und ungeschützter Fahrzeuge",
+      "Maintenance, Repair & Overhaul (MRO) von Sonderfahrzeugen",
+      "CBRN-Schutzausrüstung und Verbrauchsmaterial",
+      "Tankcontainer für militärische und zivile Anwendungen",
+      "Trinkwasser- und Treibstoffcontainer",
+      "ABC-Abwehrlösungen",
+      "Anlagen- und Fahrzeugbau",
+      "Militärische Logistik und Projektlogistik"
+    ]
+  },
+  "dkf": {
+    "name": "DKF Deutsche Kugellagerfabriken GmbH",
+    "description": "Die DKF Deutsche Kugellagerfabriken GmbH ist ein 1904 in Leipzig gegründetes Traditionsunternehmen der Wälzlagerindustrie, das heute als Beteiligungs- und Handelsgesellschaft mit Sitz in Berlin (Rosenthaler Straße 40/41) firmiert. Der Unternehmensgegenstand umfasst die Beteiligung an Unternehmen, den Kauf und Verkauf von Beteiligungen, die Produktion und den Handel von Wälz- und Kugellagern sowie Artikeln der Antriebstechnik, des Maschinen- und Anlagenbaus. Die DKF wurde 1934 in eine GmbH umgewandelt und bezog im selben Jahr das zweite Werk im Leipziger Stadtteil Böhlitz-Ehrenberg. Unter dem Markennamen DKF produzierten 1.500 Mitarbeiter Nadel- und Rillenkugellager sowie Radial- und Axiallager, Vierpunktlager mit geteiltem Außenring, Flanschlager und während des Zweiten Weltkriegs Speziallager für Flugzeug- und Panzermotoren. Nach der Wende 1990 wurden alle acht Wälzlagerwerke der DDR zur DKFL Deutsche Kugellagerfabriken GmbH mit Sitz in Leipzig zusammengefasst und in den FAG-Konzern eingebunden. 1992 musste DKFL Konkurs anmelden. Aus dem Firmenverbund ging 1993 die Kugel- und Rollenlagerwerk Leipzig GmbH (KRW) hervor, die die Tradition am Standort Böhlitz-Ehrenberg fortführt.",
+    "url": null,
+    "category": [
+      "Wälzlager",
+      "Antriebstechnik",
+      "Industrietechnik",
+      "Beteiligungen",
+      "Handel"
+    ],
+    "parents": [],
+    "products": [
+      "Nadel- und Rillenkugellager",
+      "Radial- und Axiallager",
+      "Vierpunktlager mit geteiltem Außenring",
+      "Flanschlager",
+      "Speziallager für Flugzeug- und Panzermotoren",
+      "Wälzlager und Kugellager",
+      "Artikel der Antriebstechnik"
+    ]
+  },
+  "dnv": {
+    "name": "DNV SE",
+    "description": "Die DNV SE ist ein 1864 als Det Norske Veritas in Oslo gegründetes, unabhängiges internationales Unternehmen für Qualitätssicherung, Zertifizierung und Risikomanagement mit deutschem Hauptsitz in Hamburg (Brooktorkai 18). Das Unternehmen entstand 2013 durch die Fusion von DNV und dem Germanischen Lloyd. DNV ist die weltweit führende Klassifikations- und Beratungsgesellschaft für die maritime Industrie und bietet technische Prüf- und Zertifizierungsdienstleistungen sowie Software und unabhängige Beratung für die Energie-, Öl- und Gas- sowie die Schifffahrtsindustrie. Der Konzern beschäftigt weltweit rund 15.500 Mitarbeiter an über 300 Standorten in mehr als 100 Ländern. In Deutschland arbeiten über 1.300 Mitarbeiter an 13 Standorten. Der maritime Hauptsitz von DNV befindet sich in Hamburg, das globale Hauptquartier in Høvik (Norwegen). Der Geschäftsbereich Business Assurance (Managementsystemzertifizierung und Trainings) hat seine DACH-Zentrale in Essen. Der Unternehmenszweck umfasst Klassifikation, Zertifizierung und Risikomanagement für maritime, energetische und industrielle Anwendungen. Die DNV SE ist im Lobbyregister des Bundestages registriert.",
+    "url": "https://www.dnv.de/",
+    "category": [
+      "Zertifizierung",
+      "Risikomanagement",
+      "Maritime",
+      "Energie",
+      "Beratung"
+    ],
+    "parents": [],
+    "products": [
+      "Schiffsklassifikation und -zertifizierung",
+      "Managementsystemzertifizierung (ISO 9001, ISO 14001, ISO 45001)",
+      "Trainings und Weiterbildung",
+      "Risikomanagement und technische Sicherheit",
+      "Software und digitale Lösungen",
+      "Offshore-Klassifikation",
+      "Energieberatung und Asset Management",
+      "Cybersicherheit und Datensicherheit",
+      "Umwelt- und Nachhaltigkeitsberatung",
+      "Veracity (Industrie-Cloud-Plattform)"
+    ]
+  },
   "dnd": {
     "name": "Dynamit Nobel Defence GmbH",
     "description": "Die Dynamit Nobel Defence GmbH (DND) ist ein mittelständisches Systemhaus der wehrtechnischen Industrie mit Hauptsitz in Burbach (Nordrhein-Westfalen). DND ist als eigenständige GmbH aus der Defence-Sparte der ehemaligen Dynamit Nobel AG hervorgegangen und blickt auf über 60 Jahre Erfahrung in der Entwicklung und Produktion von schultergestützten Mehrzweckwaffen zurück. Das Unternehmen ist seit 2004 eine Tochtergesellschaft des israelischen Rüstungskonzerns Rafael Advanced Defense Systems. DND beschäftigt rund 600 Mitarbeiter und betreibt auf einem über einen Quadratkilometer großen Werksgelände in Burbach mit 260 Gebäuden Entwicklung, Fertigung und Erprobung sicherheitsrelevanter Hochtechnologie. Das Portfolio umfasst schultergestützte Panzerabwehrwaffen (Panzerfaust 3, RGW-Serie, MATADOR), Reaktivschutzsysteme, Counter-Mobility-Systeme, digitale Gefechtsführungssysteme, Softwaredefinierte Funkgeräte und Brandschutzsysteme. DND ist Lizenznehmer für die Panzerfaust 3 und Hauptlieferant der deutschen Streitkräfte für Panzerabwehrhandwaffen.",
@@ -842,11 +998,42 @@
     ],
     "updatedAt": "2026-09-20"
   },
+  "doll-fahrzeugbau": {
+    "name": "DOLL Fahrzeugbau GmbH",
+    "description": "Die DOLL Fahrzeugbau GmbH ist ein 1878 von Johann Georg Doll als Kutschenschmiede gegründetes, international agierendes Fahrzeugbauunternehmen mit Hauptsitz in Oppenau im Schwarzwald. Das Familienunternehmen wird heute in vierter Generation geführt und ist ein High-Tech-Spezialist für Transportlösungen in den Bereichen Schwertransport, Holztransport, Flugfeldfahrzeuge und Defence. DOLL beschäftigt rund 400 Mitarbeitende und fertigt etwa 1.000 Fahrzeuge pro Jahr. Das Unternehmen betreibt Produktionsstandorte in Oppenau (Baden-Württemberg), Mildenau (Sachsen), Bridgeport (New Jersey, USA), Paris (Frankreich) sowie ein neues Werk in Ungarn. DOLL ist einer der führenden europäischen Hersteller von Transportfahrzeugen für die Bereiche Holztransport, Schwertransport, Flughafenvorfeld und Verteidigung. Im Geschäftsbereich Defence liefert DOLL militärische Sattelauflieger, Anhänger und Nachläufer für Streitkräfte weltweit, darunter einen Rahmenvertrag mit dem BAAINBw über 250 militarisierte 8-Achs-Sattelauflieger. Die DOLL Fahrzeugbau GmbH ist im Handelsregister des Amtsgerichts Berlin-Charlottenburg unter HRB 160127 B eingetragen. Geschäftsführer sind Markus Ehl und Renato Ramella. Das Unternehmen ist im Bundesverband für Sicherheits- und Verteidigungsindustrie (BDSV) gelistet und stellt auf Fachmessen wie der IDEX und der Enforce Tac aus.",
+    "url": "https://www.doll.eu/",
+    "category": [
+      "Sonderfahrzeugbau",
+      "Schwertransport",
+      "Holztransport",
+      "Flugfeldfahrzeuge",
+      "Verteidigung"
+    ],
+    "parents": [],
+    "products": [
+      "Schwertransport-Sattelauflieger (DOLL NEXT)",
+      "Holztransportfahrzeuge (Langholz, Kurzholz)",
+      "DOLL Ratioplus Lenksystem",
+      "DOLL panther Achstechnologie",
+      "DOLL tera Pendelachse",
+      "Flugfeldfahrzeuge (DOLL Airport Equipment)",
+      "Militärische Sattelauflieger und Anhänger",
+      "Militärische 8-Achs-Sattelauflieger (BAAINBw-Rahmenvertrag)",
+      "DOLL connect® Trailer-Management-System",
+      "DOLL tronic® Steuerungssystem"
+    ]
+  },
   "donaustahl": {
     "name": "Donaustahl GmbH",
-    "description": "Die Donaustahl GmbH ist ein 2020 gegründetes bayerisches Defence-Start-up mit rechtlichem Sitz in Hutthurm (Landkreis Passau) und einem Fokus auf die Entwicklung und Produktion hochmoderner Lösungen für militärische Anwendungen. Das Unternehmen hat sich auf unbemannte Waffensysteme und Loitering-Munition spezialisiert und gilt als Deutschlands führendes Unternehmen in diesem Bereich. Die Donaustahl GmbH ist als 'Offense-Start-up' positioniert und verfolgt das Ziel einer 100% deutschen Wertschöpfungskette. CEO und Gründer ist Stefan Thumann, der das Unternehmen zunächst als Hersteller von Kurzwaffen-Anschlagschäften gründete und nach dem Beginn des Ukraine-Krieges auf Verteidigungstechnologie umstellte. Das Unternehmen hält mehr als zehn Patente und plant, bis 2026 über 30.000 unbemannte Luftfahrzeug-Gefechtskörper jährlich zu produzieren. Zu den Produkten zählen die ALMP MAUS (Adaptive Loitering-Munition-Plattform), Gefechtsköpfe der Sonyashnyk-Serie, Drohnenmotoren und Lichtwellenleiter. Donaustahl ist im Handelsregister des Amtsgerichts Passau unter HRB 10808 eingetragen und im Bayerischen Lobbyregister unter der Registernummer DEBYLT0003 registriert. Der frühere KNDS-Finanzvorstand Horst Rieder ist seit November 2025 CFO des Unternehmens.",
+    "description": "Die Donaustahl GmbH ist ein 2020 gegründetes bayerisches Defence-Start-up mit rechtlichem Sitz in Hutthurm (Landkreis Passau) und einem Fokus auf die Entwicklung und Produktion hochmoderner Lösungen für militärische Anwendungen. Das Unternehmen hat sich auf unbemannte Waffensysteme und Loitering-Munition spezialisiert und gilt als Deutschlands führendes Unternehmen in diesem Bereich. Die Donaustahl GmbH ist als 'Offense-Start-up' positioniert und verfolgt das Ziel einer 100% deutschen Wertschöpfungskette. CEO und Gründer ist Stefan Thumann, der das Unternehmen zunächst als Hersteller von Kurzwaffen-Anschlagschäften gründete und nach dem Beginn des Ukraine-Krieges auf Verteidigungstechnologie umstellte. Das Unternehmen hält mehr als zehn Patente und plant, bis 2026 über 30.000 unbemannte Luftfahrzeug-Gefechtskörper jährlich zu produzieren. Zu den Produkten zählen die ALMP MAUS (Adaptive Loitering-Munition-Plattform), Gefechtsköpfe der Sonyashnyk-Serie, Drohnenmotoren und Lichtwellenleiter.",
     "url": "https://www.donaustahl.com/",
-    "category": ["Loitering-Munition", "Drohnen", "Unbemannte Luftfahrtsysteme", "Verteidigungstechnologie", "Munition"],
+    "category": [
+      "Loitering-Munition",
+      "Drohnen",
+      "Unbemannte Luftfahrtsysteme",
+      "Verteidigungstechnologie",
+      "Munition"
+    ],
     "parents": [],
     "products": [
       "ALMP MAUS (Adaptive Loitering-Munition-Plattform)",
@@ -859,6 +1046,29 @@
       "Unbemannte Luftfahrzeug-Bordwaffen (mBK185, GAG40)"
     ],
     "updatedAt": "2026-09-20"
+  },
+  "dracoon": {
+    "name": "DRACOON GmbH",
+    "description": "Die DRACOON GmbH ist ein 2008 in Regensburg gegründeter und heute marktführender deutscher Anbieter von Enterprise-File-Services (EFSS) im deutschsprachigen Raum. Das Unternehmen (ehemals SSP Europe GmbH) entwickelt eine hochsichere, plattformunabhängige Cloud-Lösung für den sicheren Dateiaustausch und die Zusammenarbeit in Unternehmen, Behörden und Organisationen. Die DRACOON-Plattform ist für ihre proprietäre TripleCrypt-Technologie mit Ende-zu-Ende-Verschlüsselung, eine vollständig offene API und ein hochentwickeltes Enterprise-Berechtigungssystem bekannt und als Cloud-, Hybrid- oder On-Premises-Version verfügbar. DRACOON wird von über einer halben Million Nutzern weltweit eingesetzt, darunter Deutsche Bahn, DATEV, Rossmann, Helios Kliniken, Rödl & Partner, ElringKlinger und die Nürnberger Versicherung. Das Unternehmen beschäftigt über 100 Mitarbeiter und hat seinen Hauptsitz in der Galgenbergstraße 2a in 93053 Regensburg.",
+    "url": "https://www.dracoon.com/",
+    "category": [
+      "KI-Software",
+      "Cloud-Plattform",
+      "Datensicherheit",
+      "Verschlüsselung",
+      "Enterprise-Software"
+    ],
+    "parents": [],
+    "products": [
+      "DRACOON Enterprise Cloud",
+      "DRACOON Hybrid",
+      "DRACOON On-Premises",
+      "TripleCrypt-Technologie (Ende-zu-Ende-Verschlüsselung)",
+      "DRACOON für DATEV",
+      "Sichere E-Mail-Verschlüsselung",
+      "Sicheres cloud-basiertes Home-Laufwerk",
+      "Absicherung von Dateien in Microsoft Teams"
+    ]
   },
   "elbit": {
     "name": "Elbit Systems Ltd.",

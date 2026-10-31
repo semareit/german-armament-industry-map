@@ -1070,6 +1070,71 @@
       "Absicherung von Dateien in Microsoft Teams"
     ]
   },
+  "draeger-safety": {
+    "name": "Drägerwerk Safety AG & Co. KGaA",
+    "description": "Die Drägerwerk Safety AG & Co. KGaA ist der Sicherheitstechnik-Bereich der 1889 in Lübeck gegründeten Dräger-Gruppe und ein weltweit führender Anbieter von Produkten, Systemen und Dienstleistungen für die persönliche Schutzausrüstung (PSA), Gasmesstechnik, Atemschutz und Feuerwehrausrüstung. Das Unternehmen mit Hauptsitz in der Revalstraße 1 in 23560 Lübeck ist eine 100-prozentige Tochtergesellschaft der Drägerwerk AG & Co. KGaA und beschäftigt weltweit rund 5.300 Mitarbeiter am Standort Lübeck. Die Dräger Safety AG & Co. KGaA betreibt Entwicklungs- und Fertigungsstandorte in Deutschland (Lübeck, Hagen), China (Shanghai, Peking), Großbritannien (Blyth, Plymouth), Norwegen (Oslo), Schweden (Svenljunga), Tschechien (Klästerec), Südafrika (King William's Town), den USA (Andover, Telford) und Chile (Santiago de Chile). Das Unternehmen ist in über 190 Ländern vertreten und in rund 50 Ländern mit eigenen Vertriebs- und Servicegesellschaften präsent. Zu den Kernprodukten zählen Atemschutzgeräte (PSS 3000, 5000, 7000), Gaswarngeräte, Alkohol- und Drogentestgeräte (DrugTest 5000), Tauchtechnik sowie Brandübungsanlagen und Tunnelrettungszüge.",
+    "url": "https://www.draeger.com/",
+    "category": [
+      "Sicherheit",
+      "Schutzausrüstung",
+      "Gasmesstechnik",
+      "Atemsschutz",
+      "Feuerwehrausrüstung"
+    ],
+    "parents": [],
+    "products": [
+      "Atemschutzgeräte (PSS 3000, 5000, 7000)",
+      "Gaswarngeräte und Gasmesstechnik",
+      "Alkohol- und Drogentestgeräte (DrugTest 5000)",
+      "Tauchtechnik",
+      "Persönliche Schutzausrüstung (PSA)",
+      "Brandübungsanlagen",
+      "Tunnelrettungszüge",
+      "FFP-Masken",
+      "Lungenautomaten und Druckminderer"
+    ]
+  },
+  "drehtainer": {
+    "name": "DREHTAINER GmbH",
+    "description": "Die DREHTAINER GmbH ist ein 1976 gegründeter deutscher Hersteller von geschützten Spezialcontainern und mobilen Infrastrukturlösungen mit Hauptsitz in Valluhn (Lüttow-Valluhn, Mecklenburg-Vorpommern). Das Unternehmen ist auf die Entwicklung und Fertigung von Spezialcontainern und -fahrzeugen für Wehrtechnik, zivile Anwendungen und die Nuklearindustrie spezialisiert. Der Schwerpunkt liegt auf ballistischem Schutz, Blastschutz, Abstrahlsicherheit (EMV/EMP) und CBRN-Schutz. Zu den internationalen Kunden zählen zahlreiche NATO-Streitkräfte, OEMs der Verteidigungsindustrie sowie Unternehmen aus der Luft- und Raumfahrt und der Nuklearindustrie. DREHTAINER beschäftigt am Standort Valluhn rund 400 Mitarbeiter und erweitert seine Produktionskapazitäten um drei neue Hallen mit über 9.000 Quadratmetern.",
+    "url": "https://www.drehtainer.de/",
+    "category": [
+      "Schutzausrüstung",
+      "Containerbau",
+      "Fahrzeugsysteme",
+      "Sicherheit",
+      "Verteidigung"
+    ],
+    "parents": [],
+    "products": [
+      "Ballistisch geschützte Spezialcontainer",
+      "Blastgeschützte Kommandoposten",
+      "Transportable Feldlazarette",
+      "CBRN-Schutzcontainer",
+      "EMV/EMP-abschirmende Container",
+      "Militärische Sanitär- und Logistikcontainer",
+      "Mobile Infrastrukturlösungen",
+      "Spezialfahrzeuge und Hebezeuge",
+      "Lösungen für die Nukleartechnik"
+    ]
+  },
+  "dst-innovation": {
+    "name": "DST innovation GmbH",
+    "description": "Die DST innovation GmbH ist ein auf CBRN-Schutzsysteme (chemische, biologische, radiologische und nukleare Gefahren) spezialisierter Hersteller und Systemintegrator mit Hauptsitz in Buchen (Odenwald, Baden-Württemberg) und Niederlassungen in Walldürn (Baden-Württemberg) und Wietzendorf (Niedersachsen). Das Unternehmen entwickelt, produziert und vertreibt Dekontaminationssysteme, CBRN-Schutzausstattungen, Sonderfahrzeuge und Container sowie mobile Laborlösungen für Behörden und Organisationen mit Sicherheitsaufgaben (BOS), die Bundeswehr, den Katastrophenschutz und kritische Infrastrukturen. DST innovation verfügt über langjährige Erfahrung mit der Ausrüstung von CBRN-Spezialkräften bei Polizei, Militär, EOD, Hazmat und Zivilschutz.",
+    "url": "https://www.dst-cbrn.com/",
+    "category": ["schutzausrüstung", "sicherheit", "fahrzeugsysteme", "containerbau", "verteidigung"],
+    "parents": [],
+    "products": [
+      "Dekontaminationssysteme",
+      "CBRN-Schutzausstattung",
+      "Sonderfahrzeuge für CBRN-Einsätze",
+      "Mobile CBRN-Laborlösungen",
+      "Schutzcontainer",
+      "Abrollbehälter und Anhänger",
+      "Ausrüstung für EOD und Hazmat",
+      "Zivilschutz- und Katastrophenschutzausstattung"
+    ]
+  },
   "elbit": {
     "name": "Elbit Systems Ltd.",
     "description": "Elbit Systems ist ein israelischer Rüstungskonzern mit Sitz in Haifa. Das Unternehmen entwickelt und produziert Systeme in den Bereichen Luftfahrt, Land-, See- und Cybersicherheit und ist über die Tochter Elbit Systems Deutschland auch auf dem deutschen Markt aktiv.",
@@ -1081,7 +1146,7 @@
   },
   "elbit-de": {
     "name": "Elbit Systems Deutschland GmbH & Co. KG",
-    "description": "Elbit Systems Deutschland ist die deutsche Tochtergesellschaft des israelischen Rüstungskonzerns Elbit Systems Ltd. und ein führender Systementwickler, Produzent und Anbieter von militärischen Systemlösungen in den Bereichen Funkkommunikation, Führungssysteme, Elektronische Kampfführung, Aufklärung, Optronik, unbemannte Systeme und Cybersicherheit. Das Unternehmen mit Hauptsitz in Ulm beschäftigt mehrere hundert Mitarbeiter an mehreren deutschen Standorten. Ulm ist der Hauptstandort mit Produktion und Entwicklung und zugleich das Kompetenzzentrum für Hochfrequenz-Funk des gesamten Elbit-Konzerns. Weitere Standorte bestehen in Berlin (Hauptstadtrepräsentanz), Koblenz (Büro für Verteidigungs- und Regierungsbeziehungen) und seit August 2025 in Norddeutschland (Marine-Kompetenzzentrum). Elbit Systems Deutschland plant eine massive Expansion: Bis 2028 sollen über 1.000 Mitarbeiter eingestellt und bis zu acht Standorte in Deutschland eröffnet werden. Das Unternehmen ist im Lobbyregister des Bundestages unter der Registernummer R004255 eingetragen und nach ISO 9001:2015 zertifiziert.",
+    "description": "Elbit Systems Deutschland ist die deutsche Tochtergesellschaft des israelischen Rüstungskonzerns Elbit Systems Ltd. und ein führender Systementwickler, Produzent und Anbieter von militärischen Systemlösungen in den Bereichen Funkkommunikation, Führungssysteme, Elektronische Kampfführung, Aufklärung, Optronik, unbemannte Systeme und Cybersicherheit. Das Unternehmen mit Hauptsitz in Ulm beschäftigt mehrere hundert Mitarbeiter an mehreren deutschen Standorten. Ulm ist der Hauptstandort mit Produktion und Entwicklung und zugleich das Kompetenzzentrum für Hochfrequenz-Funk des gesamten Elbit-Konzerns. Weitere Standorte bestehen in Berlin (Hauptstadtrepräsentanz), Koblenz (Büro für Verteidigungs- und Regierungsbeziehungen) und seit August 2025 in Norddeutschland (Marine-Kompetenzzentrum). Elbit Systems Deutschland plant eine massive Expansion: Bis 2028 sollen über 1.000 Mitarbeiter eingestellt und bis zu acht Standorte in Deutschland eröffnet werden.",
     "url": "https://elbitsystems-de.com/",
     "category": ["Kommunikation", "Elektronik", "Optronik", "Cybersicherheit", "Unbemannte Systeme", "Marine"],
     "parents": ["elbit"],

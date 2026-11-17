@@ -6687,22 +6687,6 @@
     ]
   },
   {
-    "id": "dnv-de-dresden-mockritz",
-    "companyId": "dnv",
-    "lat": 51.0200,
-    "lng": 13.7500,
-    "headquarter": false,
-    "siteName": "Ehemaliger Standort Dresden-Mockritz",
-    "address": "Gostritzer Straße 67a, 01217 Dresden",
-    "city": "Dresden",
-    "state": "Sachsen",
-    "country": "DE",
-    "description": "Ehemaliger Dresdner Standort von DNV in der Gostritzer Straße 67a im Stadtteil Mockritz. Hier war die DNV Energy Systems Germany GmbH ansässig, die aus der 1963 gegründeten KEMA-IEV GmbH hervorgegangen ist. Der Standort wurde im Herbst 2025 zugunsten des neuen Standorts im WTC Dresden aufgegeben.",
-    "sources": [
-      "https://mapcarta.com/de/W190428645"
-    ]
-  },
-  {
     "id": "dnv-de-augsburg",
     "companyId": "dnv",
     "lat": 48.3667,
@@ -7610,6 +7594,389 @@
       "militärische Zünd- und Anzündmittel",
       "energetische Materialien",
       "elektronische Zündsysteme"
+    ]
+  },
+  {
+    "id": "eberspaecher-esslingen",
+    "companyId": "eberspaecher-climate-control-systems-international",
+    "lat": 48.739,
+    "lng": 9.319,
+    "headquarter": true,
+    "siteName": "Hauptsitz Esslingen am Neckar",
+    "address": "Eberspächerstraße 24, 73730 Esslingen am Neckar",
+    "city": "Esslingen am Neckar",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Hauptsitz und zentraler Standort der Eberspächer Climate Control Systems International GmbH in Esslingen am Neckar. Die Adresse Eberspächerstraße 24 ist im Handelsregister des Amtsgerichts Stuttgart (HRB 733098) als offizieller Firmensitz eingetragen. Hier befinden sich Unternehmensleitung, Entwicklung, Vertrieb sowie Prüf- und Testeinrichtungen für Klima- und Heizsysteme.",
+    "products": [
+      "HVAC-Systeme",
+      "Standheizungen",
+      "Militärische Klimatisierungslösungen",
+      "Thermomanagement"
+    ],
+    "sources": [
+      "https://www.eberspaecher-climate.com/be/fr/mentions-legales",
+      "https://www.eberspaecher.com/unternehmensdaten"
+    ]
+  },
+  {
+    "id": "eberspaecher-torgelow",
+    "companyId": "eberspaecher-climate-control-systems-international",
+    "lat": 53.55,
+    "lng": 14.00,
+    "headquarter": false,
+    "siteName": "Standort Torgelow",
+    "address": "Wilhelmstraße 47, 17358 Torgelow",
+    "city": "Torgelow",
+    "state": "Mecklenburg-Vorpommern",
+    "country": "DE",
+    "description": "Standort der Eberspächer Climate Control Systems International GmbH in Torgelow (Mecklenburg-Vorpommern). Die Adresse Wilhelmstraße 47 wird in den Kontakt- und Impressumsangaben der Eberspächer-Vertriebsgesellschaften für die International GmbH geführt. Von hier werden Vertriebs- und Serviceaufgaben für Heizungs- und Klimatisierungslösungen wahrgenommen. Der Standort ist Teil des deutschen Eberspächer-Netzwerks für Climate Control Systems.",
+    "sources": [
+      "https://www.eberspaecher-vertrieb.de/kontakt",
+      "https://www.eberspaecher-utility-cargo.com/kontakt"
+    ]
+  },
+  {
+    "id": "eberspaecher-wiener-neudorf",
+    "companyId": "eberspaecher-climate-control-systems-international",
+    "lat": 48.08,
+    "lng": 16.31,
+    "headquarter": false,
+    "siteName": "Standort Wiener Neudorf",
+    "address": "IZ Nö-Süd Straße 16, Objekt 69, Top 6, 2355 Wiener Neudorf",
+    "city": "Wiener Neudorf",
+    "state": "Niederösterreich",
+    "country": "AT",
+    "description": "Standort der Eberspächer Climate Control Systems International GmbH in Wiener Neudorf (Österreich). Die Adresse IZ Nö-Süd Straße 16 wird in den Kontaktangaben für Angebotsanfragen und Kundenkommunikation der International GmbH genannt. Von hier aus werden Vertriebs- und Supportaktivitäten für den österreichischen und südosteuropäischen Markt koordiniert.",
+    "sources": [
+      "https://www.eberspaecher-zeliox.com/angebot-anfragen",
+      "https://www.eberspaecher-vertrieb.de/kontakt"
+    ]
+  },
+  {
+    "id": "ecos-oppenheim",
+    "companyId": "ecos-technology",
+    "lat": 49.8553,
+    "lng": 8.3553,
+    "headquarter": true,
+    "siteName": "Hauptsitz Oppenheim",
+    "address": "Sant' Ambrogio-Ring 13 a-b, 55276 Oppenheim",
+    "city": "Oppenheim",
+    "state": "Rheinland-Pfalz",
+    "country": "DE",
+    "description": "Hauptsitz und zentraler Standort der ECOS Technology GmbH in Oppenheim (Rheinland-Pfalz). Die Adresse Sant' Ambrogio-Ring 13 a-b ist im Impressum des Unternehmens sowie im Handelsregister des Amtsgerichts Mainz (HRB 6889) als offizieller Firmensitz eingetragen. Hier befinden sich Unternehmensleitung, Entwicklung und Vertrieb für IT-Sicherheitslösungen. Die Telefonnummer lautet +49 6133 939-0, die E-Mail-Adresse info@ecos.de. Geschäftsführer sind Paul Marx und Gerald Richter.",
+    "products": [
+      "ECOS SecureBootStick",
+      "ECOS TrustManagementAppliance",
+      "Sichere Remote-Access-Lösungen"
+    ],
+    "sources": [
+      "https://w1125.ecos.de/impressum",
+      "https://w1125.ecos.de/en/company"
+    ]
+  },
+  {
+    "id": "ecos-eschborn",
+    "companyId": "ecos-technology",
+    "lat": 50.143,
+    "lng": 8.57,
+    "headquarter": false,
+    "siteName": "Standort Eschborn",
+    "address": "Rahmannstraße 11, 65760 Eschborn (abweichende Adressangabe: Mergenthalerallee 79-81, 65760 Eschborn)",
+    "city": "Eschborn",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "Standort der ECOS Technology GmbH in Eschborn (Hessen). Die Adresse Rahmannstraße 11 wird in Unternehmensverzeichnissen und auf der Plattform hessen-champions.de als Standort der ECOS Technology GmbH geführt. In Pressemitteilungen und Firmenkontakten wird zudem die Adresse Mergenthalerallee 79-81 in Eschborn genannt. Von hier aus werden vertriebliche und administrative Aufgaben wahrgenommen. Die Telefonnummer lautet +49 (6133) 939-200.",
+    "products": [
+      "IT-Sicherheitslösungen (Vertrieb)",
+      "Remote-Access-Lösungen"
+    ],
+    "sources": [
+      "https://www.hessen-champions.de/preistraeger/2019/innovation/ecos-technology-gmbh/",
+      "https://presseportal.org"
+    ]
+  },
+  {
+    "id": "ecos-dienheim",
+    "companyId": "ecos-technology",
+    "lat": 49.8333,
+    "lng": 8.35,
+    "headquarter": false,
+    "siteName": "Standort Dienheim (ehemaliger Sitz)",
+    "address": "Rosenstraße 20 B, 55276 Dienheim",
+    "city": "Dienheim",
+    "state": "Rheinland-Pfalz",
+    "country": "DE",
+    "description": "Die Adresse Rosenstraße 20 B in Dienheim (Rheinland-Pfalz) wird in Handelsregisterbekanntmachungen und Unternehmensverzeichnissen als früherer Gesellschaftssitz der ECOS Technology GmbH geführt. Die Gesellschafterversammlung hatte 2010 eine Sitzverlegung nach Dienheim beschlossen. Heute ist Oppenheim der offizielle Hauptsitz; Dienheim erscheint jedoch noch in älteren Registereinträgen und Branchenverzeichnissen. Die Telefonnummer lautet +49 6133 939-0.",
+    "products": [
+      "IT-Sicherheitslösungen (historisch)"
+    ],
+    "sources": [
+      "https://www.online-handelsregister.de",
+      "https://www.11880.com"
+    ]
+  },
+  {
+    "id": "elbit-de-ulm-eberhard-finckh",
+    "companyId": "elbit-systems-deutschland",
+    "lat": 48.3984,
+    "lng": 9.9916,
+    "headquarter": true,
+    "siteName": "Hauptsitz Ulm",
+    "address": "Eberhard-Finckh-Straße 55, 89075 Ulm",
+    "city": "Ulm",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Hauptsitz von Elbit Systems Deutschland und zentraler Standort für Produktion, Entwicklung und Systemintegration. Hier befinden sich Unternehmensleitung, Entwicklung, Produktion, Systemintegration, Vertrieb und Marketing für militärische Kommunikations-, Führungs- und Aufklärungssysteme, des gesamten Elbit-Konzerns. Das Unternehmen ist nach ISO 9001:2015 zertifiziert für Design, Entwicklung, Produktion, Systemintegration, Vertrieb und Marketing von Systemen in den Bereichen Funkkommunikation, C4I, Aufklärung und Elektrooptik für Land-, See- und Luftstreitkräfte.",
+    "products": [
+      "Funkkommunikation",
+      "C4I-Systeme",
+      "Optronik",
+      "Elektronische Kampfführung",
+      "Systemintegration"
+    ],
+    "sources": [
+      "https://elbitsystems-de.com/wp-content/uploads/Zertifikat-ISO-9001_2015-1.pdf",
+      "https://www.lobbyregister.bundestag.de/suche/R004255/67906",
+      "https://elbitsystems-de.com/impressum"
+    ]
+  },
+  {
+    "id": "elbit-de-ulm-heidenheimer",
+    "companyId": "elbit-systems-deutschland",
+    "lat": 48.404,
+    "lng": 10.0,
+    "siteName": "Standort Ulm (Heidenheimer Straße 55)",
+    "address": "Heidenheimer Straße 55, 89075 Ulm",
+    "city": "Ulm",
+    "state": "Baden-Württemberg",
+    "country": "DE",
+    "description": "Weiterer Standort in Ulm für Administration, Projektmanagement und Produktmanagement zur Unterstützung des Hauptsitzes.",
+    "products": [
+      "Administration",
+      "Projektmanagement",
+      "Produktmanagement"
+    ],
+    "sources": [
+      "https://elbitsystems-de.com/wp-content/uploads/Zertifikat-ISO-9001_2015-1.pdf"
+    ]
+  },
+  {
+    "id": "elbit-de-neu-ulm",
+    "companyId": "elbit-systems-deutschland",
+    "lat": 48.3833,
+    "lng": 10.0,
+    "siteName": "Logistikstandort Neu-Ulm (Finninger Straße 56)",
+    "address": "Finninger Straße 56, 89231 Neu-Ulm",
+    "city": "Neu-Ulm",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Logistikstandort von Elbit Systems Deutschland in Neu-Ulm. Hier werden Wareneingang und -ausgang, Lagerhaltung und interne Logistik zur Unterstützung des Hauptsitzes in Ulm abgewickelt.",
+    "products": [
+      "Wareneingang und -ausgang",
+      "Lagerhaltung",
+      "Interne Logistik"
+    ],
+    "sources": [
+      "https://elbitsystems-de.com/wp-content/uploads/Zertifikat-ISO-9001_2015-1.pdf"
+    ]
+  },
+  {
+    "id": "elbit-de-berlin",
+    "companyId": "elbit-systems-deutschland",
+    "lat": 52.52,
+    "lng": 13.405,
+    "siteName": "Hauptstadtrepräsentanz Berlin",
+    "address": "Berlin (genauer Straßenstandort nicht veröffentlicht)",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "DE",
+    "description": "Hauptstadtrepräsentanz von Elbit Systems Deutschland in Berlin. Das Büro dient als Schnittstelle zur Politik, zum Bundestag, zu den Bundesministerien und zur Bundeswehr. Hier werden Verteidigungs- und Regierungsbeziehungen gepflegt.",
+    "products": [
+      "Hauptstadtrepräsentation",
+      "Politische Kontaktpflege"
+    ],
+    "sources": [
+      "https://www.lobbyregister.bundestag.de/suche/R004255/67906",
+      "https://en.globes.co.il/en/article-israeli-defense-firms-expand-activity-in-europe-1001556724",
+      "https://www.nd-aktuell.de/artikel/1203116.israelischer-ruestungskonzern-elbit-elbit-baut-praesenz-in-der-brd-aus-auch-protestbewegung-waechst.html"
+    ]
+  },
+  {
+    "id": "elbit-de-kassel",
+    "companyId": "elbit-systems-deutschland",
+    "lat": 51.312,
+    "lng": 9.480,
+    "headquarter": false,
+    "siteName": "Standort Kassel (Joint Venture Europuls)",
+    "address": "Kassel (genauer Straßenstandort nicht veröffentlicht)",
+    "city": "Kassel",
+    "state": "Hessen",
+    "country": "DE",
+    "description": "Geplanter Standort der Elbit Systems Deutschland GmbH & Co. KG in Kassel (Hessen). Im März 2026 gaben Elbit und der deutsch-französische Rüstungskonzern KNDS die Gründung des Joint Ventures „Europuls GmbH“ bekannt, dessen Hauptsitz in Kassel liegen soll. Kassel wird in Fachmedien bereits als Standort von Elbit Systems Deutschland im Zusammenhang mit der geplanten Ansiedlung genannt. Der genaue Straßenstandort ist nicht öffentlich veröffentlicht; die Koordinaten sind Näherungswerte für das Stadtgebiet Kassel.",
+    "products": [
+      "Raketenartilleriesysteme (geplant)",
+      "Joint-Venture-Aktivitäten (Europuls)"
+    ],
+    "sources": [
+      "https://www.nd-aktuell.de/artikel/1203116.israelischer-ruestungskonzern-elbit-elbit-baut-praesenz-in-der-brd-aus-auch-protestbewegung-waechst.html"
+    ]
+  },
+  {
+    "id": "elbit-de-koblenz",
+    "companyId": "elbit-systems-deutschland",
+    "lat": 50.3567,
+    "lng": 7.5942,
+    "siteName": "Büro Koblenz",
+    "address": "Koblenz (genauer Straßenstandort nicht veröffentlicht)",
+    "city": "Koblenz",
+    "state": "Rheinland-Pfalz",
+    "country": "DE",
+    "description": "Büro von Elbit Systems Deutschland in Koblenz für Verteidigungs- und Regierungsbeziehungen. Koblenz ist der Standort des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw), der zentralen Beschaffungsbehörde der Bundeswehr. Die Niederlassung dient der Kundenbindung und Projektbetreuung im Umfeld der Bundeswehr und des Beschaffungswesens.",
+    "products": [
+      "Kundenbetreuung",
+      "Projektmanagement (Bundeswehr)"
+    ],
+    "sources": [
+      "https://en.globes.co.il/en/article-israeli-defense-firms-expand-activity-in-europe-1001556724",
+      "https://www.nd-aktuell.de/artikel/1203116.israelischer-ruestungskonzern-elbit-elbit-baut-praesenz-in-der-brd-aus-auch-protestbewegung-waechst.html",
+      "https://esut.de/2025/08/meldungen/62512/der-vierte-standort-elbit-systems-deutschland-ist-in-norddeutschland/"
+    ]
+  },
+  {
+    "id": "elbit-de-norddeutschland",
+    "companyId": "elbit-systems-deutschland",
+    "lat": 54.0,
+    "lng": 9.0,
+    "siteName": "Marine-Kompetenzzentrum Norddeutschland",
+    "address": "Wilhelmshaven (genauer Straßenstandort nicht veröffentlicht)",
+    "state": "Schleswig-Holstein",
+    "country": "DE",
+    "description": "Niederlassung der Elbit Systems Deutschland GmbH & Co. KG in Norddeutschland, nach übereinstimmenden Medienberichten in Wilhelmshaven (Niedersachsen). Der Standort wurde am 8. August 2025 als vierter Standort nach Ulm, Koblenz und Berlin eröffnet. Aufgabe der Niederlassung ist die intensive und dauerhafte Betreuung der Deutschen Marine in technischen und vertraglichen Belangen seegehender Einheiten sowie der Aufbau neuer Arbeitsplätze für die ganzheitliche Betreuung komplexer Systeme.",
+    "products": [
+      "Marinekommunikationssysteme",
+      "Selbstschutzsysteme",
+      "Marinebezogene Systembetreuung",
+      "Vertrags- und Projektmanagement (Marine)"
+    ],
+    "sources": [
+      "https://esut.de/2025/08/meldungen/62512/der-vierte-standort-elbit-systems-deutschland-ist-in-norddeutschland/",
+      "https://www.bundeswehr-journal.de/2025/elbit-systems-deutschland-mit-neuer-niederlassung-im-norden/",
+      "https://www.nd-aktuell.de/artikel/1203116.israelischer-ruestungskonzern-elbit-elbit-baut-praesenz-in-der-brd-aus-auch-protestbewegung-waechst.html"
+    ]
+  },
+  {
+    "id": "elbit-de-sangerhausen",
+    "companyId": "elbit-systems-deutschland",
+    "lat": 51.475,
+    "lng": 11.300,
+    "headquarter": false,
+    "siteName": "Geplanter Produktionsstandort Sangerhausen",
+    "address": "Sangerhausen (genauer Straßenstandort nicht veröffentlicht)",
+    "city": "Sangerhausen",
+    "state": "Sachsen-Anhalt",
+    "country": "DE",
+    "description": "Geplanter Produktionsstandort der Elbit Systems Deutschland GmbH & Co. KG in Sangerhausen (Sachsen-Anhalt). Im Mai 2026 wurde bekannt, dass das Unternehmen in Sangerhausen einen Produktionsstandort auf bis zu 150 Hektar Fläche schaffen will. Der Standort soll nach damaligem Planungsstand u. a. für die Fertigung von Kamikazedrohnen, Raketenartilleriesystemen und Munition genutzt werden. Der genaue Straßenstandort ist nicht öffentlich veröffentlicht; die Koordinaten sind Näherungswerte für das Stadtgebiet Sangerhausen.",
+    "products": [
+      "Kamikazedrohnen (geplant)",
+      "Raketenartilleriesysteme (geplant)",
+      "Munition (geplant)"
+    ],
+    "sources": [
+      "https://www.nd-aktuell.de/artikel/1203116.israelischer-ruestungskonzern-elbit-elbit-baut-praesenz-in-der-brd-aus-auch-protestbewegung-waechst.html"
+    ]
+  },
+  {
+    "id": "elettronica-de-meckenheim",
+    "companyId": "elettronica-gmbh",
+    "lat": 50.626,
+    "lng": 7.045,
+    "headquarter": true,
+    "siteName": "Hauptsitz und Produktionsstandort Meckenheim",
+    "address": "Am Hambuch 10, 53340 Meckenheim",
+    "city": "Meckenheim",
+    "state": "Nordrhein-Westfalen",
+    "country": "DE",
+    "description": "Hauptsitz, Produktions- und Entwicklungsstandort der Elettronica GmbH in Meckenheim (Nordrhein-Westfalen), südlich von Bonn. Die Adresse Am Hambuch 10 ist im Handelsregister des Amtsgerichts Bonn (HRB 10136) sowie im Lobbyregister des Bundestages (Registernummer R005512) als offizieller Firmensitz eingetragen. Hier befinden sich Unternehmensleitung, Entwicklung, Fertigung, Systemintegration, Test und Vertrieb für Elektronische Kampfführung und EMSO-Lösungen. Das Unternehmen wurde 1978 in Meckenheim gegründet und beschäftigt heute über 100 Ingenieure, Techniker und Angestellte. Die Telefonnummer lautet +49 2225 8806-0, die E-Mail-Adresse info@elettronica.de. Geschäftsführer ist Dr. Marcello Mariucci. Der Standort ist EN9100-zertifiziert (seit 2015) und verfügt über Fertigungskapazitäten für hochwertige elektronische Baugruppen von Prototypen bis zu mittleren Stückzahlen.",
+    "products": [
+      "Elektronische Kampfführungssysteme",
+      "Radarwarnempfänger",
+      "ESM-Systeme",
+      "EW-Simulatoren (ewTISS)",
+      "Elektronische Baugruppen (Fertigung)"
+    ],
+    "sources": [
+      "https://www.lobbyregister.bundestag.de/media/53/78/586986/Lobbyregister-Registereintraege-Detailansicht-R005512-2025-07-17_18-27-20.pdf",
+      "https://www.eltgroup.net/global-presence/deutschland/",
+      "https://www.northdata.de/Elettronica%20GmbH,%20Meckenheim/Amtsgericht%20Bonn%20HRB%2010136"
+    ]
+  },
+  {
+    "id": "elettronica-de-berlin",
+    "companyId": "elettronica-gmbh",
+    "lat": 52.514,
+    "lng": 13.387,
+    "headquarter": false,
+    "siteName": "Repräsentanzbüro Berlin",
+    "address": "Taubenstraße 19, 10117 Berlin",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "DE",
+    "description": "Repräsentanzbüro der Elettronica GmbH in Berlin. Die Adresse Taubenstraße 19 in 10117 Berlin wird auf der offiziellen ELT-Group-Website als Berliner Büro der deutschen Tochtergesellschaft geführt. Von hier aus werden politische Kontaktpflege, Kundenbetreuung im Umfeld von Bundesministerien und Bundeswehrführung sowie die Vertretung der Unternehmensinteressen gegenüber Entscheidungsträgern wahrgenommen. Das Büro ergänzt den Hauptsitz und Produktionsstandort in Meckenheim.",
+    "products": [
+      "Hauptstadtrepräsentation",
+      "Politische Kontaktpflege",
+      "Kundenbetreuung (Bundeswehr, Ministerien)"
+    ],
+    "sources": [
+      "https://www.eltgroup.net/global-presence/deutschland/"
+    ]
+  },
+  {
+    "id": "entrak-de-wendelstein",
+    "companyId": "entrak-gmbh",
+    "lat": 49.353,
+    "lng": 11.144,
+    "headquarter": true,
+    "siteName": "Hauptsitz und einziger Standort Wendelstein",
+    "address": "Richtweg 33, 90530 Wendelstein",
+    "city": "Wendelstein",
+    "state": "Bayern",
+    "country": "DE",
+    "description": "Hauptsitz und einziger zertifizierter Standort der ENTRAK GmbH in Wendelstein (Bayern), südöstlich von Nürnberg. Die Adresse Richtweg 33 ist im Handelsregister des Amtsgerichts Nürnberg (HRB 31710), im Lobbyregister des Bundestages (Registernummer R005727) sowie in den DEKRA-Zertifikaten als offizieller Firmensitz und zertifizierter Standort eingetragen. Die DEKRA-Zertifizierung weist ausdrücklich die Zertifizierungsstruktur „Single Site“ aus, was bestätigt, dass keine weiteren Standorte existieren. Hier befinden sich Unternehmensleitung, Entwicklung, Fertigung, Vertrieb und Service für Bordnetzgeräte und Defence-&-Space-Komponenten. Geschäftsführer ist Christoph Speith. Die Telefonnummer lautet +49 9129 4035-0, die E-Mail-Adresse info@entrak.de.",
+    "products": [
+      "Bordnetzgeräte",
+      "Defence-&-Space-Komponenten",
+      "Energie- und Antriebstechnik",
+      "Fertigung und Instandsetzung"
+    ],
+    "sources": [
+      "https://www.lobbyregister.bundestag.de/suche/R005727/71584",
+      "https://www.companyhouse.de/ENTRAK-GmbH-Wendelstein",
+      "https://www.online-handelsregister.de/handelsregisterauszug-by/Entrak-GmbH/HRB31710"
+    ]
+  },
+  {
+    "id": "esbit-de-hamburg-zippelhaus",
+    "companyId": "esbit-compagnie",
+    "lat": 53.543,
+    "lng": 10.002,
+    "headquarter": true,
+    "siteName": "Hauptsitz Hamburg (Zippelhaus)",
+    "address": "Zippelhaus 3, 20457 Hamburg",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "country": "DE",
+    "description": "Hauptsitz und einziger aktiver Standort der ESBIT Compagnie GmbH in der Hamburger Altstadt. Die Adresse Zippelhaus 3 ist im Handelsregister des Amtsgerichts Hamburg (HRB 5480) sowie im Impressum des Unternehmens als offizieller Firmensitz eingetragen. Hier befinden sich Unternehmensleitung, Vertrieb, Produktmanagement und Verwaltung. Der Standort dient als Zentrale für den weltweiten Export in rund 25 Länder.",
+    "products": [
+      "Trockenbrennstoff-Tabletten",
+      "Kocher und Kochsets",
+      "Isolier- und Trinkbehälter",
+      "Verpflegungsausrüstung (Defence & Dual-Use)"
+    ],
+    "sources": [
+      "https://esbit.de/policies/legal-notice",
+      "https://www.companyhouse.de/Esbit-Compagnie-GmbH-Hamburg"
     ]
   },
   {
@@ -12714,109 +13081,6 @@
     "description": "Asiatischer Hauptsitz von Rohde & Schwarz in Singapur. Von hier werden die Aktivitäten in der Region Asien-Pazifik gesteuert.",
     "sources": [
       "https://www.rohde-schwarz.com/de/produkte/messtechnik/hohe-vertikale-integration_258033.html"
-    ]
-  },
-  {
-    "id": "elbit-de-ulm-eberhard-finckh",
-    "companyId": "elbit-de",
-    "lat": 48.3984,
-    "lng": 9.9916,
-    "headquarter": true,
-    "siteName": "Hauptsitz Ulm (Eberhard-Finckh-Straße 55)",
-    "address": "Eberhard-Finckh-Straße 55, 89075 Ulm",
-    "city": "Ulm",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "Hauptsitz von Elbit Systems Deutschland und zentraler Standort für Produktion, Entwicklung und Systemintegration. Hier befinden sich Unternehmensführung, Engineering und das Kompetenzzentrum für Hochfrequenz-Funk des gesamten Elbit-Konzerns. Das Unternehmen ist nach ISO 9001:2015 zertifiziert für Design, Entwicklung, Produktion, Systemintegration, Vertrieb und Marketing von Systemen in den Bereichen Funkkommunikation, C4I, Aufklärung und Elektrooptik für Land-, See- und Luftstreitkräfte.",
-    "products": [
-      "Funkkommunikation",
-      "C4I-Systeme",
-      "Optronik",
-      "Elektronische Kampfführung"
-    ],
-    "sources": [
-      "https://elbitsystems-de.com/wp-content/uploads/Zertifikat-ISO-9001_2015-1.pdf",
-      "https://www.lobbyregister.bundestag.de/suche/R004255/67906"
-    ]
-  },
-  {
-    "id": "elbit-de-ulm-heidenheimer",
-    "companyId": "elbit-de",
-    "lat": 48.404,
-    "lng": 10.0,
-    "siteName": "Standort Ulm (Heidenheimer Straße 55)",
-    "address": "Heidenheimer Straße 55, 89075 Ulm",
-    "city": "Ulm",
-    "state": "Baden-Württemberg",
-    "country": "DE",
-    "description": "Zweiter Standort in Ulm für Administration, Projektmanagement und Produktmanagement zur Unterstützung des Hauptsitzes. Im ISO-9001-Zertifikat als eigenständiger Standort aufgeführt.",
-    "sources": [
-      "https://elbitsystems-de.com/wp-content/uploads/Zertifikat-ISO-9001_2015-1.pdf"
-    ]
-  },
-  {
-    "id": "elbit-de-neu-ulm",
-    "companyId": "elbit-de",
-    "lat": 48.3833,
-    "lng": 10.0,
-    "siteName": "Logistikstandort Neu-Ulm (Finninger Straße 56)",
-    "address": "Finninger Straße 56, 89231 Neu-Ulm",
-    "city": "Neu-Ulm",
-    "state": "Bayern",
-    "country": "DE",
-    "description": "Logistikstandort von Elbit Systems Deutschland in Neu-Ulm. Hier werden Wareneingang und -ausgang, Lagerhaltung und interne Logistik zur Unterstützung des Hauptsitzes in Ulm abgewickelt. Im ISO-9001-Zertifikat als eigenständiger Standort aufgeführt.",
-    "sources": [
-      "https://elbitsystems-de.com/wp-content/uploads/Zertifikat-ISO-9001_2015-1.pdf"
-    ]
-  },
-  {
-    "id": "elbit-de-berlin",
-    "companyId": "elbit-de",
-    "lat": 52.52,
-    "lng": 13.405,
-    "siteName": "Hauptstadtrepräsentanz Berlin",
-    "address": "Berlin",
-    "city": "Berlin",
-    "state": "Berlin",
-    "country": "DE",
-    "description": "Hauptstadtrepräsentanz von Elbit Systems Deutschland in Berlin. Das Büro dient als Schnittstelle zur Politik, zum Bundestag, zu den Bundesministerien und zur Bundeswehr. Hier werden Verteidigungs- und Regierungsbeziehungen gepflegt. Die Kontakt-E-Mail lautet public.affairs@elbitsystems-de.com. Dr. Marcus Faber, ehemaliges Mitglied des Bundestages, ist seit November 2025 als Vizepräsident für politische Angelegenheiten am Standort Berlin tätig.",
-    "sources": [
-      "https://www.lobbyregister.bundestag.de/suche/R004255/67906",
-      "https://en.globes.co.il/en/article-israeli-defense-firms-expand-activity-in-europe-1001556724"
-    ]
-  },
-  {
-    "id": "elbit-de-koblenz",
-    "companyId": "elbit-de",
-    "lat": 50.3567,
-    "lng": 7.5942,
-    "siteName": "Büro Koblenz",
-    "address": "Koblenz",
-    "city": "Koblenz",
-    "state": "Rheinland-Pfalz",
-    "country": "DE",
-    "description": "Büro von Elbit Systems Deutschland in Koblenz für Verteidigungs- und Regierungsbeziehungen. Koblenz ist der Standort des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw), der zentralen Beschaffungsbehörde der Bundeswehr.",
-    "sources": [
-      "https://en.globes.co.il/en/article-israeli-defense-firms-expand-activity-in-europe-1001556724"
-    ]
-  },
-  {
-    "id": "elbit-de-norddeutschland",
-    "companyId": "elbit-de",
-    "lat": 54.0,
-    "lng": 9.0,
-    "siteName": "Marine-Kompetenzzentrum Norddeutschland",
-    "address": "Norddeutschland (genauer Standort nicht veröffentlicht)",
-    "state": "Schleswig-Holstein",
-    "country": "DE",
-    "description": "Vierter Standort von Elbit Systems Deutschland, eröffnet am 8. August 2025 in Anwesenheit der Bundestagsabgeordneten Anne Janssen. Der genaue Standortname wurde in der Elbit-Pressemitteilung nicht genannt, ist aber der Redaktion des Bundeswehr-Journals bekannt. Aufgabe des Büros ist die intensive und kontinuierliche Betreuung der Deutschen Marine in technischen und vertraglichen Belangen für seegehende Einheiten. Hier werden neue Arbeitsplätze für die ganzheitliche Betreuung der komplexen Systeme der Marine geschaffen.",
-    "products": [
-      "Marinekommunikationssysteme",
-      "Selbstschutzsysteme"
-    ],
-    "sources": [
-      "https://esut.de/2025/08/meldungen/62512/der-vierte-standort-elbit-systems-deutschland-ist-in-norddeutschland/",
-      "https://www.bundeswehr-journal.de/2025/elbit-systems-deutschland-mit-neuer-niederlassung-im-norden/"
     ]
   },
   {

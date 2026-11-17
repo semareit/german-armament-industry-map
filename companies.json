@@ -1135,7 +1135,52 @@
       "Zivilschutz- und Katastrophenschutzausstattung"
     ]
   },
-  "elbit": {
+  "eberspaecher-climate-control-systems-international": {
+    "name": "Eberspächer Climate Control Systems International GmbH",
+    "description": "Die Eberspächer Climate Control Systems International GmbH ist ein auf Thermomanagement und Klimatisierung spezialisierter Systementwickler und -hersteller mit Hauptsitz in Esslingen am Neckar (Baden-Württemberg). Das Unternehmen entwickelt, produziert und vertreibt Heizungs-, Lüftungs- und Klimaanlagen (HVAC) für Fahrzeuge aller Art, darunter Pkw, Nutzfahrzeuge, Off-Highway-Maschinen, Militärfahrzeuge und mobile Shelter. Ein besonderer Schwerpunkt liegt auf massgeschneiderten Klimatisierungslösungen für militärische und zivilschutzrelevante Anwendungen, einschließlich Umgebungskühlsystemen für mobile Shelter (Environmental Control Systems, ECS).",
+    "url": "https://www.eberspaecher-climate.com/",
+    "category": [
+      "Klimatisierung",
+      "Heizung",
+      "Thermomanagement",
+      "Fahrzeugsysteme",
+      "Verteidigung",
+      "Zivilschutz"],
+    "parents": ["eberspaecher-gruppe"],
+    "products": [
+      "Standheizungen und Zuheizer",
+      "Klimaanlagen und Klimakompressoren",
+      "HVAC-Systeme für Nutz- und Sonderfahrzeuge",
+      "Umgebungskühlsysteme (ECS) für militärische mobile Shelter",
+      "Kühlcontainer und transportable Kühlösungen",
+      "Heiz- und Klimageräte für Busse und Bahnen",
+      "Thermomanagement für Elektro- und Hybridfahrzeuge",
+      "Ausrüstung für Zivilschutz- und Katastrophenschutzfahrzeuge"
+    ]
+  },
+  "ecos-technology": {
+    "name": "ECOS Technology GmbH",
+    "description": "Die ECOS Technology GmbH ist ein deutscher Softwarehersteller, der sich auf IT-Sicherheitsprodukte und Industrial Cybersecurity spezialisiert hat. Das Unternehmen entwickelt, produziert und vertreibt Lösungen für hochsicheren Fernzugriff (Remote Access), PKI- und Key-Management für IT, OT und IoT sowie sichere Videokonferenzsysteme. Ein Alleinstellungsmerkmal sind die vom Bundesamt für Sicherheit in der Informationstechnik (BSI) zugelassenen Produkte für den Geheimhaltungsgrad VS-NfD, die auch auf privaten PCs genutzt werden können. Die ECOS Technology GmbH wurde 1999 gegründet und hat ihren Hauptsitz in Oppenheim (Rheinland-Pfalz). Zu den Kunden zählen Behörden und Unternehmen wie die BaFin, das Bundesministerium für Arbeit und Soziales, das Hessische Ministerium der Justiz, die Bayerische Landesbank, die HUK Coburg und der Flughafen Köln-Bonn.",
+    "url": "https://www.ecos.de/",
+    "category": [
+      "IT-Sicherheit",
+      "Cybersecurity",
+      "Software",
+      "Remote-Access",
+      "PKI",
+      "Verschlüsselung"],
+    "parents": [],
+    "products": [
+      "ECOS SecureBootStick® (BSI-zugelassen für VS-NfD)",
+      "ECOS TrustManagementAppliance® (PKI und Key Management für IT/OT/IoT)",
+      "ECOS Secure Conference Center (sichere Videokonferenzen)",
+      "Sichere Remote-Access-Lösungen für Behörden und Unternehmen",
+      "PKI-Lösungen für Maschinenidentitäten und IoT-Geräte",
+      "IT-Notfallvorsorge und Fernwartungslösungen",
+      "Hochsichere Arbeitsumgebungen für EU- und NATO-RESTRICTED"
+    ]
+  },
+  "elbit-systems-ltd": {
     "name": "Elbit Systems Ltd.",
     "description": "Elbit Systems ist ein israelischer Rüstungskonzern mit Sitz in Haifa. Das Unternehmen entwickelt und produziert Systeme in den Bereichen Luftfahrt, Land-, See- und Cybersicherheit und ist über die Tochter Elbit Systems Deutschland auch auf dem deutschen Markt aktiv.",
     "url": "https://elbitsystems.com/",
@@ -1144,23 +1189,111 @@
     "products": [],
     "updatedAt": "2026-09-20"
   },
-  "elbit-de": {
+  "elbit-systems-deutschland": {
     "name": "Elbit Systems Deutschland GmbH & Co. KG",
-    "description": "Elbit Systems Deutschland ist die deutsche Tochtergesellschaft des israelischen Rüstungskonzerns Elbit Systems Ltd. und ein führender Systementwickler, Produzent und Anbieter von militärischen Systemlösungen in den Bereichen Funkkommunikation, Führungssysteme, Elektronische Kampfführung, Aufklärung, Optronik, unbemannte Systeme und Cybersicherheit. Das Unternehmen mit Hauptsitz in Ulm beschäftigt mehrere hundert Mitarbeiter an mehreren deutschen Standorten. Ulm ist der Hauptstandort mit Produktion und Entwicklung und zugleich das Kompetenzzentrum für Hochfrequenz-Funk des gesamten Elbit-Konzerns. Weitere Standorte bestehen in Berlin (Hauptstadtrepräsentanz), Koblenz (Büro für Verteidigungs- und Regierungsbeziehungen) und seit August 2025 in Norddeutschland (Marine-Kompetenzzentrum). Elbit Systems Deutschland plant eine massive Expansion: Bis 2028 sollen über 1.000 Mitarbeiter eingestellt und bis zu acht Standorte in Deutschland eröffnet werden.",
+    "description": "Elbit Systems Deutschland ist die deutsche Tochtergesellschaft des israelischen Rüstungskonzerns Elbit Systems Ltd. und ein führender Systementwickler, Produzent und Anbieter von militärischen Systemlösungen in den Bereichen Funkkommunikation, Führungssysteme, Elektronische Kampfführung, Aufklärung, Optronik, unbemannte Systeme und Cybersicherheit. Ulm ist der Hauptstandort mit Produktion und Entwicklung und zugleich das Kompetenzzentrum für Hochfrequenz-Funk des gesamten Elbit-Konzerns. Die Gesellschaft ist Mitglied im Bundesverband der Deutschen Sicherheits- und Verteidigungsindustrie (BDSV), im BITKOM, im BDLI und weiteren Sicherheits- und Verteidigungsverbänden. Sie ist im Lobbyregister des Bundestages unter R004255 registriert (Ersteintrag: 20.04.2022).",
     "url": "https://elbitsystems-de.com/",
-    "category": ["Kommunikation", "Elektronik", "Optronik", "Cybersicherheit", "Unbemannte Systeme", "Marine"],
-    "parents": ["elbit"],
+    "category": [
+      "Verteidigung",
+      "Rüstungselektronik",
+      "Funkkommunikation",
+      "Sensorik",
+      "Elektronik",
+      "Optronik",
+      "Cybersicherheit",
+      "Unbemannte Systeme",
+      "Marine"],
+    "parents": ["elbit-systems-ltd"],
     "products": [
       "Funkkommunikation (Softwaredefiniertes Funkgerät)",
-      "Elektronische Kampfführung",
+      "Militärische Funkkommunikationssysteme",
+      "Elektrooptische Aufklärungssysteme",
+      "Elektronische Kampfführung (EW)",
       "Optronik und Nachtsichtgeräte",
-      "Unbemannte Systeme",
+      "Unbemannte Systeme (UAS) – u. a. THOR und Magni-X",
       "Cybersicherheit",
-      "Führungssysteme",
-      "SkyStriker Loitering-Munition",
-      "Marinekommunikations- und Selbstschutzsysteme"
+      "Führungssysteme (C4I)",
+      "Aktives Schutzsystem „Iron Fist“ für gepanzerte Fahrzeuge",
+      "Loitering Munition „SkyStriker“ (in Partnerschaft mit Diehl Defence)",
+      "Laserzielmarkierer „Rattler XR“",
+      "Laserkommunikationstechnologie für Verteidigungsanwendungen",
+      "Marinekommunikations- und Selbstschutzsysteme",
+      "Selbstschutzsysteme für Luftfahrzeuge"
     ],
     "updatedAt": "2026-09-20"
+  },
+  "elettronica-gmbh": {
+    "name": "Elettronica GmbH",
+    "description": "Die Elettronica GmbH ist die deutsche Tochtergesellschaft der italienischen ELT Group und ein mittelständisches Systemhaus für Elektronische Kampfführung (EW), elektromagnetische Spektrumoperationen (EMSO) sowie Test- und Evaluierungslösungen für Radar-, EW- und CNS-Systeme. Das Unternehmen wurde 1978 in Meckenheim bei Bonn gegründet und befähigt seit über 45 Jahren die Bundeswehr zur Elektronischen Kampfführung. Es ist im Handelsregister des Amtsgerichts Bonn unter HRB 10136 eingetragen. Geschäftsführer ist Dr. Marcello Mariucci. Die Telefonnummer lautet +49 2225 8806-0, die E-Mail-Adresse info@elettronica.de. Die Gesellschaft ist im Lobbyregister des Bundestages unter R005512 registriert (Ersteintrag: 05.12.2022). Sie ist Mitglied im BDSV, BDLI, Förderkreis Deutsches Heer, in der DWT, bei AFCEA Bonn und weiteren Sicherheits- und Verteidigungsverbänden. Die Elettronica GmbH ist EN9100-zertifiziert (seit 2015) und betreibt einen Produktionsstandort in Meckenheim sowie ein Repräsentanzbüro in Berlin.",
+    "url": "https://www.eltgroup.net/global-presence/deutschland/",
+    "category": [
+      "Verteidigung",
+      "Elektronische-kampffuehrung",
+      "Emso", "sensorik",
+      "Test-und-evaluierung",
+      "Öffentliche-sicherheit"],
+    "parents": ["elt-group"],
+    "products": [
+      "Bodengestützte ELINT-Systeme",
+      "Bodengestützte HF-Störsysteme (HF-Jammer)",
+      "Marine-Radar- und ECM-Systeme",
+      "Avionik-Selbstschutzsysteme (DAS, ESM)",
+      "Radarwarnempfänger (RWR) – u. a. ELT162/ELTI62",
+      "Elektronische Unterstützungsmaßnahmen (ESM) – ALR733-Familie",
+      "DIRCM-Systeme (ELT/577)",
+      "Counter-UAV-System ADRIAN",
+      "Integriertes Marine-EW-System ZEUS",
+      "ewTISS® – Software-defined EMSO-Simulations- und Modellierungsumgebung",
+      "Test- und Evaluierungslösungen für Radar/EW/CNS",
+      "Mobile Videoüberwachungs- und C2-Systeme für die öffentliche Sicherheit",
+      "Verdeckte Video- und Akustiküberwachung für Strafverfolgungsbehörden"
+    ]
+  },
+  "entrak-gmbh": {
+    "name": "ENTRAK GmbH",
+    "description": "Die ENTRAK GmbH ist ein mittelständisches Unternehmen der Luft- und Raumfahrt- sowie Wehrtechnik mit Sitz in Wendelstein bei Nürnberg (Bayern). Das Unternehmen wurde 2009 gegründet und ist auf Kundenberatung, Projektierung, Entwicklung, Fertigung sowie Vertrieb und Service von Bordnetzgeräten für Luft- und Sonderfahrzeuge sowie ähnlichen Produkten auf dem Gebiet der Energie- und Antriebstechnik spezialisiert. Der Tätigkeitsschwerpunkt liegt in den Bereichen Defence & Space, einschließlich der Produktion und Instandsetzung von Komponenten. Die Gesellschaft ist im Handelsregister des Amtsgerichts Nürnberg unter HRB 31710 eingetragen. Geschäftsführer ist Christoph Speith. Die Telefonnummer lautet +49 9129 4035-0, die E-Mail-Adresse info@entrak.de. Die ENTRAK GmbH ist im Lobbyregister des Bundestages unter R005727 registriert (Ersteintrag: 20.02.2023) und Mitglied im Bundesverband der Deutschen Luft- und Raumfahrtindustrie (BDLI) sowie im Bundesverband der Deutschen Sicherheits- und Verteidigungsindustrie (BDSV). Sie ist nach DEKRA zertifiziert (Zertifizierungsstruktur: Single Site).",
+    "url": "https://www.entrak.de/",
+    "category": [
+      "Verteidigung",
+      "Luftfahrt",
+      "Raumfahrt",
+      "Bordnetzgeräte",
+      "Energietechnik",
+      "Antriebstechnik",
+      "Instandsetzung"],
+    "parents": [],
+    "products": [
+      "Bordnetzgeräte für Luft- und Sonderfahrzeuge",
+      "Komponenten für Defence & Space",
+      "Energie- und Antriebstechnik",
+      "Projektierung und Entwicklung",
+      "Fertigung und Instandsetzung",
+      "Kundenberatung und Service"
+    ]
+  },
+  "esbit-compagnie": {
+    "name": "ESBIT Compagnie GmbH",
+    "description": "Die ESBIT Compagnie GmbH ist ein deutsches Familienunternehmen in dritter Generation mit Sitz in Hamburg, das sich auf die Herstellung und den Vertrieb von Outdoor-Equipment, Feldverpflegungsausrüstung und dual-use Logistiklösungen spezialisiert hat. Das Unternehmen wurde 1949 in Hamburg gegründet und ist weltweit als Erfinder der Trockenbrennstoff-Tablette und des Taschenkochers bekannt. Die Produkte werden in Verpflegungspaketen zahlreicher Streitkräfte und Hilfsorganisationen eingesetzt, darunter die Einmannpackung (EPa) der Bundeswehr. Das Sortiment umfasst Kocher, Trockenbrennstoff-Tabletten (Made in Germany), Sturmstreichhölzer, Wasserreinigungstabletten, Trink- und Isolierbehälter sowie Essgeschirr aus Edelstahl, hartanodisiertem Aluminium und Titan. Die ESBIT Compagnie GmbH ist Mitglied im Bundesverband der Deutschen Sicherheits- und Verteidigungsindustrie (BDSV) und exportiert in rund 25 Länder.",
+    "url": "https://esbit.de/",
+    "category": [
+      "Verteidigung",
+      "Outdoor",
+      "Feldverpflegung",
+      "Dual-use",
+      "Logistik",
+      "Camping"
+    ],
+    "parents": [],
+    "products": [
+      "Trockenbrennstoff-Tabletten (Hexamin)",
+      "Taschenkocher und Kochersysteme",
+      "Sturmstreichhölzer",
+      "Wasserreinigungstabletten",
+      "Trink- und Isolierbehälter (Thermosflaschen, Thermobehälter)",
+      "Essgeschirr aus Edelstahl, hartanodisiertem Aluminium und Titan",
+      "Verpflegungsausrüstung für Streitkräfte und Hilfsorganisationen (u. a. EPa-Komponenten)",
+      "Outdoor-Equipment für den zivilen Markt"
+    ]
   },
   "ffg": {
     "name": "Flensburger Fahrzeugbau-Gesellschaft mbH (FFG)",
